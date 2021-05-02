@@ -15,4 +15,4 @@ the most recent additions are closes to the `README.md` rendered content
 near the bottom. It remains to be seen what happens when there are 10s
 of thousands of zettels, but I'll deal with that when it comes up.
 
-[Zettelkasten]: 20210502004642
+[Zettelkasten]: /20210502004642
