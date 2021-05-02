@@ -1,7 +1,7 @@
-# The ZettelKasten Method, Niklas Luhmann
+# ZettelKasten on GitHub
 
 The ZettelKasten Method is attributed to
-[Luhmann](https://luhmann.surge.sh) who was a very prolific thinker and
+[Niklas Luhmann](https://luhmann.surge.sh) who was a very prolific thinker and
 writer. The concept is rather intuitive to someone with nothing more
 than paper and pen and wooden boxes. It's just a file system that gets
 out of your way and lets you think creatively, and then later organizing
@@ -42,3 +42,22 @@ do on paper.
   serves as the Zettelkasten "register" and pulls together all the
   references to Zettels, both locally and remotely in other Kasten
   repos.
+
+* External links out to other content should either be traditional web
+  URLs (which can be automatically validated), except when linking to
+  another GitHub ZK repo.
+
+*  When linking to another GitHub Zettelkasten on GitHub (or potentially
+   other hosting providers that support it) always link to the root,
+   never to the specific zettel ID (for example
+   <https://github.com/rwxrob/zet>). This allows things to move and
+   change as they are supposed to do during Zettelkasten content review.
+   (Imagine symlinking or hyperlinking to content you never knew would
+   be there later.)
+
+* To get more precision in your outbound links to other ZK repos, you
+  can link directly to a search for specific keywords in that
+  Zettelkasten repo (for example
+  <https://github.com/rwxrob/zet/search?luhmann>). This is more valuable
+  to the user of your content anyway because it includes content that
+  may be added after you would have made the initial link.
