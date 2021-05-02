@@ -25,5 +25,5 @@ GitHub. After all, GitHub is just too big to fail and they can never
 block search functionality like this to their end users (even if they do
 turn evil one day and charge for us to host or mirror there).
 
-[search just my logs]: <https://github.com/rwxrob/logs/search?q=zettelkasten>
+[search just my logs]: <https://github.com/rwxrob/log/search?q=zettelkasten>
 [all my zets]: <https://github.com/rwxrob/zet/search?q=zettelkasten>
