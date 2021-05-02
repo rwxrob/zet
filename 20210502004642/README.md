@@ -1,4 +1,4 @@
-# The ZettelKasten Method
+# The ZettelKasten Method, Niklas Luhmann
 
 The ZettelKasten Method is attributed to
 [Luhmann](https://luhmann.surge.sh) who was a very prolific thinker and
