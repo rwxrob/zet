@@ -58,6 +58,6 @@ do on paper.
 * To get more precision in your outbound links to other ZK repos, you
   can link directly to a search for specific keywords in that
   Zettelkasten repo (for example
-  <https://github.com/rwxrob/zet/search?luhmann>). This is more valuable
+  <https://github.com/rwxrob/zet/search?q=luhmann>). This is more valuable
   to the user of your content anyway because it includes content that
   may be added after you would have made the initial link.
