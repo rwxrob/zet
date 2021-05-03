@@ -10,7 +10,7 @@ reason people want you to learn what *they* want you to learn. There's a
 reason asking *why* in most places will get you shunned or derided.
 Understanding the reason is, perhaps, the first step in taking back
 control of your own learning. You need permission to learn what you want
-to learn.
+to learn. Learn in spite of the system, not because of it.
 
 [Paulo Freire]: /20210503041132
 
