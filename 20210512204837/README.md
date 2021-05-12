@@ -16,3 +16,7 @@ I HAVE A CODD THAT WILL RUN ANYWHERE! MUAHAHAHAHAHA!
 
 As @psypheric1 says, "OS Independence ... open seas and smooth sailing
 with CODD".
+
+Oh, how about this one:
+
+COWDD - Container Oriented Workspace Development Desktop
