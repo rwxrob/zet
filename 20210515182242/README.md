@@ -47,4 +47,5 @@ Thing|How to Say It
 `UI`|u-i
 `UEFI`|u-e-f-i
 `USB`|u-s-b
+`ricing`|means to make a terminal or rig or desktop look cool
 
