@@ -24,5 +24,5 @@ All the other solutions for getting the latest are quirky in some way.
 The PPA approach is downright insecure (and `apt` even warns about
 that).
 
-[GitHub repo]: <https://github.com/golang-go/go>
+[GitHub repo]: <https://github.com/golang/go>
 [workspace container]: <https://github.com/rwxrob/workspace>
