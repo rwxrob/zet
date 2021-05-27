@@ -1,17 +1,22 @@
 # NeoVim is Shit and Ruining New Developers
 
 NeoVim, which uses the `nvim` command, is unfortunately a popular
-replacement to Vim. It provides no additional value for most users and
-can actually harm your Vi/m learning progress.
+replacement to Vim. This is bad. It is ruining beginning developers
+while providing no additional value for most users because they jump in
+and learn everything the NeoVim way rather than progressively adding to
+their `vi` and `vim` learning. In other words, `vi` -> `vim` -> `neovim`
+would be a reasonable learning path, but beginners don't do that and the
+NeoVim team actively recruits people to their cause without any
+consideration for the important of a progressive learning approach.
+
+> My disappointment about NeoVim is not personal. Good people (some very
+> close to me) use and advocate for NeoVim, and I actively campaign
+> against it. (But hey, it's the same for crypto-currency as well.)
 
 NeoVim's most significant failure is not technical at all. The NeoVim
 design team has demonstrated a complete lack of understanding of Vi's
 core value proposition as well as a total disregard for the fundamental
 Unix philosophy. The bloated, buggy result is `nvim`. 
-
-:::co-fun
-But hey, at least you can make NodeJS plugins for it.
-:::
 
 Here are the advantages people usually present when asked why anyone
 should consider using NeoVim and include an explanation about why they
@@ -22,10 +27,12 @@ NeoVim project itself.](https://neovim.io/doc/user/vim_diff.html)
 
 NeoVim looks in `$XDG_CONFIG_HOME` for its configuration files which
 means that it follows the `~/.config/...` location convention that is
-now the Linux standard.
+now the Linux standard. I love this! I love their concern for this
+standard.
 
-You don't care though because you *already* are maintaining your Vim
-configuration in a dotfiles repo and providing symbolic links.
+Unfortunately, after more than two decades, no one cares because you
+*already* are maintaining your Vim configuration in a dotfiles repo and
+providing symbolic links.
 
 Besides, moving the configuration file is downright stupid given the
 decades of precedent with `~/.vimrc`. The main reason you picked Vim in
@@ -49,19 +56,18 @@ professionally. Again, a symptom of Emacs-envy.
 
 ## "Multiple API and Plugin Support"
 
-Vim has this as well but you should never use it, that is, unless you
-want to make Vim into VSCode or Emacs or Sublime. Seriously folks, the
-entire emphasis of the NeoVim project and priorities demonstrates an
+Vim has this as well but you should almost never use it, that is, unless
+you want to make Vim into VSCode or Emacs or Sublime. Seriously folks,
+the entire emphasis of the NeoVim project and priorities demonstrates an
 utter cluelessness about the actual value proposition of picking Vim in
-the first place --- the biggest being *[full shell
-integration](/tools/editors/vi/how/magic/) for extensibility*, not
-supporting NodeJS plugins. NeoVim has made itself into a serious joke
-among those who know and use Vi/m as has been down for decades for all
-the right reasons.
+the first place --- the biggest being *full shell integration for
+extensibility*, not supporting Lua and NodeJS plugins. NeoVim has made
+itself into a serious joke among those who know and use Vi/m as has been
+down for decades for all the right reasons.
 
 Having a clearer internal API is a compelling reason to consider *any*
 project, but it doesn't hold any weight with the end user. Think about
-[Wayland vs X](https://duck.com/lite?kae=t&q=Wayland vs X), for example.
+[Wayland vs X](https://duck.com/lite?kae=t&q=Wayland%20vs%20X), for example.
 
 ## "Changed Features"
 
@@ -109,13 +115,6 @@ don't value shell integration which is the basis of all of Vim's
 [magical power](/tools/editors/vi/how/magic/).
 
 Come on, they didn't need to remove `:smile`?! That's just low.
-
-:::co-fun
-The laughter from the Vim team behind the scenes must be so hilariously
-loud given how ridiculously superior [Vim
-8.2](https://duck.com/lite?kae=t&q=Vim 8.2) is to *any* NeoVim
-script-kiddy release.
-:::
 
 ## "More Accessible Team"
 
@@ -173,8 +172,6 @@ serious departure from that philosophy and will continue to remain
 unstable and buggy because of it. It really is a shame that the NeoVim
 development team simply cannot see that.
 
-:::co-faq
-
 ## Dude, why so harsh on NeoVim?
 
 This review started out much more objectively. But as each point of
@@ -188,17 +185,15 @@ their feelings hurt trying to get their stupid, bloated ideas accepted
 into the Vim project so they started their own while waving their pretty
 logo and chanting "We're more open. We're more open." 
 
-Fact is. The clueless cult of over-engineering bloat makers [never knew
-how to use Vi in the first place](/tools/editors/vi/how/magic/). Just
-ask them what `!!` does from command mode in Vim. Most can't even tell
-you. Their too busy dreaming up more ways to overcome their Emacs-envy.
-They don't know Vi and frankly don't even understand Unix.
+Fact is. The clueless cult of over-engineering bloat makers never knew
+how to use Vi in the first place. Just ask them what `:!!` does from
+command mode in Vim. Most can't even tell you. Their too busy dreaming
+up more ways to overcome their Emacs-envy. They don't know `vi` and
+frankly don't even understand Unix philosophy.
 
 But hey, don't take all of this *too* seriously. As human beings every
 one of us deserves respect even if our ideas are ridiculously stupid and
 uninformed. Attack ideas, not people.
-
-:::
 
 ## See Also
 
