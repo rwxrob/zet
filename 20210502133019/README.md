@@ -174,11 +174,20 @@ development team simply cannot see that.
 
 ## Dude, why so harsh on NeoVim?
 
+In short, NeoVim is creating a bunch of very dangerous, and in some
+cases, unemployable beginners who have burned NeoVim practices into
+their brains and muscle memory. That's irresponsible and it pisses me
+off.
+
 This review started out much more objectively. But as each point of
 difference stated by the team itself was examined, the level of
 hilarious collective cluelessness exceeded most authors' ability not to
 completely roast it. There is simply nothing good to say about NeoVim at
-all. It really is just that bad. 
+all. It really is just that bad. The world is worse off for it existing.
+All it does is confuse beginners who later regret it.
+
+Perhaps if they had made another editor and gave it another name that
+would have been better. Rumor has it they might actually be doing that.
 
 Put comically, the NeoVim projects seems like a bunch of people got
 their feelings hurt trying to get their stupid, bloated ideas accepted
@@ -186,14 +195,11 @@ into the Vim project so they started their own while waving their pretty
 logo and chanting "We're more open. We're more open." 
 
 Fact is. The clueless cult of over-engineering bloat makers never knew
-how to use Vi in the first place. Just ask them what `:!!` does from
-command mode in Vim. Most can't even tell you. Their too busy dreaming
-up more ways to overcome their Emacs-envy. They don't know `vi` and
-frankly don't even understand Unix philosophy.
-
-But hey, don't take all of this *too* seriously. As human beings every
-one of us deserves respect even if our ideas are ridiculously stupid and
-uninformed. Attack ideas, not people.
+how to use Vi in the first place. Just ask them what `:!!` does and how
+many times they use it throughout the day. Most can't even tell you.
+Their too busy dreaming up more ways to overcome their Emacs-envy and
+making a terminal version of VSCode with a bad name. They don't know
+`vi` and frankly don't understand Unix philosophy and never did.
 
 ## See Also
 
