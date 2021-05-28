@@ -178,16 +178,44 @@ serious departure from that philosophy and will continue to remain
 unstable and buggy because of it. It really is a shame that the NeoVim
 development team simply cannot see that.
 
+## NeoVim Has to Prove It is Needed
+
+I'm tired of being immediately attacked for not using the editor that
+comes by default on millions (if not billions) of UNIX and Linux
+systems. People who don't know better (who are usually avid oh-my-zsh
+fans, despite the zsh team's active campaign against it) seem to think I
+have to justify *to them* why I am *not* using it. 
+
+Here's the thing, the burden of proof is on them. *They* have to justify
+to *me* why I should use their immature crap that hasn't even got a 1.0
+release out yet nor an official package for Ubuntu or Debian (still at
+0.4.4 as of this writing).
+
+Seriously, how the fuck do you have the gall to try and tell me that I'm
+wrong because I'm not using and advocating your shitty alpha software
+for my daily professional work instead of the production `vi` and `vim`
+that comes with not just my system, but millions of others.
+
+That level of clueless arrogance is only possible from a group of people
+that thought rewriting `vi` in Lua was actually a good idea worth
+pursuing. They are certainly entitled to it. That's the beauty of open
+source. But I'm also free to think that is the dumbest shit to come out
+of open source in a decade.
+
 ## Dude, why so harsh on NeoVim?
 
 In short, NeoVim is creating a bunch of very dangerous --- and in some
 cases --- unemployable beginners who have burned NeoVim practices into
 their brains and muscle memory. That's irresponsible and it pisses me
-off. The first thing any responsible NeoVim user or advocate should say
+off. 
+
+The first thing any responsible NeoVim user or advocate should say
 to any beginner is, "Do NOT learn NeoVim until you have mastered `vi`
 and then `vim` first" but obviously they never do that. Instead, they
 blindly seek to corrupt an entire generation of new terminal users
-mistaking this thing for Vim. It's just not.
+causing them to mistake this horrible alpha software --- that's
+internally closer to Roblox than Linux --- as a thing they call Vim.
+It's just not.
 
 This review started out much more objectively. But as each point of
 difference stated by the team itself was examined, the level of
