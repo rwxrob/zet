@@ -11,7 +11,8 @@ consideration for the important of a progressive learning approach.
 
 > My disappointment about NeoVim is not personal. Good people (some very
 > close to me) use and advocate for NeoVim, and I actively campaign
-> against it. (But hey, it's the same for crypto-currency as well.)
+> against it. I fucking hate it. (But hey, it's the same for
+> crypto-currency as well.)
 
 NeoVim's most significant failure is not technical at all. The NeoVim
 design team has demonstrated a complete lack of understanding of Vi's
@@ -103,16 +104,20 @@ instead) is just plain clueless and downright stupid.
 NeoVim *removed* several core tools used regular by Vim users for
 seriously important use cases:
 
-* `ex`
-* `view`
-* `vimdiff`
-* `:shell`
+* `ex` - binary not installed (vim does)
+* `:ex` - not accessible from vim command line
+* `view` - cannot run `vi` in read-only mode
+* `vimdiff` - cannot compare files (big secops thing)
+* `:shell` - no subshell from vim command line
+* `:smile` - that's just low (soooo much bloat there)
 
 Again, incredibly inexperienced decisions from people who *never
 actually learned to use Vim* for anything significant in the first
 place. The fact that they removed `:shell` completely confirms they
 don't value shell integration which is the basis of all of Vim's
-[magical power](/tools/editors/vi/how/magic/).
+[magical power](/tools/editors/vi/how/magic/). The fact that they
+removed `vimdiff` shows none of them have ever worked on any
+cybersecurity project of any significance.
 
 Come on, they didn't need to remove `:smile`?! That's just low.
 
@@ -121,7 +126,8 @@ Come on, they didn't need to remove `:smile`?! That's just low.
 Yeah, just no. No one should believe that for a second. If anything, the
 Vim team is simply more capable and discerning than the NeoVim team and
 by the looks of the NeoVim project priorities this seems to be
-objectively true.
+objectively true. Brahm's only good thing to say about NeoVim is that
+"they have a nice web site".
 
 ## "External Plugins in Separate Process"
 
@@ -148,15 +154,15 @@ knows how to use Vi/m and gives NeoVim's list of differences a solid
 review will realize NeoVim is absolutely no competition at all. Vim is
 installed on literally millions of Linux systems dating back more than
 three decades. NeoVim *might* be installed on maybe 10,000 systems tops.
-There is *zero* competition.
+There is *zero* competition. NeoVim does not even have a 1.0 release
+yet.
 
 ## "It Has Panes"
 
 So does Vim, but you should never use them unless you are forced. They
-are an unnecessary and useless [Vimism](/tools/editors/vim/vimisms/)
-that are better replaced with learning to use TMUX panes or even
-`screen` windows instead since they work for *any* application not just
-Vim.
+are an unnecessary and useless Vimisms that are better replaced with
+learning to use TMUX panes or even `screen` windows instead since they
+work for *any* application not just Vim.
 
 ## Bugs? Stability?
 
@@ -165,7 +171,7 @@ issues. That is no surprise at all given the massive, unnecessary
 scope-creep the NeoVim project team has *deliberately* chosen to
 maintain. 
 
-Any serious professional understand the importance of the Unix
+Any serious professional understands the importance of the Unix
 philosophy of doing one thing well and making sure it integrates with
 everything else. NeoVim --- with all its unnecessary bloat --- is a
 serious departure from that philosophy and will continue to remain
@@ -174,17 +180,23 @@ development team simply cannot see that.
 
 ## Dude, why so harsh on NeoVim?
 
-In short, NeoVim is creating a bunch of very dangerous, and in some
-cases, unemployable beginners who have burned NeoVim practices into
+In short, NeoVim is creating a bunch of very dangerous --- and in some
+cases --- unemployable beginners who have burned NeoVim practices into
 their brains and muscle memory. That's irresponsible and it pisses me
-off.
+off. The first thing any responsible NeoVim user or advocate should say
+to any beginner is, "Do NOT learn NeoVim until you have mastered `vi`
+and then `vim` first" but obviously they never do that. Instead, they
+blindly seek to corrupt an entire generation of new terminal users
+mistaking this thing for Vim. It's just not.
 
 This review started out much more objectively. But as each point of
 difference stated by the team itself was examined, the level of
-hilarious collective cluelessness exceeded most authors' ability not to
-completely roast it. There is simply nothing good to say about NeoVim at
-all. It really is just that bad. The world is worse off for it existing.
-All it does is confuse beginners who later regret it.
+hilarious collective cluelessness exceeded my ability not to completely
+roast it. There is simply nothing good to say about NeoVim at all. It
+really is just that bad. The world is worse off for it existing. All it
+does is confuse beginners who later regret it. The world does not now,
+nor ever has needed, yet another dozen ways to write NeoVim plugins. It
+is the *wrong* direction.
 
 Perhaps if they had made another editor and gave it another name that
 would have been better. Rumor has it they might actually be doing that.
