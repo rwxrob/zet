@@ -1,4 +1,4 @@
-# How Fucking Stupid Does NeoVim Removing `view`
+# How Fucking Stupid is NeoVim Removing `view`
 
 NeoVim has been a frequently point of "conversation" this last week and
 I just had a critical need to open a bunch of test files that I wanted
