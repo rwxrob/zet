@@ -9,49 +9,66 @@ stream) said, "It's obviously both." I tend to agree.
 `#container` channel or at <https://twitch.tv/rwxrob>*
 
 Some people who are responsible for large scale deployments in their
-organizations are discussing doing everything the "old" way but the
+organizations are discussing doing everything the "old" way but with
 virtual machines in their clouds rather than Kubernetes. 
 
 There's no doubt that Kubernetes is about as complex as understanding an
 entire operating system --- particularly when you include all the "third
 party" stuff that is akin to device drivers in the Linux kernel world
-(very roughly metaphorically speaking). "Kubernetes is the new OS," one
+(very roughly metaphorically speaking). "Kubernetes is the new OS" one
 blog proclaimed in 2020. Perhaps that comparison is more apt than some
 would notice on the surface.
 
-Part of the debate hinges on alternative approaches at a higher level,
-some don't even like containers, they are all about Virtual Machines
-instead. Their IT designs are based on providing essentially a Digital
-Ocean to their people and let them do what they want with the systems.
+Part of the debate hinges on alternative approaches at a higher level.
+Some don't like containers. These people are all about Virtual Machines.
+Their IT designs are based on providing essentially a Digital Ocean to
+their people and letting them do whatever they want with the systems.
 These people push for `ssh` connections into virtual machines and all
 the other stuff falls into traditional IT management. This means there
-has to be a patching strategy, etc. This is definitely less complex.
-There is no logical central system into which everything must go, just a
-bunch of virtual systems with an interface of some kind that manages
-them externally.
+has to be a patching strategy, etc. This is definitely less complex, at
+first. But as soon as someone decides to run their own Kubernetes on one
+of those hosts you have a problem, now you have four of them, all
+managed by different groups. You gave up control for a reason, but now
+you might be regretting it. There is no logical central system into
+which everything must go, no centralized IT policies that can actually
+be enforced, just a bunch of virtual systems with an interface of some
+kind that manages them externally. This is the type of architecture for
+which I created a number of audit compliance checking tools for IBM
+Global Services, to audit all these systems and report them so IT
+managers could fight with them about their lack of "compliance."
 
-Others would like container do the same thing as virtual machines
+Others would like containers do the same thing as virtual machines
 (essentially) but host them in more flat systems that don't attempt to
-manage (some say "orchestrate") them in any way. Where I work this is
-where the largest percentage of computing power is allocated. It
-provides the flexibility of containers (which manage updates much better
-than virtual machines) without the centralization dependency and
-head-ache of an "orchestrator". 
+manage (some say "orchestrate") them in any way. Where I currently work
+this is where the largest percentage of computing power is allocated
+(and it is a lot, fifth largest HPC in the world, unofficially since not
+reported). This provides the federated flexibility (which
+manage updates much better than virtual machines) without the
+centralization dependency and head-ache of an "orchestrator". It still
+leaves a lot of policy problems though. What is to stop people from
+firing up essentially a full 80GiB container (the size of Domino), or
+two dozen of them all doing essentially the same thing but existing
+mostly because of company politics and internal competition.
 
 Then, of course, you have Kubernetes and its ilk. They force everything
-to be a container and logically contained within a large composite
-monolith, one system to rule them all, the "master control program" of our
-time. In fact, they main containers are stored in the "control plane"
-where everything that matters dominates the kingdom of federated
-containers that it wills into life and death based on its interpretation
-of its human overlords "policy" desires. Some call it "orchestration"
-but it is really "tyrannical control". In fact, the original name of
-Kubernetes is *still* BORG at Google (who recently announced moving off
-of BORG and onto Kubernetes in order to avoid "maintaining two code
-bases"). No wonder people who love control and to chase the unicorns
-(\**cough*\* IT business people / pointy-haired bosses) think Kubernetes is
-so great. And don't misunderstand, it *is* great, but it has definite
-drawbacks.
+to be a container and logically contain within themselves a large composite
+monolith, one system to rule them all, the "master control program" of
+our time. In fact, Kubernetes as a "control plane" where everything
+that rules the kingdom of federated containers has a cushy palace. Here
+these rulers will into life and death the container subjects. They
+interpret the policy law of the land provided by their human overlords.
+Some call this "orchestration" but it is really "tyrannical control". In
+fact, the original name of Kubernetes is *still* BORG at Google (who
+recently announced moving off of BORG and onto Kubernetes in order to
+avoid "maintaining two code bases"). No wonder people who love control
+and to chase the unicorns (\**cough*\* IT business people /
+pointy-haired bosses) think Kubernetes is so great. And don't
+misunderstand, it *is* great, but it has definite drawbacks. All that
+control means you can *usually* manage things more easily (like that
+part of Civ when you play a tyrant and things to be going very
+well indeed, so efficiently). But a lot of this control is an illusion,
+and centralization can come with a very high price in loss of security.
+More on that later.
 
 As I continue to learn everything there is to know about k8s, I sincerely
 feel like I'm learning all the inner workings of a rather strange OS
