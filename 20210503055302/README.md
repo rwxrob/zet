@@ -4,7 +4,7 @@ Recipes and such for Git source management system.
 
 ## Mandatory Git Reading
 
-* `man gitutorial`
+* `man gittutorial`
 * `man giteverday`
 * `man git`
 * `man gitcli`
