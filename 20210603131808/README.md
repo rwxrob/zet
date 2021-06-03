@@ -109,7 +109,8 @@ higher *actual* goal --- the immediate need --- not some anticipated,
 maybe-could-one-day-need thing then I say, "fuck it." I don't care how
 "mainstream" or "dominant" or "industry standard" it becomes. (We all
 know that means nothing in the tech industry when something truly better
-comes along. Remember Netscape? Didn't think so.) One way or another
-Imma found out. I'll let you know.
+comes along. Remember Netscape? Didn't think so.) 
 
-What's an 'Ingress' again?
+One way or another Imma find out and let you know.
+
+Now, what's an 'Ingress' again?
