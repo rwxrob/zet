@@ -55,7 +55,7 @@ Commander. No rational human being wants to see this when they look for help
 documentation?
 
 This is why the entire IT industry needs to stop thinking of command lines as
-places to add yet another "option" and start treating them like the grammars
+places to add year another "option" and start treating them like the grammars
 they are. This is the definition of *domain specific language* so why not treat
 it as such. And one of the core tenets of any grammar and language is the
 ability to provide context as you communicate. Each phrase is built on the next
