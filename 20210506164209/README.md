@@ -9,5 +9,5 @@ about changing the world, more. Aaron is one of those few for whom the
 trite phrase "too good for this world" really applies. I hope everyone
 will watch [The Internet's Own Boy][aaron] to understand why.
 
-[aaron]: <https://www.youtube.com/c/rwxrob/search?query=aaron>
+[aaron]: <https://www.youtube.com/watch?v=9vz06QO3UkQ>
 
