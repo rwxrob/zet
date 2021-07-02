@@ -127,7 +127,7 @@ error], but who knows, it could have been the forced Windows upgrade
 that happened at the same time, which happened during some critical PD
 work, by the way.
 
-[fatal error]: 20210702142020
+[fatal error]: /20210702142020
 
 ## Zero Trust to the Rescue
 
