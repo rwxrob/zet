@@ -1,5 +1,7 @@
 # What does `vic` do?
 
+📺 <https://youtu.be/_KwufzorZlI>
+
 It is the same as the following:
 
 ```
