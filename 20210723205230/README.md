@@ -2,7 +2,7 @@
 
 This is a play on words for "zettelkasten".
 
-* *zettle* means "slip"
+* *zettel* means "slip"
 * "kasten" means box
 * One big, long-running live stream
 * Record out <10 minute segments with accompanying text
