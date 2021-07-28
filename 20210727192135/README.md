@@ -1,5 +1,7 @@
 # Kubernetes Node Feature Discovery
 
+📺 <https://youtu.be/KD5fJZY5iaw>
+
 Just discovering discovery and sorta happy it exists. 
 
 1. Give visibility into the underlying node properties
