@@ -1,5 +1,7 @@
 # Please Vote for Notification Twitch API Addition
 
+📺 <https://youtu.be/TFt0g7f0ITA>
+
 Having the ability to lock the notification to the stream title would be
 ideal, but even being able to change the notification text from the API
 would save viewers from being misled by the notification when it gets
