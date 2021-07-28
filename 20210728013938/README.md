@@ -1,5 +1,7 @@
 # My Window Manager is TMUX
 
+📺 <https://youtu.be/krXhsb1FSDU>
+
 1. Configuration centralized and portable in a single file
 1. You can put it on anything.
 1. Can be configured to behave like `screen`
