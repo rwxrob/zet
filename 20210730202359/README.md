@@ -1,4 +1,4 @@
-# Use Watch Instead of `-w` with Kubernetes
+# Use `watch` Instead of `-w` with Kubernetes
 
 Just use `watch` and forget `-w` exists (unless you *really* need to
 watch for only manifest changes). Here are the problems with `-w`:
