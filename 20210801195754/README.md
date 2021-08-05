@@ -9,3 +9,5 @@
 7. Not just a "necessary evil"
 8. Coding fast is not indicator of producing value
 
+<https://github.com/poteto/hiring-without-whiteboards>
+
