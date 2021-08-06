@@ -1,5 +1,7 @@
 # Q: What's your opinion on TDD?
 
+📺 <https://youtu.be/hNRJqA1dVQU>
+
 1. What are you even talking about?
 1. Stop removing the human from testing.
 1. I prefer usage drive design.
