@@ -1,6 +1,6 @@
 # My Window Manager is TMUX
 
-📺 <https://youtu.be/krXhsb1FSDU>
+📺 <https://youtu.be/lWmywr3GTAE>
 
 1. Configuration centralized and portable in a single file
 1. You can put it on anything.
