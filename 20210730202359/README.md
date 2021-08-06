@@ -1,5 +1,7 @@
 # Use `watch` Instead of `-w` with Kubernetes
 
+📺 <https://youtu.be/IeOJVNAY1Jw>
+
 Just use `watch` and forget `-w` exists (unless you *really* need to
 watch for only manifest changes). Here are the problems with `-w`:
 
