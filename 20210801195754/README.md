@@ -1,5 +1,7 @@
 # Avoid "Whiteboard" Interview Companies
 
+📺 <https://youtu.be/LqijNY_Ju30>
+
 1. Huge red flag about the company
 2. Lazy companies that don't want to properly evaluate
 3. Probably illegal
