@@ -1,5 +1,7 @@
 # Q: Should I do 2020 boost first or just 2021?
 
+📺 <https://youtu.be/9H-75G8s2Vs>
+
 You just found all these videos and don't know where to start and might
 be a little worried about missing something that was covered before.
 
