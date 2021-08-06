@@ -1,6 +1,6 @@
 # Kubernetes Node Feature Discovery
 
-📺 <https://youtu.be/KD5fJZY5iaw>
+📺 <https://youtu.be/Iw0HhmP4LEs>
 
 Just discovering discovery and sorta happy it exists. 
 
