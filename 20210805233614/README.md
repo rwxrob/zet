@@ -1,5 +1,7 @@
 # Q: Was there ever a time that you liked C++?
 
+📺 <https://youtu.be/2OHsAIjrgbY>
+
 I was obsessed with it when the STL first version came out in late 90s.
 I had learned C but decided C++ was really the cool thing to learn, when
 I got into it I really didn't like the entire idea of streams (which I
