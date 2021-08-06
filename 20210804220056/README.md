@@ -1,5 +1,7 @@
 # Know How Bash Regex and Patterns Differ
 
+📺 <https://youtu.be/4f-HpnYaUe8>
+
 Say you want to match a regular expression and get a capture a run of characters
 from it, but then you also want to replace characters in that same line.
 To do this entirely in Bash requires use of *both* a regular expression
