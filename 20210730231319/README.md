@@ -1,5 +1,7 @@
 # Looks Like Helm Added to 2021 CKAD
 
+📺 <https://youtu.be/3c0o_mwoZSQ>
+
 1. Which version 2 or 3?
 1. Just know this was not there and is not insignificant
 1. Learn Go templates!  
