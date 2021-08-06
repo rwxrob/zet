@@ -1,6 +1,6 @@
 # Q: When did you know you wanted to be a programmer?
 
-📺 <https://youtu.be/WDb1sQcwMqQ>
+📺 <https://youtu.be/Nf2_3dmGPeI>
 
 1. Learned to code BASIC on an Atari 400, D&D character gen
 1. Starting to write papers but hard time finding printers
