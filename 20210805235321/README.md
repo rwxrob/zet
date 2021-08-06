@@ -1,5 +1,7 @@
 # Q: What size Zettelkasten notebook do you prefer?
 
+📺 <https://youtu.be/mGvkbEBixQA>
+
 I use a 8.5" x 5.5" sketchbook with a spiral binding that I can clip a
 mechanical pencil to. I prefer to split it in half with a line and just
 use them however. I like cognitive restraints so that I keep to a single
