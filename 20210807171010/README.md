@@ -15,6 +15,8 @@ Here are the main ones (but they all need more work):
 ***`gh`*** - GitHub (Aliases)
 ***`auth`*** - Oauth (integrate `pass`)
 ***`config`*** - Local Configuration
+***`pomo`*** - Pomodoro Timer
+***`fishies`*** - Interactive Fish Animation
 
 Planned:
 
@@ -23,6 +25,7 @@ Planned:
 ***`slack`*** - Slack
 ***`bits`*** - Give Community Members Points
 ***`mim`*** - Daemon Acting on My Behalf
+***`marquee`*** - Manage and Animated Status Line
 
 Unrelated, but important:
 
@@ -37,3 +40,4 @@ I should probably create a `tv` command to rule them all and
 specifically put the following into it:
 
 `t`, `topic`, `topics`, `iam`, `away`, `quiet`, `talking`, `ranting`, `live`, `recording`
+
