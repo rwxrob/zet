@@ -17,6 +17,7 @@ Here are the main ones (but they all need more work):
 ***`config`*** - Local Configuration
 ***`pomo`*** - Pomodoro Timer
 ***`fishies`*** - Interactive Fish Animation
+***`urls`*** - Interactive Fish Animation
 
 Planned:
 
