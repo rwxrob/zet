@@ -13,3 +13,4 @@ This is a play on words for "zettelkasten".
 * Run a script to sync the descriptions
 
 https://luhmann.surge.sh
+
