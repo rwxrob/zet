@@ -1,4 +1,4 @@
-# Learn Using Real Tech, Not Simulations
+# Learn Using Real Tech, Not Emulations
 
 You do not know Kubernetes until you have installed it on your
 machine(s). Kind (or minikube if you insist) can get you started, but
