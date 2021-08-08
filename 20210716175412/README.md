@@ -7,3 +7,4 @@ cloud systems, perhaps even a NAS device (which every enterprise K8s
 cluster will usually use). Even though the certification exam requires a
 web browser emulating a terminal, you won't be using that in the field.
 Learn what you will be using professionally.
+
