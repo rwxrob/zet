@@ -10,3 +10,4 @@ Please vote for the following [API addition for live
 notifications][vote]:
 
 [vote]: <https://twitch.uservoice.com/forums/310213-developers/suggestions/39703660-live-notification>
+
