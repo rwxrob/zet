@@ -1,4 +1,4 @@
-# Which Single-Node Cluster to Learn On?
+# Which Kubernetes Single-Node Cluster to Learn On?
 
 * `minikube`
   * Virtual machine with Kubernetes inside
