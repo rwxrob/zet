@@ -11,4 +11,3 @@ behind this legacy of the object terminology.
 They are the same, but "resources" is more accurate (and just cooler,
 let's face it, who want to refer to an old Java influence, for
 anything). 
-
