@@ -1,9 +1,17 @@
-# GitHub Repo Naming Conventions
+# GitHub Repo Directory Naming Conventions
 
-*remember to start recording*
+Prefixes:
 
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
+* `template-<whatever>` for GitHub repos that can `gh repo clone ... -p <template>`
+* `cmd-<name>` commands that lives in the repo at top level (at to `PATH`)
+* `cmdbox-<name>` - Go `cmdbox` importable modules
+* `<name>-go` - Go modules
+
+Standard Names:
+
+* `<username>` - special profile repo
+* `<username>.github.io` - special GitHub pages repo
+* `zet` - main Zettelkasten notes repo
+* `dot` - personal configuration files and smaller scripts
+* `cv` - career stuff (not resume because it's everything)
 
