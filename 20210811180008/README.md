@@ -9,7 +9,7 @@ technology and political biases they don't even try to hide. The most
 embarrassing is their avid Rust fandom fetish. They never present actual
 adoption statistics and usage, but they will put absolute bullshit in
 their click-bait, juvenile, non-writing. They even have the balls to
-claim Rust has a chance in the Linus kernel despite the *actual*
+claim Rust has a chance in the Linux kernel despite the *actual*
 response from Linus Torvalds, which I'm sure their authors never even
 read (TL;DR and all).
 
