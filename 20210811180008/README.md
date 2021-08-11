@@ -36,7 +36,7 @@ their projects to respond to these Stack Exchange surveys?
 FUCK NO!
 
 If you think they do, you're a bigger fucking moron than Liam Tung, who
-actually chose do the most irresponsible thing a tech blogger can do,
+actually chose to do the most irresponsible thing a tech blogger can do,
 write hyperbole for money publicly (oh wait, that's the job description,
 never mind).
 
