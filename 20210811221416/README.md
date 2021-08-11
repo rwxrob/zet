@@ -1,5 +1,7 @@
 # Q: Why doesn't Decimal work with float in Python?
 
+📺 <https://youtu.be/gfLe4fI5VX0>
+
 ```python
 #!/usr/bin/env python3
 from decimal import *
