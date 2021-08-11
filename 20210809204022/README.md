@@ -1,5 +1,7 @@
 # Filter Unwanted Labels in Node Feature Discovery
 
+📺 <https://youtu.be/Plo9nuZFAfU>
+
 Kubernetes *Node Feature Discovery* gives you insight into what is on a
 given node so that you can more accurately map deployments to nodes that
 match what you need. This is particularly important when working with
