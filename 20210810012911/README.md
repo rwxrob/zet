@@ -1,6 +1,6 @@
 # Q: Do you have more than one Zettelkasten?
 
-📺 <https://youtu.be/some>
+📺 <https://youtu.be/VIRB4IBTqLc>
 
 I have three currently, one that is public, one that is private, and
 another one just for work (that is only available on work systems and
