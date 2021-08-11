@@ -21,7 +21,7 @@ world's leader of super popular bad information, Stack Exchange.
 Imagine, if you will, the type of person who stops their workday.
 
 "Hey, I think I'll respond to this complete waste of my time (and my
-employers money) to make sure the recently bought-out Stack Exchange
+employer's money) to make sure the recently bought-out Stack Exchange
 continues to provide critical scientific and statistical data to its
 readership." 
 
