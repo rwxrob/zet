@@ -28,15 +28,17 @@ readership."
 Now imagine the most senior developers you know across the field, you
 know, not just web developers, the people who *actually* matter keeping
 all the infrastructure running and building out the networks and systems
-all that shitty JavaScript runs on. Do you see, in your mind's eye, that
-these Gilfoyles are putting down their projects to respond to these
-Stack Exchange surveys?
+that all that shitty JavaScript runs on. 
+
+Do you see, in your mind's eye, that these Gilfoyles are putting down
+their projects to respond to these Stack Exchange surveys?
 
 FUCK NO!
 
 If you think they do, you're a bigger fucking moron than Liam Tung, who
 actually chose do the most irresponsible thing a tech blogger can do,
-write hyperbole for money publicly. 
+write hyperbole for money publicly (oh wait, that's the job description,
+never mind).
 
 Hey Liam, yeah you, idiot, why do you think C and Go and even Erlang and
 Haskell have almost no representation? Could it possibly be the sample
