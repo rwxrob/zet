@@ -79,4 +79,7 @@ do on paper.
   consumption. Composable, finite leaf knowledge nodes (our zettels) and
   search parameter optimization in the *user's* control are a much
   better alternative. I call this *search-centric knowledge
-  consumption*.
+  management* and it has become the default knowledge consumption and
+  creation method since the first Internet search engine was created.
+  Before that we all did it using the TOC and index of the book we were
+  reading, because it works.
