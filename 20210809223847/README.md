@@ -1,5 +1,7 @@
 # Q: What is a UNIX/Linux "filter" command?
 
+📺 <https://youtu.be/7asa2lTcwKI>
+
 A *filter* (in UNIX/Linux parlance) is a command that accepts standard
 input with the intent to transform or "filter" the incoming lines or
 buffer. Modular, composable, filters are the UNIX way, not plugins.
@@ -9,7 +11,6 @@ the UNIX philosophy.
 
 Filters are superior to other plugin approaches because they so easily
 attach together into pipelines.
-
 
 ```sh 
 #!/bin/sh
