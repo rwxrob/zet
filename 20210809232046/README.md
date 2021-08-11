@@ -1,5 +1,7 @@
 # Q: What are the chances of a Beginner Boost book?
 
+📺 <https://youtu.be/6d9YIIUr4Gk>
+
 Not good. Books get out of date far too quickly --- particularly tech
 books. I'm not satisfied with GitBook and the alternatives (which made
 really stupid base design decisions). 
