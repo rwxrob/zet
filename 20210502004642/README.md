@@ -29,31 +29,41 @@ do on paper.
   critically important to the cognitive value of this method.
 
 * Zettels may have a title on the first line beginning with `# ` and
-  followed by a blank line. Titles are not required, however, and should
-  not be over-thought (that is for later when adding to the register).
+  followed by a blank line. Titles (in my version) are required forcing
+  me to think carefully about what this specific zettel will be about.
 
-* Unlike the original method, I've allowed the optionally addition of other
-  content, notably a `data.yml` file with structured data in YAML or
-  JSON format (keep the `yml` suffix though). Generally, images and
+* Another zettel pseudo-standard I've adopted is to create a video link
+  (a zettel cast) on the third line which consists of the television
+  emoji, followed by a space, and then a full `http` URL wrapped in
+  angle brackets. Zettel casts are simply videos coving the content of
+  the written zettel, usually under 10 minutes long.
+
+* Unlike the original method, I've allowed the optional addition of other
+  content, notably a `data.yaml` file with structured data in YAML or
+  JSON format (keep the `yaml` suffix though). Generally, images and
   other assets should go into their own `asset` Zettelkasten (and repo)
   because they usually will be referenced by many other Zettels.
 
+* I also refrain from linking between zettels preferring instead to
+  encourage searching and creation of different outlines that
+  effectively compose several zettels together. I learned early on that
+  the same failure of hyperlinking as an unsustainable design approach
+  (inevitable broken links, for example) exists for the original zettel
+  approach. This is made worse by the fact that I create zettels
+  constantly and creating the links (although a valuable cognitive
+  practice when there is no computer involved) turns out to be a waste
+  of time. Perhaps this worked better for Luhmann who never destroyed a
+  zettel after adding it to the box, only updated it.
+
 * The main `README.md` file within the top-level of the Git repository
-  serves as the Zettelkasten "register" and pulls together all the
-  references to Zettels, both locally and remotely in other Kasten
-  repos.
+  serves as browsable entry point into the Zettelkasten linking to
+  different outlines (akin to Luhmann's register) that are generated
+  manually and automatically.
 
 * External links out to other content should either be traditional web
-  URLs (which can be automatically validated), except when linking to
-  another GitHub ZK repo.
-
-*  When linking to another GitHub Zettelkasten on GitHub (or potentially
-   other hosting providers that support it) always link to the root,
-   never to the specific zettel ID (for example
-   <https://github.com/rwxrob/zet>). This allows things to move and
-   change as they are supposed to do during Zettelkasten content review.
-   (Imagine symlinking or hyperlinking to content you never knew would
-   be there later.)
+  URLs (which can be automatically validated). Generally, however, all
+  links should be explicit such that after a Pandoc conversion to text
+  they remain useful (as YouTube video descriptions, for example).
 
 * To get more precision in your outbound links to other ZK repos, you
   can link directly to a search for specific keywords in that
@@ -61,3 +71,12 @@ do on paper.
   <https://github.com/rwxrob/zet/search?q=luhmann>). This is more valuable
   to the user of your content anyway because it includes content that
   may be added after you would have made the initial link.
+
+* Avoid linking to definitions of any kind since you never know the
+  audience. One reader might have to look up every other word, while
+  another would be bored and annoyed by all the hyperlinked text. In
+  generally, hyperlinking has always been an anti-pattern for knowledge
+  consumption. Composable, finite leaf knowledge nodes (our zettels) and
+  search parameter optimization in the *user's* control are a much
+  better alternative. I call this *search-centric knowledge
+  consumption*.
