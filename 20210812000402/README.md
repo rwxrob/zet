@@ -1,5 +1,7 @@
 # Read Interactive Input from User to `stderr`
 
+📺 <https://youtu.be/Q2fm7lzALO8>
+
 Often when looping over input (from `stdin`) you might want to prompt
 the user for input but you no longer can use `stdin` for that because it
 is in use. Consider the following (broken) example:
