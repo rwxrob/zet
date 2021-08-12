@@ -7,6 +7,14 @@ to give them a style, mood, theme, and meaning. This is far more
 sustainable than adding a new Markdown element (like some have done with
 `:::`).
 
+```markdown
+> 😄
+> I'm really happy to have discovered this little trick for keeping my
+> Markdown compatible with CommonMark while allowing some indication of
+> mood or reason for a call out inline with everything else. Others have
+> uses `:::` but obviously that is not needed.
+```
+
 > 😄
 > I'm really happy to have discovered this little trick for keeping my
 > Markdown compatible with CommonMark while allowing some indication of
