@@ -1,4 +1,4 @@
-# EzMark, Fastest to Write and Grok, 100% Compatible
+# EzMark, Simplified CommonMark + GFM Tables
 
 EzMark is CommonMark + GFM tables with the following constraints making
 it drop dead simple to learn and parse — even from shell scripts.
@@ -30,3 +30,7 @@ it drop dead simple to learn and parse — even from shell scripts.
 * No strikethrough allowed (unsupported by CommonMark)
 * Use `> ` for quoted blocks and wrap if you can
 * Use `> 😄` with emoji on single line to start EmojiBlocks
+
+Also consider:
+
+* [20210812154738](/20210812154738/) ZettelMark, Simplified, Semantic CommonMark
