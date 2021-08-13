@@ -59,7 +59,6 @@ easier to create, grok, and index:
 * Only one heading allowed (level-1 title, first line)
 * Title text must be 50 columns or less (same as Git)
 * Wrap *everything* but references block to 72 columns
-* No images allowed whatsoever (100% accessible, only text)
 * Substantial code, raw, and images should be in separate files
 * Remember, code blocks will be automatically clipped
 * No links anywhere but the final references list and video line
