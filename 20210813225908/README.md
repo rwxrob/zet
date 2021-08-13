@@ -10,6 +10,7 @@ for the following reasons:
 ***PSA: You do NOT need `sed` and `awk` and `tr` as much as you
 think!*** (Because even POSIX shell has parameter expansion.)
 
+* <https://www.grymoire.com/Unix/Sh.html>
 * <https://www.shellcheck.net>
 * <https://github.com/dylanaraps/pure-sh-bible>
 * <https://leanpub.com/bash/>
