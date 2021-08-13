@@ -1,4 +1,4 @@
-# MimWorks `mim` Umbrella for `zet`, `yt`, `twitch`, etc.
+# MimWorks `mim` Umbrella for `zet`, `yt`, etc.
 
 I've loved the name `mim` and `mim.works` and have several of the
 domains in my possession because I love it so much:
@@ -21,7 +21,21 @@ person's knowledge:
 
 This allows the (eventual) creation of a CmdBox monolith with all the
 composite pieces and plays better with users not looking to do massive
-updates to their bash scripting environment.
+updates to their bash scripting environment. So far I think the
+following utility modules would be good to support:
+
+* `zet` - personal zettelkasten management
+* `youtube` - YouTube API integration
+* `twitch` - Twitch API integration
+* `twitter` - Twitter API integration
+* `iam` - personal state changes and notifications
+* `work` - todo and personal task management
+* `find` - personal search engine
+* `follow` - follow other `mim` users or from `mim.sh` or `mim.directory`
+* `parse` - parse PEGN expressions and grammars
 
 By the way, this conclusion is one of the beneficial products of rapid
-applications development and informal initial user testing on oneself. 
+applications development and informal initial user testing on oneself.
+This is the kind of thing I can get working as a proof of concept in
+bash and then pitch to a community or sponsor as the basis for a Go
+monolith application.
