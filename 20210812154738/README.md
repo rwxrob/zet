@@ -1,4 +1,4 @@
-# ZettelMark: Simplified, Semantic CommonMark
+# ZettelMark: Simplified, Semantic CommonMark+Tables
 
 ZettelMark *is* CommonMark with the following additions and constraints.
 These constraints are specifically designed to provide cognitive
@@ -8,8 +8,8 @@ communicate one thing well, and make sure it can be composed nicely with
 others. This promotes compatibility with more limited text
 representations (such as YouTube descriptions and Go documentation) as
 well as simplify the requirements for any tooling to work with
-ZettelMark. Relatively powerful parsers and utilities can be
-created with simple bash scripts alone.
+ZettelMark. Relatively powerful parsers and utilities can be created
+with simple bash scripts alone.
 
 CommonMark is the most widely accepted standard for knowledge content,
 but further redundancy reductions are required to keep things as simple
@@ -29,14 +29,30 @@ as possible:
 * No space between opening fence token and keyword
 * Use initial angle bracket for every line of quoted block
 
-Note that CommonMark does not currently support tables. When and if it
-does, they will not be allowed in ZettelMark because of how inaccessible
-and difficult to parse they are. Use lists and formatting as an
-alternative.
+CommonMark does not allow tables, but GitHub does. Therefore, GFM tables
+are allowed in ZettelMark but with the following constraints to
+facilitate parsing:
 
-Additionally,  we need to add some semantics and constraints to the
-overall format and organization of a ZettelMark document to make the
-content easier to create, grok, and index:
+* Table block must begin with `|` (rest is fine to omit)
+
+|Name|Description|
+-|-
+Foo|The foo of it all
+Bar|The bar as well
+
+There are no plans to accept any other table format than what is
+supported by GitHub and (if and when added) eventually CommonMark.
+Sticking with this universal standards ensures the most sustainable
+content syntax.
+
+> ⚠️
+> Tables are very hard for some people to process. Often putting the
+> same information in a list, which could be read aloud without
+> misunderstanding might be a better choice.
+
+Additionally, some semantics and constraints to the overall format and
+organization of a ZettelMark document are needed to make the content
+easier to create, grok, and index:
 
 * Only one heading allowed (level-1 title, first line)
 * Title text must be 50 columns or less (same as Git)
@@ -51,3 +67,4 @@ content easier to create, grok, and index:
 * Optional tags line must be last line of file
 * All reference links must be explicit and visible
 * Block quotes must only contain paragraph and list blocks
+* Block quotes may begin with a semantic emoji line (`> ⚠️`)
