@@ -28,19 +28,19 @@ as possible:
 * Use four tildes for fenced when contains three tildes
 * No space between opening fence token and keyword
 * Use initial angle bracket for every line of quoted block
+* Never HTML allowed in any way
 
 CommonMark does not allow tables, but GitHub does. Therefore, GFM tables
 are allowed in ZettelMark but with the following constraints to
 facilitate parsing:
 
 * Table block must begin with `|` (rest is fine to omit)
+* If a block begins with `|` is *must* be a table.
 
-<center>
 |Name|Description|
 -|-
 Foo|The foo of it all
 Bar|The bar as well
-</center>
 
 There are no plans to accept any other table format than what is
 supported by GitHub and (if and when added) eventually CommonMark.
