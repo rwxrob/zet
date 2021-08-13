@@ -1,4 +1,4 @@
-# ZettelMark, Links and References List
+# ZettelMark: Links and References List
 
 While encouraging the reader to use a browser that will allow searching
 of *any* word that appears in a zettel, sometimes it remains a good idea
