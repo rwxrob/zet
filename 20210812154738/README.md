@@ -35,10 +35,12 @@ facilitate parsing:
 
 * Table block must begin with `|` (rest is fine to omit)
 
+<center>
 |Name|Description|
 -|-
 Foo|The foo of it all
 Bar|The bar as well
+</center>
 
 There are no plans to accept any other table format than what is
 supported by GitHub and (if and when added) eventually CommonMark.
