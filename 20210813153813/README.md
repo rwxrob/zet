@@ -1,4 +1,4 @@
-# ZettelMark, Tags Line
+# ZettelMark: Tags Line
 
 While tags were included in Luhmann's original zettelkasten, he did not
 depend on them heavily for all the reasons that tags are cautioned on
