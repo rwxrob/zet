@@ -1,4 +1,4 @@
-# ZettelMark, ZettelCast Video Link 
+# ZettelMark: ZettelCast Video Link 
 
 The ZettelCast link is different from other references. It is a critical
 part of the content and therefore requires higher visibility by adding
