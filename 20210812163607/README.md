@@ -9,6 +9,7 @@ it drop dead simple to learn and parse — even from shell scripts.
 * First level heading *must* be on first line
 * First level heading must only have a single space after `#`
 * Keep headings descending incrementally (not `##` -> `####`)
+* Use only ATX style headings (with `#`) not Setx (`foo\n---`)
 * Never indent (even though CommonMark allows "up to three spaces")
 * Use `*`,`**`,`***` only for italic, bold, bold italic
 * Use `1.` only for ordered lists
