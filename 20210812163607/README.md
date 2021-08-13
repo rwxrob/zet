@@ -1,4 +1,4 @@
-# EzMark, Simplified CommonMark + GFM Tables
+# EzMark: Simplified CommonMark + GFM Tables
 
 EzMark is CommonMark + GFM tables with the following constraints making
 it drop dead simple to learn and parse — even from shell scripts.
