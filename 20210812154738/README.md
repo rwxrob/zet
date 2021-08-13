@@ -1,4 +1,4 @@
-# ZettelMark, Simplified, Semantic CommonMark
+# ZettelMark: Simplified, Semantic CommonMark
 
 ZettelMark *is* CommonMark with the following additions and constraints.
 These constraints are specifically designed to provide cognitive
