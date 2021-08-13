@@ -7,3 +7,6 @@ Here's a list of Mr. Robot clips to add:
   It never happens all at once. It's slow. It's methodical. It's
   exhausting. We don't all have the stomach for it.
 
+* **1-5-14:09** I can run circles around an ICS given the proper
+  white-papers and time.
+
