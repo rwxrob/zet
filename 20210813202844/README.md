@@ -13,9 +13,10 @@ Here are the constraints on zettel figure images:
 * No alternative "description" in the Markdown link
 * Only raster images may be embedded
 * Any and all raster images formats allowed
-* JPEG, GIF, and PNG images recommended
+* Only JPEG, GIF, and PNG images
 * Not to be linked to anything
 * No larger than 2048 x 1080
+* Name must be `figure-<width>x<height>.{jpg,gif,png}`
 
 > 💡
 > Since SVG images will likely gain wide support because of security
