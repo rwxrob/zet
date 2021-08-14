@@ -33,6 +33,9 @@ Use the following commands to manage the events log(s):
 * `zet daemon events rotate` to rotate the event log producing `$ZETDIR/.events-<isonan>`
 * `zet daemon events delete` to delete the current log and start a new one
 
+See also:
+
 * [20210814174946](/20210814174946/) ZetDaemon
 * [20210814180521](/20210814180521/) isonan When Your Need More Than isosec
 * [CRUD](https://lite.duckduckgo.com/lite?kd=-1&kp=-1&q=CRUD)
+* [ZULU time](https://lite.duckduckgo.com/lite?kd=-1&kp=-1&q=ZULU%20time)
