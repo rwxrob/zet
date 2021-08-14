@@ -1,5 +1,7 @@
 # Q: Does bash do function 🏗 hoisting?
 
+📺 <https://youtu.be/BQ8m5ua8xFc>
+
 No. It cannot call a function until after it has been defined. Also
 remember that `export -f ` is *not* hoisting. Python also does not do
 function hoisting, and JavaScript does it *only* when using the
