@@ -1,5 +1,7 @@
 # Q: What's the best way to learn POSIX shell?
 
+📺 <https://youtu.be/H1eE1q9IoWc>
+
 First of all, I no longer believe you should *first* learn POSIX shell
 for the following reasons:
 
