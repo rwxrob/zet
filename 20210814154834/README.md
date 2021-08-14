@@ -32,5 +32,5 @@ Also see:
 * [20210814155857](/20210814155857/) Flat-Files are Fine
 * [20210502052620](/20210502052620/) Brilliance of isosec Unique Identifier
 * [20210812165625](/20210812165625/) EmojiBlocks, CommonMark Blockquotes with Meaning
-* Zet Command Line Utility <https://github.com/rwxrob/cmd-zet>
+* Zet Command Line Utility (<https://github.com/rwxrob/cmd-zet>)
 
