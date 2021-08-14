@@ -15,9 +15,21 @@ This process is responsible for the following:
 * Rendering `README.md` as `index.html` if configured
 * Updating `$ZETDIR/dex/` indexes on change events
 * Sending any notifications 
+* Maintaining in-memory cache and indexes
+* Answering API queries
 
 > 🤬
 > Don't even *think* of asking to change the name to "service" or some
 > shit because of the religious sensitivity of the word "daemon". In
 > fact, you can fuck right off and die. These are *daemons* and always
 > have been. Get the fuck over it.
+
+Eventually, the daemon will be containerized and the `zet` command line
+interface simplified to a glorified `curl` just making API calls. This
+will eventually enable the publication of live zettelkasten services
+including through Kubernetes.
+
+Also see:
+
+* [20210814193933](/20210814193933/) ZettelRepo Sizing Estimates
+
