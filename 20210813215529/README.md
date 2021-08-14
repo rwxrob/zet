@@ -1,5 +1,7 @@
 # Q: Do you have a favorite OS?
 
+📺 <https://youtu.be/A4O0ECKmZcs>
+
 It often doesn't make sense to have a favorite. Use what you have and
 make the best of it.
 
