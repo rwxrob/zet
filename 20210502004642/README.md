@@ -1,4 +1,4 @@
-# Zettelkasten on GitHub
+# ZettelRepos, Zettelkasten with Just Git and GitHub
 
 The ZettelKasten Method is attributed to
 [Niklas Luhmann](https://luhmann.surge.sh) who was a very prolific thinker and
