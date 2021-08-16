@@ -29,9 +29,7 @@ Then I found this:
 
     k delete pod NAME --grace-period=0 --force -n NAMESPACE 
 
-Yep. It's the `kill -9` I was looking for.
-
-It came right down.
+Yep. It's the `kill -9` I was looking for. It came right down.
 
 Obviously, since this command tells the K8S stuff in the control plane
 to just "forget about it" this isn't something to be done lightly, but
