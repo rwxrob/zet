@@ -22,8 +22,9 @@ Ironically, I immediately noticed it as the problem because I have color
 enabled from my terminal and `vim` from these systems all supports color
 syntax hilighting. The `AllowTcpForwarding` was white, not colored like
 the other directives. Anyone with a color terminal would have
-immediately spotted this problem. But pretty much every single opers
-person, and my entire team of peer "infrastructure engineers" (except
-one) still use Putty, which is only black and white for them. That's
-right, I have my first enterprise outage example of when color would
-have saved the day (and why Putty fucking sucks).
+immediately spotted this problem. But pretty much every single ops
+person, and my entire team of "infrastructure engineers" (except one)
+still use black and white Putty. 
+
+I think I might have my first enterprise outage example of when color
+just have saved the day (but probably not, because Chef).
