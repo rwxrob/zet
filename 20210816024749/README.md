@@ -35,3 +35,5 @@ Obviously, since this command tells the K8S stuff in the control plane
 to just "forget about it" this isn't something to be done lightly, but
 neither is `kill -9` when a simple and polite `kill` will due just fine
 (in most cases).
+
+    #k8s #kill #pods #tips #cloud
