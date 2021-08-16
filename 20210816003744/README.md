@@ -12,11 +12,11 @@ You can figure out what happened for sure. But looking at the
 
     AllowTcpForwarding yes
 
-How is that a give away? Because it's a fucking server (`sshd`)
+How is that a give away? Because it's a server (`sshd`)
 configuration setting, not client.
 
 The real shame of this is that it got added to a chef script and got
-pushed to every fucking node in the cluster. Thank God I didn't do it.
+pushed to every node in the cluster. Thank god I didn't do it.
 
 Ironically, I immediately noticed it as the problem because I have color
 enabled from my terminal and `vim` from these systems all supports color
