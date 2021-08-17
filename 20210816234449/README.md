@@ -36,17 +36,20 @@ By end of 2022, I will:
 
 By end of 2023, I will: 
 
-* Redesign skilstak.io as interactive tech learning game
 * Add (back) private mentored learning and pair-programming
-* Apply to speak at select (relevant) in-person conferences
 * Release `CmdBox` into full production
+* Release `PEGN` into full production
 * Begin port of rwxrob.tv tools from bash to Go as `mim`
-* Host first RWX-mas last two weeks of December
+* Revisit the Knowledge Exchange Grid (KEG)
+* Kick off afk.works and seek organizers
+* Apply to speak at select (relevant) in-person conferences
+* Host first RWX-mas in December
 * Setup on-prem k8s cloud for 24x7 vuln scanning
 * Complete Boost: Software Development for Kubernetes
 
 By end of 2024, I will:
 
+* Redesign skilstak.io as interactive tech learning game
 * Update previous Boost content
 ...
 
