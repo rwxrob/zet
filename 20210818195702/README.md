@@ -18,6 +18,8 @@ You should be able to add the following skills in order:
 1. Grok *Pod*
 1. Use `kubectl run` (almost same as `docker run`)
 1. Use `kubectl get pods`
+1. Grok *Deployment*
+1. Grok *ReplicaSet*
 1. Use `kubectl create deploy`
 1. Use `kubectl exec`
 1. Use `kubectl desc`
