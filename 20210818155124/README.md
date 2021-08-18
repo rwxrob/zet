@@ -24,7 +24,7 @@ That's all it takes to get a perfect, one-column list. To change to
 
 Direct matching is cool and all, but when you combine this with `test()`
 regular expressions (PCRE, or course) you realize this is all that you
-ever need. Say goodbye to `awk` and `set` for this kind of stuff.
+ever need. Say goodbye to `awk` and `sed` for this kind of stuff.
 
 Here's an example of everything that starts with the letter `r`:
 
