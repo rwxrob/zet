@@ -16,8 +16,7 @@ set to `user` or `system` depending on the type of namespace, pretty
 typical stuff. Here's the one line command to show all `user` labels:
 
 ```bash
-k get ns -o json | jq -r '.items[].metadata | select (.labels.nstype ==
-"user") | .name'
+k get ns -o json | jq -r '.items[].metadata | select (.labels.nstype == "user") | .name'
 ```
 
 That's all it takes to get a perfect, one-column list. To change to
@@ -30,15 +29,13 @@ ever need. Say goodbye to `awk` and `set` for this kind of stuff.
 Here's an example of everything that starts with the letter `r`:
 
 ```bash
-k get ns -o json | jq -r '.items[].metadata | select (.labels.nstype ==
-"user") | select(.name|test("^r") | .name'
+k get ns -o json | jq -r '.items[].metadata | select (.labels.nstype == "user") | select(.name|test("^r") | .name'
 ```
 
 Which you could have also done exactly the same way with just `grep -P`:
 
 ```bash
-k get ns -o json | jq -r '.items[].metadata | select (.labels.nstype ==
-"user") | .name' | grep -P ^r
+k get ns -o json | jq -r '.items[].metadata | select (.labels.nstype == "user") | .name' | grep -P ^r
 ```
 
 It's just nice to know you have everything you need in `jq`, which
