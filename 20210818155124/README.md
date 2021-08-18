@@ -39,7 +39,7 @@ k get ns -o json | jq -r '.items[].metadata | select (.labels.nstype == "user") 
 ```
 
 It's just nice to know you have everything you need in `jq`, which
-really doesn't violate the UNIX philosophy with all this. It's "one
+really doesn't violate the UNIX philosophy with all this. Its "one
 thing" it does well is handle JSON, and it is by far the best at it.
 
     #json #jq #tips #devops #coding #shell #bash
