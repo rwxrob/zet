@@ -25,4 +25,3 @@ Also see:
 * [20210818180340](/20210818180340/) Use k config view --minify to Get Current Namespace
 
     #k8s #tips #netshoot #networking #cloud
-
