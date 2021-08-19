@@ -17,7 +17,7 @@ with? Did someone say, "Let's fuck up one of the most commonly used
 `kubectl` commands for everyone for the rest of eternity?" Sure feels
 like it based on the response in that thread. No one seems to even give
 a shit from the Istio team. Either that, or they are pretending to
-ignore that stupidity and as never happened, typical of certain
+ignore that stupidity as if never happened, typical of certain
 types of tech people. "There is no usability bug. You can go about your
 business. \*waves Jedi hand\*" I *hate* that shit about people in our
 industry.
