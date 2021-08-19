@@ -12,8 +12,8 @@ you work with people who think even logging into Twitch constitutes
 a statement of unprofessionalism (all by itself) you just can't win.
 After all, I was using IRC at work, despite direct policies against it,
 or even use of the Web during "work hours" enough to know that such
-people's opinions are worth a shit. In fact, a good shit would be worth
-more than their opinions. Very satisfying.
+people's opinions aren't worth a shit. Actually, a good shit would be
+worth more, very satisfying.
 
 Did that strike you as inappropriate?
 
