@@ -17,11 +17,10 @@ more than their opinions. Very satisfying.
 
 Did that strike you as inappropriate?
 
-My official response is, "Fuck off and die."
+My official response is, "Fuck off."
 
-Thank God I never have to work with the likes of you. As Mattew Lesko
-says, "I'm probably not gonna like you either, so we've just saved each
-other a ton of time."
+As Mattew Lesko says, "I'm probably not gonna like you either, so we've
+just saved each other a ton of time."
 
 * <https://youtu.be/utiIdR-XVJg>
 * <https://github.com/rwxrob/rwxrob/blob/main/assets/img/mr-rob-gnome.jpg>
