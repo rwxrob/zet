@@ -50,7 +50,7 @@ spawned the new normal for monolith utility applications such as
 the courage to say, no more.
 
 We need that same thing now, but with the *rest* of the command line. We
-need courages software utility designers to set the bar very high with
+need courageous software utility designers to set the bar very high with
 design policies that dictate, "There will be nothing in our interface
 that could not be spoken into a Slack bot."
 
