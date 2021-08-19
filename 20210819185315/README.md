@@ -28,6 +28,34 @@ everyone out there thinks wanting to use `run` is something only
 juvenile noobs want to use, but that thread confirms there are a ton of
 other reasons to want it.
 
+The only solution is to turn it off, but often it is exactly Istio and
+networking stuff that you need to debug with a `run`. Sure you can do
+the same in a much more convoluted way, but it just sucks that you have
+to do it. Here's how to disable it:
+
+```bash
+#!/bin/bash
+
+overrides='
+{
+  "metadata": {
+    "annotations": {
+      "sidecar.istio.io/inject": "false"
+    }
+  }
+}
+'
+
+exec kubectl run netshoot --rm -it \
+  --image nicolaka/netshoot:latest \
+  --namespace "${1:-$(ns)}" \
+  --overrides "$overrides" \
+  -- /bin/bash
+
+```
+
+See also:
+
 * <https://github.com/istio/istio/issues/11130>
 
     #istio #k8s #cloud #fail #kubectl #bugs
