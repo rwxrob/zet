@@ -6,7 +6,7 @@ pic. It really reveals a lot about the people you are in the call with.
 If they don't laugh, I really don't give a shit. I'm so far past having
 such a corporate stick up my ass that such things are considered
 "inappropriate" and I'm encouraged by the fact that most of the up and
-coming tech workforce appreciates informality in the workplace more
+coming tech workforce appreciates informality in the workplace much
 more, hell, they are clamouring for "gamification" of everything. When
 you work with people who think even logging into Twitch constitutes
 a statement of unprofessionalism (all by itself) you just can't win.
