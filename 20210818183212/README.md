@@ -48,4 +48,6 @@ Also see:
 * [20210818180340](/20210818180340/) Use k config view --minify to Get Current Namespace
 * [20210819185315](/20210819185315/) Istio Fucks Up kubectl run, Forever
 
+Links:
+
     #k8s #tips #netshoot #networking #cloud
