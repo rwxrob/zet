@@ -3,7 +3,7 @@
 Realizing now that default Pandoc Markdown is not compatible at all with
 GitHub Flavored Markdown. Pandoc Markdown treats all dollar signs as the
 beginning of a LaTeX math sequence. This is really too bad, because
-while I support the need for match in zettelkasten notes, suddenly
+while I support the need for math in zettelkasten notes, suddenly
 imbuing dollar signs with more meaning causes them to all have to be
 escaped in a way that is not only annoying to most writers, but
 incompatible with GFM rendering making for very confusing things if read
