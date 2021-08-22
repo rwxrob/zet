@@ -1,4 +1,4 @@
-# Use `echo "\$(<"$path")"` Instead of `cat` in Bash
+# Use `echo "$(<"$path")"` Instead of `cat` in Bash
 
 It might be more to type, but it is hell-a faster and better on resources
 to use the long-winded way of reading a file into a buffer variable and
