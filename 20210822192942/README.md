@@ -1,4 +1,4 @@
-# ZettelMark is CommonMark (Not Pandoc Markdown)
+# Pandoc Markdown is Out, Dollar Signs Non-Standard
 
 Realizing now that default Pandoc Markdown is not compatible at all with
 GitHub Flavored Markdown. Pandoc Markdown treats all dollar signs as the
