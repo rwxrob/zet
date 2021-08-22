@@ -23,7 +23,9 @@ Use `echo "\$(<"$path")"` Instead of `cat` in Bash
 
 But the backslash shows up in the rendered title on GitHub, which can
 really confuse people since that is even within a literal (backticks)
-block. I'm sorry. I love Pandoc. But that's just fucked up.
+block. 
+
+I'm sorry. I love Pandoc. But that's just fucked up.
 
 So this means that I have settled on CommonMark + GFM Tables (which,
 other than this shitty problem with `$`, is 100% Pandoc Markdown
