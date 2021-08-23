@@ -13,7 +13,7 @@ script utilities in Go. But why not just keep them in Bash?
 
 Bash is definitely not something you would release a major product in,
 for lots of reasons, that is what Go is specifically for, but how much
-of this shit is every going to end up in a product. And if and when it
+of this shit is ever going to end up in a product. And if and when it
 does all that Bash has ironed out the usage issues and user interface.
 All the hard work will have already been done and matured. Then you just
 port it all to Go and you're good. Before that who really gives a shit
