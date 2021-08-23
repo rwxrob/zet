@@ -13,7 +13,7 @@ Plus my `template-bash-command` supports automatic tab completion and a
 host of other stuff the Google "guidelines" can't even dream of
 implementing. 
 
-Also, can we all just agree that `"${foo}"` unless you need it
+Also, can we all just agree that `"${foo}"` (unless you need it)
 unnecessarily obfuscates code and makes it harder to read and write.
 This is fucking bash we are talking about. It's suppose to be *fast* to
 write above all. Scripting in bash is about developer speed, not
