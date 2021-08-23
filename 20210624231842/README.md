@@ -42,5 +42,11 @@ simple: pass `shellcheck`. I really seriously regret having told
 on to create a ton of code that I now have to sift through and work with
 every day).
 
+See also:
+
 * <https://google.github.io/styleguide/shellguide.html>
 * <https://github.com/rwxrob/template-bash-command>
+
+Tags:
+
+    #bash #shell #scripting #style #guidelines #google
