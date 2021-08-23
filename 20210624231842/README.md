@@ -24,8 +24,9 @@ Calling out the usage and return values of every function is still a
 sound idea, I suppose. But, honestly, if you are writing code well it
 will be immediately and totally obvious. If it's not, you're writing the
 code wrong. Besides, a rhetorical explanation of what the function does
-is *always* better than trying to overengineer every fucking possible
-option and return value. You can tell the "guidelines" where created by
+is *always* better than trying to overengineer every possible option and
+return value into a pseudo-textual-database at the beginning of every
+function. You can really tell these "guidelines" where created by
 engineers (and not technical documentation writers). 
 
 > 🤬
