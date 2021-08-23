@@ -15,7 +15,7 @@ implementing.
 
 Also, can we all just agree that `"${foo}"` (unless you need it)
 unnecessarily obfuscates code and makes it harder to read and write.
-This is fucking bash we are talking about. It's suppose to be *fast* to
+This is bash we are talking about. It's suppose to be *fast* to
 write above all. Scripting in bash is about developer speed, not
 long-term maintainability. Sure a lot of bash will be around, but this
 stupid constraint for `${}` is just fucked.
