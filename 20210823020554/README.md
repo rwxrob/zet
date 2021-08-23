@@ -6,7 +6,7 @@
 
 Doug invented UNIX pipes, so yeah.
 
-People get this wrong all the time. The stop with the first part "do one
+People get this wrong all the time. They stop with the first part "do one
 thing well" and conveniently forget the rest.
 
 Personally, my favorite list of clarifications is from Mike Gancarz (who
