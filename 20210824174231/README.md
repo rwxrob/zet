@@ -13,4 +13,3 @@ your own tools simply to do whatever, or no tools at all and just use
 card "slips" or plain old paper.
 
     #emacs #orgmode #shit #fails
-
