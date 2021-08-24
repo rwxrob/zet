@@ -16,6 +16,6 @@ I'll never use `ifconfig` again.
 * [20210526203339](/20210526203339/) JSON Output Parsing with `jq` if You Can
 * [Bringing the Unix Philosophy to the 21st Century \| Brazil\'s Blog](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
 
-Tags
+Tags:
 
     #unix #json #jq #bash #scripting #linux #ip #ifconfig
