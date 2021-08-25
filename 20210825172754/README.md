@@ -38,7 +38,7 @@ parameter expansion. Then, I realized the difference between `:-` and
 `:=` and suddenly I was asking, "How can I just have a variable
 parameter expansion without having to assign it to anything?" Then, and
 only then, did I fully understand the true value of "the null command"
-(`:`). Guess what? You can even combine them if they are short enough
+(`:`). Guess what? You can even combine them if they are short enough:
 
 ```bash
 : "${EDITOR:=vi}" "${PAGER:=more}"
