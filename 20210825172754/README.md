@@ -22,7 +22,7 @@ see things like this:
 
 In fact, that is the only way I have ever seen it used in the wild.
 Because the `:=` parameter expansion not only returns the alternate
-value (`vi`) but also *assigns it* to the empty variable (`EDITOR`) you
+value (`vi`) but also *assigns it* to the empty variable (`EDITOR`) so you
 don't need the extra redundant assignment. You'll see stuff like this
 from lesser bash coders all over the Internet (including me before
 July 2021):
