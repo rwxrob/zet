@@ -34,12 +34,15 @@ EDITOR=${EDITOR:-vi}
 
 I used to think I was clever with the short-circuit operator assignment,
 then even *more* clever when I finally started to grok the power of bash
-parameter expansion. Then, I realized the difference between `:-` and `:=` and suddenly I was asking, "How can I just have a variable parameter expansion without having to assign it to anything?" Then, and only then, did I fully understand the true value of "the null operator" (`:`).
+parameter expansion. Then, I realized the difference between `:-` and
+`:=` and suddenly I was asking, "How can I just have a variable
+parameter expansion without having to assign it to anything?" Then, and
+only then, did I fully understand the true value of "the null command" (`:`).
 
 > ⚠️
 > Don't forget to wrap everything in double quotes. If you are using
 > `shellcheck` (and you are using `shellcheck`, right?) then you will
-> see why. The right side of the null operator (`:`) has expansion
+> see why. The right side of the null command (`:`) has expansion
 > applied to it making it dangerous if you don't.
 
-    #bash #scripting #operators #null #colon #100daysofcode
+    #bash #scripting #commands #null #colon #100daysofcode
