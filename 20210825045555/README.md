@@ -21,4 +21,14 @@ scripts a long time ago). But for the power bash brings to the table for
 "just a scripting language" you have to give it credit. It fucking
 rocks.
 
+> 🤬
+> Hey you `bash` haters, yeah you. If *your* `bash` seems slow it's
+> probably because you're a fucking moron and don't know how to avoid all
+> those shitty `sed`/`awk`/`cut`/`tr` subshells. Fucking idiot. Go back
+> to your script kiddy language with your idiot Stack Exchange friends
+> and stop hating on the world's standard in Linux interactive shells
+> until you actually fucking learn to code in it.
+
+Tags:
+
     #bash #rocks #scripting #linux
