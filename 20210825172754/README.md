@@ -43,7 +43,7 @@ only then, did I fully understand the true value of "the null command"
 Guess what? You can even combine them if they are short enough:
 
 ```bash
-: "${EDITOR:=vi}" "${PAGER:=more}"
+: "${EDITOR:=vi} ${PAGER:=more}"
 ```
 
 > ⚠️
