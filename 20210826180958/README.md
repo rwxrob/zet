@@ -12,11 +12,10 @@ Stop pussy-footing around the requirement for your people to learn Linux
 use Linux.* Otherwise, you end up with people giving Helm demonstrations
 using `docker` on the command line, and using the GUI file explorer to
 rename a file (because they don't know the fucking `mv` command).
-Please, for the love of God, have some fucking self-respect and do the
-right thing.  Friends don't let friends use Windows for Cloud-Native
-*anything*.
+Please, for the love of God, have some self-respect. Do the
+right thing. Teach them Linux.
 
-I'm so fucking tired of enterprise CTOs making excuses to *not* educate
+I'm so tired of enterprise CTOs making excuses to *not* educate
 their tech people in the most significant operating system on planet
 Earth --- especially given the number of very user-friendly Linux
 distributions (like PopOS!) and the WSL2 support in Windows. Seriously,
