@@ -15,16 +15,16 @@ rename a file (because they don't know the fucking `mv` command).
 Please, for the love of God, have some self-respect. Do the
 right thing. Teach them Linux.
 
-I'm so tired of enterprise CTOs making excuses to *not* educate
+I'm so tired of enterprise CTOs making excuses for *not* educating
 their tech people in the most significant operating system on planet
 Earth --- especially given the number of very user-friendly Linux
 distributions (like PopOS!) and the WSL2 support in Windows. Seriously,
-get the courage to set goals for your enterprise and *get the fuck off of
-Windows* for anything technical. The companies that *are* doing this are
-destroying their competition (and smiling with a knowing grin like an
-ugly dude with a hot girlfriend who has a secret he really doesn't need
-to share). Perhaps that's the only thing these CTOs will ever
-understand.
+get the courage to set goals for your enterprise and *get the fuck off
+of Windows* for anything technical. Your company will be so much better
+off. The companies that *are* doing this are destroying their
+competition (and smiling with a knowing grin like an ugly dude with a
+hot girlfriend who has a secret he really doesn't need to share).
+Perhaps that's the only thing these CTOs will ever understand.
 
 And in case you weren't absolute certain of your the perception of
 idiocy you are conveying to people who *actually* know cloud, you could
