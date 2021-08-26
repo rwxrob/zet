@@ -26,19 +26,6 @@ competition (and smiling with a knowing grin like an ugly dude with a
 hot girlfriend who has a secret he really doesn't need to share).
 Perhaps that's the only thing these CTOs will ever understand.
 
-And in case you weren't absolutely certain of your the perception of
-idiocy you are conveying to people who *actually* know cloud, you could
-add these things:
-
-* `sshh`
-* `PowerShell Core`
-* `Posh-Git`
-
-And, to a lesser extent:
-
-* `OpenShift`
-* `VSCode`
-
 Honestly, consider this a PSA. *Train your people in Linux.* Microsoft
 is. The end.
 
