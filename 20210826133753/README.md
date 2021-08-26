@@ -9,5 +9,4 @@ much *beginner* material for bash (which I aim to change) but anything
 from Dylan should be on the top of the list once you have the basics
 down.
 
-    #bash #shell #vips #posix #scripting
-
+    #bash #shell #vips #posix #scripting #linux
