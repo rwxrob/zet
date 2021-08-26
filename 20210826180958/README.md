@@ -9,7 +9,7 @@ least in the IT Cloud sense) and should never work in IT again.
 
 Stop pussy-footing around the requirement for your people to learn Linux
 (and the Linux command line) and do the right thing: *train your people to
-use Linux.* Otherwise, you end with people give Helm demonstrations
+use Linux.* Otherwise, you end up with people giving Helm demonstrations
 using `docker` on the command line, and using the GUI file explorer to
 rename a file (because they don't know the fucking `mv` command).
 Please, for the love of God, have some fucking self-respect and do the
