@@ -5,14 +5,14 @@ native stuff I want to share my lessons learned about the order of stuff
 to learn such that it will make the most cohesive sense to absolute
 beginners. Of course, I assume people have everything from the *Live
 Linux Terminal* boost already. (You don't realistically have a prayer
-with this stuff until you can call youself a "Linux terminal native".)
+with this stuff until you can call yourself a "Linux terminal native".)
 
 You should be able to add the following skills in order:
 
 1. Grok *Container*
 1. Use `docker` command to pull, run, and push images
 1. Be able to mount volumes and expose networking in docker
-1. Create your own `Dockerfile`images 
+1. Create your own `Dockerfile` images 
 1. Install Kubernetes `kind` cluster (or other local cluster)
 1. Use and grok `kubectl config`
 1. Grok *Pod*
