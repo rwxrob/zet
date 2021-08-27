@@ -12,7 +12,7 @@ Internet access to do their work. I mean just listen to these morons:
 I love "quickly access" in particular. Spoken like a true web dev with a
 GUI binky in their mouth. By the way (*you fucking moron*) working in a
 web browser is not "on your machine" and yes I get what you mean. What's
-your next play? Trying to try and sell "network appliances" and "the
+your next play? Trying to sell "network appliances" and "the
 network is the computer" bullshit?
 
 Yeah, no, you can't even remember that shit and how fast it fucking
