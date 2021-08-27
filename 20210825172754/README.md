@@ -55,8 +55,6 @@ Guess what? You can even combine them if they are short enough:
 The null command can also be used where having an empty block of bash
 code would otherwise cause an error:
 
-Wrong:
-
 ```bash
 foo() {
   # boom, not even a comment saves you
