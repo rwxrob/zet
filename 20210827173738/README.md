@@ -2,9 +2,26 @@
 
 Got an email from GitPod today. I fucking hate GitPod. The entire
 company is built on the moronic premise that developers *must* have
-Internet access to do their work. The industry has already tried this
-and decided that developers actually need to be able to get shit done
-without an Internet connection. 
+Internet access to do their work. I mean just listen to these morons:
+
+> Ephemeral dev environments can improve this: no more local development
+> environments mean that it will always work on your machine, no matter
+> what machine you have. You can quickly access your whole environment
+> in a browser that new engineers can easily jump right into.
+
+I love "quickly access" in particular. Spoken like a true web dev with a
+GUI binky in their mouth. By the way (*you fucking moron*) working in a
+web browser is not "on your machine" and yes I get what you mean. What's
+your next play? Trying to try and sell "network appliances" and "the
+network is the computer" bullshit?
+
+Yeah, no, you can't even remember that shit and how fast it fucking
+died. It was 10 years before your unskilled ass was born. By the way,
+that company died the worst death possible: swallowed whole by
+Oracle.
+
+The industry has already tried this and decided that developers actually
+need to be able to get shit done without an Internet connection. 
 
 Oh my GOD! Can you believe it? Just imagine.
 
@@ -17,7 +34,23 @@ we `git clone` things is to get a *local* copy and work on. Can you even
 imagine suggesting to Linus Torvalds that he needs a shitty GUI web
 browser to code on the kernel?
 
-Where do these fucking moronic ideas come from?
+Then you have this one:
+
+> The most important part of developing a feature is developing the
+> feature, so why waste any more time on anything else?
+
+Oh I don't know, because you are expected to actually know what the fuck
+you are doing? Perhaps you should actually understand the system that is
+going to host your shitty app. What's that? It is too big and bloated to
+run in a container on your local system? Yeah, you have bigger problems.
+Rather than propose ways to get around the biggest problem of all you
+just address the problem of the absolute shit you have created and how
+to break it up. Guess what, people are *doing it* successfully all over
+the world, just not you, idiots. You are free to be morons, and I'm free
+to call you morons. Maybe you should apply for a job at Netlix, I hear
+they love hiring complete idiots.
+
+Where do these moronic ideas come from?
 
 My best guess is that script-kiddy web developers see the world through
 their jaded, shitty perspective. Everything is a web app to them. And
