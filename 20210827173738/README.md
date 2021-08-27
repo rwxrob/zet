@@ -15,9 +15,8 @@ web browser is not "on your machine" and yes I get what you mean. What's
 your next play? Trying to sell "network appliances" and "the
 network is the computer" bullshit?
 
-Yeah, no, you can't even remember that shit and how fast it fucking
-died. It was 10 years before your unskilled ass was born. By the way,
-that company died the worst death possible: swallowed whole by
+Yeah, no, you can't even remember how fast that shit died swallowed
+whole eventually by the poster child of brain-dead tech companies: 
 Oracle.
 
 The industry has already tried this and decided that developers actually
