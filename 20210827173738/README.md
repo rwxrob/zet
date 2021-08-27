@@ -32,7 +32,9 @@ mean Tetris."
 In fact, that's the very premise of Git in the first place. The reason
 we `git clone` things is to get an *actual local* copy and work on. Can
 you even imagine suggesting to Linus Torvalds that he needs a shitty GUI
-web browser to code on the kernel?
+web browser to code on the kernel? We are talking about a guy who has
+gone on record saying that "Web developers can't really call themselves
+developers."
 
 Then you have this one:
 
