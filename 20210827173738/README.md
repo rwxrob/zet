@@ -26,12 +26,12 @@ Oh my GOD! Can you believe it? Just imagine.
 
 "I have some work to finish up on with the UX, I'll just work on that on
 my flight. Oh wait, I won't have reliable Internet on the plane. Oh
-well, looks like I'll just get drunk and play Halo."
+well, looks like I'll just get drunk and play League."
 
 In fact, that's the very premise of Git in the first place. The reason
-we `git clone` things is to get a *local* copy and work on. Can you even
-imagine suggesting to Linus Torvalds that he needs a shitty GUI web
-browser to code on the kernel?
+we `git clone` things is to get an *actual local* copy and work on. Can
+you even imagine suggesting to Linus Torvalds that he needs a shitty GUI
+web browser to code on the kernel?
 
 Then you have this one:
 
