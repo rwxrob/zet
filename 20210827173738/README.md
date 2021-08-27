@@ -41,3 +41,5 @@ UNIX philosophy.
 
 Don't believe me? Imagine, for a moment, that you had 64GB Git repo you
 wanted to tell Linus Torvalds about. What would Linus do? 🖕
+
+    #rants #gitpod #monorepos #containers #devops
