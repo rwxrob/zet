@@ -52,4 +52,51 @@ Guess what? You can even combine them if they are short enough:
 > see why. The right side of the null command (`:`) has expansion
 > applied to it making it dangerous if you don't.
 
+The null command can also be used where having an empty block of bash
+code would otherwise cause an error:
+
+Wrong:
+
+```bash
+foo() {
+  # boom, not even a comment saves you
+}
+```
+
+```
+.../foo: line 5: syntax error near unexpected token `}'
+.../foo: line 5: `}'
+```
+
+But replace the comment with a null command and you are golden:
+
+```bash
+foo() {
+  : # TODO implement me
+}
+```
+
+The same holds true for `if` and `while` and `for` (but not `case`):
+
+```bash
+if [[ true ]]; then
+  # boom
+fi
+```
+
+```
+.../foo: line 5: syntax error near unexpected token `fi'
+.../foo: line 5: `fi'
+```
+
+But adding this humble little colon and it works:
+
+```bash
+if [[ true ]]; then
+  : # boom
+fi
+```
+
+Tags:
+
     #bash #scripting #commands #null #colon #100daysofcode
