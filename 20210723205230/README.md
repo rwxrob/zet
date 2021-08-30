@@ -1,4 +1,4 @@
-# Q: What is "zettel-casting" / "zettel cast"?
+# What are ZettelCasting and ZettelCasts?
 
 📺 https://youtu.be/aTbqamaE6mA
 
@@ -12,5 +12,6 @@ This is a play on words for "zettelkasten".
 * Upload all videos from web interface
 * Run a script to sync the descriptions
 
-https://luhmann.surge.sh
+Related:
 
+* <https://luhmann.surge.sh>
