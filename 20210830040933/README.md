@@ -25,3 +25,14 @@ the overall collection. The only risk is flat out deleting zettels, but
 the entire method allows for keeping and renaming zettels rather than
 deleting them thereby maintaining any link integrity, something I was
 worried about before when I started interlinking zettels.
+
+Another significant advantage that I'm already experiencing myself as a
+reader is the incredible focus placed on "what's the next step?" It is
+so easy to get lost in the maze of possible paths and even a linear
+outline of all the content they need to cover. There's something about a
+short zettel with only the exact next steps possible that simplifies
+things in a way that conveys possibility over frustration. "I just need
+to do this one next thing. I don't need to worry about the rest for
+now." But with the added benefit of giving them a choice along the way
+fostering the feeling of control. It's basically all the best parts of
+skills trees from video games.
