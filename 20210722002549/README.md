@@ -1,4 +1,4 @@
-# Q: How do you feel about docker vs podman?
+# How Do You Feel About Docker vs Podman?
 
 1. I think it is a lie to say podman is "daemon-less"?
 1. I actually like that there is a daemon that is independent
