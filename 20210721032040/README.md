@@ -1,8 +1,11 @@
-# Q: Can I run Linux desktop in containers?
+# Can I Run Linux Desktop in Containers?
 
-Yes you can, but probably shouldn't. [Willy Wonka of Containers - Jessie
-Frazelle](https://youtu.be/GsLZz8cZCzc). 
+Yes you can, but probably shouldn't. I would instead suggest using
+either a virtual machine, or a "workspace container" (my term). 
 
-I would instead suggest using either a virtual machine, or a "workspace
-container" (my term). Have a look at [my
-workspace](https://github.com/rwxrob/workspace).
+Related:
+
+* Willy Wonka of Containers - Jessie Frazelle
+  <https://youtu.be/GsLZz8cZCzc>
+* My Personal Workspace Container
+  <https://github.com/rwxrob/workspace>
