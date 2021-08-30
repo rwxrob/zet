@@ -1,4 +1,4 @@
-# Q: When did you know you wanted to be a programmer?
+# When Did You Know You Wanted to Be a Programmer?
 
 📺 <https://youtu.be/Nf2_3dmGPeI>
 
