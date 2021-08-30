@@ -1,12 +1,12 @@
 # Beginner Boost: Before You Begin
 
 This is the "you must be this tall to ride this ride" warning in the
-front of the line to the most amazing ride you will ever experience. If
-you're not yet this "tall" then wait until you are, or take some
-proverbial growth hormones. There's nothing stopping you from going on
-this ride even if you aren't "tall" enough, but you might end up getting
-whiplash, puking all over your family, or getting violently thrown from
-the ride and decapitated. That's on you. You've been warned.
+front of the line to one of the most amazing rides you will ever
+experience. If you're not yet this "tall" then wait until you are, or
+take some proverbial growth hormones. There's nothing stopping you from
+going on this ride even if you aren't "tall" enough, but you might end
+up getting whiplash, puking all over your family, or getting violently
+thrown from the ride and decapitated. That's on you. You've been warned.
 
 Do not proceed unless you have met all the following requirements:
 
