@@ -1,4 +1,4 @@
-# Q: Why doesn't Decimal work with float in Python?
+# Why Doesn't Decimal Work with Float in python?
 
 📺 <https://youtu.be/gfLe4fI5VX0>
 
