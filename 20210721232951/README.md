@@ -1,4 +1,4 @@
-# Q: How do you fight burnout?
+# How Do You Fight Burnout?
 
 It's a battle between burnout and restlessness.
 
