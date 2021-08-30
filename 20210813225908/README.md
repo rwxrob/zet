@@ -1,4 +1,4 @@
-# Q: What's the best way to learn POSIX shell?
+# What's the Best Way to Learn POSIX Shell?
 
 📺 <https://youtu.be/H1eE1q9IoWc>
 
@@ -11,6 +11,8 @@ for the following reasons:
 
 ***PSA: You do NOT need `sed` and `awk` and `tr` as much as you
 think!*** (Because even POSIX shell has parameter expansion.)
+
+Related:
 
 * <https://www.grymoire.com/Unix/Sh.html>
 * <https://www.shellcheck.net>
