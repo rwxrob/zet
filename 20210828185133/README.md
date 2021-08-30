@@ -1,5 +1,8 @@
 # People I Fantasize About
 
+I actually have dreams about sitting around a table just conversing with
+these people. I know that sounds weird, 'cuz I am weird.
+
 * Linus Torvalds
 * Steve Wozniak
 * Aaron Swartz
