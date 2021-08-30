@@ -18,4 +18,10 @@ as root, has it set the proper constraints so it doesn't get out of
 control, are all of it's ports locked down, is it using mTLS to
 communicate, etc.
 
+Related:
+* Pod Security Policies
+  <https://lite.duckduckgo.com/lite?kd=-1&kp=-1&q=pod%20security%20policies>
+
+Tags:
+
     #k8s #learning #security #devsecops #rbac #opa
