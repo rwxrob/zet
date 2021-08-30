@@ -1,4 +1,4 @@
-# Q: What's your opinion on TDD?
+# Q: What's Your Opinion on TDD?
 
 📺 <https://youtu.be/hNRJqA1dVQU>
 
@@ -16,4 +16,3 @@
 1. Rapid prototyping in shell scripts.
 1. Don't make your prototype *too* good.
 1. Fundamental tenets of the UNIX philosophy.
-
