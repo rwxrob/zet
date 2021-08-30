@@ -1,10 +1,11 @@
-# Q: What are the chances of a Beginner Boost book?
+# What are the Chances of a Beginner Boost Book?
 
 📺 <https://youtu.be/6d9YIIUr4Gk>
 
-Not good. Books get out of date far too quickly --- particularly tech
-books. I'm not satisfied with GitBook and the alternatives (which made
-really stupid base design decisions). 
+Not good. Books get out of date far too quickly and are too linear to
+provide a good learning experience --- particularly tech books. I'm not
+satisfied with GitBook and the alternatives (which made really stupid
+design decisions). 
 
 Books do have advantages:
 
@@ -39,4 +40,3 @@ curriculum.
 
 It is more probable, that I will release my Zettelkasten content to
 someone to use to create a book from it.
-
