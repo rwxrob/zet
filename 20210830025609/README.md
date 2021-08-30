@@ -10,6 +10,7 @@ thrown from the ride and decapitated. That's on you. You've been warned.
 
 Do not proceed unless you have met all the following requirements:
 
+* You know what the Beginner Boost is and how it works
 * You can dedicate six hours per week to learning, minimum
 * You have full access to an *actual* computer (no iPads, etc.)
 * You have permission to install stuff onto the computer
