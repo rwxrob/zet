@@ -1,4 +1,4 @@
-# Q: What is a Beginner Boost?
+# What is a Beginner Boost?
 
 The Beginner Boost™ is my name for the content and community designed to
 get you moving down the path to mastering the core tech and other skills
