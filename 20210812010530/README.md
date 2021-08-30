@@ -1,4 +1,4 @@
-# Q: How many black tee-shirt do you have?
+# How Many Black Tee-Shirts Do You Have?
 
 📺 <https://youtu.be/C_n6JyrecTM>
 
