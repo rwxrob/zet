@@ -1,4 +1,4 @@
-# Learning is the Purpose of Life
+# Learning is the Reason for Living
 
 Learning is the one constant amidst all the variables of our
 collective existence. We are all here to learn. From the day of our
