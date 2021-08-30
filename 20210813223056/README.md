@@ -1,4 +1,4 @@
-# Q: Does bash do function 🏗 hoisting?
+# Does bash do function 🏗 hoisting?
 
 📺 <https://youtu.be/BQ8m5ua8xFc>
 
@@ -43,6 +43,6 @@ function greet() {
 
 ```
 
-Other references:
+Related:
 
 * <http://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html#Shell-Functions>
