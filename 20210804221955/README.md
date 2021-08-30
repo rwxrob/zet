@@ -1,4 +1,4 @@
-# Q: Should I do 2020 boost first or just 2021?
+# Should I Do 2020 Boost First or Just 2021?
 
 📺 <https://youtu.be/9H-75G8s2Vs>
 
@@ -16,4 +16,3 @@ instead of installing Linux on hardware between 2020 and 2021 and we
 saved a lot of time doing that.
 
 Just be sure to use the most recent content to save the most time.
-
