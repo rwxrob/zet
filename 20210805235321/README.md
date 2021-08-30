@@ -1,4 +1,4 @@
-# Q: What size Zettelkasten notebook do you prefer?
+# What Size Zettelkasten Notebook Do You Prefer?
 
 📺 <https://youtu.be/mGvkbEBixQA>
 
@@ -12,7 +12,9 @@ them to show they've been transferred or are no longer needed. I prefer
 of paper most of the time, actually, since it doesn't chain me to a
 screen and think better away from the screen (usually).
 
-Be sure to read this before looking at anything else claiming to be
-about Zettelkasten method:
+Be sure to read Luhmann's own words before looking at anything else
+claiming to be about Zettelkasten method.
 
-<https://luhmann.surge.sh>
+Related:
+
+* <https://luhmann.surge.sh>
