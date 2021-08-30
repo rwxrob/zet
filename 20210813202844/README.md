@@ -17,3 +17,6 @@ Here are the constraints on zettel figure images:
 * No larger than 1920x1920
 * Name must be `fig-WIDTHxHEIGHT.{jpg,gif,png}`
 
+Related:
+
+* The Essential Web by Rob Muhlestein (circa 2015)
