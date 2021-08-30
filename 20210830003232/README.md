@@ -12,8 +12,12 @@ trust and every position and employer establishes that trust in a
 different way. Our goal is to cover as many of the things possible that
 *all* employers trust and require.
 
-Here's your first mission: Get a Linux Terminal
+Here are your first missions. Do them in any order:
+
+* Get a Linux Terminal
+* Learn to Learn Like a Hacker
 
 Related:
 
-* [Beginner](/Beginner/) Boost: Before You Begin
+* [20210830025609](/20210830025609/) Beginner Boost: Before You Begin
+
