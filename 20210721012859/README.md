@@ -1,4 +1,4 @@
-# Q: What do you think about Vim plugin security?
+# What do you think about Vim plugin security?
 
 * Don't use plugins unless you have to
 * Prefer instead to use shell scripts
