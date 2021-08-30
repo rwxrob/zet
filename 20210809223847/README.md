@@ -1,4 +1,4 @@
-# Q: What is a UNIX/Linux "filter" command?
+# What is a UNIX/Linux Filter?
 
 📺 <https://youtu.be/7asa2lTcwKI>
 
