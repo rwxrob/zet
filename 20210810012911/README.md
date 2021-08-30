@@ -1,4 +1,4 @@
-# Q: Do you have more than one Zettelkasten?
+# Do You Have More Than One Zettelkasten?
 
 📺 <https://youtu.be/VIRB4IBTqLc>
 
