@@ -1,4 +1,4 @@
-# Q: Was there ever a time that you liked C++?
+# Was There Ever a Time That You Liked C++?
 
 📺 <https://youtu.be/2OHsAIjrgbY>
 
@@ -12,8 +12,7 @@ that others would do in C++ and if I were to code a game, I would do it
 in C\# with Unity because I would *never* work professionally for any AAA
 ~~sweat~~ shop doing game development of any kind.
 
-I have nothing C++, I just don't think it solves many modern problems
-and would be hesitant to recommend it for green-field projects. So many
-other languages cover all the landscape that C++ has covered in the
-past.
-￼
+I have nothing against C++, I just don't think it solves many modern
+problems and would be hesitant to recommend it for green-field projects.
+So many other languages cover all the landscape that C++ has covered in
+the past.
