@@ -1,4 +1,4 @@
-# Q: Do you have a favorite OS?
+# Do You Have a Favorite OS?
 
 📺 <https://youtu.be/A4O0ECKmZcs>
 
@@ -10,6 +10,7 @@ My criteria are very different from most?
 * Which gets me a bash command line terminal as fast as possible?
 * Which has the easiest and most used package management? 
 * Which has the most ethical main FOSS sponsors?
+* Which one is the least annoying?
 
 No longer criteria *for me*:
 
@@ -25,4 +26,3 @@ now (although I would never made it my main workstation OS) is Alpine:
 * Supper minimal, but not *too* minimal
 * Kiss ass package manager
 * Caters to embedded and containers
-
