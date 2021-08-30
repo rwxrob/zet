@@ -10,4 +10,8 @@ behind this legacy of the object terminology.
 
 They are the same, but "resources" is more accurate (and just cooler,
 let's face it, who want to refer to an old Java influence, for
-anything). 
+anything). This is why Custom Resource Definitions (CRDs) are called
+"Resources" and not objects. 
+
+In short, you can banish the term "object" from your conversations about
+anything related to cloud-native and Kubernetes. Thank God.
