@@ -1,4 +1,4 @@
-# Q: Do you use Alacritty as your terminal emulator?
+# Do You Use Alacritty as Your Terminal Emulator?
 
 No. I used to, but it's too buggy and alpha giving problems at
 inconvenient times. Just not worth the hassle for what it provides:
@@ -18,4 +18,3 @@ I use whatever is on the system:
 1. Gnome-terminal
 2. New Windows terminal
 3. Mac built-in terminal 
-
