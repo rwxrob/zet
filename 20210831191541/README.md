@@ -17,11 +17,13 @@ open on their own computer screen.
 So what is it that makes people so enraptured and afraid of hackers?
 
 I believe it's their ability to learn, adapt, and own whatever target
-they set their mind to dominating. These are exactly the same skills
-that make technologists of all kinds dominate their lives and careers.
-They don't take no for an answer, not even from themselves. When they
-hit stumbling blocks and lack of motivation they deal with it and adapt
-as needed without wallowing in self-pity and doubt. 
+they set their mind to dominating. It's their "artistic" creativity
+required to find solutions and their drive to see them through. They
+don't take no for an answer, not even from themselves. When they hit
+stumbling blocks and lack of motivation they deal with it and adapt
+creatively as needed without wallowing in self-pity and doubt. It is
+these exact same traits and skills that make technologists of all kinds
+dominate their lives and careers. 
 
 *Good* hackers know they don't know things. They know their weaknesses
 and their strengths because they are constantly testing themselves,
