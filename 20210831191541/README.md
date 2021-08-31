@@ -117,4 +117,6 @@ Related:
 * Pedagogy of the Oppressed, Paulo Friere
 * The RWX Method by Rob Muhlestein
 
+Tags:
+
     #hacking #education #oppression #learning #pedagogy #creativity
