@@ -20,4 +20,4 @@ Here are your first missions. Do them in any order:
 Related:
 
 * [20210830025609](/20210830025609/) Beginner Boost: Before You Begin
-
+* [20210831191541](/20210831191541/) Learn to Learn Like a Hacker
