@@ -47,7 +47,7 @@ people can get you locked up for life, or fast-tracked to "reformation."
 
 But somehow, "hackers" from the dawn of time have continued to challenge
 the status quo, to ask "why", to learn, and to speak truth to power. And
-thank God they did. Now we live in a time were almost anyone can take
+thank God they did. Now we live in a time when almost anyone can take
 control of their own learning.
 
 Why all the philosophy talk?
