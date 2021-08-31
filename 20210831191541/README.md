@@ -75,7 +75,7 @@ occupation is not to educate anyone, it's to repress everyone just
 enough to keep them good little potential employees under the guise of
 "education." 
 
-Seriously, how much did you *actual* learn in school? Obviously, there
+Seriously, how much did you *actually* learn in school? Obviously, there
 are significant exceptions, but the rule is, not much, but we'll never
 know because they also control every "assessment" measuring system we
 have in place to even know. In fact, often the learning that happens
