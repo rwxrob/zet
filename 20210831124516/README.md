@@ -1,4 +1,0 @@
-# Figure: Another Random
-
-![](F20210831124516-560x169.png)
-
