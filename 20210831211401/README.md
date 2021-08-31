@@ -10,4 +10,4 @@ There are very specific rules for the format of figures and have
 therefore been added to the ZettelMark specification itself.
 
 * [20210813202844](/20210813202844/) ZettelMark: Raster Image Figures
-
+* [20210831211125](/20210831211125/) Zettelkasten Zettel Categories
