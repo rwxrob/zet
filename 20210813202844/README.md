@@ -11,12 +11,12 @@ Here are the constraints on zettel figure images:
 * Must be a block (it's own line)
 * Must immediately follow the title or video line 
 * Only a single image is allowed
-* Omit optional alternative text since unnecessary
+* Omit alternative text since unnecessary
 * Only raster images may be embedded
 * Only JPEG, GIF, and PNG images
 * May be linked to SVG and larger images
 * No larger than 1920x1920
-* Name must be `figure-WIDTHxHEIGHT.{jpg,gif,png}`
+* Name must be `FZETID-WIDTHxHEIGHT.{jpg,gif,png}`
 
 Related:
 
