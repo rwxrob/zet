@@ -30,7 +30,7 @@ and dialog that accompany a particular topic as well. This is far more
 useful than some annoying prompt for how something is named. When (and
 if) I need that I am trying to start using `Ctrl-xo` from Vim insert mode.
 
-I've been reminded as well (from @qmacro on Twitch) that Intellisense
+I've been reminded as well (from [\@qmacro](https://twitch.tv/qmacro) on Twitch) that Intellisense
 can actually work against beginners because all that completion prevents
 them from learning it. I have noticed that when I use shortcuts a lot I
 start to forget how to actually do the thing. (This happens to people
