@@ -1,4 +1,4 @@
-# Q: What's Your Opinion on TDD?
+# What's Your Opinion on TDD?
 
 📺 <https://youtu.be/hNRJqA1dVQU>
 
