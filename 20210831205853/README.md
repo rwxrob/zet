@@ -9,6 +9,9 @@ Ken didn't end up like all the other academics. Instead he seems
 to have been *very* influenced by being exposed to them during most of
 his life. 
 
+> "[Professors] look upon their body as a form of transport for their
+> heads."
+
 Ken's a revolutionary in every positive sense of the word, and
 has you laughing while crying at the current state of affairs where
 children have their creativity "beaten out of them" in schools. 
