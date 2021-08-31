@@ -22,8 +22,9 @@ required to find solutions and their drive to see them through. They
 don't take no for an answer, not even from themselves. When they hit
 stumbling blocks and lack of motivation they deal with it and adapt
 creatively as needed without wallowing in self-pity and doubt. It is
-these exact same traits and skills that make technologists of all kinds
-dominate their lives and careers. 
+these exact same hacker traits and skills that make technologists of all
+kinds who learn and practice them come to dominate their lives and
+careers. 
 
 *Good* hackers know they don't know things. They know their weaknesses
 and their strengths because they are constantly testing themselves,
