@@ -118,9 +118,9 @@ Next mission:
 Related:
 
 * [20210831193812](/20210831193812/) Story: The Snarky Kid Who Googled the Answer and Won
-* Out of Their Minds, Sir Ken Robinson
+* [20210503040552](/20210503040552/) RWX, The Original Learning Method
+* [20210831205853](/20210831205853/) Book: Out of Their Minds (Sir Ken Robinson)
 * Pedagogy of the Oppressed, Paulo Friere
-* The RWX Method by Rob Muhlestein
 
 Tags:
 
