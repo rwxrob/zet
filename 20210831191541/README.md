@@ -80,10 +80,12 @@ are significant exceptions, but the rule is, not much. Unfortunately, we
 will never know because they also control every "assessment" measuring
 system we have in place to even know. In fact, often the learning that
 happens within a school's walls is happening *in spite* of the school
-itself. It's the community of people around you, facilitating and
-improving everyone's learning experience organically. It's the people,
-peers, and atmosphere. You know it when you experience it, all you want
-to do is learn and you almost can't even explain why. 
+itself. It's the resources the school provides and the community of
+people (including most teacher's) around you, facilitating and improving
+everyone's learning experience organically. It's these people, peers,
+and atmosphere that foster learning. You know it when you experience it,
+all you want to do is learn even if you can't even explain why. It's the
+best kind of virus to spread.
 
 > 💬
 > It's that very feeling that I've always tried to foster on rwxrob.tv.
@@ -99,7 +101,7 @@ exploration. We live in the greatest age of learning the Earth has every
 known and yet it hardly seems like it. 
 
 Now is the time to take back the power of learning, of self-learning, to
-rise up as an amorphous autodidactic nation committing to raising up
+rise up as an amorphous autodidactic nation committed to raising up
 everyone willing to put in the time and energy to learn. The learning
 revolution is already here, it never ended. It has been happening since the very beginning. The question is, will you join it?
 
