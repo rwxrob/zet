@@ -1,3 +1,3 @@
 # Figure: Typical Kill Chain
 
-![](fig-919x579.png)
+![](F20210830172929-919x579.png)
