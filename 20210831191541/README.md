@@ -73,7 +73,9 @@ you continue with the Boost or not. You're the one in control.
 The reason teachers make almost nothing in America is because their
 occupation is not to educate anyone, it's to repress everyone just
 enough to keep them good little potential employees under the guise of
-"education." 
+"education." Guess what, grades really do not matter. I promise. Don't
+be lazy, but don't let them define you. And *never* let anyone make you
+feel small for not living up to their expectation. This is *your* life.
 
 Seriously, how much did you *actually* learn in school? Obviously, there
 are significant exceptions, but the rule is, not much. Unfortunately, we
