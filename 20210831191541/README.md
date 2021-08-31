@@ -76,14 +76,14 @@ enough to keep them good little potential employees under the guise of
 "education." 
 
 Seriously, how much did you *actually* learn in school? Obviously, there
-are significant exceptions, but the rule is, not much, but we'll never
-know because they also control every "assessment" measuring system we
-have in place to even know. In fact, often the learning that happens
-within a school's walls is happening *in spite* of the school itself.
-It's the community of people around you, facilitating and improving
-everyone's learning experience organically. It's the people, peers, and
-atmosphere. You know it when you experience it, all you want to do is
-learn and you almost can't even explain why. 
+are significant exceptions, but the rule is, not much. Unfortunately, we
+will never know because they also control every "assessment" measuring
+system we have in place to even know. In fact, often the learning that
+happens within a school's walls is happening *in spite* of the school
+itself. It's the community of people around you, facilitating and
+improving everyone's learning experience organically. It's the people,
+peers, and atmosphere. You know it when you experience it, all you want
+to do is learn and you almost can't even explain why. 
 
 > 💬
 > It's that very feeling that I've always tried to foster on rwxrob.tv.
