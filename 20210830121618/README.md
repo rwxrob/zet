@@ -25,7 +25,7 @@ Boost content. I'm here to build a community of like-minded people to
 help each other level-up to wherever they want to be.
 
 Hopefully, you are here because you heard about me from someone you
-trust. That's one things mentorship and employment both require. Sure
+trust. That's one thing mentorship and employment both require. Sure
 I've helped a lot of people, but they honestly have helped me just as
 much. I literally got my current job from a member I met through this
 community. Won't you join us?
@@ -34,14 +34,14 @@ community. Won't you join us?
 
 My boosts are definitely flavored for hacking and infrastructure
 operations (including "cloud-native"). These are skills that underlie
-everything else. They are rock-solid and sustainable. In fact, there is
-a serious drought in the industry now for *good* infrastructure
-operations engineers, mostly because these skills are not normally
-taught in school, not even in tech universities like MIT, and certainly
-not in any "bootcamp." 
+everything else. They are rock-solid and sustainable. Most jobs required
+them, and all jobs will benefit from them. Starting salaries are
+*always* over \$100K in this field. In fact, there is a serious drought
+in the industry now for *good* infrastructure operations engineers,
+mostly because these skills are not normally taught in school, not even
+in tech universities like MIT, and certainly not in any "bootcamp." 
 
-Unlike content from uninformed, like-n-subscribe, Linux hobbyists with
-Social Media marketing degrees, the Beginner Boost™ is focused entirely
+the Beginner Boost™ is focused entirely
 on tools and technologies *that actually matter* to those hiring for
 *real* jobs. While others might argue about the "best" Linux distro or
 programming language we focus on stuff that companies are hiring (and
@@ -59,32 +59,42 @@ went on to land a \$100,000 job at one of the most exciting companies in
 the cloud-native space after completing the learning in the Boost. He
 taught *himself*. I was just along for the ride.
 
-> 🤬
-> My recruiter calls me twice a month to see if I have anyone who can
-> fulfill all the empty jobs he cannot fill because no one is learning
-> the *right* stuff. Nothing wrong with hobbyists, unless you are trying
-> to get a job and they tell you do learn something that would not only
-> prevent you from doing the job, but even getting it, or any
-> certifications in the process.
+> 🤬 My recruiter calls me at least once a month to see if I have anyone
+> who can fulfill all the empty jobs he cannot fill because no one is
+> learning the *right* stuff. This is why I get really annoyed by
+> uninformed, like-n-subscribe, Linux hobbyists with Social Media
+> marketing degrees taking beginners down the wrong path. I've known
+> them to *stop* people from getting a job by telling them absolute crap
+> that prevents them from doing the job, or even getting it, or any
+> certifications in the process. You can easily spot these charlatans
+> because they almost always recommend four things: Zsh, NeoVim, Rust,
+> and Arch Linux. *None* of these inferior technologies anywhere in
+> 99.9% of the tech jobs out there, even Linux jobs. Nothing screams "I
+> don't know what the Hell I'm talking about" more than recommending these
+> hobbyist technologies. Don't take my word for it. Do your own
+> research. You'll see.
 
 "What does 'flavored for hacking and operations' mean?"
 
-For example, when we study the Web we cover the languages and protocols,
-not so much to make slow GUI web apps, but to understand how they work
-and, yes, how to hack them when Web people inevitably fail. We learn
-everything from the Linux bash terminal including `lynx` and `curl` to
-manipulate pages and protocols from the command line. When we do
-"browse" the Web, we focus on getting answers fast, real fast. We are
-safe from insecure JavaScript, privacy violations, and slow graphics
-because we've learned the bash Linux shell first allowing us to
-*dominate* the skills learned by others. It's not that we become better
-than others --- actually, that's exactly what it is. You will become
-part of the 0.01% of technologists who actually know this stuff. The
-trick is to keep your ego from taking you over. (Alas, I've lost a few
-to 'Anakhin Syndrome' in the past).
+Here's an example. When we study the Web we cover the languages and
+protocols, not so much to make slow "serverless" GUI web apps, but to
+understand how they work and, yes, how to hack them when Web people
+inevitably fail. 
 
-Let's get started with your first mission (that's what I'm calling each
-step along the path these days):
+We learn everything from the Linux bash terminal including `lynx`,
+`curl`, and `netcat` to manipulate pages and protocols from the command
+line. When we do "browse" the Web, we focus on getting answers fast,
+real fast. We are safe from insecure JavaScript, privacy violations, and
+slow graphics because we've learned the bash Linux shell first allowing
+us to *dominate* the skills learned by others. 
+
+It's not that we *think* we're better than others. We objectively are.
+You will become part of the 0.01% of technologists who actually know
+this stuff. The trick is to keep your ego from taking you over. (Alas,
+I've lost a few to 'Anakhin Syndrome' in the past).
+
+Let's get you started with your first mission (which is what I'm calling
+each step along the path these days):
 
 * [20210830003232](/20210830003232/) Beginner Boost: Start Here
 
