@@ -33,3 +33,5 @@ disconnect, which is ridiculously simple with Kubernetes.
 Hell, the educational application of this is just mind-boggling. I
 finally know what I *really* want to do with my personal Kubernetes
 cluster once I have it built.
+
+    #skilstak #education #achievements #coding #beginners
