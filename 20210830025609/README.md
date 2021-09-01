@@ -36,7 +36,10 @@ And if you are attending the Boost in person:
 * You take regular showers and care for your personal hygiene
 * You will be punctual (10 minutes late is automatic cancellation)
 
-Related:
+Your next mission:
 
 * [20210830003232](/20210830003232/) Beginner Boost: Start Here
+
+Related:
+
 * [20210830121618](/20210830121618/) Q: What is a Beginner Boost?
