@@ -6,15 +6,19 @@ powers and opportunities unimaginable to those bound to graphic user
 interfaces. These days getting access to a Linux terminal isn't nearly
 as hard as it once was. Choose your own adventure here:
 
-* Install Windows WSL2
+* Install Windows WSL1 or WSL2
 * Install a Linux Virtual Machine on Windows or Mac
-* Install a Linux Operating Systems on a Computer
+* Install a Linux Operating Systems on a Computer Hardware
 * Get Started with Linux on Raspberry Pi
 * Install Docker Desktop on Windows or Mac and a Linux Image
-* Create a Linux Server on a Hosting Service
+* Create a Linux Server on a Hosting Provider and `ssh` In
 
-Any of these methods will work for the boost. Remember, however, that
-the goal is to get a **Linux** terminal. (Macs are BSD Unix)
+Any of these methods will work for the Boost. Remember, however, that
+the goal is to get a **Linux** terminal. (Macs are BSD Unix) Keep in
+mind that ever single one of these options has significant pros and
+cons. Make sure you understand them all before deciding. In fact, it
+would do you good in the long run to learn a few (if not all) of these
+methods of getting a Linux terminal.
 
 Related:
 
