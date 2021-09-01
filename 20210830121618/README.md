@@ -13,7 +13,7 @@ Hello, friend. I'm Rob. I stream on rwxrob.tv, founded skilstak.io, and
 work full-time as a Systems Infrastructure Engineer and Software
 Developer on a Cloud-Native team supporting Kubernetes for a
 High-Performance Computing (HPC) Machine Learning group within one of
-the largest corporations in the world (with it's own Class A subdomain).
+the largest corporations in the world (with its own Class A subdomain).
 Don't worry that will all make sense soon enough.
 
 I've made it my life's work to professionally mentor *everyone and
