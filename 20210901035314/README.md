@@ -18,6 +18,6 @@ unanticipated reasons:
 > Yeah, those people might act smart, but they aren't smart enough to
 > create a title that gets to the fucking point. Save all that
 > horse-shit for the abstract. Oh wait, I don't give a shit about
-> academia. What am I even ranting about.
+> academia. What am I even ranting about?
 
     #zettelkasten #rants #tips
