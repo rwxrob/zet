@@ -33,4 +33,17 @@ which is always a pain in the ass.
 For now I am required to just do option \#1 while I figure everything
 out.
 
+Related:
+
+* [20210901132113](/20210901132113/) Docker Desktop for Business No Longer Free
+* [20210701190237](/20210701190237/) Windows Docker Desktop is Torture, Gimme Linux
+* [20210701195103](/20210701195103/) Run Docker without Docker Desktop (Java Shit)
+* [20210702142020](/20210702142020/) Docker Desktop Fatal .NET Error
+* [20210713162404](/20210713162404/) Just Use Docker Desktop
+* [20210721030557](/20210721030557/) Will you be starting with Docker Desktop approach?
+* [20210721032040](/20210721032040/) Can I Run Linux Desktop in Containers?
+* Reddit: Docker Desktop (Windows) Alternatives?
+  <https://www.reddit.com/r/docker/comments/pfo6gm/docker_desktop_windows_alternatives/>
+
+Tags:
     #docker #enterprise #news
