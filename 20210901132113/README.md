@@ -31,15 +31,12 @@ onto their work laptops, which leaves WSL2 (raw) or a virtual machine,
 which is always a pain in the ass.
 
 For now I am required to just do option \#1 while I figure everything
-out for option \#2. So far Vagrant from HashiCorp, a command-line
-utility for starting up a local virtual machine, looks like the best
-alternative. I need to research how easy that would be for beginners. It
-has the advantage of being a virtual machine and not just a workspace
-container. I could setup a Vagrant virtual machine image that just
-includes docker and have them pull down an image, or we could go over
-how to build their own virtual machine image. Then the Beginner Boost
-approach would stay the same, just with Vagrant instead of Docker
-Desktop.
+out for option \#2.
+
+Vagrant/VirtualBox is not an option for me because it is blocked by the
+enterprise security team. With the considerable work-arounds to get WSL2
+to work with out enterprise VPN this leaves me with exactly zero options
+for running Linux locally.
 
 Related:
 
