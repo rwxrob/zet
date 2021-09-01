@@ -19,4 +19,21 @@ provides granular, layered learning about something that is otherwise a
 huge topic to cover. There are hundreds of policies and they are all
 searchable. 
 
+Then again ...
+
+If you are a hacker wanting some fresh meat in the cloud, these policies
+are some of the best explanations of Kubernetes vulnerabilities ever
+collected. 
+
+Just take resource limit DOS attacks, for example. If you want to really
+ruin someone with a Kubernetes cluster's day, target their application
+to spawn too many of something with too great a size, chances are they
+don't have the `containers[].resources.limits.*` policies in place.
+Boom.
+
+I'm certainly not advocating destroying enterprise clusters with DOS
+attacks against dumb-shit CN applications written by inexperienced cloud
+developers who don't know about constraints, but knowing how *not* to be
+a victim can certainly come in handy.
+
     #k8s #gatekeeper #opa #policies #sites #learning
