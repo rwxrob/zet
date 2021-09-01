@@ -1,6 +1,6 @@
 # What is a Beginner Boost?
 
-Let's consider another question you might have:
+Let's consider another question:
 
 "What should I learn to get a job in tech?"
 
