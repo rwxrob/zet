@@ -6,7 +6,7 @@ almost a decade at this point. So when I see an enthusiastic team of
 excited noobs, in one of the largest companies on planet Earth,
 *finally* create a 'center of excellence' focused on the 'Google Go'
 language (with only a few dozen members out of thousands) I want to
-fucking punch someone, not joining their fucking 'Idea Party'. 
+fucking punch someone, not join their fucking 'Idea Party'. 
 
 Here's an idea: get a fucking clue!
 
