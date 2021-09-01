@@ -41,11 +41,11 @@ in the industry now for *good* infrastructure operations engineers,
 mostly because these skills are not normally taught in school, not even
 in tech universities like MIT, and certainly not in any "bootcamp." 
 
-the Beginner Boost™ is focused entirely
-on tools and technologies *that actually matter* to those hiring for
-*real* jobs. While others might argue about the "best" Linux distro or
-programming language we focus on stuff that companies are hiring (and
-paying six-figure salaries) for *today*. Here's just one example:
+The Beginner Boost™ is focused entirely on tools and technologies *that
+actually matter* to those hiring for *real* jobs. While others might
+argue about the "best" Linux distro or programming language we focus on
+stuff that companies are hiring (and paying six-figure salaries) for
+*today*. Here is just one example:
 
 > Clearly, you have a talent for educating people in tech. … After
 > [your member’s] success [here], I suspect the review team will be
