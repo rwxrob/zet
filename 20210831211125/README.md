@@ -9,6 +9,7 @@ descriptive zettel as well):
 * Figure
 * Person
 * Story
+* Rant
 * Book
 * Film
 * Series
@@ -31,3 +32,4 @@ Related:
 * [20210901033832](/20210901033832/) Zettel Category: Film
 * [20210901033937](/20210901033937/) Zettel Category: Series
 * [20210901034100](/20210901034100/) Zettel Category: Site
+* [20210901182311](/20210901182311/) Zettel Category: Rant
