@@ -87,12 +87,11 @@ We learn everything from the Linux bash terminal including `lynx`,
 line. When we do "browse" the Web, we focus on getting answers fast,
 real fast. We are safe from insecure JavaScript, privacy violations, and
 slow graphics because we've learned the bash Linux shell first allowing
-us to *dominate* the skills learned by others. 
-
-It's not that we *think* we're better than others. We objectively are.
-You will become part of the 0.01% of technologists who actually know
-this stuff. The trick is to keep your ego from taking you over. (Alas,
-I've lost a few to 'Anakhin Syndrome' in the past).
+us to *dominate* the skills learned by others. It's not that we *think*
+we're better than others. We objectively are. You will become part of
+the 0.01% of technologists who actually know this stuff. The trick is to
+keep your ego from taking you over. (Alas, I've lost a few to 'Anakhin
+Syndrome' in the past).
 
 Let's get you started with your first mission (which is what I'm calling
 each step along the path these days):
