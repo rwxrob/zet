@@ -1,4 +1,4 @@
-# Boost: Before You Begin
+# Boost: You Must Be This 'Tall' to Ride
 
 * Describe what the Beginner Boost is
 * Understand your part and participation in the Boost
@@ -50,4 +50,4 @@ Doors:
 at the top of this room description. If you something horrible might
 happen.*
 
-* [20210830003232](/20210830003232/) Boost: Start Here
+* [20210902010351](/20210902010351/) Boost: Room to Learn
