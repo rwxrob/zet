@@ -1,8 +1,8 @@
 # Web People Don't Know How to Use Language
 
 The terms "frontend", "backend", and "full-stack" were either invented
-or destroyed by web people, people who should know better than to pick
-obtuse, open-ended terms for things. After all these people claim to be
+or destroyed by Web people, people who should know better than to pick
+obtuse, open-ended terms for things. After all, these people claim to be
 be in charge of producing our Web content. Perhaps that is why the Web
 is so totally messed up these days. Web people have a bad habit of
 taking a term that has perfectly good meaning and obfuscating the crap
