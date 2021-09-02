@@ -1,14 +1,17 @@
-# Beginner Boost: Before You Begin
+# Boost: Before You Begin
 
-This is the "you must be this tall to ride this ride" warning in the
-front of the line to one of the most amazing rides you will ever
-experience. If you're not yet this "tall" then wait until you are, or
-take some proverbial growth hormones. There's nothing stopping you from
-going on this ride even if you aren't "tall" enough, but you might end
-up getting whiplash, puking all over your family, or getting violently
-thrown from the ride and decapitated. That's on you. You've been warned.
+* Describe what the Beginner Boost is
+* Understand your part and participation in the Boost
+* Know what is required of yourself
+* Be aware of the risks
+* Willingly accept these requirements before continuing
 
-Do not proceed unless you have met all the following requirements:
+Imagine yourself standing with your friends in the lobby of an enticing
+"ride" at your favorite amusement park where all you do is learn to
+escape from one room to the next, with no limits (well none but those
+you see written on the wall in this lobby room). You scan the wall with
+your friends and make sure you are all, metaphorically speaking, "tall
+enough" to ride this ride:
 
 * You know what the Beginner Boost is and how it works
 * You can dedicate six hours per week to learning, minimum
@@ -29,17 +32,22 @@ Do not proceed unless you have met all the following requirements:
 * You are committed to sharing (not hording) your knowledge
 * You will never make someone feel small for knowing less than you
 
-And if you are attending the Boost in person:
+And if you are physically doing the Boost in person (in an *actual*
+room with others):
 
 * You have been immunized
 * You are not experiencing any symptoms of sickness
 * You take regular showers and care for your personal hygiene
 * You will be punctual (10 minutes late is automatic cancellation)
 
-Your next mission:
+Content to help you complete this room:
 
-* [20210830003232](/20210830003232/) Beginner Boost: Start Here
+* [20210830121618](/20210830121618/) What is a Beginner Boost?
 
-Related:
+Doors:
 
-* [20210830121618](/20210830121618/) Q: What is a Beginner Boost?
+*Remember, don't leave until you've completed all the objectives listed
+at the top of this room description. If you something horrible might
+happen.*
+
+* [20210830003232](/20210830003232/) Boost: Start Here
