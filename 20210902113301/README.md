@@ -32,12 +32,12 @@ here's what it means:
 🤬 a rant, usually that would include curse words  
 ⚠️  a warning, or caution, achtung!  
 
-You might have noticed that ***callouts***, for example, was bold and
-italic. Bold-italic is reserved specifically for ***terms***, meaning
-that they are likely to be found referenced in the 'Related:' section or
-otherwise have their own zettel and glossary entry. Pay attention and
-memorize these when they occur. They are key to mastery and will be used
-a lot by myself and potentially others interviewing you one day.
+You might have noticed that the word callouts was bold and italic.
+Bold-italic is reserved specifically for ***terms***, meaning that they
+are likely to be found referenced in the 'Related:' section or otherwise
+have their own zettel and glossary entry. Pay attention and memorize
+these when they occur. They are key to mastery and will be used a lot by
+myself and potentially others interviewing you one day.
 
 This content is also full of ***fenced*** and ***raw*** (unformatted) blocks. Fenced blocks are always code or output that you would see on your terminal:
 
