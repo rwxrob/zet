@@ -34,22 +34,25 @@ bribe?
 And to those who say this 'makes it harder to find good stuff' I say,
 "What the fuck are you talking about?" People find *you* not the
 category. If you are worried about not being found by people because of
-the random ducks, earthquakes, and AI experiments they you have bigger
+the random ducks, earthquakes, and AI experiments then you have bigger
 community problems to deal with, creating a new category isn't gonna fix
 your shitty stream content and dwindling community. After all, I don't
 give a fuck how big my community is. Those who need it *will* and *have*
 found it. Having a smaller community is *better* if you don't have
-shitty aspirations to support yourself from your stream. Get a fucking
-real job. Then stream wherever it makes sense. Your stream isn't your
-fucking job. If it is, well, nothing is going to help you.
+shitty aspirations to support yourself from your stream. Get a real
+fucking job and use it to provide financial backing and content for your
+stream. That's what people want (in this category). Then stream wherever
+and whenever it makes sense. Your stream should really not be your job.
+If it is, well, nothing is going to help you, except maybe a social
+media marketing degree (like DistroTube has).
 
 Don't believe me? Go ask Dennis how he maintains one of the top Twitch
-streams in Science and Technology history while getting fucking banned
+streams in Science and Technology history while getting banned
 every other month. Do you think he gives one flying fuck about the new
 category? HELL no. His community follows *him* not the fucking category.
 Dennis is the epitome of a great streamer and community builder and he
-proves it every fucking day. I aspire to be like Dennis, if only my
-liver could put up with it. Those fucking Canadians, they have strong
-fucking livers, and wolves (\*shivers\*).
+proves it every fucking day. (Bonus fucks inspired by him.) I aspire to
+be like Dennis (if only my liver could put up with it). Those fucking
+Canadians, they have strong fucking livers, and wolves (\*shivers\*).
 
     #twitch #rant #science #fullstack #news
