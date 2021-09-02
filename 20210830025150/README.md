@@ -1,4 +1,4 @@
-# Get A Linux Terminal
+# Boost: Get A Linux Terminal
 
 The Linux terminal is the most powerful, ubiquitous tool any
 technologist can add to their personal and professional kit. It unlocks
