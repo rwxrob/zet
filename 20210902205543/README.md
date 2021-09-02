@@ -3,7 +3,7 @@
 I fucking hate most of the channels that were in *Science and
 Technology* before the recent addition of the 'Software and Game
 Programming' related to shitty game development. Don't misunderstand, I
-have nothing against the *people* there (except Primagean who is a
+have nothing against the *people* there (except ThePrimeagean who is a
 fucking uninformed, script-kiddy dick).
 
 Thank GOD are all these would-be game-devs-for-life are leaving en mass
