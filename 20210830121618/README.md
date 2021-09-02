@@ -56,7 +56,7 @@ stuff that companies are hiring (and paying six-figure salaries) for
 
 This "junior" technologist, with a psychology degree and few prospects,
 went on to land a \$100,000 job at one of the most exciting companies in
-the cloud-native space after completing the learning in the Boost. He
+the cloud-native space after completing the learning in the Boost that he
 taught *himself*. I was just along for the ride.
 
 > 🤬 My recruiter calls me at least once a month to see if I have anyone
