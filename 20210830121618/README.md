@@ -68,11 +68,11 @@ taught *himself*. I was just along for the ride.
 > that prevents them from doing the job, or even getting it, or any
 > certifications in the process. You can easily spot these charlatans
 > because they almost always recommend four things: Zsh, NeoVim, Rust,
-> and Arch Linux. *None* of these inferior technologies anywhere in
-> 99.9% of the tech jobs out there, even Linux jobs. Nothing screams "I
-> don't know what the Hell I'm talking about" more than recommending these
-> hobbyist technologies. Don't take my word for it. Do your own
-> research. You'll see.
+> and Arch Linux. *None* of these inferior technologies can be found
+> anywhere in 99.9% of the tech jobs out there, even Linux jobs. Nothing
+> screams "I don't know what the Hell I'm talking about" more than
+> recommending them. Don't take my word for it. Do your own research.
+> You'll see.
 
 "What does 'flavored for hacking and operations' mean?"
 
