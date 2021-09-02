@@ -52,8 +52,8 @@ $ ./hello
 Hello world!
 ```
 
-Raw blocks are simply text that need to appear as is without any
-formatting, such as addresses or poetry or ASCII art:
+Raw blocks are simply text that needs to appear as is without any
+formatting:
 
        _ ____      ____  __
       | '__\ \ /\ / /\ \/ /
