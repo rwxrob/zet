@@ -36,13 +36,6 @@ up to you. One choice is to not make any choice at all. You control your
 path, within certain boundaries to keep things from getting really
 crazy.
 
-Each knowledge node has a set of objectives summarized at the top.
-Objectives are always worded in such as way that that is you can answer
-"yes, I can do this" you pass. This helps with self-assessment, which is
-itself a skill that takes practice to master. You might even actually
-write out your responses or just speak them back to yourself (or your
-rubber duck).
-
 > 💬
 > Other, kitschier terms were considered and abandoned including
 > 'mission', 'quest', 'challenge', and 'achievement' which I might still
