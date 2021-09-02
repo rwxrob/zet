@@ -68,4 +68,11 @@ crazy.
 > use for the gamified, hacker/spy themed learning on skilstak.io and
 > skilstak.sh someday.
 
+Doors:
+
+* [20210831191541](/20210831191541/) Boost: Learn to Learn Like a Hacker
+* [20210830025150](/20210830025150/) Boost: Get A Linux Terminal
+* [20210830025609](/20210830025609/) Boost: You Must Be This 'Tall' to
+  Ride
+
     #learning #education #edtech #compsci #pedagogy
