@@ -17,7 +17,7 @@ Software development is *not* engineering, it is a part of engineering,
 but not a category unto itself. The shitty term 'software engineer' was
 invented by a programmer at NASA who wanted to feel more important in
 their role and unfortunately the title stuck. You can't even use the
-term 'engineer' legally in your your title in Canada because you have
+term 'engineer' legally in your title in Canada because you have
 to prove you have experience and education that is *actual* engineering. 
 
 I'm just giddy that all the 'full-stack' people are all grouped in one
