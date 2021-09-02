@@ -19,11 +19,12 @@ writing styles of the academic resources you've read in the past.
 
 That last paragraph (technically a ***blockquote*** from HTML and
 Markdown) starts with an emoji. I like emojis. They are like a modern
-form of ***cuneiforms***. I use them to give meaning to turning
-a paragraph or section into a ***callouts*** and ***sidebars*** from
-traditional publishing. You know, those boxes and things on the side
-that are related to the current content but not directly. If you see an
-emoji at the beginning of one of these blocks here's what it means:
+form of ***cuneiform***. I use them to give meaning to turning
+a paragraph or section into ***callouts*** and ***sidebars*** from
+popularized by traditional publishing. You have seen them as those boxes
+and things on the side that are related to the current content but not
+directly. If you see an emoji at the beginning of one of these blocks
+here's what it means:
 
 😃 something happy or funny  
 💡 an idea or tip  
