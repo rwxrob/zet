@@ -1,6 +1,13 @@
-# Learn to Learn Like a Hacker
+# Boost: Learn to Learn Like a Hacker
 
 *Before you read this, put on some good dark industrial music.*
+
+Objectives:
+
+* Understand the system of learning oppression we face
+* Overcome fear of learning organically
+* Give yourself permission to learn
+* Get motivated
 
 It sounds like a trailer for a TV show trying to pump up some idiotic
 computer brand with completely obvious product placement, but learning
