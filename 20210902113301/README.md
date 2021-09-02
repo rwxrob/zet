@@ -64,7 +64,8 @@ formatting:
 > Fenced blocks are never rendered in places where special
 > characters are not allowed, such as in a YouTube video descriptions,
 > which is why every learning node with a video has a full zettel of
-> written text to go along with it.
+> written text to go along with it. Raw (unformatted) blocks, however,
+> are rendered.
 
 And one last convention that is a hold over from traditional publishing,
 any time you see a name in parentheses after an inline quoted phrase it
