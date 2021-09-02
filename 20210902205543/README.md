@@ -3,13 +3,13 @@
 I fucking hate most of the channels that were in *Science and
 Technology* before the recent addition of the 'Software and Game
 Programming' related to shitty game development. Don't misunderstand, I
-have nothing against the *people* there (except Primagean who is a
+have nothing against the *people* there (except ThePrimeagen who is a
 fucking uninformed, script-kiddy dick).
 
 Thank GOD are all these would-be game-devs-for-life are leaving en mass
 leaving Science and Technology practically empty except for people
 actually doing science and tech stuff (and the ducks and AI and
-earthquakes, of course). 
+earthquakes, of course).
 
 Sorry, not sorry.
 
@@ -18,7 +18,7 @@ but not a category unto itself. The shitty term 'software engineer' was
 invented by a programmer at NASA who wanted to feel more important in
 their role and unfortunately the title stuck. You can't even use the
 term 'engineer' legally in your title in Canada because you have
-to prove you have experience and education that is *actual* engineering. 
+to prove you have experience and education that is *actual* engineering.
 
 I'm just giddy that all the 'full-stack' people are all grouped in one
 place to avoid. So long you shitty channels. Have fun doing whatever it
