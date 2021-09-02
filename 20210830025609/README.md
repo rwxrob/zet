@@ -47,7 +47,7 @@ Content to help you complete this room:
 Doors:
 
 *Remember, don't leave until you've completed all the objectives listed
-at the top of this room description. If you something horrible might
-happen.*
+at the top of this room description. If you don't pass them all
+something horrible might happen.*
 
 * [20210902010351](/20210902010351/) Boost: Room to Learn
