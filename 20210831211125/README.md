@@ -23,6 +23,10 @@ I find myself writing more of a review than anything when listing
 something as if I've just been asked about it. For example, "Which books
 to you recommend?" 
 
+I've also added the following custom categories:
+
+* Boost
+
 Related:
 
 * [20210831211401](/20210831211401/) Zettel Category: Figure
@@ -33,3 +37,4 @@ Related:
 * [20210901033937](/20210901033937/) Zettel Category: Series
 * [20210901034100](/20210901034100/) Zettel Category: Site
 * [20210901182311](/20210901182311/) Zettel Category: Rant
+* [20210902014357](/20210902014357/) Zettel Category: Boost
