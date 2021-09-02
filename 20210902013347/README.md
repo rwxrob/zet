@@ -13,4 +13,4 @@ Related:
 * [20210902005835](/20210902005835/) Boost: Learning Objectives
 * [20210902010351](/20210902010351/) Boost: Learning Node
 
-    #learning #eduation #writing #curriculum #keg
+    #learning #education #writing #curriculum #keg
