@@ -28,7 +28,7 @@ The intelligence quotient of Science and Technology just went through
 the roof, even with the ducks pulling it down, just a bit. The
 percentage of security, cloud native, computer scientists, and
 electronic engineers has almost immediately increased. Today is a great
-day to be an engineer who streams. Thank you Twitch. Where do I sent the
+day to be an engineer who streams. Thank you Twitch. Where do I send the
 bribe?
 
 And to those who say this 'makes it harder to find good stuff' I say,
