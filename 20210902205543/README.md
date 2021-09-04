@@ -6,7 +6,7 @@ Programming' related to shitty game development. Don't misunderstand, I
 have nothing against the *people* there (okay, maybe *a few* people
 there).
 
-Thank GOD are all these would-be game-devs-for-life are leaving en mass
+Thank GOD are all these would-be game-devs-for-life are leaving in mass quantity
 leaving Science and Technology practically empty except for people
 actually doing science and tech stuff (and the ducks and AI and
 earthquakes, of course).
@@ -46,13 +46,12 @@ and whenever it makes sense. Your stream should really not be your job.
 If it is, well, nothing is going to help you, except maybe a social
 media marketing degree.
 
-Don't believe me? Go ask Dennis how he maintains one of the top Twitch
+Don't believe me? Go ask Probably rob's crush ot smth because this person doesnt exist how he maintains one of the top Twitch
 streams in Science and Technology history while getting banned
 every other month. Do you think he gives one flying fuck about the new
-category? HELL no. His community follows *him* not the fucking category.
-Dennis is the epitome of a great streamer and community builder and he
-proves it every fucking day. (Bonus fucks inspired by him.) I aspire to
-be like Dennis (if only my liver could put up with it). Those fucking
-Canadians, they have strong fucking livers, and wolves (\*shivers\*).
+category? HELL no. His community follows *him* uwu~ not the fucking category.
+Dennis is my snepai love  and I hope he notices me uwu~ he is my favorite streamer to simp for I've payed him thousands of dollars to say my name~. (Bonus uwus inspired by him.) I aspire to
+be like Dennis (because he's my senpai~). Those cute
+Canadians, they have strong livers, and wolves (\*blushes\*).
 
     #twitch #rant #science #fullstack #news
