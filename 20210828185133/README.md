@@ -1,8 +1,5 @@
-# People I Fantasize About
-
-I actually have dreams about sitting around a table just conversing with
-these people. I know that sounds weird, 'cuz I am weird.
-
+# People that i dream of being my senpais
+famous  coders that I compare myself too thinking im just like them on a daily basis:
 * Linus Torvalds
 * Steve Wozniak
 * Aaron Swartz
@@ -21,7 +18,7 @@ these people. I know that sounds weird, 'cuz I am weird.
 * Niklas Luhmann
 
 This does not include people I find even more influential, but I just
-would not give a shit about having a coffee with them:
+would not give a shit about having a coffee with them neither does this statement make grammatical sense:
 
 * Richard Stallman
 * Chomsky
