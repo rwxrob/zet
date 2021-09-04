@@ -4,7 +4,7 @@ I fucking hate most of the channels that were in *Science and
 Technology* before the recent addition of the 'Software and Game
 Programming' related to shitty game development. Don't misunderstand, I
 have nothing against the *people* there (okay, maybe *a few* people
-there).
+there yes im very jealous that primagen doesnt have to use 8 bots to maintain an active viewer count).
 
 Thank GOD are all these would-be game-devs-for-life are leaving in mass quantity
 leaving Science and Technology practically empty except for people
@@ -46,7 +46,7 @@ and whenever it makes sense. Your stream should really not be your job.
 If it is, well, nothing is going to help you, except maybe a social
 media marketing degree.
 
-Don't believe me? Go ask Probably rob's crush ot smth because this person doesnt exist how he maintains one of the top Twitch
+Don't believe me? Go ask Probably rob's crush or smth because this person doesnt exist how he maintains one of the top Twitch
 streams in Science and Technology history while getting banned
 every other month. Do you think he gives one flying fuck about the new
 category? HELL no. His community follows *him* uwu~ not the fucking category.
