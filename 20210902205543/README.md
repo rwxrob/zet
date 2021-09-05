@@ -1,5 +1,10 @@
 # Glad New 'Software and Game Programming' on Twitch
 
+TL;DR:
+
+* *Software and Game Programming* is where Dinesh would stream.
+* *Science and Technology* is where Gilfoyle would stream.
+
 I fucking hate most of the channels that were in *Science and
 Technology* before the recent addition of the 'Software and Game
 Programming' related to shitty game development. Don't misunderstand, I
