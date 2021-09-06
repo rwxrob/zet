@@ -28,7 +28,7 @@ I'm just giddy that all the 'full-stack' people are all grouped in one
 place to avoid. So long shitty channels. Have fun doing whatever the
 fuck it is that you do. You won't be missed, not by me anyway. I'm sure
 there are many who will continue to watch whatever it is you do. Most
-*real* engineers have never even fucking logged into Twitch in their
+*real* engineers have never even logged into Twitch in their
 lives.
 
 The intelligence quotient of Science and Technology just went through
