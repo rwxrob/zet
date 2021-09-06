@@ -1,5 +1,7 @@
 #  Another Random
 
+📺 <https://youtu.be/7tOGWlIBTJ8>
+
 *remember to turn off music, start recording*
 
 1. Scenario
