@@ -3,16 +3,17 @@
 * *Software and Game Programming* is where Dinesh would stream.
 * *Science and Technology* is where Gilfoyle would stream.
 
-I fucking hate most of the channels that were in *Science and
-Technology* before the recent addition of the 'Software and Game
-Programming' related to shitty game development. Don't misunderstand, I
-have nothing against the *people* there (okay, maybe *a few* people
-there).
+I hate most of the channels that were in *Science and Technology* before
+the recent addition of the 'Software and Game Programming' related to
+shitty game development. Don't misunderstand, I have nothing against the
+*people* there (okay, maybe *a few* people).
 
-Thank GOD are all these would-be game-devs-for-life are leaving en mass
+Thank GOD are all these would-be-game-devs-for-life are leaving en mass
 leaving Science and Technology practically empty except for people
 actually doing science and tech stuff (and the ducks and AI and
-earthquakes, of course).
+earthquakes, of course). I especially love that alpha-software NeoVim
+and Zsh users are united in their aversion against *Science and
+Technology* (which sounds about right).
 
 Sorry, not sorry.
 
