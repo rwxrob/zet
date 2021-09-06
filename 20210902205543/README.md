@@ -25,15 +25,19 @@ term 'engineer' legally in your title in Canada because you have
 to prove you have experience and education that is *actual* engineering.
 
 I'm just giddy that all the 'full-stack' people are all grouped in one
-place to avoid. So long you shitty channels. Have fun doing whatever it
-is that you do. You won't be missed, not by me anyway.
+place to avoid. So long shitty channels. Have fun doing whatever the
+fuck it is that you do. You won't be missed, not by me anyway. I'm sure
+there are many who will continue to watch whatever it is you do. Most
+*real* engineers have never even fucking logged into Twitch in their
+lives.
 
 The intelligence quotient of Science and Technology just went through
 the roof, even with the ducks pulling it down, just a bit. The
 percentage of security, cloud native, computer scientists, and
-electronic engineers has almost immediately increased. Today is a great
-day to be an engineer who streams. Thank you Twitch. Where do I send the
-bribe?
+electronic engineers has almost immediately increased. Wolfram? Yep.
+He's still here. Gamozo, check. What a brilliant systems engineer and
+fuzzer. MrHorologist, hell yeah, still here. Today is a great day to be
+an engineer who streams. Thank you Twitch. Where do I send the bribe?
 
 And to those who say this 'makes it harder to find good stuff' I say,
 "What the fuck are you talking about?" People find *you* not the
