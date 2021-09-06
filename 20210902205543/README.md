@@ -1,7 +1,5 @@
 # Glad New 'Software and Game Programming' on Twitch
 
-TL;DR:
-
 * *Software and Game Programming* is where Dinesh would stream.
 * *Science and Technology* is where Gilfoyle would stream.
 
