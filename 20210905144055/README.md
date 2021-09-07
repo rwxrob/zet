@@ -11,7 +11,7 @@ The hard way, of course.
 
 I learned Go after having learned several other languages already. So
 when I did the *Tour of Go* it was annoying, but I got it. Eventually,
-I have up on it as a waste of time and just jumped in to create
+I gave up on it as a waste of time and just jumped in to create
 a project.
 
 My first Go project was a password management utility for SKILSTAK to
