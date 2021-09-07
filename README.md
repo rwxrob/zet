@@ -1,11 +1,34 @@
-# Personal Zettelkasten
+# Personal Zettelkasten of `@rwxrob`
 
-This is my personal, public Zettelkasten repository. It contains stuff
-on pretty much any topic I feel like writing about, that I'm good with
-being public. There are tons of spelling and grammar errors and such
-because it is meant to be an organic place to dump thoughts, not a final
-publication (although the idea is to use a Zettelkasten to produce such
-things).
+Hi I'm Rob Muhlestein from http://rwxrob.tv. This is my personal, public
+Zettelkasten repository. It contains stuff on pretty much any topic
+I feel like writing about, that I'm good with being public. I'm a very
+public person because I sincerely want to help others find their own
+path. There are tons of spelling and grammar errors and opinions and
+mistakes and realizations I was wrong because it is meant to be an
+organic place to dump thoughts, not a final publication (although the
+idea is to use a Zettelkasten to produce such things).
+
+> 🤬
+> I want people to find value in this content *as is*, just don't change
+> it and abuse it. Citations and quoting with attribution are 100% okay
+> under fair-use copyright laws everywhere.
+>
+> I had to add my name because people are forking this repo and posting
+> harassing issues and PR requests and it might not be obvious who wrote
+> it. Let me be clear, making *any* change and publishing that change
+> yourself is illegal. This includes forking and submitting harassing
+> or satirical PRs after that PR has been rejected. Doing so is not only
+> against GitHub policy and copyright law, but could also be prosecuted
+> as criminal harassment and liable depending on the changes.
+>
+> Make no mistake, I will fucking sue your ass if you violate this legal
+> requirement even if I have to go on a fund-raising campaign to make it
+> happen. It takes me thousands of hours to produce this content.
+>
+> Whatever your intention, to troll, harass, or plagiarize, just know
+> that if you do create any "derivative work" getting sued will be the
+> least of your problems. You've been warned.
 
 Related:
 
