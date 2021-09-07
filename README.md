@@ -9,26 +9,30 @@ mistakes and realizations I was wrong because it is meant to be an
 organic place to dump thoughts, not a final publication (although the
 idea is to use a Zettelkasten to produce such things).
 
+I want people to find value in this content *as is*, just don't change
+it and abuse it. Citations and quoting with attribution are 100% okay
+under fair-use copyright laws everywhere. Forking is okay as long as
+you make no public changes to your fork (which would be 'derivative
+works'). If you see an error, submit an issue. Don't submit a PR
+(since technically a PR is illegal under 'no derivatives' clause).
+
 > 🤬
-> I want people to find value in this content *as is*, just don't change
-> it and abuse it. Citations and quoting with attribution are 100% okay
-> under fair-use copyright laws everywhere.
 >
-> I had to add my name because people are forking this repo and posting
-> harassing issues and PR requests and it might not be obvious who wrote
-> it. Let me be clear, making *any* change and publishing that change
-> yourself is illegal. This includes forking and submitting harassing
-> or satirical PRs after that PR has been rejected. Doing so is not only
-> against GitHub policy and copyright law, but could also be prosecuted
-> as criminal harassment and liable depending on the changes.
+> People have started forking this repo and posting harassing issues and
+> PR requests. Let me be clear, making *any* public change to this repo,
+> fork or otherwise is illegal, period. It doesn't even have to be
+> harassment to fit the legal definition of 'derivative work'. Don't
+> risk it, even if you mean well or it's just 'a joke.' Doing so is not
+> only against GitHub policy and copyright law, but could also be
+> prosecuted as criminal harassment and liable depending on the changes.
 >
 > Make no mistake, I will fucking sue your ass if you violate this legal
 > requirement even if I have to go on a fund-raising campaign to make it
-> happen. It takes me thousands of hours to produce this content.
->
-> Whatever your intention, to troll, harass, or plagiarize, just know
-> that if you do create any "derivative work" getting sued will be the
-> least of your problems. You've been warned.
+> happen. It takes me thousands of hours to produce this content and I
+> will not put up with your shit. Whatever your intention, to troll,
+> harass, or plagiarize, just know that if you do create any "derivative
+> work" getting sued will be the least of your problems. You've been
+> warned.
 
 Related:
 
