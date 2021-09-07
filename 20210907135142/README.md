@@ -134,7 +134,7 @@ be, "This is my conclusion based on what I've outlined in this piece of
 writing that you can validate on your own." This encourages people to do
 their own research and critical thinking while providing the convenience
 of your conclusion up front. Instead, they expose their heart-felt belief
-that they are too stupid, uninformed, or lazy to draw your own
+that the reader is too stupid, uninformed, or lazy to draw your own
 conclusions based on their undocumented logic.
 
 > 🤬
