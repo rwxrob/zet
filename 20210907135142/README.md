@@ -25,8 +25,9 @@ I could not reply to Emily's tweet because they (their preferred
 pronoun) have replies off, for obvious reasons. Anyone who claims that
 you should just be okay with sending Gmail and that there is no
 difference if you don't want Google to read it doesn't understand basic
-cryptography or how it is implemented at ProtonMail. Perhaps she does
-and just prefers a click-bait tweet over an actual explanation. 
+cryptography or how it is implemented at ProtonMail. Perhaps they just
+prefer a click-bait tolling tweet over an actual explanation. After all,
+they seem to enjoy baiting and then attacking trolls.
 
 What I think Emily means is that you should never do anything online
 that you don't want public in *any* system (email included) unless you
