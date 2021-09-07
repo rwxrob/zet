@@ -132,8 +132,21 @@ The appropriate alternative way to express that tweeted sentiment would
 be, "This is my conclusion based on what I've outlined in this piece of
 writing that you can validate on your own." This encourages people to do
 their own research and critical thinking while providing the convenience
-of your conclusion up front. Instead, she exposes her heart-felt belief
-that you are too stupid, uninformed, or lazy to draw your own
-conclusions based on her undocumented logic.
+of your conclusion up front. Instead, they expose their heart-felt belief
+that they are too stupid, uninformed, or lazy to draw your own
+conclusions based on their undocumented logic.
 
-    #protonmail #gmail #google #infosec #fails @ElleArmageddon
+> 🤬
+> I predict that if and when Emily responds to this it will follow her
+> pattern of lashing out at others because of their gender instead of
+> their facts. I've rewritten this article to respect their pronoun
+> picks despite how fucking confusing it is. This has *nothing* to do
+> with my gender. Emily, please, do not make it about that.
+
+Related:
+
+* <https://twitter.com/ElleArmageddon/status/1434722963920621572>
+
+Tags:
+
+    #protonmail #gmail #google #infosec #fails
