@@ -17,7 +17,6 @@ works'). If you see an error, submit an issue. Don't submit a PR
 (since technically a PR is illegal under 'no derivatives' clause).
 
 > 🤬
->
 > People have started forking this repo and posting harassing issues and
 > PR requests. Let me be clear, making *any* public change to this repo,
 > fork or otherwise is illegal, period. It doesn't even have to be
