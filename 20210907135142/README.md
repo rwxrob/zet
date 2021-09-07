@@ -40,7 +40,7 @@ because the route of your email *can* be tracked.
 
 Content encryption is always stronger than tunnel encryption. If that is
 what Emily is saying, then I agree with that statement completely. But I
-won't know because she tends to prefer Twitter to actual writing. 
+won't know because Emily tends to prefer Twitter to actual writing. 
 
 As angry as I am about the ProtonMail violation of good-faith as
 promised in Andy's TED talk about privacy, I must point out that even
@@ -92,9 +92,9 @@ forced by a government, could be hacked specifically to get your keys
 from you. And it's very unlikely your non-technical friends and family
 would bother with that sort of thing.
 
-Emily's choice of Twitter causes the perception that she is saying,
+Emily's choice of Twitter causes the perception that they are saying,
 "You should just use Gmail." She's not saying that at all. (Even though
-she used those words.) 
+they used those words.) 
 
 Emily indirectly implies that ProtonMail provides no additional
 protections, painting the safety that ProtonMail *does* provide as
@@ -103,7 +103,7 @@ inferred response is, "Well you should never do anything you want
 private on ProtonMail anyway, which is why Gmail is just fine." 
 
 Let's guess that Emily meant stuff like Signal (again we have to guess
-because she prefers confusing tweets over actual writing). While it is
+because they prefer confusing tweets over actual writing). While it is
 true that Signal is a much faster form of communication, it's an
 entirely *different* form of communication. You simply cannot send large
 amounts of data over Signal or Slack and still have a 'man in the
@@ -118,7 +118,7 @@ should have expected this level of completely obfuscated arrogance from
 an American security person leading the charge for a company in Silicon
 Valley. But it is dangerous because people heeding her tweet will
 continue to do insecure things and be okay with it whether or not they
-misunderstood what she was saying, again because she preferred a
+misunderstood what Emily was saying, again because Emily preferred a
 click-bait tweet over actual writing, something very common from the SV
 set.
 
