@@ -136,4 +136,4 @@ of your conclusion up front. Instead, she exposes her heart-felt belief
 that you are too stupid, uninformed, or lazy to draw your own
 conclusions based on her undocumented logic.
 
-    #protonmail #gmail #google #infosec #fails [\@ElleArmageddon](https://twitch.tv/ElleArmageddon)
+    #protonmail #gmail #google #infosec #fails @ElleArmageddon
