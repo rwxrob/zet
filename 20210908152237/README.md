@@ -42,3 +42,5 @@ over and over and over again.
 
 So if anyone else ends up having to face this sort of drama, just know,
 it's for the best in the end. Don't get mad, get busy.
+
+    #rants #drama #lessonslearned #education #learning #streaming
