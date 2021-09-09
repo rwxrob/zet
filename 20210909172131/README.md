@@ -1,7 +1,7 @@
 # Hold Up: Minikube Requires "Driver", Go VirtualBox
 
-In my exploration of Minikube as a better beginner starting point I just
-realized (while testing on a fresh Windows install here at home) that I
+In my exploration of using Minikube as a Docker Desktop replacement and better beginner starting point I just
+realized, while testing on a fresh Windows install here at home, that I
 completely missed the "driver" requirement (duh). Here are the drivers
 supported on a Windows machine:
 
@@ -54,7 +54,7 @@ Don't worry, Oracle didn't invent it (thank God). They bought out the
 company and have made it free for everyone for some time. It's inferior
 to VMWare (I paid for VMWare Pro) but it's definitely good enough. All
 you have to do with this option is download the installer and run it,
-accepting 'Run as Admin' as you do. It is by far the simplest solution
+accepting "Run as Admin" as you do. It is by far the simplest solution
 to the must-have-driver `minikube` requirement. I had `minikube start`
 working within four minutes after installing VirtualBox and just
 accepting all the defaults, clicking through everything with wild
@@ -62,7 +62,7 @@ abandon.
 
 Plus after installing VirtualBox you get the added bonus of being able
 to use it later to install and "host" any number of operating systems
-and try them out before you 'buy' them and install to your actual
+and try them out before you "buy" them and install to your actual
 hardware. Wanna compare Arch versus PopOS? VirtualBox has got you. 
 
 The `virtualbox` driver option also has the added advantage of having a
@@ -75,7 +75,7 @@ you can run Windows there on occasion to try and hack/break it. You know
 you will want to. In fact, you *must* do this to get the OSEE
 certification while at DEFCON.
 
-Everyone will have to 'choose their own adventure' here, but my clear
+Everyone will have to "choose their own adventure" here, but my clear
 recommendation is to install VirtualBox because it will have so many
 other practical applications later. Plus, it saves you from a dependency
 on the proprietary Docker Desktop software.
