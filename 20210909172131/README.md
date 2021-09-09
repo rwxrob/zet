@@ -55,16 +55,18 @@ company and have made it free for everyone for some time. It's inferior
 to VMWare (I paid for VMWare Pro) but it's definitely good enough. All
 you have to do with this option is download the installer and run it,
 accepting 'Run as Admin' as you do. It is by far the simplest solution
-to the must-have-driver `minikube` requirement. Plus you get the added
-bonus of being able to use it later to install any number of operating
-systems and try them out before you 'buy' them and install to your
-actual hardware. Wanna compare Arch versus PopOS? VirtualBox has got
-you. I had `minikube start` working within four minutes after installing
-VirtualBox and just accepting all the defaults, clicking through
-everything with wild abandon.
+to the must-have-driver `minikube` requirement. I had `minikube start`
+working within four minutes after installing VirtualBox and just
+accepting all the defaults, clicking through everything with wild
+abandon.
 
-The `virtualbox` driver also has the added advantage of having
-a consistent user interface across *all* operating systems. The other
+Plus after installing VirtualBox you get the added bonus of being able
+to use it later to install and "host" any number of operating systems
+and try them out before you 'buy' them and install to your actual
+hardware. Wanna compare Arch versus PopOS? VirtualBox has got you. 
+
+The `virtualbox` driver option also has the added advantage of having a
+consistent user interface across *all* operating systems. The other
 options --- including the VMWare software --- all have noticeable
 differences between their interfaces. As someone who sometimes must
 address a heterogeneous group of people coming from all three OSes,
