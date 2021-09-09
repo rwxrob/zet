@@ -90,4 +90,4 @@ Related:
 
 Tags:
 
-    #k8s #cloud #tips #minikube #docker #cncf #tips #tools
+    #k8s #cloud #minikube #docker #cncf #tips #tools
