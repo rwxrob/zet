@@ -15,7 +15,8 @@ start` will even work.
 
 So which is the easiest?
 
-I hate saying this: they are all equally annoying.
+I hate saying this: they are all equally annoying. Installing VirtualBox
+is slightly less annoying and gets you a lot more later for the trouble.
 
 With `docker` you have to install Docker Desktop, unless you go through
 the decidedly painful process of using some other way to get a `docker`
