@@ -37,7 +37,7 @@ new number one recommendation for the Boost.
 It gets better.
 
 **Minikube includes a full FOSS-compliant Docker** (including the `docker`
-command. That's right, it has *everything* Docker Desktop includes but
+command). That's right, it has *everything* Docker Desktop includes but
 also allows you to swap out the container engine later to something else
 if you don't want Docker (and many no longer do). And Minikube is 100%
 open source under the CNCF Kubernetes umbrella, meaning it will never
