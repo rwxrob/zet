@@ -55,6 +55,15 @@ out before you 'buy' them and install to your actual hardware. I had
 and just accepting all the defaults, clicking through everything with
 wild abandon.
 
+The `virtualbox` driver also has the added advantage of being consistent
+across all operating systems. This is about Windows, but Mac can just as
+easily install VirtualBox and everything is the same as far as the user
+is concerned. The other options --- including the VMWare software ---
+all have noticeable differences between them. As someone who sometimes
+must address a heterogeneous group of people coming from all three OSes,
+having the commonality is very convenient (yes even on Linux, since you
+can run Windows there on occasion to try and hack/break it).
+
 Everyone will have to 'choose their own adventure' here, but my
 recommendation is to install VirtualBox because it will have so many
 other practical applications later. Plus, it saves you from a dependency
