@@ -24,7 +24,7 @@ command installed. And, by the way, if you are going to just install
 far easier.
 
 As for `hyperv`, most will say, "What the fuck is a `hyperv`?" There's
-nothing wrong with looking it up. It is just a virtualization later
+nothing wrong with looking it up. It is just a virtualization layer
 between your hardware and host operating system and *other* operating
 systems. (Search for illustrations.) These days you cannot even get a
 hyper-visor without "enabling it in your BIOS" which is the polar
