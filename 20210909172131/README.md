@@ -1,4 +1,4 @@
-# Hold Up: Minikube Requires "Driver", Go VirtualBox
+# Hold Up: Minikube Requires Driver, Go VirtualBox
 
 In my exploration of using Minikube as a Docker Desktop replacement and better beginner starting point I just
 realized, while testing on a fresh Windows install here at home, that I
