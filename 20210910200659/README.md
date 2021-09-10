@@ -38,7 +38,9 @@ today would tell you that is fucking astounding.
 I'm not a true believer in this stuff, but I do believe something bigger
 than ourselves is happening, and that it uses whatever message vehicle
 you are looking for to communicate. Perhaps this was one of those times,
-perhaps not.
+perhaps not. 
+
+It could just mean that I'm "Not Found" depending on who you talk to.
 
 Related:
 
