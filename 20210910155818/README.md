@@ -34,6 +34,7 @@ A few things to note:
 Getting Started:
 
 * Follow documentation on <https://kubernetes.io>
+* Recommend VirtualBox "Driver" for Minikube
 
 Related:
 
