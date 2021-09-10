@@ -26,8 +26,16 @@ A few things to note:
 * We do have a Google calendar
 * Check with your company, might have time allocated
 * If you have questions, just ask
+* Based on Minikube locally plus eventual lab
+* Using only resource available on cert exams
+* Use only tools and techniques available during exam
+* Assume certification has merit (in my case)
 
-Related
+Getting Started:
+
+* Follow documentation on <https://kubernetes.io>
+
+Related:
 
 * <https://github.com/rwxrob/zet>
 * <webcal://api.twitch.tv/helix/schedule/icalendar?broadcaster_id=447179030>  
