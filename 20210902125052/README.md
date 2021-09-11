@@ -1,4 +1,4 @@
-# MUDL: Multi-User Dungeon for Learning
+# MUDL Pedagogy: Multi-User Dungeon for Learning
 
 > Don't get yourself in a MUDL when learning. Just zettel down and
 > you'll learn a lot more than you thought. (psypheric1)
@@ -39,7 +39,11 @@ next "learning room."
 
 This idea is so good I almost want to throw out the term ***learning
 node*** and replace it with "escape room" so that people can visualize
-their learning process even more.
+their learning process even more. 
+
+> 💬
+> I definitely need to get Beginner Boost done using it, use it for
+> a year, then present my findings at ISTE.
 
 Related:
 
