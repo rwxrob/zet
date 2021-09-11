@@ -1,4 +1,4 @@
-# Boost: Room to Learn
+# Room to Learn
 
 * Describe what a *learning room* is
 * Explain how a room is just a node in a tree
