@@ -37,14 +37,14 @@ display themselves in a "room", we could even play up the "escape room"
 idea and everyone in the room is helping the rest to "escape" on to the
 next "learning room." 
 
-Fuck, this idea is so good I almost want to throw out the term
-***learning node*** and replace it with "escape room" so that people can
-visualize their learning process even more.
+This idea is so good I almost want to throw out the term ***learning
+node*** and replace it with "escape room" so that people can visualize
+their learning process even more.
 
 Related:
 
-* [20210902125702](/20210902125702/) Figure: Portable Royal Typewriter
-* [20210902010351](/20210902010351/) Boost: Learning Node
+* [20210902125702](/20210902125702/) 🖼️ Portable Royal Typewriter
+* [20210902010351](/20210902010351/) Room to Learn
 
 Tags:
 
