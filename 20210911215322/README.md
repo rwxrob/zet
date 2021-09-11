@@ -1,5 +1,7 @@
 # Weekly Streaming Schedule
 
+<https://twitch.tv/rwxrob/schedule>
+
 Here's my attempt to keep a weekly schedule updated. Keep in mind that
 although these maybe *regular* they are not guaranteed, and, in fact,
 are often moved or cancelled due to life. I figured having something to
