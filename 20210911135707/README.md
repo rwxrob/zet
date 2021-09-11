@@ -5,13 +5,15 @@ Let's go over how the Beginner Boost content is organized.
 There is no Beginner Boost book. Books cannot fully cover the organic,
 multi-path nature of real learning. They're too linear. So this Boost is
 organized to allow you to focus and choose what to work on one step (or
-***room***) at a time. 
+***room***) at a time. I call this a Multi-User Dungeon for Learning, or
+***MUDL***. You don't get progress from one room until you've completed
+it (and survived). And when you do, there are multiple paths to choose.
 
-The word ***room*** in that last paragraph is stylized to indicate a
-***term*** that you should learn and memorize. Such terms are only
-highlighted the first time they appear in any room. Usually term
-definitions have their own room listed in the *Next* ***block***.
-We'll get to blocks in a moment.
+The word ***room*** and acronym ***MUDL*** in that last paragraph are
+stylized to indicate a ***term*** that you should learn and memorize.
+Such terms are only highlighted the first time they appear in any room.
+Usually term definitions have their own room listed in the *Next*
+***block***. We'll get to blocks in a moment.
 
 A ***block*** is just a grouping of text. It's a common formatting term.
 The content for each room is organized into the following blocks:
@@ -28,7 +30,7 @@ What should you learn about next?
 
 1. "I need to know more about you before I continue?"
 1. "I want to learn what the Beginner Boost is and why you made it?"
-1. "I want to learn more about *rooms* and *blocks*?"
+1. "I want to learn more about *MUDLs*, *rooms*, and *blocks*?"
 1. "I want to know if I'm ready to do the Boost?"
 1. "I want to get started with first main Boost room?"
 
