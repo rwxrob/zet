@@ -1,7 +1,8 @@
 # Personal Go Project Testing Conventions
 
-I have a particular preference from among the many Go file naming
-conventions out there.
+I have a particular preference from among the many Go testing
+conventions. My goals are simplicity (for user/reader) and
+sustainability above all.
 
 **Put all examples in `examples_test.go`** and no I don't care how many
 there are, they all go in there so people can grep through it and see
