@@ -10,7 +10,7 @@ Wed 3pm Light Run
 Thu 3pm Hard Run
 Fri 3pm Light Run
 Sat 3pm Strength
-Sun 3pm Restorative Yoga
+Sun 3pm Light Run
 
 Running covers lower body (for me) so strength training is all upper
 body, same routine.
