@@ -75,9 +75,11 @@ logic in YAML declarations, which is why ...
 
 **It's Kubernetes fault Helm sucks so much.** Kubernetes overengineered
 complexity and insistence that *everything* be "declarative" has forced
-imperative logic into things like Helm leaving Helm in the very
-difficult middle-space between declarative and imperative. Helm
-templates with `if` and other imperative constructs are the result.
+imperative logic into things like Helm (Go) templates leaving Helm in
+the very difficult middle-space between declarative and imperative. This
+is why Helm is so fucking ugly. Helm templates with `if` and other
+imperative constructs are the result. Its a good thing we have Helm
+templates, right? Wrong.
 
 **Helm (Go) templates are where the imperative stuff ends up.**
 Unfortunately, the most powerful part of Go templates is entirely
