@@ -70,7 +70,8 @@ Helm's fault entirely. The entire "declarative" model of Kubernetes is
 just fundamentally broken on several levels. Things that should have
 been coded are written in complicated, obfuscated configuration files
 with obscure logic that is every bit as real as what would be scripted,
-but has to be captured in YAML declarations. 
+but has to be captured in YAML declarations, except you cannot capture
+logic in YAML declarations, which is why ...
 
 **It's Kubernetes fault Helm sucks so much.** Kubernetes overengineered
 complexity and insistence that *everything* be "declarative" has forced
