@@ -79,7 +79,9 @@ imperative logic into things like Helm (Go) templates leaving Helm in
 the very difficult middle-space between declarative and imperative. This
 is why Helm is so fucking ugly. Helm templates with `if` and other
 imperative constructs are the result. Its a good thing we have Helm
-templates, right? Wrong.
+templates to stuff all our logic in, right?
+
+Wrong.
 
 **Helm (Go) templates are where the imperative stuff ends up.**
 Unfortunately, the most powerful part of Go templates is entirely
