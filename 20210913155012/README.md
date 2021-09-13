@@ -44,7 +44,6 @@ realized that Helm chart creators have taken liberties with even the
 most consistent stuff, like a Deployment's
 `.spec.containers[].resources.limits.cpu` and have buried it under the
 whimsical monikers decided by the persons who created the Helm chart.
-
 This is infuriating. In my experience, these non-coders who created the
 Helm chart either force you to alter the chart source code itself
 (removing the entire value proposition of putting it into a chart in the
