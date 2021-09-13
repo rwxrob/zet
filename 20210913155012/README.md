@@ -24,19 +24,19 @@ fucking line of the Helm templates and values to actually understand
 what the chart is going to do (or not do) to my cluster. Not doing so is
 simply foolish. 
 
-Helm charts are *not* easy to create and Kubernetes is crazy complicated
-meaning that those creating Helm charts inevitably fuck it up simply
-from the nature of the task complexity. At a minimum, you must add OPA
-Gatekeeper policy constraints that apply to your cluster and are
-therefore almost never hard-coded into any chart meaning you either use
-their escape hatches to add them or fork the main template and add them
-directly there since they were omitted, or monkey patch your additions
-after Helm does its install from a bash script.  This insanity is
-decidedly different than any "package manager" I have ever used where
-you can safely trust most packages to do the right things (but not
-always). Bottom line: you better at least read your chart code before
-installing it and you'll probably have to write more code to do what you
-want. You've been warned.
+**Helm charts are *not* easy to create and frequently contain
+problems.** Kubernetes is crazy complicated meaning that those creating
+Helm charts inevitably fuck it up simply from the nature of the task
+complexity. At a minimum, you must add OPA Gatekeeper policy constraints
+that apply to your cluster and are therefore almost never hard-coded
+into any chart meaning you either use their escape hatches to add them
+or fork the main template and add them directly there since they were
+omitted, or monkey patch your additions after Helm does its install from
+a bash script.  This insanity is decidedly different than any "package
+manager" I have ever used where you can safely trust most packages to do
+the right things (but not always). Bottom line: you better at least read
+your chart code before installing it and you'll probably have to write
+more code to do what you want. You've been warned.
 
 **Helm obfuscates an already complicated Kubernetes resource YAML
 syntax.** Just when you got good at "YAML Kubernetes programming" you
