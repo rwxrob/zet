@@ -61,7 +61,8 @@ write a Go single binary to handle all your installs and uninstalls
 following a common, intuitive convention. You can still use Go templates
 and YAML files to allow people to pass in their configurations and
 customizations, but make your main deployment mechanism a single Go
-binary that can be easily versions.
+binary that can be easily versioned and managed as the *software* that
+is it.
 
 **Helm is a fucking disaster, but it's not all Helm's fault.** In my
 opinion, Helm is one of the worst designs ever conceived. But, it is not
