@@ -88,9 +88,10 @@ Unfortunately, the most powerful part of Go templates is entirely
 omitted: creating your own operators with niladic functions, something
 you could do if you didn't use Helm at all and just wrote your installer
 in Go directly. Imagine if Helm tried to allow template expansion. We
-would chart creators build wildly complicated Go templates, they would
-even create their own extensions in Go that would likely require
-compilation. Which leaves me wondering ...
+would have chart creators build wildly complicated Go templates, they
+would even create their own binary extensions in Go (probably called
+"Helm plugins," I'll predict) or some sort of Go compilation during Helm
+deployment (God forbid). Which leaves me wondering ...
 
 **Why not just write the whole fucking thing as code --- in one language
 --- in the first place?** If you are honest, you will admit that you
