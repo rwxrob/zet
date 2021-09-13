@@ -97,9 +97,7 @@ deployment (God forbid). Which leaves me wondering ...
 --- in the first place?** If you are honest, you will admit that you
 have at least one script or system that "wraps" Helm to get it to do
 what you need, consistently (like check Gatekeeper policies before
-deployment). 
-
-**Wanna simplify you life?** Drop Helm entirely and write your own
+deployment). Why not just drop Helm entirely and write your own
 installers for your applications in Go (and only Go). Go is drop-dead
 simple to learn and already has Go templates (if and when you need them)
 . By packaging your application as a single Go executable you drop tons
