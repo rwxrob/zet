@@ -45,7 +45,7 @@ and farming and getting that XP and gold. Your power increases while
 theirs diminishes because they have chosen to focus their energy on
 pointless, idiotic rage, even if you lose because you are focused on
 progress, not blame and drama. Easy to say, incredibly hard to do, which
-is why I took so fucking long for Luke to become a Jedi (if he ever
+is why it took so fucking long for Luke to become a Jedi (if he ever
 actually did).
 
 So next time someone attacks you. Check for anything of substance in
