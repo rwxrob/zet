@@ -1,9 +1,10 @@
-# Why aren't you in Twitch Game & Software Development category?
+# Why not Game & Software Development category?
 
-*remember to turn off music, start recording*
-
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+1. Not always relevant
+1. I'm more of a Gilfoyle than a Dinesh
+1. Stop be married to your category
+1. Why are people evangelizing for a category?
+1. Why all the drama around categories?
+1. Bash scripting is not *really* software development
+1. Linux and operating systems
+1. I think it's silly be so tribal about the whole thing
