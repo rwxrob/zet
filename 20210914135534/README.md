@@ -48,21 +48,24 @@ progress, not blame and drama. Easy to say, incredibly hard to do, which
 is why it took so fucking long for Luke to become a Jedi (if he ever
 actually did).
 
-So next time someone attacks you. Check for anything of substance in
+So next time someone attacks you, check for anything of substance in
 their attack, a kernel of truth that you can take and "be grateful" for
 (as the Buddhists say about our enemies) and then get busy making them
 even more angry by producing more value than they ever could. They've
 maxed out their value. That's why they are angry with you. But you stay
 focused on improvement and growth, not out of cognitive dissonance, but
 objective measures of your success, personal measures that you don't
-have to share with anyone --- especially the small-minded, emotionally
-stunted individuals who will continue to attack. It's all they have.
-They will often rage, and troll, and provoke, until they quit the game
-or die. Remember that. There's nothing wrong with taking a bit of
-pleasure from the tragedy of their hopeless existence provided it
-motivates you do do better and stay focused on the goal.
+have to share with anyone --- especially the small-minded,
+emotionally-stunted individuals who will continue to attack. It's all
+they have. Their value is now tied to how much they can succeed in
+making you look or feel bad. The more you react, the more their fucking
+twisted, devolved brain thinks they have won. They will rage, and
+troll, and provoke, until they quit the game or die. Remember that.
 
-After all, I didn't create this fucking reality, but Imma own it.
+And, by the way, there's nothing wrong with taking a bit of pleasure
+from the tragedy of their hopeless, stunted existence provided it
+motivates you do do better and stay focused on the goal. After all, we
+didn't create this fucking reality, but we're gonna own it.
 
 Related:
 
