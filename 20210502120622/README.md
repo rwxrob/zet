@@ -34,4 +34,6 @@ When I find myself doing the following I know I'm on the path to evil:
 * Wonder what people think of me
 * Ask, "What can I get away with?"
 
+Tags:
+
     #life #coc
