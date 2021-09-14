@@ -1,11 +1,17 @@
-# Don't Get Mad, Get Busy
+# Don't Get Mad, Get Busy ...
 
 Recently, I realized I had not written up any description of the items
 in my personal "code of conduct" so here's the first. Even though it is
 not the first this specific point is perhaps the most important to
 remember:
 
-**Don't get mad, get busy.**
+**Don't get mad, get busy ...**
+
+> 💡
+> A good stream friend (rossim2i2) from added the ellipsis (...) to the
+> end and put this on their phone lock screen. I love that little change
+> because it makes me wonder what *specifically* I could get busy doing
+> that would counter the rage I'm feeling in the moment.
 
 I've been attacked for different reasons all through my life. Some of
 them I deserved, but most I did not. Usually, the reason is because I am
