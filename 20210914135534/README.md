@@ -64,4 +64,10 @@ motivates you do do better and stay focused on the goal.
 
 After all, I didn't create this fucking reality, but Imma own it.
 
+Related:
+
+* [20210502120622](/20210502120622/) Rob's Personal Code of Conduct
+
+Tags:
+
     #life #coc #enemies #gaming
