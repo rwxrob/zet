@@ -8,7 +8,7 @@ remember:
 **Don't get mad, get busy ...**
 
 > 💡
-> A good stream friend (rossim2i2) from added the ellipsis (...) to the
+> A good stream friend (rossim2i2) added the ellipsis (...) to the
 > end and put this on their phone lock screen. I love that little change
 > because it makes me wonder what *specifically* I could get busy doing
 > that would counter the rage I'm feeling in the moment.
@@ -28,7 +28,7 @@ change and I'm pushing for them to change. People generally fear change
 most of all, even people you love. And Yoda taught us all what happens
 after that:
 
-> Fear leads to anger, anger to hate, and hate leads to suffering.
+> Fear leads to anger, anger leads to hate, and hate leads to suffering.
 
 The solution in every single case (for me) was just to direct that
 adrenaline and passion --- not into lashing out and defensively
