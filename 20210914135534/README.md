@@ -64,7 +64,7 @@ troll, and provoke, until they quit the game or die. Remember that.
 
 And, by the way, there's nothing wrong with taking a bit of pleasure
 from the tragedy of their hopeless, stunted existence provided it
-motivates you do do better and stay focused on the goal. After all, we
+motivates you to do better and stay focused on the goal. After all, we
 didn't create this fucking reality, but we're gonna own it.
 
 Related:
