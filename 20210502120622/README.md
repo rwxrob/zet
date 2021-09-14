@@ -17,10 +17,10 @@ exhaustive list, but it sure helps. Sometimes I will tweak it.
 * Show and share
 * Let people change
 * Build useful things
+* Don't get mad, get busy
 * Read the fucking manual
-* Don't get mad, get busy 
-* Remind your body you're human
 * Give the benefit of the doubt
+* Remind your body you are human
 * Ask "What if everybody did it?"
 
 When I find myself doing the following I know I'm on the path to evil:
