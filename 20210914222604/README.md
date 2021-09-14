@@ -1,9 +1,6 @@
 # What do you recommend to learn Java/Spring?
 
-*remember to turn off music, start recording*
-
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+1. I don't know
+1. I only would consider re-learning Java for Android
+1. I consider Java the modern COBOL
+1. You couldn't pay me enough to code Java for work
