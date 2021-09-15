@@ -1,5 +1,7 @@
 # Why not Game & Software Development category?
 
+📺 <https://youtu.be/jdMz9--rXBU>
+
 1. Not always relevant
 1. I'm more of a Gilfoyle than a Dinesh
 1. Stop be married to your category
