@@ -1,5 +1,7 @@
 # What is a 'Learning Lab'?
 
+📺 <https://youtu.be/guUZgjC6wFo>
+
 * GitHub repo that contains exploration and notes
 * Too much stuff to fit into a zettel
 * Has value on its own (people might want to fork)
