@@ -1,5 +1,7 @@
 # Why do you go running at specific time?
 
+📺 <https://youtu.be/dZyztVS1Zc4>
+
 1. My biggest challenge is consistency (in life) and will-power
 1. My body has limbered up by then
 1. Temperatures work year round
