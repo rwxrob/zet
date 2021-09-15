@@ -2,11 +2,11 @@
 
 YOU WILL BE BANNED IF YOU ...
 
-- Make reference to ***any*** streamer drama
-- Obviously have no intention of reading About
-- Become more annoying than average
+-   Make reference to any streamer drama
+-   Obviously, won't ever read About
+-   Become more annoying than average
 
-Remember, Twitch as "whisper" as well.
+Remember, Twitch has "whisper" as well.
 
 Tags:
 
