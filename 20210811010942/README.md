@@ -6,3 +6,5 @@ Thanks sponsors, subs, and followers:
 * Twitch: <https://www.twitch.tv/subs/rwxrob>
 * Twitter: <https://twitter.com/rwxrob>
 * Discord: <https://discord.com/invite/9wydZXY>
+
+See <http://rwxrob.tv/schedule> for scheduled streams.
