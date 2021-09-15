@@ -2,10 +2,11 @@
 
 YOU WILL BE BANNED IF YOU ...
 
-- Make reference to *any* Twitch/YouTube/streamer drama
-- Make it obvious you have no intention of reading the About page
-- Post more than two chat messages with only emojis
+- Make reference to ***any*** streamer drama
+- Obviously have no intention of reading About
 - Become more annoying than average
+
+Remember, Twitch as "whisper" as well.
 
 Tags:
 
