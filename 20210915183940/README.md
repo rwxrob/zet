@@ -1,5 +1,7 @@
 # Show Everything with `helm get manifest`
 
+📺 <https://youtu.be/GNAtVEY9tUU>
+
 Ever want to see *exactly* what applying a Helm chart has done do your
 cluster? Use `helm get manifest` to see all the YAML as if it had been
 passed to `kubectl apply -f FILE` where the file is a huge YAML file
