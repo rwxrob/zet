@@ -1,5 +1,7 @@
 # What do you think of blockchain?
 
+📺 <https://youtu.be/TzlBVvOBN8U>
+
 1. Blockchain is fundamentally *not* cryptocurrency
 1. Blockchain is just a technology for establishing exchange in a
    trust-less environment
