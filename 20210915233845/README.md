@@ -1,5 +1,7 @@
 # Is the meaning of artificial life same as organic?
 
+📺 <https://youtu.be/aZeXyaz5bbQ>
+
 If a computer/robot could function the same as a person, would the
 meaning of its 'life' be different?
 
