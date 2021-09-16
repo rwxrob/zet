@@ -1,5 +1,7 @@
 # Minikube Automatically Routes LoadBalancer
 
+📺 <https://youtu.be/FW3dmHMiCDg>
+
 If your Helm chart includes a LoadBalancer then minikube appears to
 detect it and provide its own Ingress, meaning that you get access the
 Service with just the URL provided by `minikube service NAME --url` even
