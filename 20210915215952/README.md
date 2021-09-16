@@ -1,5 +1,7 @@
 # What is your opinion of NFTs?
 
+📺 <https://youtu.be/dAXBJVGTsqs>
+
 1. An NFT associates a digital asset with a token
 1. How is it different than TF2 hats?
 1. Tokens are *usually* through block chain ("coin")
