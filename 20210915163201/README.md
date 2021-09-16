@@ -3,7 +3,7 @@
 If your Helm chart includes a LoadBalancer then minikube appears to
 detect it and provide its own Ingress, meaning that you get access the
 Service with just the URL provided by `minikube service NAME --url` even
-if the 'EXTERNAL IP' is listed as `<pending>`:
+if the 'EXTERNAL IP' is listed as `pending`:
 
 ```
 NAME           TYPE           CLUSTER-IP       EXTERNAL-IP   PORT(S)        AGE
@@ -13,7 +13,7 @@ proxy-api      ClusterIP      10.99.35.163     <none>        8001/TCP       21h
 proxy-public   LoadBalancer   10.111.74.248    <pending>     80:31831/TCP   21h
 ```
 
-The `<pending>` still works:
+The `pending` still works:
 
 ```
 $ mk service proxy-public --url
