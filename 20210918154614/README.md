@@ -1,9 +1,5 @@
 # Why are Go Web Search Results Different?
 
-*remember to turn off music, start recording*
+Everything is moving to pkg.go.dev for new home of golang.org.
 
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+    #golang
