@@ -12,3 +12,4 @@
 1. `podman` is already aware of `cgroupsv2`
 1. Minikube FTW! It gives you everything
 
+    #k8s #podman #docker #cloud #minikube #beginners
