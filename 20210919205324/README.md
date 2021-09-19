@@ -1,5 +1,7 @@
 # 100% Viewer Sponsored and Supported
 
+📺 <https://youtu.be/AXPw0DXSEZk>
+
 *  I want my conclusions and opinions to be based on merit
 *  I am not paid to shill, in any way (even though seems like it)
 *  Any money I receive from this stream and videos is from viewers
