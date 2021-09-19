@@ -1,5 +1,7 @@
 # Actually, `podman` Might Be Better Than `docker`
 
+📺 <https://youtu.be/NlDD3rQoooY>
+
 1. `podman` only runs on Linux (used to be downside)
 1. Beginners had to install Linux before using `podman`
 1. Minikube is superior to Docker Desktop (for beginners)
