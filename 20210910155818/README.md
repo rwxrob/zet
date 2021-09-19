@@ -39,8 +39,6 @@ Getting Started:
 Related:
 
 * <https://github.com/rwxrob/zet>
-* <webcal://api.twitch.tv/helix/schedule/icalendar?broadcaster_id=447179030>  
-* <https://calendar.google.com/calendar/embed?src=2rme4h6hoo0djb9rvi4preakvvqnrg6g%40import.calendar.google.com&ctz=America%2FNew_York>
 
 Tags:
 

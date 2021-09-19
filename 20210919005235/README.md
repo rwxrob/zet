@@ -1,5 +1,7 @@
 # No More Discord (Not No More Community)
 
+📺 <https://youtu.be/WenIOZ3YdoE>
+
 1. Dregs of society dictate need for laws and rules
 1. I'm unable to moderate Discord (or trust moderators)
 1. I came from a time when UUCP Newsgroups rules
