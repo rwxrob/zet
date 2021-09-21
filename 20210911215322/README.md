@@ -12,10 +12,12 @@ something to watch might help keep up with my frequent changes.
 
 Time|Topic
 :-:|:-:
-Tuesday 6-9pm   | Beginner Boost AMA
+Wedesday 6-8pm  | Beginner Boost AMA
 Friday 12-3pm   | Colearning Cloud-Native and Kubernetes
 Saturday 8-11am | Go Programming (My Own Stuff)
 Sunday 8-11am   | Writing Boost and Other Content
+Daily 12-3pm    | Cloud-Native Kubernetes Coworking
+Daily 6-9pm     | Relaxing, Chat, Gaming, AMA
 
 **Beginner Boost AMA** is a free time that will be recorded and saved to
 YouTube as a live session as-is (no editing). You can ask anything that
