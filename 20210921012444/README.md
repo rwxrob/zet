@@ -1,5 +1,7 @@
 # How Fucking Stupid Were the Moron Quora Developers?
 
+📺 <https://youtu.be/y2IX1pqOnZ0>
+
 People can say that Quora requires JavaScript to read their shitty
 questions and answers site, but that doesn't make it legal. There's a
 strong chance that they are not meeting baseline accessibility laws (for
