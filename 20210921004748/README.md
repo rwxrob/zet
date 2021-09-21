@@ -1,5 +1,7 @@
 # Use `if has("eval")` for `vim-tiny` Detection
 
+📺 <https://youtu.be/pecAlTRSMgQ>
+
 The `vim-tiny` that comes on most container distros does not have many
 of the things most people have enabled in their `.vimrc` file. To get
 around all the errors and still be able to use your same `.vimrc` file
