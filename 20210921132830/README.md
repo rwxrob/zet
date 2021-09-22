@@ -179,7 +179,7 @@ dessimate my future with unforgivable debt, forever.
 Related:
 
 * Average Cost of College \[2021\]: Yearly Tuition + Expenses  
-  <https://educationdata.org/average-cost-of-college>
+  https://educationdata.org/average-cost-of-college
 
 Tags:
 
