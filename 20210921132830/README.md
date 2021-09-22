@@ -1,5 +1,7 @@
 # If I Were 18 Again, I Wouldn't Go to College
 
+📺 <https://youtu.be/QGGKs2oNlWM>
+
 > The average cost of college* in the United States is $35,720 per
 > student per year. The cost has tripled in 20 years, with an annual
 > growth rate of 6.8%. The average in-state student attending a public
@@ -179,7 +181,7 @@ dessimate my future with unforgivable debt, forever.
 Related:
 
 * Average Cost of College \[2021\]: Yearly Tuition + Expenses  
-  https://educationdata.org/average-cost-of-college
+  <https://educationdata.org/average-cost-of-college>
 
 Tags:
 
