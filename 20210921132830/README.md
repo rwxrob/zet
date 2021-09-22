@@ -47,14 +47,14 @@ school at all (except parents). If I were not into high school (and that
 is hard to tell today) I would just leave as early as 17 by passing my
 high-school equivalency exam.
 
-**I would work and live with parents** until I was able to get my first
-tech job. There's nothing wrong with this, but you need to prove to your
-parents that you have a plan and aren't just free-loading playing games
-all day and eating their food. You do that by taking responsibility for
-chores around the house and holding down even a shitty job. Store up
-that money to pay for technical certifications and building a personal
-tech learning lab at home, for now. Sure you can play games and
-socialize. You should. Just don't over do it.
+**I would work and live with parents or grand-parents** until I was able
+to get my first tech job. There's nothing wrong with this, but you need
+to prove to your parents that you have a plan and aren't just
+free-loading playing games all day and eating their food. You do that by
+taking responsibility for chores around the house and holding down even
+a shitty job. Store up that money to pay for technical certifications
+and building a personal tech learning lab at home, for now. Sure you can
+play games and socialize. You should. Just don't over do it.
 
 **I would try to work for technical company or store.** In America, Best
 Buy might not be the best, but it is better than McDonald's or even
@@ -121,6 +121,11 @@ your current job. Leverage this freedom to build your foundation, to
 prepare the soil for the roots you will eventually put down, whether you
 plan to or not.
 
+**Find a mentor.** Make aquaintenances with people who have been around
+the block, in my time the "grey beards" as they called them (even though
+I would never use that term today. They will be very willing to share
+their lessons-learned.
+
 **Get several tech certifications while employed.** Combined with the
 on-the-job learning from your new tech job, continue to learn and push
 your mastery of essentials and in-demand skills. You have your lab you
@@ -128,13 +133,14 @@ first built at home to mess with that you spend a fraction of the the
 money on that you would have wasted on college. Leverage your learning
 lab while supplementing it with more "paper" that the industry has
 decided matters even more than college degrees. As of today, here are
-the certifications (in addition to A+) that I personally would pursue (based on my interests and
-the level of trust these create with potential employers). Every one
-requires lab interaction over a web portal to the terminal (not just
-multiple-guess):
+the certifications (in addition to A+) that I personally would pursue
+(based on my interests and the level of trust these create with
+potential employers). Every one requires lab interaction over a web
+portal to the terminal (not just multiple-guess):
 
 * Linux Foundation Certified IT Associate (LFCA)
-* Linux Foundation Certified System Administrator (LFCS
+* Cisco Certified Network Administrator (CCNA)
+* Linux Foundation Certified System Administrator (LFCS)
 * Linux Foundation Certified Engineer (LFCE)
 * Certified Kubernetes Application Developer (CKAD)
 * Certified Kubernetes Administrator (CSA)
@@ -158,15 +164,17 @@ because you didn't have enough time to read whatever the fuck you wanted
 on your own, or socialize in any circle of people of your choosing, or
 travel the world without fear of getting back in time for whatever
 bullshit semester schedule imposed on you, well, then you can *still* go
-to college. If it were me, I'd quit my job after making all the
-ridiculous money and use it to live abroad in a foreign country that
-welcomes ex-pats to live there and go to college for free. I'd use my
-money to pay cost of living, learn the language in the best way possible
-(immersion) and enjoy pursuing a 'bull-shit' major like philosophy or
-psychology or world history or Russian or French literature that would
-*never* get me a job. Now that's a college experience I would really
-enjoy, not one that would dessimate my future with unforgivable debt,
-forever.
+to college. 
+
+If it were me, I'd quit my job after making all the ridiculous money and
+use it to live abroad in a foreign country that welcomes ex-pats to live
+there and go to college for free. I'd use my money to pay cost of
+living, learn the language in the best way possible (immersion), maybe
+even teach English as a second language to make side-money, and enjoy
+pursuing a 'bull-shit' major like philosophy or psychology or world
+history or Russian or French literature that would *never* get me a job.
+Now that's a college experience I would really enjoy, not one that would
+dessimate my future with unforgivable debt, forever.
 
 Related:
 
