@@ -46,60 +46,14 @@ they provide additional Badges as needed (ex: Citizenship in the
 Community, Nation, World). They do a good job of making sure each has a
 unique name rather than I, II, III.
 
-Here are some initial idea for badge names:
-
-* UNIX Philosophy
-* UNIX Files (R: Philosophy)
-* UNIX Pipes (R: Files)
-* UNIX Filters (R: Pipes)
-* UNIX Events (R: Philosophy)
-* UNIX Processes (R: Events)
-* UNIX Essentials (R: Processes, Filters)
-* Bash Scripting (R: Vim Essentials, UNIX Essentials)
-* Bash Configuration (R: Bash Scripting)
-* Bash Programming (R: Bash Configuration)
-* Ed (R: Unix Essentials) -> Ex/Vi -> Vim Essentials
-* Vimscript Essentials (R: Vim Essentials)
-* Vim Configuration (R: Vimscript Essentials)
-* Vimscript (R: Vim Configuration)
-* Vim (R: Vimscript, UNIX Filters)
-* TMUX Essentials
-* TMUX (R: TMUX Essentials)
-* Lynx for Research
-* W3M for Research
-* Container Usage
-* Container Images
-* Git Essentials
-* Terminal IDE (R: TMUX, Bash Scripting, Lynx or W3M, Git Essentials)
-* Minikube for Containers
-* Minikube for Kubernetes
-* VirtualBox Essentials
-* VirtualBox Kubernetes (R: VirtualBox Essentials)
-* C Programming Essentials
-* C Programming for Linux
-* Data Structures and Algorithms in C
-* C for Embedded Devices
-* Go Programming Essentials
-* Go Programming
-* Go Command Line Utility Development
-
-> 💬
-> Picking the names is tough because they need to live a long time. I >
-> keep visualizing how much time and thought went into the merit badges
-> for the Scouting program because it was such a big deal to rename them
-> or add a new one.
-
 I'll also have to come up with the ranks as well, which I did once upon
 a time already for SKILSTAK.
 
-Here are a bunch of titles in no particular order from my last
-brain-storming on this:
+Related: 
 
-* Initiate
-* Technologist
-* Terminal Native 
-* Cloud Native
-* Programmer
-* Developer
-* Engineer
+* [20210718164932](/20210718164932/) Boost Badges Make Easier Learning Adventures
+* [20210911132728](/20210911132728/) The Beginner Boost™ by Rob Muhlestein
 
+Tags:
+
+    #pedagogy #edtech #writing
