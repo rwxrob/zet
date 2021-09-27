@@ -1,43 +1,51 @@
-# Adding "Essentials" to Disambiguate Boost Badges
+# Boost Badge Levels
 
-I've had an "Essentials" course for a long time at SKILSTAK, but the
-term will be used to identify the scope and depth of the Beginner Boost
-badges going forward. I've struggled for a while to know where to cut
-off something as deep as Vim, for example. Linux in general has an
-infinite number of things to learn. Calling a course even a *Beginner
-Linux* course leaves no specific idea of how deep it will go. While it
-is impossible to get specific in title, I can establish the expectation
-for anything with the word "Essentials" in it.
+While working through the Boost Badge idea it has become clear that
+there are several levels of depth to any specific badge. The Scouting
+program always struggled with establishing the proper level of depth. We
+can learn from that mistake and build levels into the Boost Badge system
+from the beginning. The question is how many levels? Five? Too many, and
+things get crazy. (/me looks up how many Dagon recipes can be bought).
 
-"Essentials" therefore means:
+The idea is that only level one would ever be mandatory to achieve any
+other rank since the Beginner Boost program is designed to give
+people a sampling --- above all --- of the knowledge and skills involved. I'm picking levels that would read well if attached to any Boost Badge name (ex: Bash I, Basics):
 
-    Only the required level necessary to fulfill other dependencies
-    upon the thing being quantified including entry-level job
-    descriptions.
+1. Basics (conversant, has sampled and mastered something minimal)
+1. Essentials (working knowledge, just enough to explore and be dangerous) 
+1. Proficiency (full professional proficiency, could be paid for)
+1. Excellence (beyond proficiency, innovative application of)
+1. Mastery (domain leader, able to instruct and expound about)
 
-The essentials are just enough to get you working and productive and
-able to practice in such a way that most of the rest of the skill and
-knowledge involving the thing will come through natural usage and
-incremental learning through quick references while using it.
+Each level could have a built in title that depends on the specific badge.
+Let's look at something like bash:
 
-For example, an *Essential Linux Workstation* course or badge or video
-would only cover enough to get you using a Linux workstation day to day.
-It wouldn't cover ever possible configuration option, or Window manager.
-In fact, it would probably only focus on PopOS or Mint and do so
-unapologetically because the focus is to get up and running, the
-essentials.
+1. Bash User (can use the command line, history, tab completion)
+1. Bash Coder (write simple scripts and own `bashrc` config)
+1. Bash Programmer (can do anything in man page for an employer)
+1. Bash Developer (designs complex applications and integrations)
+1. Bash Master (could write book involving multiple projects)
 
-Anything that *doesn't* have "Essentials" in the name is considered,
-therefore, to be exhaustive, covering the skill or topic in it's
-entirety. This means names should use their own specificity to establish
-scope where needed. *Bash* would need to cover everything in the bash
-manual page. *Bash Scripting Essentials* might cover only the bare
-minimum to script bash from the command line and make simple script
-files. *Bash Scripting* would need to cover *everything* related to
-bash scripting. *Bash Rapid Applications Development* would cover even
-more including every single related topic and skill for rapid
-applications development in bash, possibly even testing methods, use of
-`jq` and `curl` and process management.
+Or, in Star Wars Jedi ranks:
+
+1. Youngling
+1. Padawan
+1. Knight
+1. Master
+1. Councilor
+
+Or, in hacker lingo:
+
+1. `n00b`
+1. `kiddy`
+1. `h@xx0r`
+1. `1337`
+1. `0g`
+
+> 💬
+> I noticed that Twitch does something like this to encourage
+> streamers to keep working at building their stream community and
+> skills.
 
 Related:
 
