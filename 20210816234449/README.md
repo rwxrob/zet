@@ -1,64 +1,54 @@
-# Five Year Plan and Goals
+# Yearly Goals, Five Year Plan
 
-Here's my personal and professional long-range plan. It's focused on
-lifting as many people as I can (along with myself) by enabling them
-with high-demand tech skills. There aren't in any particular order, many
-will be happening simultaneously.
+Here's my personal and professional long-range plan. It changes
+constantly.
 
-By end of 2021, I will:
+**2021** is about getting my feet back under me having gone through a
+lot of transitions. My main goal is to hit my stride and find a
+sustainable balance.
 
-* Complete rwxrob.tv tool: `zet`
-* Complete rwxrob.tv tool: `youtube` (`yt`)
-* Complete rwxrob.tv tool: `twitch`
-* Complete rwxrob.tv tool: `twitter`
-* Complete rwxrob.tv tool: `clip`
-* Complete rwxrob.tv tool: `cred` (community bits system)
-* Complete rwxrob.tv tool: `chat`
-* Complete rwxrob.tv tool: `repo` (`gh` and `gl` wrapper)
+* Close SKILSTAK's physical doors
+* Return to full-time corporate work
+* Learn Cloud-Native and Kubernetes enough to do my job
+* Move all curriculum online
+* Build and maintain rwxrob.tv community
+* Be present for my wife as she grows in the art scene
+* Get healthy again (fit in my Patagonia gear)
+* Find a solid place to plan our next geographical move
+* Add back a limited amount of gaming for relaxation
+
+I have a lot of micro-projects that together add up to a lot of time:
+
+* Get all my rwxrob.tv bash prototypes in a usable state with full docs
+  ready to port to Go later: `zet`, `yt`, `twitch`, `twitter`, `clip`,
+  `chat`.
+* Refactor `conf-go` and `cmdbox-config` to be in since with
+  `template-bash-command`
+* Complete `cmdbox-gen` SSG module in Go and plug into `zet` bash script
+* Get all SKILSTAK content into a public or private archived repo of
+  some kind
+* Complete 2021-2022 Beginner Boost content organization and plan
 * Clean up and migrate off of GitLab
-* Reorganize all previous knowledge base content
-* Complete Boost: Learn Like a Hacker
-* Complete Boost: Contain Yourself with Docker
-* Complete Boost: Live Linux from the Terminal
-* Restore rwx.gg as searchable PWA for my primary ZettelRepo
+* Port all previous knowledge base content (about 2000 zettels) into
+  current `zet` repo
 
-By end of 2022, I will: 
+**2022** was going to be the year we move out of our apartment, but
+looks like Doris will have a studio holding us here for at least another
+year, which is fine. 
 
-* Publish All 2021 Boosts to Udemy (But Still Free on YouTube)
-* Complete Boost: Become Badass with Bash
-* Complete Boost: Go Big with Golang
-* Complete Boost: Get Good to Gig
-* Become Certified Kubernetes Applications Developer (CKAD)
-* Become Certified Kubernetes Administrator (CKA)
-* Become Certified Kubernetes Security Specialist (CKS)
-* Move to Spruce Pine
-* Spec and build pro-grade, on-prem cloud at "home"
-
-By end of 2023, I will: 
-
-* Add (back) private mentored learning and pair-programming
+* Reconnect with boys (travel and do digital nomad thing)
+* Figure out streaming from the road for rwxrob.tv and rwxrob.live
+* Get CKAD, CKA, and CKS
+* Complete the 2022 Boost content
 * Release `CmdBox` into full production
 * Release `PEGN` into full production
 * Begin port of rwxrob.tv tools from bash to Go as `mim`
-* Revisit the Knowledge Exchange Grid (KEG)
-* Kick off afk.works and seek organizers
-* Apply to speak at select (relevant) in-person conferences
-* Host first RWX-mas in December
-* Setup on-prem k8s cloud for 24x7 vuln scanning
-* Complete Boost: Software Development for Kubernetes
 
-By end of 2024, I will:
+**2023** and beyond includes a move and lots of other stuff that doesn't
+fit into these other years:
 
 * Redesign skilstak.io as interactive tech learning game
 * Update previous Boost content
-...
-
-By end of 2025, I will:
-
-* Update previous Boost content
-...
-
-By end of 2026, I will:
-
-* Update previous Boost content
-...
+* Apply to speak at select (relevant) in-person conferences
+* Kick off afk.works and seek organizers
+* Revisit the Knowledge Exchange Grid (KEG)
