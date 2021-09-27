@@ -27,3 +27,5 @@ I feel like an equivalent that embraces the modern era is really missing
 in our world today, a system or program that focuses on technology and
 autodidactic learning at its core. Why not build on something that has
 already been proven to work for over a century?
+
+    #boost #scouting #planning #learning
