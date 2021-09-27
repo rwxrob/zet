@@ -7,8 +7,9 @@ from beginning to end. This is one moment where the zettelkasten
 approach really shines. The same content can be composed into different
 forms.
 
-* RWX Learning Method
-* Docker for Developers
+* Learn Like a Hacker
+* Contain Yourself with Docker
+* Live Linux from the Terminal
 * Leveraging Linux Containers
 * Become a Shell Native
 * Linux Bash Command Line
