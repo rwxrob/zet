@@ -1,32 +1,16 @@
-# Boost Badges: Level One, Essentials
+# Boost Badges: Level One, Basics
 
-The first level that became immediately obvious is ***Essentials***.
-This is the default for the Scouting program.
+Level one is one where the learner get's an initial introduction, often
+guided, to the idea or skill, just enough experience and knowledge to
+help the person make a decision about whether to pursue further learning
+in that area.
 
-I've had an "Essentials" course for a long time at SKILSTAK, but the
-term will be used to identify the scope and depth of the Beginner Boost
-badges going forward. I've struggled for a while to know where to cut
-off something as deep as Vim, for example. Linux in general has an
-infinite number of things to learn. Calling a course even a *Beginner
-Linux* course leaves no specific idea of how deep it will go. While it
-is impossible to get specific in title, I can establish the expectation
-for anything with the word "Essentials" in it.
-
-"Essentials" therefore means:
-
-    Only the required level necessary to fulfill other dependencies
-    upon the thing being quantified including entry-level job
-    descriptions.
-
-The essentials are just enough to get you working and productive and
-able to practice in such a way that most of the rest of the skill and
-knowledge involving the thing will come through natural usage and
-incremental learning through quick references while using it.
-
-Related:
-
-* [20210924134227](/20210924134227/) Boost Badge Levels
-
-Tags:
-
-    #boost #badges #terms
+For example, the `nano` editor is not recommended, but one might never
+understand why unless they had a *basic* understanding of it, unless
+they had tried it. For some there might be a compelling reason to pursue
+learning `nano` further, for most not. You could make the same example
+with something from the non-tech world, like *Basket Weaving* or
+*Pottery*. Dismissing something you haven't even tried is usually a bad
+idea. There's no shame in getting the Nano Boost Badge, it means you can
+debate about its value more responsibility having tried it despite
+everyone's recommendation against it. Same for Emacs, or VSCode.
