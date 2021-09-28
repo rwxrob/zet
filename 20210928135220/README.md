@@ -1,9 +1,10 @@
-# Boost Badges: Level Two, Essentials
+# Boost Badges: Level Three, Proficiency
 
-***Essentials***, level two, is the just-enough-to-be-dangerous level.
-You don't have enough knowledge and experience to work with the thing
-professionally, but you have enough to experiment, even though you might
-blow yourself up in the process (for the sake of learning).
+***Proficiency***, level three, is the enough skill and knowledge to be
+paid professionally for it, to get a job involving it. You are no longer
+dangerous, you have had enough experience to fail and learn from it and
+are less likely to fail on the job doing it. You can be trusted to
+perform.
 
 Related:
 
