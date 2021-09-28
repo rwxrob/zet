@@ -49,10 +49,24 @@ Or, in hacker lingo:
 > streamers to keep working at building their stream community and
 > skills.
 
+Note that the knowledge and experience level moves up on a rather
+exponential curve. Very few people will actually to the work required to
+attain level five, or even four. Gaining *proficiency* is hard enough.
+This allows to a certain degree of meritocitous distinction for the few
+who do go for levels four and five. Most will be satisfied with level
+two and a few level threes as well. The point is, there's room for
+growth for everyone. The content for levels one, two, and three has the
+highest priority.
+
 Related:
 
 * [20210911132728](/20210911132728/) The Beginner Boost™ by Rob Muhlestein
 * [20210718164932](/20210718164932/) Boost Badges Make Easier Learning Adventures
+* [20210927202107](/20210927202107/) Boost Badges: Level One, Basics
+* [20210928143408](/20210928143408/) Boost Badges: Level Two, Essentials
+* [20210928135220](/20210928135220/) Boost Badges: Level Three, Proficiency
+* [20210928144508](/20210928144508/) Boost Badges: Level Four, Excellence
+* [20210928144751](/20210928144751/) Boost Badges: Level Five, Mastery
 
 Tags:
 
