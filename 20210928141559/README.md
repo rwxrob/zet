@@ -1,4 +1,4 @@
-# Use `tee` and `/tmp` for Cut/Paste
+# Don't Use Vim Buffers, They Fail to Meet the Need
 
 Even though `vi` has buffers they inevitably fail you. If you aren't in
 `vi` you cannot use them. In `vim` the buffers persist across sessions,
