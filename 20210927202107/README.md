@@ -1,6 +1,6 @@
 # Boost Badges: Level One, Basics
 
-***Basics***, level two, is where you get an initial introduction, often
+***Basics***, level one, is where you get an initial introduction, often
 guided, to the idea or skill. You gain just enough experience and
 knowledge to make a decision about whether to pursue
 further learning in that area.
