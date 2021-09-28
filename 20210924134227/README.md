@@ -8,8 +8,10 @@ from the beginning. The question is how many levels? Five? Too many, and
 things get crazy. (/me looks up how many Dagon recipes can be bought).
 
 The idea is that only level one would ever be mandatory to achieve any
-other rank since the Beginner Boost program is designed to give
-people a sampling --- above all --- of the knowledge and skills involved. I'm picking levels that would read well if attached to any Boost Badge name (ex: Bash I, Basics):
+other rank since the Beginner Boost program is designed to give people a
+sampling --- above all --- of the knowledge and skills involved. I'm
+picking levels that would read well if attached to any Boost Badge name
+(ex: Bash I, Basics):
 
 1. Basics (conversant, has sampled and mastered something minimal)
 1. Essentials (working knowledge, just enough to explore and be dangerous) 
