@@ -1,17 +1,6 @@
-# Boost Badge Levels
+# Boost Badges: Levels
 
-While working through the Boost Badge idea it has become clear that
-there are several levels of depth to any specific badge. The Scouting
-program always struggled with establishing the proper level of depth. We
-can learn from that mistake and build levels into the Boost Badge system
-from the beginning. The question is how many levels? Five? Too many, and
-things get crazy. (/me looks up how many Dagon recipes can be bought).
-
-The idea is that only level one would ever be mandatory to achieve any
-other rank since the Beginner Boost program is designed to give people a
-sampling --- above all --- of the knowledge and skills involved. I'm
-picking levels that would read well if attached to any Boost Badge name
-(ex: Bash I, Basics):
+There are several levels of depth to any specific Boost Badge:
 
 1. Basics (conversant, has sampled and mastered something minimal)
 1. Essentials (working knowledge, just enough to explore and be dangerous) 
@@ -19,7 +8,7 @@ picking levels that would read well if attached to any Boost Badge name
 1. Excellence (beyond proficiency, innovative application of)
 1. Mastery (domain leader, able to instruct and expound about)
 
-Each level could have a built in title that depends on the specific badge.
+Each level has an implied title that depends on the specific badge.
 Let's look at something like bash:
 
 1. Bash User (can use the command line, history, tab completion)
@@ -45,18 +34,22 @@ Or, in hacker lingo:
 1. `0g`
 
 > 💬
-> I noticed that Twitch does something like this to encourage
-> streamers to keep working at building their stream community and
-> skills.
+> Twitch does something like this to encourage streamers to keep working
+> at building their stream community and skills.
 
 Note that the knowledge and experience level moves up on a rather
-exponential curve. Very few people will actually to the work required to
-attain level five, or even four. Gaining *proficiency* is hard enough.
-This allows to a certain degree of meritocitous distinction for the few
-who do go for levels four and five. Most will be satisfied with level
+exponential curve. Very few people will actually do the work required to
+attain level five (or even four). Gaining *proficiency* is hard enough.
+This allows a certain degree of meritocitous distinction for the few
+who do go for the higher levels. Most will be satisfied with level
 two and a few level threes as well. The point is, there's room for
-growth for everyone. The content for levels one, two, and three has the
+growth for everyone. The content of levels one, two, and three has the
 highest priority.
+
+> 💬
+> The Scouting program has always struggled with establishing the proper
+> level of depth. We can learn from that mistake and build levels into
+> the Boost Badge system from the beginning.
 
 Related:
 
