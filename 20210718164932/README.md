@@ -1,21 +1,32 @@
-# Boost Badges Make Easier Learning Adventures
+# Boost Badges
 
-Just realizing that by adding individual badges for the different
-things in the different boosts that I can create learning adventures and
-technical geocaches and treasure hunts that apply specifically to a
-badge (as opposed to a concept or something more wordy).
+Boost badges were originally designed to contain all the learning
+available from the rwxrob.tv Beginner Boost in an organized, achievable,
+gamified way. The concept and name "Boost Badge" have since been opened
+to encompass any learning content composed into this format.
 
-Once again, the similarity to Scouting merit badges comes out. With
-merit badges people would organize camps and workshops and other fun
-ways to earn the badge in addition to the normal individual method that
-anyone can always do themselves.
+Even though the content of each badge is different, the breadth and
+depth of coverage is similar. The requirements and options are all
+outlined and meant to be measurable and easily self-assessed. Anyone
+reading the requirements outlined should get a quick sense of how much
+work they are going to have to put in to learn it, personally. Everyone
+learns at different rates and has different priorities to work with in
+life. Taking on the task of earning a badge is, therefore, a personal
+decision with no forced schedule or agenda.
 
-Hopefully, this will let people cognitively grab on to what they are
-learning in a way that provides visual context and ultimately motivation
-to gotta get them all.
+The content of any particular badge might have been originally created
+by a single person, but the hope is that badges will be maintained in an
+open way such that people can contribute their ideas for content and
+potential changes in a versioned way. Each badge, therefore, has its own
+Git repo and primary maintainer. (See the `template-badge` repo
+for more.)
 
 Related:
 
-* [20210722153018](/20210722153018/) Finally, Only the Terminal Essentials in Boost
-* [20210924134227](/20210924134227/) Adding "Essentials" to Disambiguate Boost Badges
+* [20210929111128](/20210929111128/) Boost Approaches
+* Boost Badge Template  
+  <https://github.com/rwxrob/template-badge>
 
+Tags:
+
+    #boost #gamified
