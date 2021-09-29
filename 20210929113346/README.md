@@ -35,4 +35,4 @@ compared to a massive flow-chart or outline or syllabus it's no wonder
 this first "gamification" of learning has been so effective since 1910.
 Others *want* to learn to get the badge.
 
-    #pedagogy #learning #scouting
+    #pedagogy #learning #scouting #gamified
