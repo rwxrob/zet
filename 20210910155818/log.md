@@ -52,3 +52,33 @@ By default, yes `kube-system` which you can see with `k get po -A`
 Q: When Kubernetes control plane is installed, Core DNS is also?
 
 Yes, by default (I think).
+
+## Sunday, September 19, 2021, 12:07:45PM EDT
+
+Q: What exactly are the resource types of control plan components?
+
+`k get all -n kube-system` to see them all
+
+## Friday, September 24, 2021, 12:05:03PM EDT
+
+Q: How do I practice `kubeadm` commands?
+
+## Saturday, September 25, 2021, 1:02:23PM EDT
+
+Q: How do I simulate *real* K8S with just VirtualBox?
+
+* Decided not to learn Vagrant or Ansible or Terraform (yet)
+* Decided to attempt use of `vboxmanager` instead of GUI
+* `kubectl` can install on anything, `kubeadm` only on Linux
+* Thou shalt not install onto `mk ssh` minikube node (much magic)
+* Don't forget to `sudo swapoff -a` before creating VMs
+
+What are the steps to getting a learning cluster in VirtualBox?
+
+*Assuming you only have 8 CPU and 16 GiB RAM.* All VMs should have at
+least 2 CPU and 2 GiB RAM allocated.
+
+1. Create a VM for the control plane components
+1. Create a VM for a "master" Node
+1. Create a VM for a "worker" Node
+
