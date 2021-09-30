@@ -1,5 +1,7 @@
 # Use Go `if err != nil` Idiom
 
+📺 <https://youtu.be/b1e7usVMCe8>
+
 ```go
 package main
 
