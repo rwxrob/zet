@@ -15,11 +15,21 @@ Even so, committing to a production repo with `replace` could be
 embarrassing so might want to add the following `.git/hooks/pre-commit`
 hook (don't forget to `chmod +x`) to prevent any commit of `go.mod` that
 has the word replace in it, which you could easily modify to check that
-it isn't commented out (`// replace` should be allowed).
+it isn't commented out (`// replace` should be allowed). This script
+checks for `jq` and if not found uses `grep` instead:
 
 
 ```bash
 #!/bin/bash
+
+jq=$(command -v jq)
+if [[ -n "$jq" ]] ; then
+  rv="$(go mod edit -json | $jq .Replace)"
+  [[ $rv = 'null' ]] && exit 0
+  echo "replace found in go.mod"
+  exit 1
+fi
+
 git diff --cached go.mod | grep replace && exit 1
 ```
 
