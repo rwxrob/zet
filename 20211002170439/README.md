@@ -1,5 +1,7 @@
 # DO NOT USE `sync.Map` in Go!
 
+📺 <https://youtu.be/BywIJqYodl4>
+
 People never read past the first paragraph of the docs. So here is the
 rest (which says "never use sync.Map unless you are doing this one
 really obscure thing that most never do"):
