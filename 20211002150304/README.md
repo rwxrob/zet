@@ -1,5 +1,7 @@
 # Learn to Use `replace` in `go.mod`
 
+📺 <https://youtu.be/k_nx_zPf84A>
+
 The `replace` keyword in `go.mod` allows you to work on several
 packages, with different repos, at the same time, or, to test changes
 locally before pushing them.
