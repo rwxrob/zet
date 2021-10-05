@@ -1,0 +1,15 @@
+meta:
+  name:  UNIX Basics
+  uuid:  rwxrob/badge-unix  # must match GitHub
+  vers:  v0.0.1
+  level: 1
+philosophy:
+  line: Understand and apply the UNIX philosophy
+  actions:
+  filters:
+    line: Understand why, how, and when to use UNIX filters
+    actions:
+    - kjkdjkaf lakdjf aldjkfalsd flaksdjfka sdlfkja sdlkfj aksld
+      falsdkjf aklsdjfa lsdfkjasdf adsf
+scripting:
+  line: Write basic POSIX shell scripts
