@@ -1,2 +1,5 @@
-# TODO: Read "A Commentary on the Sixth Edition UNIX Operating System" by J. Lions"
+# Commentary on Sixth Edition UNIX Operating System
 
+Need to read this, by J. Lions.
+
+    #todo
