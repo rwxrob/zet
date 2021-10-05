@@ -82,3 +82,19 @@ least 2 CPU and 2 GiB RAM allocated.
 1. Create a VM for a "master" Node
 1. Create a VM for a "worker" Node
 
+## Friday, October 1, 2021, 12:17:13PM EDT
+
+* Decided *against* building physical cluster
+* Planning on building a local virtual cluster on single computer
+* Decided to pursue GCP for bigger "lab" projects
+* Learning details of GCP K8S deployment more relevant than local VMs
+* Reminded of personal priority to promote on-prem
+* Learned about AWS Outposts (racks brought in-house, on-prem)
+
+My path:
+
+1. `kind` (k8s running in container engine)
+1. `minikube` (k8s running in single virtual machine)
+1. `virtualbox` + `kubeadm` (k8s running in 3 virtual machines)
+1. Google Cloud Platform (k8s running in 4+ virtual cloud machines)
+1. On-Prem Bare Metal + `kubeadm`
