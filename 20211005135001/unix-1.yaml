@@ -1,15 +1,30 @@
+---
 meta:
   name:  UNIX Basics
   uuid:  rwxrob/badge-unix  # must match GitHub
   vers:  v0.0.1
   level: 1
-philosophy:
-  line: Understand and apply the UNIX philosophy
-  actions:
-  filters:
-    line: Understand why, how, and when to use UNIX filters
-    actions:
-    - kjkdjkaf lakdjf aldjkfalsd flaksdjfka sdlfkja sdlkfj aksld
-      falsdkjf aklsdjfa lsdfkjasdf adsf
-scripting:
-  line: Write basic POSIX shell scripts
+reqs:
+  philosophy:
+    text: Understand the UNIX philosophy
+    filters:
+      text: Understand why, how, and when to use UNIX filters
+      actions:
+        learn_about:
+          text: |
+            Research the UNIX philosophy creating a list of all sources
+            and write about its keys advantages and disadvantages in your
+            own words. Discuss your position with others including at
+            least one professional with more than five years experience
+            using a UNIX system for work.
+---
+meta:
+  name:  UNIX Essentials
+  uuid:  rwxrob/badge-unix  # must match GitHub
+  vers:  v0.0.1
+  level: 2
+reqs:
+  philosophy:
+    text: Apply the UNIX philosophy
+  scripting:
+    text: Write basic POSIX shell scripts

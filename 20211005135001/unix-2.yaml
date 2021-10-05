@@ -1,0 +1,10 @@
+meta:
+  name:  UNIX Essentials
+  uuid:  rwxrob/badge-unix  # must match GitHub
+  vers:  v0.0.1
+  level: 2
+reqs:
+  philosophy:
+    text: Apply the UNIX philosophy
+  scripting:
+    text: Write basic POSIX shell scripts

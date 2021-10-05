@@ -67,8 +67,8 @@ breaking change (that would cause getting it again) versus just updates
 or errata.
 
 **Maintain badge requirements as structure data** just like code. Keep
-the major levels separated in different files. Requirements can be
-migrated between level data files. 
+the major levels separated in different sections of the same YAML file.
+Requirements can then be easily migrated between levels.
 
 **Use standard name extensions associated with levels**  but don't lose
 the level from the meta-data since language translations will
