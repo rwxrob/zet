@@ -1,9 +1,10 @@
 # Boost Badges
 
-Boost badges were originally designed to contain all the learning
-available from the rwxrob.tv Beginner Boost in an organized, achievable,
-gamified way. The concept and name "Boost Badge" have since been opened
-to encompass any learning content composed into this format.
+Boost badges are OCMS credentials that were originally designed to
+contain all the learning available from the rwxrob.tv Beginner Boost in
+an organized, achievable, gamified way. The concept and name "Boost
+Badge" have since been opened to encompass any learning content composed
+into this format.
 
 Even though the content of each badge is different, the breadth and
 depth of coverage is similar. The requirements and options are all
@@ -26,6 +27,8 @@ Related:
 * [20210929111128](/20210929111128/) Boost Approaches
 * Boost Badge Template  
   <https://github.com/rwxrob/template-badge>
+* [20211005225329](/20211005225329/) Open Credential Merit System (OCMS) for Learning
+* [20211006152449](/20211006152449/) OCMS Credentials (Badges)
 
 Tags:
 
