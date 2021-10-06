@@ -102,6 +102,10 @@ The word "merit" is inspired by the courage of visionaries from various
 scouting programs since 1911 who have been gamifying learning and
 achievement since well-before such terms existed.
 
+Related:
+
+* <https://ocms.cc> (future home of OCMS specification)
+
 Tags:
 
     #pedagogy #education #learning #100daysofcode #edtech
