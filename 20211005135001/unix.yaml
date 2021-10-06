@@ -4,37 +4,30 @@ version: v0.0.1
 uri:     rwx.gg/unix
 source:  github.com/rwxrob/badge-unix
 lang:    en
+levels: [Basics, Essentials, Proficiency]
 ---
-meta:
-  level:   1
-  name:    UNIX Basics
-reqs:
-  philosophy:
-    text: Understand the UNIX philosophy
-    filters:
-      text: Understand why, how, and when to use UNIX filters
-      actions:
-        learn_about:
-          text: |
-            Research the UNIX philosophy creating a list of all sources
-            and write about its keys advantages and disadvantages in your
-            own words.
-          time: 1 
-        discuss:
-          text: |
-            Discuss your research about and thoughts on the UNIX
-            philosophy with others including at least one professional
-            with more than five years experience
-            using a UNIX system for work.
-          time: 1.5
-          depends:
-            - learn_about
+philosophy:
+  text: Understand the UNIX philosophy
+  filters:
+    text: Understand why, how, and when to use UNIX filters
+    actions:
+      learn_about:
+        text: |
+          Research the UNIX philosophy creating a list of all sources
+          and write about its keys advantages and disadvantages in your
+          own words.
+        time: 1 
+      discuss:
+        text: |
+          Discuss your research about and thoughts on the UNIX
+          philosophy with others including at least one professional
+          with more than five years experience using a UNIX system for
+          work.
+        time: 1.5
+        depends:
+          - learn_about
 ---
-meta:
-  level:   2
-  name:    UNIX Essentials
-reqs:
-  philosophy:
-    text: Apply the UNIX philosophy
-  scripting:
-    text: Write basic POSIX shell scripts
+philosophy:
+  text: Apply the UNIX philosophy
+scripting:
+  text: Write basic POSIX shell scripts
