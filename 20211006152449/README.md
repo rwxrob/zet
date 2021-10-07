@@ -20,7 +20,7 @@ the credential specification without necessarily downloading the entire
 file which allows OCMS registries and discovery tools to automate
 updates regularly.
 
-The file is named after the base portion of its URI followed by an
+The file is named after the base portion of its URL followed by an
 optional version and language identifier and mandatory `.yaml` suffix
 (ex: `unix-fr.yaml`, `unix-v1.1.34-fr.yaml`). English is the primary
 language for all OCMS credentials and is therefore assumed if no
@@ -65,10 +65,10 @@ publicly with simple tools like `curl` and the schema portion of the URL
 must be omitted (and is assumed to be `https` or `http`).
 
 > ⚠️
-> It is vitally important that the `uri` of a badge *never* change. Put
+> It is vitally important that the `url` of a badge *never* change. Put
 > great thought into it including who will inherit the domain name
 > beyond the lifetime of the original author. For all intents and
-> purposes, any change to the `uri` constitutes creation of a *new*
+> purposes, any change to the `url` constitutes creation of a *new*
 > badge specification. Though not as succinct, often the use of
 > a hosting service domain such as `github.io` may be preferable due to
 > its permanence.
@@ -96,7 +96,7 @@ include the version in the file name.
 in the `<html>` tag. For consistency, all OCMS credentials should first
 be written and maintained in English. This prevents misunderstandings
 due to translation. All supported languages must be maintained at the
-same location in order to preserve the same URI, but all languages
+same location in order to preserve the same URL, but all languages
 *other than English* must each have their own file with the `lang` coded
 added with a dash to the base portion of the file name (ex: `unix.yaml`
 and `unix-fr.yaml`).
