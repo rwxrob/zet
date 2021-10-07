@@ -153,15 +153,10 @@ scripting:
 
 The optional, reserved `prereqs` requirement (which is first by
 convention, if included) contains an array/list of other OCMS
-credentials by their `url` and `level`:
-
-```yaml
-prereqs:
-  - [ ocms.rwx.gg/unix, 2 ]
-```
-
-Upper levels of a single badge assume a `prereqs` entry for all the
-previous levels for that same badge. They do not need to be listed.
+credentials by their `url` and `level`. These credentials must be earned
+before attempting the credential level containing the `prereqs`. Upper
+levels of a single badge assume a `prereqs` entry for all the previous
+levels for that same badge. They do not need to be listed.
 
 All other requirement entries use their own identifiers. Each
 requirement identifier must contain only lowercase ASCII alpha
