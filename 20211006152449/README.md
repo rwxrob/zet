@@ -138,17 +138,17 @@ depth) may have one or more sub-requirements.
 ```yaml
 prereqs:
   - [ ocms.rwx.gg/computers, 3 ]
-philosophy
-  onebest
-  integration
-  filters
-  textual
-scripting
-  posix
-  variables
-    types
-      numbers
-  conditions
+philosophy:
+  onebest:
+  integration:
+  filters:
+  textual:
+scripting:
+  posix:
+  variables:
+    types:
+      numbers:
+  conditions:
 ```
 
 The optional, reserved `prereqs` requirement (which is first by
