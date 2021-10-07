@@ -1,11 +1,13 @@
----
-format:  v1
+ocms:    v1
+name:    UNIX
+url:     ocms.rwx.gg/unix
+issues:  github.com/rwxrob/ocms-badges
 version: v0.0.1
-uri:     rwx.gg/unix
-source:  github.com/rwxrob/badge-unix
 lang:    en
-levels: [Basics, Essentials, Proficiency]
+levels:  [Basics, Essentials, Proficiency]
 ---
+prereqs:
+  - [ ocms.rwx.gg/computers, 3 ]
 philosophy:
   text: Understand the UNIX philosophy
   filters:
