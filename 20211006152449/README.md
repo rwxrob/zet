@@ -1,4 +1,4 @@
-# OCMS Credentials (Badges)
+# OCMS Credentials (Badges) Specification
 
 This is the specification for Open Credential Merit System credentials,
 informally referred to as "badges". OCMS ("Occam's") badges are central
