@@ -119,6 +119,10 @@ reduced complexity:
 1. Excellence (beyond proficiency, innovative application of)
 1. Mastery (domain leader, able to instruct and expound about)
 
+For convenience, the name "Proficiency" can be dropped since that is the
+default assumed level. The other levels are either remedial or
+exceptional to base, professional proficiency.
+
 > 💬
 > Limiting scope and depth is a challenge facing all learners (as well
 > instructional designers). "How much should I learn?" Creating levels
