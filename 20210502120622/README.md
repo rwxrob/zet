@@ -9,9 +9,11 @@ exhaustive list, but it sure helps. Sometimes I will tweak it.
 * Chill
 * Dance
 * Create
+* Forgive
 * Never fear
 * Be grateful
 * Swear better
+* Make it count
 * Foster dialog
 * Live with less
 * Show and share
