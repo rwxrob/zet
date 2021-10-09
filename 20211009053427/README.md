@@ -42,8 +42,10 @@ field that is both no where and everywhere, but manifests as a single,
 perceivable individual. 
 
 Every time I have one of these moments I'm overwhelmed with one thought:
-what will I do with my time here right now. "The powerful play goes on.
-What will my verse be?"
+how could I ever express my gratitude to these people, many of whom
+have passed or out of touch. And the answer is always, what will I do
+with my time here right now? I can do better in this moment right now.
+That's how. "The powerful play goes on. What will my verse be?"
 
 There is so much more going on than random chaos. These moments are
 objective proof, to me.
