@@ -67,7 +67,7 @@ who was a college professor who took the job because it paid more (at
 the time) since he knew a bit of English. All the Americans coming onto
 the bus thought he was a nice old man, a kind bus driver making ends
 meet, but this dude was a multi-degreed Moscow University professor with
-more intellectual capacity that that entire bus of people combined.
+more intellectual capacity than that entire bus of people combined.
 Ironically, it worked in his favor. The Americans gave the kind old bus
 driver a lot more tips in American dollars out of pity. They had no
 idea.
