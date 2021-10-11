@@ -1,4 +1,4 @@
-# Fuck It, I am Installing Talos OS (Sidero) at Home
+# I am Installing Talos OS (Sidero) at Home
 
 After all that write up about using a "boring OS" for production
 environment Kubernetes deployments I cannot stop looking at Talos OS
