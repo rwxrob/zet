@@ -21,7 +21,7 @@ personally motivated from the very beginning --- especially by the
 strong desire to make a rock-solid secure operating system that is
 virtually unhackable by its very implementation. You don't see *any* of
 the other comparable, boring operating systems leading with the
-following first paragraph
+following first paragraph:
 
 > Why Talos?
 > 
