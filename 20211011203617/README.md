@@ -1,7 +1,5 @@
 # Avoid K9S for Kubernetes (for now)
 
-📺 <https://youtu.be/XTEkjRALZYM>
-
 1. It's not standard
 1. It wastes screen real-estate
 1. It's yet another thing you have to install
