@@ -1,7 +1,7 @@
 # Fuck It, I am Installing Talos OS (Sidero) at Home
 
 After all that write up about using a "boring OS" for production
-environment Kubernetes deployments I cannot stop looking at on Talos OS
+environment Kubernetes deployments I cannot stop looking at Talos OS
 (now known as Sidero). I just cannot resist. They get so many things
 right, (even something as trivial as having a Matrix server for chat in
 addition to Slack).  They have *both* a RAM-disk image for booting and a
