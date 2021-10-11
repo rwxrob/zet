@@ -23,13 +23,13 @@ virtually unhackable by its very implementation. You don't see *any* of
 the other comparable, boring operating systems leading with the
 following first paragraph
 
-    Why Talos?
-
-    Security
-
-    Talos reduces your attack surface by practicing the Principle of
-    Least Privilege (PoLP) and by securing the API with mutual TLS
-    (mTLS) authentication.
+> Why Talos?
+> 
+> Security
+> 
+> Talos reduces your attack surface by practicing the Principle of
+> Least Privilege (PoLP) and by securing the API with mutual TLS
+> (mTLS) authentication.
 
 This was their number one raison d'etre. None of the others have cared
 about this, which is why DefCon 2021 had several keynotes and sessions
