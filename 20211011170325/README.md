@@ -33,6 +33,11 @@ As long as this reality exists, things like OpenStack will be the
 unfortunate reality for people like me with *really* old hardware, even
 Raspberry Pis.
 
+Related:
+
+* A Guide to Linux Operating Systems for Kubernetes -- The New Stack  
+  <https://thenewstack.io/a-guide-to-linux-operating-systems-for-kubernetes/>
+
 Tags:
 
     #baremetal #k8s
