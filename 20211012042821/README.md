@@ -1,5 +1,7 @@
 # Researching Requirements for Customer JupyterHub images
 
+📺 <https://youtu.be/N2zpK3kMuVI>
+
 1. Extend an existing approved JupyterHub image
 1. Must have Jupyter, Lab, and Hub installed
 1. Must be listening on port 8888
