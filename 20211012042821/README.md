@@ -1,9 +1,13 @@
-# Researching requirements for customer JupyterHub images
+# Researching Requirements for Customer JupyterHub images
 
-*remember to turn off music, start recording*
+1. Extend an existing approved JupyterHub image
+1. Must have Jupyter, Lab, and Hub installed
+1. Must be listening on port 8888
+1. Must have a `start-notebook.sh` in PATH
 
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
+Related:
 
+* GitHub - jupyter/docker-stacks: Ready-to-run Docker images
+  <https://github.com/jupyter/docker-stacks>
+* Jupyter Docker Stacks --- docker-stacks latest documentation  
+  <https://jupyter-docker-stacks.readthedocs.io/en/latest/>
