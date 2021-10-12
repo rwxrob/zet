@@ -1,5 +1,7 @@
 # Discussing the 'Lowest Layer' of Cloud-Native Stack
 
+📺 <https://youtu.be/5PF51oRfPtE>
+
 1. RISC-V is a thing
 1. It's not that hard to port all of Linux and Kubernetes to it
 1. Intel buys SiFive, sign of progress?
