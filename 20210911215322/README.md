@@ -1,25 +1,8 @@
 # Weekly Streaming Schedule
 
-<https://twitch.tv/rwxrob/schedule>
+<https://calendar.google.com/calendar/u/0?cid=aWViMGpqdW1lYXBhcDlzamxvZ3ZqNmFndGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ>
 
-Here's my attempt to keep a weekly schedule updated. Keep in mind that
-although these maybe *regular* they are not guaranteed, and, in fact,
-are often moved or cancelled due to life. I also do a lot of other
-streaming that isn't listed here because I don't always know in advance
-if I can. I do, however, always post my schedule to
-<https://twitch.tv/rwxrob/schedule> (and only there). I figured having
-something to watch might help keep up with my frequent changes. 
-
-Time|Topic
-:-:|:-:
-Wedesday 6-8pm  | Beginner Boost AMA
-Friday 12-3pm   | Colearning Cloud-Native and Kubernetes
-Saturday 8-11am | Go Programming (My Own Stuff)
-Sunday 8-11am   | Writing Boost and Other Content
-Daily 12-3pm    | Cloud-Native Kubernetes Coworking
-Daily 6-9pm     | Relaxing, Chat, Gaming, AMA
-
-**Beginner Boost AMA** is a free time that will be recorded and saved to
+**AMA** is a free time that will be recorded and saved to
 YouTube as a live session as-is (no editing). You can ask anything that
 is about or contained in any of the Beginner Boost content. I normally
 have both mic and camera on for it.
@@ -33,10 +16,28 @@ along the way. (I'm currently employed as an Infrastructure Engineer
 working with an HPC cluster and deploying applications like JupyterHub
 to it.) I only have mic on for these sessions.
 
-**Go Programming (My Own Stuff)** is me keeping up with Go programming
+**Go Programming** is me keeping up with Go programming
 (which my current job doesn't officially require even though I could
 probably make a lot more money as a full-time Go developer). Use it or
 lose it, they say. I'll be working on libraries that are needed for the
 (eventual) `mim zet` port to Go, CmdBox, and my other utilities.
+
+**Bash Scripting** is me writing and updating bash code that I maintain
+publicly, mostly `zet`, `clip`, `snip`, `twitter`, `yt`, `twitch` and a
+few others these days.
+
+**Coworking** is me doing my day job, sometimes on screen, sometimes
+not. I don't slow down to answer questions during these times, but if
+you want to watch I'm here.
+
+**Writing** is me writing usually stuff for the Open Credential Merit
+System that I started. This includes content that was once in Beginner
+Boost and "Boost Badges" and is not only writing, but often the creation
+of diagrams and other visual aides to help get through all the confusing
+paths one can choose. Eventually, I'll be writing other content during
+this time. I write a lot during the day randomly as well, which you can
+follow in my Twitter or Twitch feed.
+
+Tags:
 
     #logistics #schedule #streaming
