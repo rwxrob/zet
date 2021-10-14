@@ -32,6 +32,17 @@ with Kind. Minikube gets around all of this by including as a high
 design priority the automatic mapping of all services to IP addresses
 and ports that are available from `minikube services` command.
 
+     |-------------|--------------|--------------|---------------------------|
+     |  NAMESPACE  |     NAME     | TARGET PORT  |            URL            |
+     |-------------|--------------|--------------|---------------------------|
+     | default     | kubernetes   | No node port |
+     | jhub        | hub          | No node port |
+     | jhub        | proxy-api    | No node port |
+     | jhub        | proxy-public | http/80      | http://192.168.49.2:30619 |
+     | kube-system | kube-dns     | No node port |
+     |-------------|--------------|--------------|---------------------------|
+
+
 I *really* wish the community could come together on this stuff. It is
 seriously fucking annoying having one thing work in one localized k8s
 tool and another not. In short, for most of the complicated networking
