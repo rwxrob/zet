@@ -30,7 +30,7 @@ created. Just like good 'ol `docker` requires knowing all the port
 forwards in advance before running an image, we hit a similar problem
 with Kind. Minikube gets around all of this by including as a high
 design priority the automatic mapping of all services to IP addresses
-and ports that are available from `minikube services` command.
+and ports that are available from `minikube service list` command.
 
      |-------------|--------------|--------------|---------------------------|
      |  NAMESPACE  |     NAME     | TARGET PORT  |            URL            |
