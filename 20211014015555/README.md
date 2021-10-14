@@ -1,5 +1,7 @@
 # Ericsson Estimates Kubernetes on Metal 30% Cheaper
 
+📺 <https://youtu.be/1Y-LcBVhovo>
+
 Ericsson (which made Erlang) had this to say in an article about the
 benefits of Kubernetes on bare metal:
 
