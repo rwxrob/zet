@@ -1,5 +1,7 @@
 # Avoid 'Manager Suck' as an SME
 
+📺 <https://youtu.be/sgck8mJzA5A>
+
 1. Subject Matter Experts get pulled into meetings more and more
 1. Getting disconnected from the tech that makes you an SME
 1. Beware of becoming someone's "pocket tech"
