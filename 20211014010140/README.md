@@ -1,5 +1,7 @@
 # News for 2021, Week 41
 
+📺 <https://youtu.be/RoftnhSLZzE>
+
 Stream and Community:
 
 * Trying a schedule again with pretty colors (rwxrob.tv)
