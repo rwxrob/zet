@@ -1,5 +1,7 @@
 # Keeping Discord, No Slack (for now)
 
+📺 <https://youtu.be/0w6wp4jK7uk>
+
 1. Complete 180 from previous position
 1. Made earlier decision based emotional reaction
 1. Was angry that Discord defaults to allowing
