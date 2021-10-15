@@ -4,6 +4,7 @@
 * Dove in a bit into CNI providers (Calico)
 * Attempt to bootstrap a cluster with nothing but Docker
 * Followed steps of "Kubernetes the Hard Way"
+* Decided to start `lab-k8s-hard-way-docker` lab instead
 
 Stuff I'd do differently than "Kubernetes the Hard Way":
 
