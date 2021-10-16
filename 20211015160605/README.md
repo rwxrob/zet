@@ -1,5 +1,7 @@
 # Cloud-Native and Kubernetes Colearning, Oct 15, 2021
 
+📺 <https://youtu.be/xoxIc7PnuNI>
+
 * CNCF added Kubernetes Cloud-Native Associate
 * Dove in a bit into CNI providers (Calico)
 * Attempt to bootstrap a cluster with nothing but Docker
@@ -14,6 +16,7 @@ Stuff I'd do differently than "Kubernetes the Hard Way":
 * Not ever use `wget` (use `curl` instead, *always*)
 * More like irrelevant-complete-waste-of-time-way
 * "Compute instances" are just virtual machines
+* Seriously, showing us how to use ssh? (Should be assumed)
 
 Related:
 
