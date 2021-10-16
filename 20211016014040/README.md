@@ -1,5 +1,7 @@
 # Cloud-Native and Kubernetes Colearning, Oct 15, 2021
 
+📺 <https://youtu.be/F7xEyfLYrBw>
+
 * Researched certificate creation and management
 * Wondering which `easyrsa`, `openssl`, or `cfssl`?
 * `easy-rsa` is an OpenVPN co-project
