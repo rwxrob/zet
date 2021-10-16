@@ -1,5 +1,7 @@
 # Cloud-Native and Kubernetes Colearning, Oct 16, 2021
 
+📺 <https://youtu.be/69XmVRhJtUk>
+
 * Start with `kubeadm` for certs instead of own CA ...
 * Which is not covered in the "the hard way"
 * Discovered that the tutorial is completely useless
