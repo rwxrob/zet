@@ -1,5 +1,7 @@
 # Q: What do you think about KCNA exam?
 
+📺 <https://youtu.be/klDIH1y2-Wc>
+
 * Kubernetes Cloud-Native Associate
 * Targeted for everyone to get feel for Kubernetes
 * Probably in response to "it's too complicated"
