@@ -1,5 +1,7 @@
 # Be Careful of Packt Publishing
 
+📺 <https://youtu.be/Hu6r1AXJ7IE>
+
 * Flatter as many techies with basic writing skills as we can
 * Get them to write books as fast as possible
 * Skip the time-wasting editors in the process
