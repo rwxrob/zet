@@ -1,9 +1,8 @@
 # Cloud-Native and Kubernetes Colearning, Oct 16, 2021
 
-*remember to turn off music, start recording*
-
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+* As of today `kubeadm` requires swap be off
+* Still pursuing "host containers" with `kubeadm init`
+* Lots of `Dockerfile` work to get deps installed
+* Mounted `/var/run/docker.sock` to all using same docker
+* Systems are running (made it up to health check errors)
+* Ready to start doing more with `kubeadm` config
