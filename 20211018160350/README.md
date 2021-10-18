@@ -1,9 +1,8 @@
 # Making Minimal Image Compatible with JupyterHub in K8S
 
-*remember to turn off music, start recording*
+WARNING: This is not a tutorial (it's coworking)
 
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+* Skip NCG PyTorch for now
+* Make *any* image work with JupyterHub in K8S
+* Lots of frustration figuring out what is happening
+* Concluded best to extend `base-notebook`
