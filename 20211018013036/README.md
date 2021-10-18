@@ -1,5 +1,7 @@
 # Cloud-Native and Kubernetes Colearning, Oct 17, 2021
 
+📺 <https://youtu.be/GsvZTzFRAeI>
+
 * Regroup and start from scratch using just Docker
 * Added overview steps and stages
 * Stage one is to create a single-node cluster
