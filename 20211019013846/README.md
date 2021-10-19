@@ -1,5 +1,7 @@
 # Cloud-Native and Kubernetes Colearning, Oct 18, 2021
 
+📺 <https://youtu.be/-0BOPNDaqtI>
+
 * Rehashed last steps, but better
 * Set up official package archive sources
 * Installed `kubectl`, `kubeadm`, `kubelet`, and `docker-ce`
