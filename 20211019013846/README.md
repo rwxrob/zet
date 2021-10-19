@@ -1,9 +1,8 @@
 # Cloud-Native and Kubernetes Colearning, Oct 18, 2021
 
-*remember to turn off music, start recording*
-
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+* Rehashed last steps, but better
+* Set up official package archive sources
+* Installed `kubectl`, `kubeadm`, `kubelet`, and `docker-ce`
+* Pulled images: `kubeadm config images pull`
+* Hit a wall knowing what to do next
+* Rant about using `wget` binaries instead of official packages and images
