@@ -2,6 +2,9 @@
 
 <https://calendar.google.com/calendar/embed?src=ieb0jjumeapap9sjlogvj6agtc%40group.calendar.google.com&ctz=America%2FNew_York>
 
+**News** covers the news of the community and industry for the week.
+It's usually about an hour long and followed by an *AMA* session.
+
 **AMA** is a free time that will be recorded and saved to
 YouTube as a live session as-is (no editing). You can ask anything that
 is about or contained in any of the Beginner Boost content. I normally
