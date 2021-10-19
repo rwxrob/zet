@@ -1,6 +1,6 @@
 # Weekly Streaming Schedule
 
-<https://calendar.google.com/calendar/u/0?cid=aWViMGpqdW1lYXBhcDlzamxvZ3ZqNmFndGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ>
+<https://calendar.google.com/calendar/embed?src=ieb0jjumeapap9sjlogvj6agtc%40group.calendar.google.com&ctz=America%2FNew_York>
 
 **AMA** is a free time that will be recorded and saved to
 YouTube as a live session as-is (no editing). You can ask anything that
