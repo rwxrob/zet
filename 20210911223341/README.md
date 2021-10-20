@@ -9,13 +9,13 @@ Temp runs cover lower body (for me) so strength training is all upper
 body.
 
 |: Day :|: Description :|
-|  Mon  | Run, Slow, Base Endurance, 1m/30s (~90m) |
+|  Mon  | Run, Slow, Base Endurance, 1m/30s (~60m) |
 |  Tue  | Strength, Upper Body 3m between sets (~60m) |
-|  Wed  | Walk, Recovery (~90m) |
+|  Wed  | Walk, Recovery (~60m) |
 |  Thu  | Run, Fast, 5K Tempo Glides 2m/1m (~30m), Race Day |
 |  Fri  | Strength, Upper Body 3m between sets (~60m) |
-|  Sat  | Run, Slow, Base Endurance, 1m/30s (~90m) |
-|  Sun  | Walk, Recovery, Someplace Fun (~90m) |
+|  Sat  | Run, Slow, Base Endurance, 1m/30s (~60m) |
+|  Sun  | Walk, Recovery, Someplace Fun (~60m) |
 
 After the upcoming 5K I should have the base fitness to add 20-90
 minutes of morning Ashtanga Yoga back to the list. I'll have to adapt it
