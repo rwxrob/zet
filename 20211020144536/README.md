@@ -42,19 +42,21 @@ content is going to be worth learning. This is nothing new. It's been
 true since humans started learning. But there is always some asshole
 lying to you to sell you a quick-n-easy "course". 
 
-This is why mentoring is so much more valuable any "course" you could
+Mentoring is so much more valuable than any "course" you could
 ever find. Pairing and shadowing experienced professionals has been how
-learning UNIX/Linux has been done for decades, and Kubernetes is just an
-extension of that. Mentoring is really the only way to go, and giving
-mentors and those learning a road map and the resources to do their own
-learning is the best way to learn, which is exactly how successful
-vocational training and Scouting has been done for decades. This is why
-creating an *open* credential merit system is so important, one that is
-not driven by affiliate links, hidden profits, and "teachers" trying to
-convince you they know what the fuck they are talking about by adding
-yet another animation to their presentation rather than actually working
-at all with the technology, you know, building their own *real*
-experience.
+learning UNIX/Linux has been done for decades, and Kubernetes is
+literally just an extension of that. Mentoring is the only way to
+go. Give mentors and those learning a road map and the resources
+to do their own learning. Vocational training and Scouting has been done
+this way for decades.
+
+Creating an *open* credential merit system would address these issues,
+one that is not driven by affiliate links, hidden profits, and
+"teachers" and "trainers" trying to convince you they know what the fuck
+they are talking about by adding yet another animation to their
+presentation rather than actually working at all with the technology,
+you know, building their own *real* experience and sharing it in an
+organized way.
 
 Related:
 
