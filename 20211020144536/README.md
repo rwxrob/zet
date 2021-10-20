@@ -40,7 +40,7 @@ The simple reality is that the more flashy something is --- and the more a
 person focuses *only* on "teaching" something --- the less likely the
 content is going to be worth learning. This is nothing new. It's been
 true since humans started learning. But there is always some asshole
-lying to you to see you a quick-n-easy "course". 
+lying to you to sell you a quick-n-easy "course". 
 
 This is why mentoring is so much more valuable any "course" you could
 ever find. Pairing and shadowing experienced professionals has been how
