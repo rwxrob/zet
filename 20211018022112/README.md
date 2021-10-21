@@ -1,5 +1,11 @@
 # OpenShift Doesn't Even Use Go Templates
 
+> 📰
+> Update: I've just heard that there is an open issue to add support for
+> Go templates. Another SME that I really respect, who is a total
+> OpenShift fanboy, agrees this was a completely egregious omission from
+> the beginning and needs to be addressed.
+
 I don't have words for how fucking stupid the decision to not support Go
 templates is in the OpenShift world. I will *never* willingly work with
 OpenShift after learning about this (and a ton of other architectural
