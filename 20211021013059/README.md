@@ -1,5 +1,7 @@
 # Q: Can I fork your zet/zettelkasten?
 
+📺 <https://youtu.be/S4b6nYhQmMs>
+
 1. You can fork `cmd-zet` and do whatever you want (Apache license)
 1. You can fork (copy) of `zet` (full zettelkasten content) but that is all
 1. You cannot create any "derivative work" of `zet` (including PRs)
