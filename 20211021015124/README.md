@@ -1,5 +1,6 @@
 # Q: What do you think about CodeAcademy and DataCamp?
 
+1. Just beware
 1. Bootcamps suffer from lack of any regulation
 1. Showing up universities causing them to step-it-up
 1. Colleges cannot provide bootcamps
