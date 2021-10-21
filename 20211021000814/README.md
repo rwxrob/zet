@@ -1,5 +1,7 @@
 # News for 2021, Week 42
 
+📺 <https://youtu.be/uwQ1YFYv6fM>
+
 Community:
 
 * Community member fiveshot97 landed a data analyst
