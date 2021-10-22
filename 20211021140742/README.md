@@ -1,8 +1,9 @@
 # Add an `init` System to Containers
 
-TL;DR: `docker run -itd --init ...` unless you need it to work with
-`kubeadm`, in which case you need to install `systemd` to get it to work
-on any major Linux distro supporting Kubernetes (Ubuntu, Red Hat, SUSE).
+TL;DR: mount `-v /sys/fs/cgroup:/sys/fs/cgroup:ro` so that your `apt
+install systemd` work. You must have `systemd` installed on Ubuntu for
+`kubeadm` to work which is what all major Linux distro supporting
+Kubernetes require (Ubuntu, Red Hat, SUSE).
 
 I'm still relatively new to creating my own images, but I've been
 fascinated by how most images don't have an `init` system of any kind.
