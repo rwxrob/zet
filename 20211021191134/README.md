@@ -1,4 +1,4 @@
-# Podman Actual Is Objectively Superior to Docker
+# Podman Actually Is Objectively Superior to Docker
 
 Installing `systemd` in containers running with `podman` is drop-dead
 simple. Just install `podman`. Alias `docker` to `podman` if you want.
