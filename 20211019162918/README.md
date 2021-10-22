@@ -1,4 +1,4 @@
-# Change Terminal to 92 x 25 (Font Size 31)
+# Change Terminal to 95 x 26 (Font Size 30)
 
 I think the whole community has really suffering lately from the 80
 columns per terminal now that I'm doing so much Kubernetes work that
