@@ -1,5 +1,7 @@
 # Cloud-Native and Kubernetes Colearning, Oct 22, 2021
 
+📺 <https://youtu.be/mnR3QDyA3k0>
+
 * Moving to 2-hour segments
 * First five minutes covering goals for session
 * Last five minutes wrapping up and summarizing
