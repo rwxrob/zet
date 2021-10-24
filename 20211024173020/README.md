@@ -1,5 +1,7 @@
 # Q: What are prerequisites to learning Kubernetes?
 
+📺 <https://youtu.be/griUcM_QSdk>
+
 A stage approach seems to be materializing from my own struggles to
 learn the entirety of Kubernetes.
 
