@@ -1,9 +1,17 @@
-# Q: How do I run Linux on Windows?
+# Q: How do I run Linux in Windows?
 
-*remember to turn off music, start recording*
+1. Install MS Windows Terminal first
+1. Do you want graphics with that (or just a terminal)?
+1. Install WSL2 and use that (probably should install anyway)
+1. Install a virtual machine (VirtualBox)
+1. Install Docker Desktop *or* Minikube and then *any* Linux container
+1. Using a VM or container allows you to fully experiment
 
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
+Also rans:
 
+* Cygwin is not Linux
+* mingw is not Linux
+* Git-Bash is not Linux
+* Not "dual booted" (not "in" Windows)
+* Not installing onto "bare metal"
+* Not `ssh`-ing into remote Linux host
