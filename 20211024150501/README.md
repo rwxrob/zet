@@ -1,5 +1,7 @@
 # Q: How do I setup lynx on Windows 10?
 
+📺 <https://youtu.be/zdurWFO9etI>
+
 1. Windows 10 is not Linux ;)
 1. Get Linux on Windows 10
 1. Install lynx with package manager (`apt install lynx-common`)
