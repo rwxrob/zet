@@ -19,3 +19,5 @@
 Related:
 
 * <https://github.com/rwxrob/dot>
+* "rob reads the Interwebz like the lady in fifth element" (vmttmv)
+* "I use lynx btw (should be a t-shirt)" (vmttmv)
