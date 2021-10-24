@@ -1,5 +1,7 @@
 # Q: How do I run Linux in Windows?
 
+📺 <https://youtu.be/qMl985TbUrY>
+
 1. Install MS Windows Terminal first
 1. Do you want graphics with that (or just a terminal)?
 1. Install WSL2 and use that (probably should install anyway)
