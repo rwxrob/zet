@@ -1,9 +1,13 @@
 # Q: What do the emoji/modes mean?
 
-*remember to turn off music, start recording*
+The emoji/modes are my level of engagement with the live stream. You can
+read more about it on my about page: <https://twitch.tv/rwxrob/about>
 
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+🐟 Away  
+🏢 Coworking  
+☕ Focusing  
+🕹️  Gaming  
+🤬 Ranting  
+🎬 Recording  
+🎉 Partying  
+💬 Chatting  
