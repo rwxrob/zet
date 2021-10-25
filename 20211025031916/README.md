@@ -1,5 +1,7 @@
 # Q: Any tips to help with Linux end-user support?
 
+📺 <https://youtu.be/0uQz_JyRHV4>
+
 How does anyone fill the shoes of a Linux end-user support engineer
 with 10 years of Linux experience.
 
