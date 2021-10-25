@@ -95,6 +95,19 @@ My path:
 
 1. `kind` (k8s running in container engine)
 1. `minikube` (k8s running in single virtual machine)
-1. `virtualbox` + `kubeadm` (k8s running in 3 virtual machines)
+1. `virtualbox` + `kubeadm` + `clusterctl` (k8s in 3 virtual machines)
 1. Google Cloud Platform (k8s running in 4+ virtual cloud machines)
 1. On-Prem Bare Metal + `kubeadm`
+
+## Friday, October 8, 2021, 12:19:33PM EDT
+
+* KubeCon + CloudNativeCon is next week!
+* New ClusterAPI and `clusterctl` released this week
+* Decided to use `kind` instead of `minikube`
+
+## Saturday, October 9, 2021, 12:19:13PM EDT
+
+* Attempt to use standard OS images for nodes with `kind`
+
+* TODO look into MaaS using Canonical offering
+
