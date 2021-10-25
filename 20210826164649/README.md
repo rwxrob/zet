@@ -33,31 +33,49 @@ at any other time). Come code and work with me on your own projects
 while I work on mine. You are welcome to chat and ask questions. Someone
 else might answer you. I just might not see them. You are not bothering
 me. Categories: Science & Technology, Software and Game Development,
-Writing.
+Just Chatting.
 
 🕹️  **Gaming** I'm playing a video game of some kind. I love to randomly
 chat while playing games. Usually camera and mic are on but I'm paying
 varying amounts of attention to the chat. Always music. Categories: Dota
 2, Witcher 3, Team Fortress 2, Minecraft, ShenzenIO.
 
-💬 **Chatting** The main point of this mode is engagement with the chat.
-I'm actively engaging with people from all chat sources both in text and
-voice. Sometimes I have video on as well. During this mode *you* are the
-priority above everything else, be it AMA or otherwise. Feel free to
-throw your own ideas and opinions and questions out for us to discuss.
-Camera and mic vary. Usually there is music. Categories: Just Chatting,
-Science & Technology, Software and Game Development.
-
-🎉 **Partying** Usually this means I have music on and am just
-celebrating and being happy with y'all.
-
-
-🤬 **Ranting** I'm pissed off and using the word "fuck" a lot. You've
-been warned.
+🤬 **Ranting** I'm pissed off and using the word "fuck" a lot. I'm
+usually not listening to anyone and just want to yell loudly. *Usually,*
+this mode doesn't stay very long but I make no promises. If there is
+music I can't here it over the sound of my own angry, "unhinged" voice.
+Categories: Just Chatting, Science & Technology, Talk Shows & Podcasts.
 
 🎬 **Recording** I'm recording what is happening on the screen to be
-placed into a video saved forever on YouTube. Be careful what you chat.
-Use the octothorpe (hashtag, `#`) if you don't want your chat readable
-on screen.
+placed into a video saved forever on YouTube. The title will be the same
+title of the YouTube video that gets posted. I use my `zet cast` tool to
+synchronize the notes with the description of the video. I almost always
+keep the live chat off the screen for obvious (but hard-learned)
+reasons. Be careful what you chat. Use the octothorpe (hashtag, `#`) as
+the first character if you don't want your chat readable on screen.
+(You'll have to add an initial space if you want to enter an actual
+tag.)
+
+🎉 **Partying** Usually this means I have music on and am just
+celebrating and being silly. I might even break out the guitar or have
+my wife on. Might be doing my own take on movies. Might be drunk and
+dancing. Sometimes watching other streamers. If I'm not engaging the
+chat it's because I'm distracted by something shiny. You are my priority
+for sure (so long as you are entertaining me). Music is always
+blasting and I take requests for whatever. Categories: Just Chatting,
+Science & Technology, Music, Sex, Drugs, and Rock & Roll (It's a joke
+Twitch TOS people, calm the fuck down.)
+
+💬 **Chatting** The main point of this mode is engagement. I'm actively
+engaging with any and all chat sources as best I can both in text and
+voice. I change the title up a lot to try and match the ever-changing
+topic and theme (but fail miserably). Sometimes I have video on as well.
+During this mode *you* are the priority above everything else, be it AMA
+or otherwise. Feel free to throw your own ideas and opinions and
+questions out for us to discuss. Camera and mic vary. Usually there is
+music. Categories: Just Chatting, Science & Technology, Software and
+Game Development, Talk Shows & Podcasts.
+
+Tags:
 
     #about #streaming
