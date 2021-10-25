@@ -1,5 +1,7 @@
 # What is a Beginner Boost?
 
+TODO (revisit this, it's now out of date)
+
 Let's consider another question:
 
 "What should I learn to get a job in tech?"
