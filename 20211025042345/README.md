@@ -1,5 +1,7 @@
 # Q: What app do you use to take notes?
 
+📺 <https://youtu.be/26X2onaKGc0>
+
 * CommonMark, Pandoc, Vim, Git, GitHub
 * Modified Zettelkasten method 
 * Priorities:
