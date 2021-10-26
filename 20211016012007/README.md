@@ -1,7 +1,7 @@
 # Current News (Updated Regularly)
 
-* Massive drama with Linus (Does Tech) and Luke
 * Cisco Buys Replex
+* Added *Digital Nomad / IRL Streamer Planning* to weekly schedule
 
 Related:
 
