@@ -1,5 +1,7 @@
 # News for 2021, Week 43
 
+📺 <https://youtu.be/8yw7VWMqiZI>
+
 Community:
 
 * Added *Digital Nomad / IRL Streamer Planning* to weekly schedule
