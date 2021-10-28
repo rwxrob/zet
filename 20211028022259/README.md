@@ -1,9 +1,6 @@
-# Q: Whad do you think of Vim9's new Vimscript?
+# Q: What do you think of Vim9's new Vimscript?
 
-*remember to turn off music, start recording*
-
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+* I do not care at all
+* I'm not changing anything, no need
+* If you do add, make sure you can wrap in conditionals
+* If using a lot `vimscript` you are doing it wrong: USE FILTERS!
