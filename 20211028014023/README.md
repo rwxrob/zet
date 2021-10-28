@@ -1,9 +1,8 @@
 # Q: What is the best team-building activity?
 
-*remember to turn off music, start recording*
-
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
-
+* Anything with food (and beer)
+* What about being remote?
+  * Consider bringing everybody together once or twice
+  * GitLab does it right
+* Put faces and stuff in your avatars
+* Just video conferencing is *not* enough
