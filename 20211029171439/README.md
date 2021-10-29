@@ -1,5 +1,7 @@
 # Kubernetes Applications Development (CKAD) Colearning (rwxrob.tv)
 
+📺 <https://youtu.be/w9IpcnBhjiQ>
+
 1. Seems like there are two approaches to CKAD
     1. Understand concepts and patterns for applications development
     1. Install and configure existing application
