@@ -1,5 +1,6 @@
 # Current AMA Questions
 
+* Q: Where do you think quantum computing is headed?  
 * Q: Should I use default TMUX key bindings?
 * Q: How do you know you're having a burnout?
 * Q: How do you feel about future of blockchain dev?
