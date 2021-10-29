@@ -1,5 +1,7 @@
 # Kubernetes Colearning (bare-metal and more)
 
+📺 <https://youtu.be/GlcZu6RGfoI>
+
 1. Make the case for on-prem
    * I want to live in a world where on-prem is the priority
    * Cloud computing is fucking expensive -- especially ML
