@@ -1,5 +1,7 @@
 # Q: What do you think of the term "devops"?
 
+📺 <https://youtu.be/xEr5lGNhZh8>
+
 1. Term really triggers people for different reasons
 1. I personally prefer "infrastructure engineer"
 1. Know one really knows what this means
