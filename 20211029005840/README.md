@@ -1,5 +1,7 @@
 # Q: Do you hate virtual machines (VMs)?
 
+📺 <https://youtu.be/OAs9xl6bh1w>
+
 1. I do not hate virtual machines
 1. Really good for testing things out as a developer
 1. Great for zero-day hackers
