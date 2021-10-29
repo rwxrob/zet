@@ -5,25 +5,26 @@ remember. Often I have to repeat these to myself over and over again to
 help remember in the heat of the moment. Obviously, this is not an
 exhaustive list, but it sure helps. Sometimes I will tweak it.
 
-* Run
-* Chill
-* Dance
-* Create
-* Forgive
-* Never fear
-* Be grateful
-* Swear better
-* Make it count
-* Foster dialog
-* Live with less
-* Show and share
-* Let people change
-* Build useful things
-* Don't get mad, get busy
-* Read the fucking manual
-* Give the benefit of the doubt
-* Remind your body you are human
-* Ask "What if everybody did it?"
+0.  Run
+1.  Chill
+2.  Dance
+3.  Create
+4.  Forgive
+5.  Never fear
+6.  Be grateful
+7.  Use a filter
+8.  Swear better
+9.  Make it count
+10. Foster dialog
+11. Live with less
+12. Show and share
+13. Let people change
+14. Build useful things
+15. Don’t get mad, get busy
+16. Read the fucking manual
+17. Give the benefit of the doubt
+18. Remind your body you are human
+19. Ask “What if everybody did it?”
 
 When I find myself doing the following I know I'm on the path to evil:
 
