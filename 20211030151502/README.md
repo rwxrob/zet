@@ -1,5 +1,7 @@
 # Install Elasticsearch (ECK) Colearning
 
+📺 <https://youtu.be/uCyM5zwa9Ss>
+
 1. What is Elasticsearch and ECK? (Elasticsearch Cloud on Kubernetes)
 1. Consider installation methods:
     1. `kubectl apply -f ...`
