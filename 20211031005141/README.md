@@ -14,3 +14,8 @@ audio available remotely, which I can use to interview people as well
 when I just use the regular mic. But I have a feeling I could set up an
 OBS scene as well that just uses the audio from the ffmpeg stream and
 layer that on top of the fishies or whatever.
+
+Related:
+
+* How to connect to GoPro Hero cameras with OBS Studio - Camera Remote  
+  <https://www.cameraremote.de/how-to-connect-to-gopro-hero-cameras-with-obs-studio/>
