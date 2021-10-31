@@ -91,7 +91,7 @@ through the overhead of such systems and promotes rapid adaptation.
 The ideas for OCMS originated during a collaborative session of mentors
 and educators live on rwxrob.tv in early 2021. The term 'open
 credential' was coined at that time as was the decision to let the
-learner decide for themselves when do declare whether or not they have
+learner decide for themselves when to declare whether or not they have
 passed a certain credential. Then, the learner can decide to invite one
 or more additional mentors to validate their own assessment and provide
 their own stamps of trustworthy approval. Such a system promotes and
