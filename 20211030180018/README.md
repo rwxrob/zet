@@ -1,5 +1,7 @@
 # Install Elasticsearch (ECK) Colearning
 
+📺 <https://youtu.be/WXP7Jhhomj8>
+
 1. Create a 4-node Minikube cluster (for simulated HA)
 1. List labels for a specific node
 1. Attempt to trick ES by adding topology zone labels to nodes 
