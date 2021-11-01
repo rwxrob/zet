@@ -1,4 +1,4 @@
-# Reconsidering "Computational Thinking"
+# Reconsidering "Computational Thinking" and Scratch
 
 I've often hated the term "computational thinking" because it gets so
 abused and because people automatically say that the only way you can
