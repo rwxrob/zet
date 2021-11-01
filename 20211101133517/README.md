@@ -20,7 +20,7 @@ so that you can present those ideas to the computer for help as an
 extension of our own brains. This has always had me focusing on learning
 languages with legs, so to speak, with purpose in the world, that people
 are paying money for you to learn and use, languages like (originally)
-Python, (then) JavaScript), and (now) bash.
+Python, (then) JavaScript, and (now) bash.
 
 So I've decided that **Computational Thinking** will get its own OCMS
 credential that comes before we even touch bash or Python or JavaScript,
