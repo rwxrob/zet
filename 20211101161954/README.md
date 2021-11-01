@@ -19,10 +19,14 @@ ES is shooting for lock-in, and they are doing a great job of it, but
 that doesn't mean smaller companies won't throw it out for something
 new.
 
+Community member lousenti (from Twitch) mentioned finding Blast in Go
+with an Apache 2 license that might be worth looking into.
+
 Related:
 
 * Elasticsearch alternatives: 8 to consider after the license change  
   <https://techgenix.com/elasticsearch-alternatives/>
+* <https://github.com/mosuka/blast>
 
 Tags:
 
