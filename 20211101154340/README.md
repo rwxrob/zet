@@ -31,6 +31,21 @@ enterprise production cluster backups, 'cuz it apparently is.
 > still have this be the basis for production cluster backups scares the
 > shit out out of me. 
 
+Something else that I'm really having a huge time swallowing is the
+publication of *every fucking secret in the production cluster* into a
+flat, unencrypted GitHub repo protected with nothing but GitHub's access
+restrictions. All it takes is one dumb-ass with access to that repo to
+get phished, brute-forced, or to pull down a copy of that repo onto a
+shared drive (or any insecure computer) for a would-be hacker to own the
+entire fucking production cluster. No wonder Kubernetes headlined at the
+2021 DefCon. There has to be a better way. There just has to be.
+
+This entire thing has really been a revelation of just how fucking
+stupid the baseline practices and design patterns are for Kubernetes
+security in general. Before hackers got access to one or more servers,
+now they get *everything*. It's a great time to be a hacker, that's for
+sure.
+
 Related: 
 
 * [20211026164332](/20211026164332/) Do Not Create Namespaces Beginning with `kube-`
