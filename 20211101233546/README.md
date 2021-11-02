@@ -1,5 +1,7 @@
 # Lessons Learned from First IRL Stream
 
+📺 <https://youtu.be/J8EJNKe7Oa4>
+
 * First video in a new playlist about live streaming tips and tricks
 * Decided to get the GoPro 9 because 10 (does not have preview in app)
 * Found out that Media Mod is *required* for lavalier mic
