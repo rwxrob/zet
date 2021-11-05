@@ -57,11 +57,13 @@ attempting the same on Windows is terrifying.
 
 Then there is the whole issue of uptime. I've never had a Windows system
 stay up more than a few days. Inevitably, something breaks. But my Linux
-workstations regularly go a month or more without a reboot. This is
-because of the fundamental flaw in Windows OS design that ties the
-desktop (windows) code to the OS itself. The UNIX philosophy is what
-keeps Linux so robust and sustainable despite the frequent quirks. It is
-*very* rare for a Linux application to force the entire OS to be
+workstations regularly go a month or more without a reboot. This allows
+things like my fishies and radio to be all the time. It allows me to ssh
+into workstation from laptop and attach to TMUX. Windows *never* will
+allow for that in as seamless a fashion. No application would every
+overshadow that value.
+
+It is *very* rare for a Linux application to force the entire OS to be
 rebooted. So even if OBS hangs or crashes, the supporting OS to which I
 would need to ssh into from the road, is rock solid and really unlikely
 to require a reboot ever. This is a serious fucking consideration for
@@ -73,6 +75,11 @@ from the road in a digital nomad style.
 > 💬I wish they would make an OBS that you can run headless from the
 > cloud, but that's unlikely. It would still be expensive, however, to
 > send a 1080p stream to (and from) it constantly.
+
+Windows fails for uptime because of the fundamental flaw in Windows OS
+design that ties the desktop (windows) code to the OS itself. The UNIX
+philosophy is what keeps Linux so robust and sustainable despite the
+frequent quirks. 
 
 So I'll be staying on PopOS even though I really detest the changes they
 made to the window manager that force you to pick between zooming in and
