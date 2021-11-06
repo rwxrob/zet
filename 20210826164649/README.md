@@ -22,6 +22,8 @@ the order of interactivity and attentiveness.
 
 💬 **Chatting** The main point of this mode is engagement. I'm actively engaging with any and all chat sources as best I can both in text and voice. I change the title up a lot to try and match the ever-changing topic and theme (but fail miserably). Sometimes I have video on as well. During this mode *you* are the priority above everything else, be it AMA or otherwise. Feel free to throw your own ideas and opinions and questions out for us to discuss. Camera and mic vary. Usually there is music. Categories: Just Chatting, Science & Technology, Software and Game Development, Talk Shows & Podcasts.
 
+☎️ **Answering** Taking live voice calls in Discord. Could be about anything or could be topical depending on what's happening. Just go into the TALK \#lobby where you can chat and post your text question for submission live. I'll drag you into the private live channel where we can talk on stream.
+
 Tags:
 
     #about #streaming
