@@ -1,5 +1,7 @@
 # Kubernetes Colearning, Nov 5, 2021
 
+📺 <https://youtu.be/f3tGXM6EsZk>
+
 * Docker Desktop enterprise remediation
   * Not* FOSS
   * Now charging for it 
