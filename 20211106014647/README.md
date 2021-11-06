@@ -1,5 +1,7 @@
 # Sick of Music Issues with YouTube and Twitch
 
+📺 <https://youtu.be/jJL04THjKzo>
+
 * Hour long video is demonetized by 15 second bit of music at end
 * Have to clip it (in this case) but risk of having video blocked
 * Is it even moral to stream copyright music that you have purchase?
