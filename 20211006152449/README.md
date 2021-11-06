@@ -12,20 +12,15 @@ to OCMS itself. (See <https://ocms.cc> for more.)
 Each badge is composed of meta data and layered requirements separated
 into distinct YAML documents within a single file separated by the
 standard YAML document separator (`---`) for all but the first (meta
-data) section. However, unlike YAML the meta data first section must not
-contain any blank or commented lines and must not begin with the YAML
-separator and the first line must be the `ocms` meta data property (ex:
-`ocms: v1`. This allows applications to quickly determine the state of
-the credential specification without necessarily downloading the entire
-file which allows OCMS registries and discovery tools to automate
-updates regularly.
+data) section. 
 
-The file is named after the base portion of its URL followed by an
-optional version and language identifier and mandatory `.yaml` suffix
-(ex: `unix-fr.yaml`, `unix-v1.1.34-fr.yaml`). English is the primary
-language for all OCMS credentials and is therefore assumed if no
-language identifier is included in the file name (ex: `unix.yaml`). See
-the `lang` and `version` meta data definitions below for more.
+However, unlike YAML the meta data first section must not contain any
+blank or commented lines and must not begin with the YAML separator and
+the first line must be the `ocms` meta data property (ex: `ocms: v1`.
+This allows applications to quickly determine the state of the
+credential specification without necessarily downloading the entire file
+which allows OCMS registries and discovery tools to automate updates
+regularly.
 
 The first YAML document within the file (`.[0]`) contains the following
 meta data:
@@ -177,8 +172,7 @@ but multiple words should be avoided whenever possible.
 > Remember, potentially millions of learners will be referring to badges
 > and requirements by their identifiers so picking good, mnemonic ones
 > is a critical priority --- especially given their permanence. Be
-> careful to pick identifiers that are full English words that can be
-> recognized by conversational user interfaces.
+> careful to pick identifiers that are full English words.
 
 Each requirement has the following reserved key/value pairs:
 
@@ -205,9 +199,8 @@ in a site, PDF, or pamphlet.
 would require to complete this specific requirement. Decimal numbers are
 allowed (ex: 0.5 is half an hour).
 
-`xp` (required) is the number of experience points awarded to those who
-finish this requirement. Experience points provide a measure of weight
-and importance.
+`weight` (required) is the how important this specific requirement is to
+the overall learning. 
 
 > 💬
 > The Beginner Boost Badges are OCMS Credentials grouped and associated
