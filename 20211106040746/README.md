@@ -1,8 +1,8 @@
 # Childhood Destroyed: Snozeberries are Dicks
 
-> Veruka: Who ever heard of a snozeberry?"
+> Veruca: Who ever heard of a snozeberry?"
 >
-> (Wonka grabs Veruka's face.)
+> (Wonka grabs Veruca's face.)
 >
 > Wonka: We are the music makers and we are the dreamers of dreams.
 
