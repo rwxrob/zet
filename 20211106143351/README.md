@@ -1,5 +1,7 @@
 # Kubernetes Colearning, Nov 6, 10:30am
 
+📺 <https://youtu.be/SoVJlP2kdfw>
+
 * Still using Node Feature Discovery as example
 * Realized we really should install private registry first
 * Decided on Harbor but will to install in other video
