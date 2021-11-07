@@ -1,5 +1,7 @@
 # Everything Wrong with GoPro for IRL in 10 Minutes
 
+📺 <https://youtu.be/PvH3aPC_Lfg>
+
 1. Miekii used GoPro *wait for it* 7
 1. Eventually the 7 will go away
 1. You *must* get the Media Mod
