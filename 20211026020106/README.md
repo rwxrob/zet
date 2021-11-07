@@ -9,3 +9,4 @@
 * Q: Beginner question: what should i look for in my first contract?
 * Q: For hobby programming on my personal machines where I do end up downloading random packages (untrusted) and such should I use a docker container or a VM ?
 * Q: Which distro should I start with?  (Easy, then LFS, then Gentoo)
+* Is it hard to get a computer science job with a different degree? How people in that position should approach to interviews if they are really know about and curious to learn more about computers?
