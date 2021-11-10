@@ -6,3 +6,4 @@
 * <https://www.theregister.com/2021/11/05/cisco_unintentional_debugging_credential_security_alert/>
 * <https://clig.dev/#arguments-and-flags>
 * Google cuts remote employee
+* you.com
