@@ -1,5 +1,7 @@
 # Q: Should I use a monorepo for Kubernetes apps?
 
+📺 <https://youtu.be/uZ_ReCSyuag>
+
 1. You have several Kubernetes infra applications and need to store them
    * Some are in Helm charts
    * Some are in modified Helm charts
