@@ -1,5 +1,7 @@
 # Q: How about organizing tech conference on Twitch?
 
+📺 <https://youtu.be/1kDPBSuVgwY>
+
 1. Yes, eventually
 1. Start small, regionally and IRL *with* remote
 1. Work it into bigger `afk.works` regional meetups
