@@ -1,5 +1,7 @@
 # Q: Any updates on afk.works?
 
+📺 <https://youtu.be/eOCNQpy4a_A>
+
 1. Informal group of knowledge workers
 1. Figuring out best practices for encouraging knowledge exchange
 1. Parsing Expression Grammar Notation (pegn.dev)
