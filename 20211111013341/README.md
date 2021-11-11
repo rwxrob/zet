@@ -1,5 +1,7 @@
 # Q: How do you stay focused learning a language? 
 
+📺 <https://youtu.be/y5j5Nj1AEV0>
+
 > I really want to learn Go, I start, but never continue to learn.
 > Should I block out an hour a day or …?
 
