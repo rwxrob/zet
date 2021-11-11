@@ -1,5 +1,7 @@
 # News for 2021, Week 45
 
+📺 <https://youtu.be/BlL0yiy_mxY>
+
 * Here's to our Veterans! Maybe watch a movie in honor:
   * Apocalypse Now
   * Platoon
