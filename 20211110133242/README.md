@@ -1,5 +1,35 @@
 # Live Streaming Gear (Kit)
 
+Assumptions:
+
+* hands free
+* POV priority
+* eventually drone
+
+Use Cases:
+
+* Wandering Around Lab/Garage (No Cam)
+* Yoga/Dancing/Training
+* Focusing on lab equipment, building
+* Wandering Around Town/Neighborhood
+* Interviewing Remotely
+  * > hour
+* Hiking
+  * > hour
+* Cycling
+  * > hour
+  * weight less important
+* Fast Running
+  * < hour
+  * weight extremely important
+  * maximum stabilization
+  * requires head mount
+* Slow Running
+  * > hour
+  * weight less important
+  * maximum stabilization
+  * requires head mount
+
 Streaming Scenes:
 
 * Desktop
