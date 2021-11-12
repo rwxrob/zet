@@ -1,9 +1,15 @@
 # Learning to Install VMWare Harbor Locally
 
-*remember to turn off music, start recording*
+* Two installation methods: 1) Installer 2) Helm
+* Installer has critical dependency on docker-compose for installation
+* Seems that most use Helm for install
+* Roadmap of HA dependencies seems to be clear:
+  * Istio
+  * PostgreSQL
+  * Redis
+* Decided to go with hardware lab setup first
 
-1. Scenario
-2. Solution
-3. Steps
-4. Summary
+Related:
 
+* <https://goharbor.io/>
+* <https://github.com/goharbor/harbor>
