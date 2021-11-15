@@ -14,4 +14,4 @@ I once had a random beer and the Old Town with a senior executive IT
 consultant who seemed to be being paid obscene amounts of money to help
 fortune 10 companies transform their IT organizations. He was a little
 drunk and after exchanging stories for a while he put his hand on my
-shoulder and said, j 
+shoulder and said, "Make sure you teach them to focus on solutions." 
