@@ -69,6 +69,12 @@ apparently fine for splashes and stuff. If and when I do any really
 serious water sports, I won't be streaming them. For that a GoPro makes
 a lot of sense.
 
+I did discover something else that I *really* want to include in my life
+streaming activities: live music sessions. I'll be taking all that
+obscene amount of money I would have spend on everything else and
+getting a zoom to plugin to my mac or phone. I really want to live
+capture great busking music when possible.
+
 Tags:
 
     #twitch #kits #irl #til
