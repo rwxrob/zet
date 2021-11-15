@@ -29,8 +29,8 @@ they just want to get their software into your precious cluster.
 KRAP is here to protect you from this crap by suggesting a common set of
 best practices for dealing with each application where things could
 easily go wrong without the proper attention they require. After all,
-all of this stuff is being regularly updated by their creators and your
-are left responsible for making those updates quickly, consistently, and
+all of this stuff is being regularly updated by their creators and you
+will be called upon to make those updates quickly, consistently, and
 safely. Ultimately, *you* are responsible for their KRAP.
 
 A simple solution to this problem is to simply enforce a common set of
