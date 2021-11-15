@@ -39,9 +39,9 @@ agnostic (like you would do with an interface when programming). You
 don't care *how* these practices are fulfilled, only that they are. Some
 can be scripted, some are simply a matter of documentation, but all are
 required for *any* real application to makes it into your production
-cluster. You could say that every application can implement it's own
+cluster. You could say that every application can implement its own
 *methods* for the same *operations*. Operations are the actions taken by
-an cloud-native admin, or by a script for the admin. 
+any cloud-native admin, or by a script for the admin. 
 
 To be clear, this is not yet-another-application-abstraction (even
 though it can be implemented as such). It's just a matter of agreeing on
