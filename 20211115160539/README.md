@@ -1,5 +1,8 @@
 # Kubernetes *Real* Application Practices (KRAP)
 
+KRAP is a methodology for administering Kubernetes applications in the
+real world.
+
 Let's face it, there are far too many ways to install and manage
 Kubernetes applications today. What's worse is that as a cloud-native
 administrator you don't get to choose. This leaves you responsible to
