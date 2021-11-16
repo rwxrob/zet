@@ -55,7 +55,7 @@ applications while allowing each its own specificity.
 
 * I agree to provide a git repo for each app (allows GitOps, etc.)
 * I agree to provide a detailed README.md
-* I agree to document or implement the following procedures:
+* I agree to document the following procedures:
     * Check - version, dependencies, is there an update?
     * Fetch - acquire from external authoritative source
     * Configure - adapt original meet organization policies and needs
