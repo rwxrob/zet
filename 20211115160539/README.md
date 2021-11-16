@@ -55,39 +55,14 @@ applications while allowing each its own specificity.
 
 * I agree to provide a git repo for each app (allows GitOps, etc.)
 * I agree to provide a detailed README.md
-* I agree to document or implement the following operations:
-    * Check - version, dependencies
+* I agree to document or implement the following procedures:
+    * Check - version, dependencies, is there an update?
     * Fetch - acquire from external authoritative source
+    * Configure - adapt original meet organization policies and needs
     * Validate - read Helm charts, OPA policy checks, infrastructure deps, etc.
     * Install - `helm install`, `kubectl apply`, etc.
     * Upgrade - `helm upgrade`, etc.
     * Uninstall - `helm uninstall`, etc.
-
-These operations can be fulfilled simply by describing the methods to
-accomplishing each operation in a `README.md`. Alternatively,
-a light-weight executable (preferably a bash script with a common name,
-like `krap`) can fulfill these operations with actual coded methods
-(functions), for example:
-
-```bash
-krap check
-krap fetch
-krap validate
-krap install
-krap upgrade
-krap uninstall
-```
-
-> ⚠️
-> Do not allow any other arguments to be passed.
-
-When using a script, it should *never* take any other arguments than the
-main operations names since the goal is simplicity and specificity.
-Reading through the executable code should tell anyone everything they
-need to know --- in detail --- in order to fulfill these Kubernetes
-application administrative operations. Such scripts should depend on the
-`kubectl config` context rather than taking an argument or environment
-variable.
 
 ## Vendoring
 
