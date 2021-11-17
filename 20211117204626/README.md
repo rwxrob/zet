@@ -27,6 +27,10 @@ So I've decided after I have my lab/studio reset I will be booting PopOS
 and replacing it with my beloved Linux Mint Cinnamon (which has never
 done me wrong, ever).
 
+Related:
+
+* [20211117135853](/20211117135853/) Installing Steam Deleted PopOS for Linus
+
 Tags:
 
     #linux #distros #mint #rant
