@@ -20,7 +20,7 @@ the zoom-out effect *with* the search bar to type in the commands. You
 get either, or. And if you choose anything else besides workspaces for
 Super you can never reveal your toolbar if you have any applications in
 full screen mode (and I usually have terminal full screened). In short,
-the people making this idiotic design changes clearly don't use the
+the people making these idiotic design changes clearly don't use the
 thing that they are changing. They are breaking what made PopOS great.
 
 So I've decided after I have my lab/studio reset I will be booting PopOS
