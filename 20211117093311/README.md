@@ -5,10 +5,13 @@
 I fucking hate the Rust community. I would overlook any advantages of
 the language simply because of this fact alone (if there were not tons
 of other reasons not the least of which is its butt-ugly syntax,
-falsehoods about "safety", and laughable concurrency model). I'm sure
-just writing this in my personal zettelkasten will stir up the stinking
-"political" zombie crabs to attack yet again, but I don't give a shit.
-People have to know this before getting involved with them, at all.
+falsehoods about "safety", laughable concurrency model, and lack of
+anything significant to be made in it while Go has dominated the
+cloud-native landscape even though they came out roughly the same time).
+I'm sure just writing this in my personal zettelkasten will stir up the
+stinking "political" zombie crabs to attack yet again, but I don't give
+a shit. People have to know this before getting involved with them, at
+all.
 
 I've worked with some toxic assholes before, but the Rust community is
 hands down the worst community I have ever been forced to respond to.
