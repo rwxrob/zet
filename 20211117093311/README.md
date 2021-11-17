@@ -19,7 +19,7 @@ Node community is rife with such examples).
 
 I shared my initial impressions about Rust on YouTube casually and had
 an entire Reddit post dedicated to personally attacks against me. The
-fact that they turned to Reddit for the attack saves tons about this
+fact that they turned to Reddit for the attack says tons about this
 community all by itself. Most don't even know what Usenet even is, and
 still think that is a good thing.
 
