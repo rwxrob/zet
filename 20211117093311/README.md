@@ -8,6 +8,7 @@ of other reasons not the least of which is its butt-ugly syntax,
 falsehoods about "safety", laughable concurrency model, and lack of
 anything significant to be made in it while Go has dominated the
 cloud-native landscape even though they came out roughly the same time).
+
 I'm sure just writing this in my personal zettelkasten will stir up the
 stinking "political" zombie crabs to attack yet again, but I don't give
 a shit. People have to know this before getting involved with them, at
