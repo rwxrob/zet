@@ -44,6 +44,8 @@ Related:
 * <https://youtu.be/5cEunr8hPE0>
 * <https://www.reddit.com/r/programming/comments/hgr6qu/rwxrob_back_to_go_rust_is_sloooowww/>
 * <https://lwn.net/Articles/852758/>
+* Rust Reality Playlist  
+  <https://youtube.com/playlist?list=PLrK9UeDMcQLpp9EcYfnoAb4VQvN6931F5>
 
 Tags:
 
