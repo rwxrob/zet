@@ -52,7 +52,7 @@ applications while allowing each its own specificity.
 ## KRAM Conventional Contract / Interface
 
 * I agree to provide a git repo for each app (allows GitOps, etc.)
-  * Name repos with consistent prefix (ex: `k9s-app-myapp`)
+  * Name repos with consistent prefix (ex: `k8sapp-myapp`)
 * I agree to provide a detailed README.md
 * I agree to document the following procedures:
     * Get - acquire from external authoritative source
