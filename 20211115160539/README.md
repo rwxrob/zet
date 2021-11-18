@@ -52,9 +52,10 @@ applications while allowing each its own specificity.
 ## KRAM Conventional Contract / Interface
 
 * I agree to provide a git repo for each app (allows GitOps, etc.)
+  * Name repos with consistent prefix (ex: `k9s-app-myapp`)
 * I agree to provide a detailed README.md
 * I agree to document the following procedures:
-    * Fetch - acquire from external authoritative source
+    * Get - acquire from external authoritative source
     * Validate - GPG, read Helm charts, policies, infrastructure deps, etc.
     * Configure - adapt original to match environment (`values.yaml`)
     * Install - `helm install`, `kubectl apply`, etc.
