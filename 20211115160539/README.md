@@ -56,14 +56,21 @@ applications while allowing each its own specificity.
 * I agree to provide a git repo for each app (allows GitOps, etc.)
   * Name repos with consistent prefix (ex: `k8sapp-myapp`)
 * I agree to provide a detailed README.md
-* I agree to document the following procedures:
-    * Get - acquire from external authoritative source
+* I agree to document the following procedures (as `##` in README.md):
+    * Fetch - acquire from external authoritative source
     * Validate - GPG, read Helm charts, policies, infrastructure deps, etc.
     * Configure - adapt original to match environment (`values.yaml`)
     * Install - `helm install`, `kubectl apply`, etc.
     * Upgrade - `helm upgrade`, etc.
     * Uninstall - `helm uninstall`, etc.
     * Check - version, dependencies, is there an update?
+* I agree to add a *## Related* section with related reading
+
+> 💡
+> Consider creating a `template-k8sapp` for your organization in your
+> Enterprise GitHub so that people can simply clone/copy it and fill it
+> in. This takes a lot of the busy administrative work out of the
+> process.
 
 ## Vendoring
 
