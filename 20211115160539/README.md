@@ -1,6 +1,6 @@
-# Kubernetes *Real* Application Practices (KRAP)
+# Kubernetes *Real* Application Methodology (KRAM)
 
-KRAP is a methodology for administering Kubernetes applications in the
+KRAM is a methodology for administering Kubernetes applications in the
 real world.
 
 Let's face it, there are far too many ways to install and manage
@@ -17,8 +17,6 @@ the installation and management approaches used today:
 * Custom Operators
 * Adapted Terraform or Ansible
 
-Note that *none* of these methods includes any OPA Gatekeeper policy
-validation, which is left up to you, the admin, to ensure it happens.
 Helm charts frequently have flaws (ex: not allowing change of image tags)
 and must be reviewed by any administrator not wanting a very unpleasant
 surprise. 
@@ -29,12 +27,12 @@ though the installation method does never help you to do so. It would
 seem these projects and vendors don't care as much about such things,
 they just want to get their software into your precious cluster.
 
-KRAP is here to protect you from this crap by suggesting a common set of
-best practices for dealing with each application where things could
-easily go wrong without the proper attention they require. After all,
-all of this stuff is being regularly updated by their creators and you
-will be called upon to make those updates quickly, consistently, and
-safely. Ultimately, *you* are responsible for their KRAP.
+KRAM is here to protect you from this by suggesting a common set of best
+practices for dealing with each application where things could easily go
+wrong without the proper attention they require. After all, all of this
+stuff is being regularly updated by their creators and you will be
+called upon to "kram" those updates into your cluster quickly,
+consistently, and safely.
 
 A simple solution to this problem is to simply enforce a common set of
 admin practices for each application in a way that is implementation
@@ -51,23 +49,23 @@ though it can be implemented as such). It's just a matter of agreeing on
 what everyone on the admin team should do with respect to *all* k8s
 applications while allowing each its own specificity.
 
-## KRAP Conventional Contract / Interface
+## KRAM Conventional Contract / Interface
 
 * I agree to provide a git repo for each app (allows GitOps, etc.)
 * I agree to provide a detailed README.md
 * I agree to document the following procedures:
-    * Check - version, dependencies, is there an update?
     * Fetch - acquire from external authoritative source
-    * Configure - adapt original meet organization policies and needs
-    * Validate - read Helm charts, OPA policy checks, infrastructure deps, etc.
+    * Validate - GPG, read Helm charts, policies, infrastructure deps, etc.
+    * Configure - adapt original to match environment (`values.yaml`)
     * Install - `helm install`, `kubectl apply`, etc.
     * Upgrade - `helm upgrade`, etc.
     * Uninstall - `helm uninstall`, etc.
+    * Check - version, dependencies, is there an update?
 
 ## Vendoring
 
 Vendoring is the process of saving external dependencies with one's own
-code. KRAP leverages the vendoring approach to preserve Helm charts and
+code. KRAM leverages the vendoring approach to preserve Helm charts and
 other YAML resource files that originate outside of the project.
 Acquiring these external resources can be included in a `fetch` action
 or simply documented in the README.md when an Internet connection cannot
@@ -75,4 +73,4 @@ be assumed.
 
 Tags:
 
-    #k8s #cloudnative #cloud #devops #krap
+    #k8s #cloudnative #cloud #devops #kram
