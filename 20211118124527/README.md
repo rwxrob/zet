@@ -1,5 +1,7 @@
 # Good Morning: Thursday, November 18, 2021
 
+📺 <https://youtu.be/ghIaNuQVjcw>
+
 * Yep, there's a "morning show" now on rwxrob.tv (8am daily)
   * Personal "Agile stand up" meeting
   * Schedule review and planning
