@@ -2,7 +2,7 @@
 
 The recent PopOS fails are pretty dramatic. The monumental fail that
 caused Linus to delete his entire Gnome desktop while installing Steam
-is one such example. They're fix, among other things, was to hack `apt`
+is one such example. Their fix, among other things, was to hack `apt`
 to change its behavior so that it doesn't even give people the option to
 remove "essential" things. That act alone (without the fail that
 precipitated it) demonstrates a very troubling mindset on the part of
