@@ -5,8 +5,9 @@ caused Linus to delete his entire Gnome desktop while installing Steam
 is one such example. Their fix, among other things, was to hack `apt`
 to change its behavior so that it doesn't even give people the option to
 remove "essential" things. That act alone (without the fail that
-precipitated it) demonstrates a very troubling mindset on the part of
-the PopOS designers that I simply do not want to encourage any longer.
+precipitated it) demonstrates a very troubling
+we-know-better-than-the-debian-team mindset on the part of the PopOS
+designers that I simply do not want to encourage any longer.
 
 PopOS also had some funky stupid problem with the nVidia driver that
 caused my desktop to blacken preventing access to any applications. I
