@@ -1,5 +1,7 @@
 # Good Morning: Friday, November 19, 2021
 
+📺 <https://youtu.be/yvagZ1GMtB8>
+
 * Tonight is full moon and lunar eclipse
 * Saturday is IRL Charlotte Art (Doris' Studio)
 * Sunday picking up trash IRL
