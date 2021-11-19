@@ -1,4 +1,4 @@
-# K8SAPP GitHub Repo Structure (Helm)
+# K8SAPP Helm Procedure
 
 These are my preferences for an air-gapped organization. Flavor to your
 own taste.
