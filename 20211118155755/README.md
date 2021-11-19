@@ -1,6 +1,7 @@
 # K8SAPP GitHub Repo Structure (Helm)
 
-These are my preferences. Flavor to your own taste.
+These are my preferences for an air-gapped organization. Flavor to your
+own taste.
 
 ## Fetch
 
@@ -27,9 +28,17 @@ These are my preferences. Flavor to your own taste.
 1. Understand the README.md in the chart
 1. Understand the Chart.yaml file
 1. Understand the values.yaml file
-1. Peruse the default Kubernetes resource files  
-   `helm template shortname .`
-1. Be aware of the template directory
+1. Understand the template directory
+1. Peruse the rendered Kubernetes resource files  
+   `helm template shortname . > /tmp/shortname.yaml`
+1. Identify and download all image dependencies *locally*
+1. *Locally* scan images for security compliance and dependencies
+1. Ensure clean legal FOSS pedigree
+
+## Configure
+
+1. Strongly document any changes to the template *itself*
+1. Pushed validated images to private registry
 
 ## Check
 
