@@ -1,61 +1,48 @@
-# Kubernetes Application (K8SAPP) 
+# Kubernetes Applications (K8SAPP) Management Conventions
 
-*(formerly known as KRAM (Kubernetes Real Application Methodology),
-formerly known as KRAP)*
+There are many ways to install and manage Kubernetes applications:
 
-K8SAPP is a methodology for administering Kubernetes applications in the
-real world.
-
-Let's face it, there are far too many ways to install and manage
-Kubernetes applications today. What's worse is that as a cloud-native
-administrator you don't get to choose. This leaves you responsible to
-maintain an extremely diverse set of applications. Here are just some of
-the installation and management approaches used today:
-
-* Shell (`kubectl apply`)
+* `kubectl` Scripts
 * Kustomize
 * Helm
 * Modified Helm
 * Operator Framework
 * Custom Operators
-* Adapted Terraform or Ansible
+* Adapted Terraform and/or Ansible
 
-Helm charts frequently have flaws (ex: not allowing change of image tags)
-and must be reviewed by any administrator not wanting a very unpleasant
-surprise. 
+Cloud native administrators are forced to learn one or all of these
+since there is no agreement in the industry as to a standard. Moreover,
+the industry is full of overly-hyped frameworks and "package managemers"
+vying for dominance while failing to meet even minimal requirements for
+air-gapped security and sustainability. This situation, brought
+about by attempting to force imperative IT business processes into
+declarative "solutions," has created chaos and a climate of conflict and
+shame for those refusing to use the Kubernetes application management
+"standards" when, in fact, the safest and most sustainable approach is
+to keep things simple: just use Kubernetes resource files and `kubectl` and
+follow a conventional methodology.
 
-The need for these applications is indeed very real, as is the implied
-requirement of every admin to ensure the "extra stuff" gets done even
-though the installation method does never help you to do so. It would
-seem these projects and vendors don't care as much about such things,
-they just want to get their software into your precious cluster.
+Amidst the chaos, a common set of admin practices seems mandatory so
+that each application is looked after in a way that is implementation
+agnostic (like you would do with an interface when programming). One
+does not care *how* these practices are fulfilled, only that they are.
+Some can be scripted, some are a matter of documentation, but all are
+required for any application to makes it into your production cluster.
+One could say that every application can implement its own *methods* for
+the same *operations*. Operations are the actions taken by any cloud
+native admin, or by a script on behalf of the admin. 
 
-K8SAPP is here to protect you from this by suggesting a common set of best
-practices for dealing with each application where things could easily go
-wrong without the proper attention they require. After all, all of this
-stuff is being regularly updated by their creators and you will be
-called upon to update them in your cluster quickly, consistently, and safely.
+To be clear, this is not yet-another-abstraction (even though it can be
+implemented as such). It's just a matter of agreeing on what everyone on
+the admin team should do with respect to *all* Kubernetes applications
+while allowing each its own specificity.
 
-A simple solution to this problem is to simply enforce a common set of
-admin practices for each application in a way that is implementation
-agnostic (like you would do with an interface when programming). You
-don't care *how* these practices are fulfilled, only that they are. Some
-can be scripted, some are simply a matter of documentation, but all are
-required for *any* real application to makes it into your production
-cluster. You could say that every application can implement its own
-*methods* for the same *operations*. Operations are the actions taken by
-any cloud-native admin, or by a script for the admin. 
-
-To be clear, this is not yet-another-application-abstraction (even
-though it can be implemented as such). It's just a matter of agreeing on
-what everyone on the admin team should do with respect to *all* k8s
-applications while allowing each its own specificity.
-
-## K8SAPP Conventional Contract / Interface
+The K8SAPP contract states:
 
 * I agree to provide a git repo for each app (allows GitOps, etc.)
   * Name repos with consistent prefix (ex: `k8sapp-myapp`)
 * I agree to provide a detailed README.md
+* I agree to keep a vendored copy of the original application
 * I agree to document the following procedures (as `##` in README.md):
     * Fetch - acquire from external authoritative source
     * Validate - GPG, read Helm charts, policies, infrastructure deps, etc.
@@ -64,7 +51,8 @@ applications while allowing each its own specificity.
     * Upgrade - `helm upgrade`, etc.
     * Uninstall - `helm uninstall`, etc.
     * Check - version, dependencies, is there an update?
-* I agree to add a *## Related* section with related reading
+* I agree to add a *## Related* section with related reading when
+  available
 
 > 💡
 > Consider creating a `template-k8sapp` for your organization in your
@@ -72,14 +60,16 @@ applications while allowing each its own specificity.
 > in. This takes a lot of the busy administrative work out of the
 > process.
 
-## Vendoring
-
 Vendoring is the process of saving external dependencies with one's own
 code. K8SAPP leverages the vendoring approach to preserve Helm charts and
 other YAML resource files that originate outside of the project.
 Acquiring these external resources can be included in a `fetch` action
 or simply documented in the README.md when an Internet connection cannot
 be assumed.
+
+Related:
+
+* [20211122163452](/20211122163452/) "Package Management" Will Never Work in Kubernetes
 
 Tags:
 
