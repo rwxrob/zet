@@ -11,16 +11,16 @@ There are many ways to install and manage Kubernetes applications:
 * Adapted Terraform and/or Ansible
 
 Cloud native administrators are forced to learn one or all of these
-since there is no agreement in the industry as to a standard. Moreover,
-the industry is full of overly-hyped frameworks and "package managemers"
-vying for dominance while failing to meet even minimal requirements for
-air-gapped security and sustainability. This situation, brought
-about by attempting to force imperative IT business processes into
-declarative "solutions," has created chaos and a climate of conflict and
-shame for those refusing to use the Kubernetes application management
-"standards" when, in fact, the safest and most sustainable approach is
-to keep things simple: just use Kubernetes resource files and `kubectl` and
-follow a conventional methodology.
+since there is no agreement in the industry as to any standard.
+Moreover, the industry is full of overly-hyped frameworks and "package
+managers" vying for dominance while failing to meet even minimal
+requirements for air-gapped security and sustainability. This situation,
+brought about by attempting to force imperative IT business processes
+into declarative "solutions," has created chaos and a climate of
+conflict and shame for those refusing to use the Kubernetes application
+management "standards" when, in fact, the safest and most sustainable
+approach is to keep things simple: just use Kubernetes resource files
+and `kubectl` and follow a conventional methodology.
 
 Amidst the chaos, a common set of admin practices seems mandatory so
 that each application is looked after in a way that is implementation
@@ -53,6 +53,8 @@ The K8SAPP contract states:
     * Check - version, dependencies, is there an update?
 * I agree to add a *## Related* section with related reading when
   available
+* I agree to keep a central manifest of all installed applications in
+  its own Git repo
 
 > 💡
 > Consider creating a `template-k8sapp` for your organization in your
