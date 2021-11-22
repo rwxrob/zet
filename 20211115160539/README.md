@@ -45,7 +45,7 @@ The K8SAPP contract states:
 * I agree to keep a vendored copy of the original application
 * I agree to document the following procedures (as `##` in README.md):
     * Fetch - acquire from external authoritative source
-    * Validate - GPG, read Helm charts, policies, infrastructure deps, etc.
+    * Understand - flatten, read README, Helm charts, policies, deps, etc.
     * Configure - adapt original to match environment (`values.yaml`)
     * Install - `helm install`, `kubectl apply`, etc.
     * Upgrade - `helm upgrade`, etc.
