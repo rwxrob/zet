@@ -6,22 +6,12 @@ own taste.
 ## Fetch
 
 1. Name the repo `k8sapp-<somethingshort>`
-1. Create a `README.md`
-   1. Title is `K8SAPP: <long name>`
+1. Create a `README.md` with title `K8SAPP: <long name>`
 1. Create a `helm` directory and change into  
-   `mkdir helm && cd helm`
-1. Add add the remote repo to helm with same short name
-   `helm repo add somethingshort https://...`
+1. Add remote repo to helm with same short name
 1. Update the helm repo  
-   `helm repo update`
-1. List all the charts  
-   `helm search repo somethingshort -l`
 1. Pull the chart tarball down locally   
-   `helm pull somethignshort/<TAB>`
-1. Untar but add the version suffix  
-   `tar xvf thechart.tgz && mv thechart thechart-0.9.0`
-1. Cache chart list to detect newer versions during *Check*  
-   `helm search repo shortname -l -o yaml > charts.yaml`
+1. Pull and cache the `index.yaml` file to detect changes later
 
 ## Validate
 
