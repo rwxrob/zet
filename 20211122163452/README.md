@@ -27,9 +27,16 @@ no need to copy down the package specification file to ensure we have a
 copy of it. Everything just works. *That* is what a package manager
 provides.
 
+Package managers work because the distros that support them have a
+contract to provide what those package managers needs. There is a
+concrete agreement between the creators of the distro and the creators
+of the package manager. Such a relationship *does not exist* between any
+would-be Kubernetes "package manager" nor could there ever be because
+every single Kubernetes cluster is completely different.
+
 Consider the process of installing and maintaining a Helm chart. First
 you identify the chart, then copy down the tarball, uncompress it, look
-through the defaults  with `helm template ...` read through the
+through the defaults with `helm template ...` read through the
 templates themselves looking for bugs and places to customize, check the
 Git repo to see if any of the open issues relates to you, change the
 references to external images to internal mirrored copies of the images,
@@ -45,14 +52,14 @@ install and manage them.
 
 Helm had good intentions, but Helm tried to provide an impossible
 solution. As much as naive tech-blog writers would have you think
-otherwise, Kubernetes is not a Linux distro. Every Kubernetes cluster is
-unique and has its own configurations and requirements that require a
-large amount of customization, even between development and production
-clusters. This fact makes creating a standard "package manager"
-impossible. It would be like creating an APT system that addressed every
-single different Linux distro available today. The fallacy that such
-applications can be managed in the same simple way is the source of much
-wasted time, money, and safety.
+otherwise, Kubernetes is not anything like a Linux distribution. Every
+Kubernetes cluster is unique and has its own configurations and
+requirements that require a large amount of customization, even between
+development and production clusters. This fact makes creating a standard
+"package manager" impossible. It would be like creating an APT system
+that addressed every single different Linux distro available today. The
+fallacy that such applications can be managed in the same simple way is
+the source of much wasted time, money, and safety.
 
 One popular attempt at a universal solution to applications management
 and installation demonstrates how ludicrous this all is. The Operator
@@ -79,7 +86,7 @@ applications development. Many not like to hear this, but you cannot
 administer a Kubernetes cluster with software development skills,
 notably GitOps, CI/CD, shell scripting, Go code review, and YAML/JSON
 configuration. You simply cannot administer a collection of systems
-infrastructure applications without these core skills.
+infrastructure applications without these core skills. 
 
 Tags:
     #rants #k8s #helm #redhat #openshift #operators
