@@ -1,5 +1,7 @@
 # Good Morning: Monday, November 22, 2021
 
+📺 <https://youtu.be/RVPgSOTeA3o>
+
 * Rethinking the news, perhaps something more edited
 * Making VOD highlights a lot more and pushing to YouTube
 * Thinking of replacing `zet cast` with `zet cast sync`
