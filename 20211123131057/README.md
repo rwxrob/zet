@@ -1,5 +1,7 @@
 # Good Morning: Tuesday, November 23, 2021
 
+📺 <https://youtu.be/HaATdDG1tpI>
+
 * Rust moderation team resigns over politics
 * You're an idiot if you create dependencies on Rust
 * I made the TOML logo, never cared for BurntSushi
