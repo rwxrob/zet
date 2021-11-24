@@ -1,5 +1,7 @@
 # Good Morning: Wednesday, November 24, 2021
 
+📺 <https://youtu.be/-8SCDhxTRgc>
+
 What I did?
 
 1. Packet pick for 5k on Thursday at 8am
