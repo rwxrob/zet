@@ -1,5 +1,7 @@
 # What is your opinion about crypto-currencies?
 
+📺 <https://youtu.be/qfPLGdx1LmI>
+
 1. I think we need to explore them
 1. I wish crypto people where more authentic
    1. "Crypto is going to liberate the poor from the bondage of fiat currency"
