@@ -37,24 +37,25 @@ implemented as such). It's just a matter of agreeing on what everyone on
 the admin team should do with respect to *all* Kubernetes applications
 while allowing each its own specificity.
 
-The K8SAPP contract states:
+The K8SAPP contract simply asks that all team members agree to the
+following:
 
-* I agree to provide a git repo for each app (allows GitOps, etc.)
-  * Name repos with consistent prefix (ex: `k8sapp-myapp`)
-* I agree to provide a detailed README.md
-* I agree to keep a vendored copy of the original application
-* I agree to document the following procedures (as `##` in README.md):
+* Maintain manifest of all installed applications in own repo (ex: `k8sapps`)
+* Provide a Git repo for each application (allows GitOps, etc.)
+* Use a consistent prefix (ex: `k8sapp-`)
+* Provide a detailed README.md with description, etc.
+* Provide a metadata file (ex: `k8sapp.yaml`)
+* Keep a vendored copy of the original application (ex:
+  `helm/some-chart-0.8.tgz`, `helm/index.yaml`)
+* Document the following procedures (as `##` in README.md):
     * Fetch - acquire from external authoritative source
     * Understand - flatten, read README, Helm charts, policies, deps, etc.
     * Configure - adapt original to match environment (`values.yaml`)
-    * Install - `helm install`, `kubectl apply`, etc.
-    * Upgrade - `helm upgrade`, etc.
-    * Uninstall - `helm uninstall`, etc.
-    * Check - version, dependencies, is there an update?
-* I agree to add a *## Related* section with related reading when
-  available
-* I agree to keep a central manifest of all installed applications in
-  its own Git repo
+    * Install - install the application for the first time
+    * Upgrade - install an upgraded version of the application
+    * Uninstall - remove all traces of the application from the cluster
+    * Check - latest version, dependencies, is there an update?
+* Add a *## Related* section with related reading
 
 > 💡
 > Consider creating a `template-k8sapp` for your organization in your
