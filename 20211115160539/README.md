@@ -42,6 +42,7 @@ following:
 
 * Maintain manifest of all installed applications in own repo (ex: `k8sapps`)
 * Provide a Git repo for each application (allows GitOps, etc.)
+* Tag each version using semver versioning (ex: `v0.1.1`)
 * Use a consistent prefix (ex: `k8sapp-`)
 * Provide a detailed README.md with description, etc.
 * Provide a metadata file (ex: `k8sapp.yaml`)
