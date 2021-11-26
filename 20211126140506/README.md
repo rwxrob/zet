@@ -1,5 +1,7 @@
 # What do you think about microk8s vs minikube?
 
+📺 <https://youtu.be/jPq643BivY0>
+
 * `microk8s` is *not* Kubernetes
 * `minikube` is *not* Kubernetes
 * `microk8s` is primarily for real deployments on "edge" devices
