@@ -1,5 +1,7 @@
 # Good Morning: Monday, November 29, 2021
 
+📺 <https://youtu.be/vz6C26FI1HI>
+
 * Finished helping my wife (Doris) with her video
 * You can see video (eventually) at <https://www.doriskapner.com/>
 * Where to take the channel? 
