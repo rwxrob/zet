@@ -25,20 +25,6 @@ one *very* large, "air-gapped", investment bank according to one
 community member where they also include image scanning for
 vulnerabilities in their process.
 
-By the way, the Operator Framework is a disastrous, irreparable failure.
-OLM with full cluster-admin privileges is just Helm 2 Tiller all over
-again, but worse. Not only does OLM require enterprise root (my term for
-cluster-admin to your entire fucking cluster) but it also *requires*
-access to the Internet to pull operators from their hub to
-then be run as root. You can forget about being "air gapped" at all.
-You would think all the shit RedHat spews about Docker and running as
-root someone would have said something before this monstrosity was ever
-released. No one should *ever* consider using the Operator Framework,
-period. In fact, my confidence in RedHat in the cloud-native space is
-now at an all-time low after discovering this. This is just fucking
-idiotic architecture. They've had a ticket open for more than a year
-pointing out this massive security risk and the responses are downright
-juvenile.
 
 And as for Kustomize? It simply does not have enough flexibility nor
 support for templates to maintain a consistent interface for even the
