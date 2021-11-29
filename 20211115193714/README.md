@@ -1,4 +1,4 @@
-# Operator Lifecycle Manager (OLM)
+# Operator Lifecycle Manager (OLM) is Dangerous
 
 > ⚠️
 > The OLM approach to K8S software installation and management does not
