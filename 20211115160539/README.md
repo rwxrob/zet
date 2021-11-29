@@ -71,6 +71,8 @@ Acquiring these external resources can be included in a `fetch` action
 or simply documented in the README.md when an Internet connection cannot
 be assumed.
 
+
+
 Related:
 
 * [20211122163452](/20211122163452/) "Package Management" Will Never Work in Kubernetes
