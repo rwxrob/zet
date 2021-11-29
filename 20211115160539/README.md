@@ -57,6 +57,7 @@ following:
     * Uninstall - remove all traces of the application from the cluster
     * Check - latest version, dependencies, is there an update?
 * Add a *## Related* section with related reading
+* Keep a manifest of all installed apps in own Git repo (ex: `k8sapps`)
 
 > 💡
 > Consider creating a `template-k8sapp` for your organization in your
