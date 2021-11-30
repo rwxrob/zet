@@ -46,6 +46,7 @@ following:
 * Use a consistent prefix (ex: `k8sapp-`)
 * Provide a detailed README.md with description, etc.
 * Provide a metadata file (ex: `k8sapp.yaml`)
+* Provide single resources file named for namespace (ex: `nfd.yaml`)
 * Keep a vendored copy of the original application (ex:
   `helm/some-chart-0.8.tgz`, `helm/index.yaml`)
 * Document the following procedures (as `##` in README.md):
