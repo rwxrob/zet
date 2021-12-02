@@ -1,7 +1,18 @@
 # Twitch Emojis to Be Made
 
-* RunForestRun 
-* JohnDeere
-* SweetBeaver
-* PapaPanties
-
+* runForestRun 
+* johnDeere
+* sweetBeaver
+* papaPanties
+* yourEditorSucks
+* yourLangSucks
+* yourComputerSucks
+* yourDistoSucks
+* cryptoYawn
+* bufferOverflow
+* yourHeadAsplode
+* fightMe
+* lastMiles
+* rwxDance
+* rwxMass
+* rwxAsana
