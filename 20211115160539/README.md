@@ -51,7 +51,7 @@ following:
   `helm/some-chart-0.8.tgz`, `helm/index.yaml`)
 * Document the following procedures (as `##` in README.md):
     * Fetch - acquire from external authoritative source
-    * Understand - flatten, read README, Helm charts, policies, deps, etc.
+    * Review - flatten, read README, Helm charts, policies, deps, etc.
     * Configure - adapt original to match environment (`values.yaml`)
     * Install - install the application for the first time
     * Upgrade - install an upgraded version of the application
