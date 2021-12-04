@@ -1,4 +1,4 @@
-# Twitch Emojis to Be Made
+# Twitch Emotes to Be Made
 
 * runForestRun 
 * johnDeere
@@ -16,3 +16,4 @@
 * rwxDance
 * rwxMass
 * rwxAsana
+* brawndo
