@@ -1,5 +1,7 @@
 # How did I get into Yoga?
 
+📺 <https://youtu.be/EYIbB1t1ZWs>
+
 * Introduced to Yoga from P90X in about 2008 (before divorce)
 * Liked the physical and mental focus
 * Didn't do much with it until after divorce
