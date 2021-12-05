@@ -9,5 +9,6 @@ Beginner Boost:
 
 Other courses that are not really "boost" in scope:
 
+* Advent of Code in December
 * Data Structures and Algorithms in C
 * Infrastructure Engineering
