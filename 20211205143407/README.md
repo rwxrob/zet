@@ -1,5 +1,7 @@
 # What is yoga?
 
+📺 <https://youtu.be/w9PJkSEG08E>
+
 * Go watch "Enlighten Up!"
 * Yoga means "to yoke"
 * The first sutra states goal: "cease the fluctuations/spinnings of the mind"
