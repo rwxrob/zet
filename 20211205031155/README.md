@@ -1,4 +1,4 @@
-## Generate an Elliptical Curve 25519 GPG Key Pair
+# Generate an Elliptical Curve 25519 GPG Key Pair
 
 ```
 gpg --full-generate-key --expert
