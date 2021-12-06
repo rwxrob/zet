@@ -10,6 +10,8 @@ Beginner Boost:
 Other courses that are not really "boost" in scope:
 
 * Advent of Code in December
+* OverTheWire.org Playthrough
+* Phaser JavaScript 2D Web Game Development
 * Head First C with Game Development
 * Data Structures and Algorithms in C
 * Infrastructure Engineering Essentials
