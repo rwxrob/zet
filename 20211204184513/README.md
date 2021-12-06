@@ -10,5 +10,9 @@ Beginner Boost:
 Other courses that are not really "boost" in scope:
 
 * Advent of Code in December
+* Head First C with Game Development
 * Data Structures and Algorithms in C
-* Infrastructure Engineering
+* Infrastructure Engineering Essentials
+* Passing the CKAD Exam
+* Passing the CKA Exam
+* Passing the CKS Exam
