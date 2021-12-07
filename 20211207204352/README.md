@@ -1,6 +1,7 @@
 # Nasopharyngeal Cancer and the Southeast Asian Patient
 
-At least one language might give you cancer.
+At least one language might give you cancer, although looks like the
+original paper may have been discredited. The notion is wild.
 
 Related:
 
