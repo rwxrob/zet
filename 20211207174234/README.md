@@ -17,6 +17,7 @@ Related:
 
 * Amazon East Massive Outage  
   <https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage>
+* <https://twitter.com/StriderHND/status/1468307846148333577?s=20>
 
 Tags:
 
