@@ -5,7 +5,7 @@ Each Git repo should begin with a specific prefix following the K8SAPP conventio
 (preferably `k8sapp-`). Each K8SAPP repo should contain a `k8sapp.yaml`
 containing the following metadata:
 
-`fullname` unique long name within the scope of a given Git repo collection or service that may contain qualifiers similar to container image references (ex: `rwxrob/jupyterhub`)
+`longname` unique long name within the scope of a given Git repo collection or service that may contain qualifiers similar to container image references (ex: `rwxrob/jupyterhub`)
 
 `shortname` for referencing easily within local contexts and corresponding to the git repo name after the prefix (`k8sapp-jhub` -> `jhub`)
 
@@ -15,21 +15,7 @@ containing the following metadata:
 
 `repo` Git-friendly reference to the required source Git repo (usually HTTP)
 
-`maintainers` list of primary contacts with `name`, `email`, `url`, `slack`
-
-`includes` list of sources composed into K8SAPP (Helm charts, other repos, etc.)
-
-`includes.name` unique name within this K8SAPP repo
-
-`includes.title` descriptive title, 70 Unicode characters or less
-
-`includes.type` one of `helm`, `git`, etc.
-
-`includes.url` primary source of information about
-
-`includes.version` semantic version as indicated by source
-
-`includes.sources` one or more sources that contain the composed include
+`maintainers` optional list of primary contacts with `name`, `email`, `url`, `slack`
 
 *Why no summary or description?*
 
