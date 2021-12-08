@@ -3,7 +3,7 @@
 Beginner Boost:
 
 * Becoming an Autodidact
-* Shell Native Life with Bash, POSIX, and PowerShell
+* Bash, POSIX, and PowerShell Native 
 * Programming Essentials in Python and Go
 * Get Good to Gig and Prove It
 
