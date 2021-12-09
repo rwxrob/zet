@@ -17,3 +17,4 @@
 * rwxMass
 * rwxAsana
 * brawndo
+* basicBuddies
