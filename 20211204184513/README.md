@@ -4,7 +4,8 @@ Beginner Boost:
 
 * Becoming an Autodidact
 * Bash, POSIX, and PowerShell Native 
-* Programming Essentials in Python and Go
+* Learn Python and Go the Hard Way
+* Head First C with Game Development
 * Get Good to Gig and Prove It
 
 Other courses that are not really "boost" in scope:
@@ -12,7 +13,6 @@ Other courses that are not really "boost" in scope:
 * Advent of Code in December
 * OverTheWire.org Playthrough
 * Phaser JavaScript 2D Web Game Development
-* Head First C with Game Development
 * Data Structures and Algorithms in C
 * Infrastructure Engineering Essentials
 * Passing the CKAD Exam
