@@ -5,7 +5,7 @@ Beginner Boost:
 * Becoming an Autodidact
 * Bash, POSIX, and PowerShell Native 
 * Learn Python and Go the Hard Way
-* Head First C with Game Development
+* C Game Development (Head First C)
 * Get Good to Gig and Prove It
 
 Other courses that are not really "boost" in scope:
