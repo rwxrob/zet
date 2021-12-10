@@ -6,3 +6,4 @@ own source as the only output.
 Related:
 
 * <https://people.csail.mit.edu/alinush/quine/quine.html>
+* <https://esoteric.codes/blog/the-128-language-quine-relay>
