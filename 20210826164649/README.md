@@ -4,9 +4,38 @@ These will change over time. But hopefully this will help people keep up
 with what's going on with <http://rwxrob.tv>. I've arranged things in
 the order of interactivity and attentiveness.
 
+You can always ask questions. Depending on what I'm doing I'll answer
+them right away, or alter. Begin them with a Q: to help them stand out.
+Post them to Discord `#ama` to have them get long answers.
+
+* 🐟 **Away** - away for a long time, *no chat, no video*, music and fishies
+* **Break** - on break no more than 30 minutes, *no chat*
+* 🧘 **Yoga** - doing ashtanga yoga asana (poses), *topical chat*
+* 🏃 **Run** - out for a run, *ama chat* during interval breaks
+* 🛹 **Skate** - out long-boarding or roller-skating, *ama chat*
+* 🚴 **Bike** - out cycling, periodic *ama chat*
+* 🏢 **Work** - coworking, on phone calls, other computer, rare *ama chat*
+* 💢 **Code** - focusing on coding, *topical chat*
+* 🥷  **Hack** - focusing on hacking, *topical chat*
+* ⌨️  **Write** - focusing on writing, rare *topical chat*
+* 😐 **Clean** - cleaning and *ama chat* to not be bored
+* **Dota2** - playing Dota2, harder to answer chat, *ama chat*
+* **Witcher3** - playing Witcher3, easy to answer chat, *ama chat*
+* **Minecraft** - playing Minecraft, join community server, *ama chat*
+* **TF2** - playing TF2, *ama chat*
+* 🤯 **Learn** - colearning, seeking answers, *topical chat* to help
+* 🎉 **Party** - music, dancing, drinking, *ama chat*
+* **Jaunt** - walking and talking, city tours, adventures, *ama chat*
+* **Art** - art walks, gallery crawls, artist interviews, *topical chat*
+* ⚡ **Course** - semi-organized instructional content, *topical chat*
+* ☕ **Morning** - slow-paced, wake-up, random planning and *ama chat*
+* ☎️  **Talk** - topics in Discord with invited guests, *topical ama*
+* 🍻 **Hang** - hanging in Discord lobby with approved members, *ama chat* 
+* 🎬 **Record** - creating a specific YouTube video, usually *no chat*
+
 🐟 **Away** The fishies screensaver is on and I'm no where near the computer (usually). This is not the same as stepping away for a few minutes to take a break like I do with other modes. It means I likely won't be back for a long time. (Most of the time I'm asleep, on a date, or outside running, see rwxrob.live eventually for IRL stream.) People stay in the chat just as a hang-out, usually using an IRC client somehow (see Twitch Without the Twitch). You can leave a question for me with a Q: at the beginning of it and I'll see them later. Always music, usually Meditative, Beach, or Chillhop. Categories: Science & Technology.
 
-🏢 **Coworking** I'm mostly away or off screen a lot doing other stuff to a living at the day job. If I can stream work I do the work on stream. I am really glad I have a job as an Infrastructure and Cloud-Native Engineer (who also does Software Development) because it makes me have more relevant things to say to people working in the same field or trying to get into it. Making money full-time always ensures as best I can that my cognitive biases are not driven by shilling you something for a high-paying sponsor. My opinions are real, my own, and usually born from research and experience (but not always). Chat away but there will only be music and chat. Categories: Science & Technology, Software and Game Development.
+🏢 **Coworking** I'm mostly away or off screen a lot doing other stuff for a living at the day job. If I can stream work I do the work on stream. I am really glad I have a job as an Infrastructure and Cloud-Native Engineer (who also does Software Development) because it makes me have more relevant things to say to people working in the same field or trying to get into it. Making money full-time always ensures as best I can that my cognitive biases are not driven by shilling you something for a high-paying sponsor. My opinions are real, my own, and usually born from research and experience (but not always). Chat away but there will only be music and chat. Categories: Science & Technology, Software and Game Development.
 
 ☕ **Focusing** I'm ignoring pretty much everything, usually drinking coffee, and getting into flow state. No camera. No mic. Some chat during short breaks. Always music (which is more likely to be industrial than at any other time). Come code and work with me on your own projects while I work on mine. You are welcome to chat and ask questions. Someone else might answer you. I just might not see them. You are not bothering me. Categories: Science & Technology, Software and Game Development, Just Chatting.
 
