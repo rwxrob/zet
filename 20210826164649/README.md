@@ -4,12 +4,12 @@ These will change over time. But hopefully this will help people keep up
 with what's going on with <http://rwxrob.tv>. I've arranged things in
 the order of interactivity and attentiveness.
 
-You can always ask questions. Depending on what I'm doing I'll answer
-them right away, or alter. Begin them with a Q: to help them stand out.
-Post them to Discord `#ama` to have them get long answers.
+You can usually ask questions anytime. Depending on what I'm doing I'll
+answer them right away, or later. Begin them with a Q: to help them
+stand out. Post them to Discord `#ama` to have them get long answers.
 
 * 🐟 **Away** - away for a long time, *no chat, no video*, music and fishies
-* **Break** - on break no more than 30 minutes, *no chat*
+* 💤 **Break** - on break no more than 30 minutes, *no chat*
 * 🧘 **Yoga** - doing ashtanga yoga asana (poses), *topical chat*
 * 🏃 **Run** - out for a run, *ama chat* during interval breaks
 * 🛹 **Skate** - out long-boarding or roller-skating, *ama chat*
@@ -19,14 +19,14 @@ Post them to Discord `#ama` to have them get long answers.
 * 🥷  **Hack** - focusing on hacking, *topical chat*
 * ⌨️  **Write** - focusing on writing, rare *topical chat*
 * 😐 **Clean** - cleaning and *ama chat* to not be bored
-* **Dota2** - playing Dota2, harder to answer chat, *ama chat*
-* **Witcher3** - playing Witcher3, easy to answer chat, *ama chat*
-* **Minecraft** - playing Minecraft, join community server, *ama chat*
-* **TF2** - playing TF2, *ama chat*
+* ⚔️  **Dota2** - playing Dota2, harder to answer chat, *ama chat*
+* 🐺 **Witcher3** - playing Witcher3, easy to answer chat, *ama chat*
+* ⛏️ **Minecraft** - playing Minecraft, join community server, *ama chat*
+* 🏹 **TF2** - playing TF2, *ama chat*
 * 🤯 **Learn** - colearning, seeking answers, *topical chat* to help
 * 🎉 **Party** - music, dancing, drinking, *ama chat*
-* **Jaunt** - walking and talking, city tours, adventures, *ama chat*
-* **Art** - art walks, gallery crawls, artist interviews, *topical chat*
+* 🌤️ **Jaunt** - walking and talking, city tours, adventures, *ama chat*
+* 🎨 **Art** - art walks, gallery crawls, artist interviews, *topical chat*
 * ⚡ **Course** - semi-organized instructional content, *topical chat*
 * ☕ **Morning** - slow-paced, wake-up, random planning and *ama chat*
 * ☎️  **Talk** - topics in Discord with invited guests, *topical ama*
