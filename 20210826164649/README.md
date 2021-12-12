@@ -8,17 +8,17 @@ You can usually ask questions anytime. Depending on what I'm doing I'll
 answer them right away, or later. Begin them with a Q: to help them
 stand out. Post them to Discord `#ama` to have them get long answers.
 
-🐟 **Away** - music and fishies, *no chat*, *no video*
+🐟 **Away** - music and fishies, *no chat*, *no video*  
 💤 **Break** - out < 30 minutes, *no chat*  
 🧘 **Yoga** - ashtanga yoga asana, *light chat*  
-🏃 **Run** - out running, *ama chat*
+🏃 **Run** - out running, *ama chat*  
 🛹 **Skate** - out long-boarding, *ama chat*  
 🚴 **Bike** - out cycling, *ama chat*  
 🏢 **Work** - kubernetes coworking, rare *ama chat*  
 💢 **Code** - bash, go, c, or web, *topic chat*  
 🥷  **Hack** - hacking to learn, *topic chat*  
 ⌨️   **Write** - writing, *topic chat*  
-😐 **Clean** - cleaning lab/studio, *ama chat*
+😐 **Clean** - cleaning lab/studio, *ama chat*  
 ⚔️   **Dota2** - crystal, legion, chant, np, *ama chat*  
 🐺 **Witcher3** - cat school, Triss line, *ama chat*  
 ⛏️  **Minecraft** - join community server, *ama chat*  
