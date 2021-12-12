@@ -22,16 +22,16 @@ stand out. Post them to Discord `#ama` to have them get long answers.
 ⚔️   **Dota2** - crystal, legion, chant, np, *ama chat*  
 🐺 **Witcher3** - cat school, Triss line, *ama chat*  
 ⛏️  **Minecraft** - join community server, *ama chat*  
-🏹 **TF2** - bow sniper, engie, pyro *ama chat*  
+🏹 **TF2** - bow sniper, engie, pyro, *ama chat*  
 🤯 **Learn** - colearning, *topic chat* to help  
 🎉 **Party** - music, dancing, drinking, *ama chat*  
-🌤️  **Jaunt** - walk and talk, tours, adventures, *ama chat*  
+🌤️  **Jaunt** - walk/talk, tours, adventures, *ama chat*  
 🎨  **Art** - galleries, crawls, interviews, *topic chat*    
 🎵 **Music** - live music, pubs, *ama chat*    
 ⚡ **Course** - instructional content, *topic chat*  
 ☕ **Morning** - cozy, wake-up, plan, news, *ama chat*  
 ☎️   **Talk** - invited guests in Discord, *topic ama*  
-🍻 **Hang** - Discord lobby, approved members, *ama chat*   
+🍻 **Hang** - Discord lobby, members only, *ama chat*   
 🎬 **Record** - make specific YouTube videos, *no chat*  
 
 🐟 **Away** The fishies screensaver is on and I'm no where near the computer (usually). This is not the same as stepping away for a few minutes to take a break like I do with other modes. It means I likely won't be back for a long time. (Most of the time I'm asleep, on a date, or outside running, see rwxrob.live eventually for IRL stream.) People stay in the chat just as a hang-out, usually using an IRC client somehow (see Twitch Without the Twitch). You can leave a question for me with a Q: at the beginning of it and I'll see them later. Always music, usually Meditative, Beach, or Chillhop. Categories: Science & Technology.
