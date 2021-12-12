@@ -29,7 +29,7 @@ stand out. Post them to Discord `#ama` to have them get long answers.
 * 🎨  **Art** - art walks, gallery crawls, artist interviews, *topical chat*
 * ⚡ **Course** - semi-organized instructional content, *topical chat*
 * ☕ **Morning** - slow-paced, wake-up, random planning and *ama chat*
-* ☎️  **Talk** - topics in Discord with invited guests, *topical ama*
+* ☎️   **Talk** - topics in Discord with invited guests, *topical ama*
 * 🍻 **Hang** - hanging in Discord lobby with approved members, *ama chat* 
 * 🎬 **Record** - creating a specific YouTube video, usually *no chat*
 
