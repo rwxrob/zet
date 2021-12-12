@@ -17,16 +17,16 @@ stand out. Post them to Discord `#ama` to have them get long answers.
 * 🏢 **Work** - coworking, on phone calls, other computer, rare *ama chat*
 * 💢 **Code** - focusing on coding, *topical chat*
 * 🥷  **Hack** - focusing on hacking, *topical chat*
-* ⌨️  **Write** - focusing on writing, rare *topical chat*
+* ⌨️   **Write** - focusing on writing, rare *topical chat*
 * 😐 **Clean** - cleaning and *ama chat* to not be bored
-* ⚔️  **Dota2** - playing Dota2, harder to answer chat, *ama chat*
+* ⚔️   **Dota2** - playing Dota2, harder to answer chat, *ama chat*
 * 🐺 **Witcher3** - playing Witcher3, easy to answer chat, *ama chat*
-* ⛏️ **Minecraft** - playing Minecraft, join community server, *ama chat*
+* ⛏️  **Minecraft** - playing Minecraft, join community server, *ama chat*
 * 🏹 **TF2** - playing TF2, *ama chat*
 * 🤯 **Learn** - colearning, seeking answers, *topical chat* to help
 * 🎉 **Party** - music, dancing, drinking, *ama chat*
-* 🌤️ **Jaunt** - walking and talking, city tours, adventures, *ama chat*
-* 🎨 **Art** - art walks, gallery crawls, artist interviews, *topical chat*
+* 🌤️  **Jaunt** - walking and talking, city tours, adventures, *ama chat*
+* 🎨  **Art** - art walks, gallery crawls, artist interviews, *topical chat*
 * ⚡ **Course** - semi-organized instructional content, *topical chat*
 * ☕ **Morning** - slow-paced, wake-up, random planning and *ama chat*
 * ☎️  **Talk** - topics in Discord with invited guests, *topical ama*
