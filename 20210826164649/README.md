@@ -8,30 +8,31 @@ You can usually ask questions anytime. Depending on what I'm doing I'll
 answer them right away, or later. Begin them with a Q: to help them
 stand out. Post them to Discord `#ama` to have them get long answers.
 
-🐟 **Away** - away for a long time, *no chat, no video*, music and fishies  
-💤 **Break** - on break no more than 30 minutes, *no chat*  
-🧘 **Yoga** - doing ashtanga yoga asana (poses), *topical chat*  
-🏃 **Run** - out for a run, *ama chat* during interval breaks  
-🛹 **Skate** - out long-boarding or roller-skating, *ama chat*  
-🚴 **Bike** - out cycling, periodic *ama chat*  
-🏢 **Work** - coworking, on phone calls, other computer, rare *ama chat*  
-💢 **Code** - focusing on coding, *topical chat*  
-🥷  **Hack** - focusing on hacking, *topical chat*  
-⌨️   **Write** - focusing on writing, rare *topical chat*  
-😐 **Clean** - cleaning and *ama chat* to not be bored  
-⚔️   **Dota2** - playing Dota2, harder to answer chat, *ama chat*  
-🐺 **Witcher3** - playing Witcher3, easy to answer chat, *ama chat*  
-⛏️  **Minecraft** - playing Minecraft, join community server, *ama chat*  
-🏹 **TF2** - playing TF2, *ama chat*  
-🤯 **Learn** - colearning, seeking answers, *topical chat* to help  
+🐟 **Away** - music and fishies, *no chat*, *no video*
+💤 **Break** - out < 30 minutes, *no chat*  
+🧘 **Yoga** - ashtanga yoga asana, *light chat*  
+🏃 **Run** - out running, *ama chat*
+🛹 **Skate** - out long-boarding, *ama chat*  
+🚴 **Bike** - out cycling, *ama chat*  
+🏢 **Work** - kubernetes coworking, rare *ama chat*  
+💢 **Code** - bash, go, c, or web, *topic chat*  
+🥷  **Hack** - hacking to learn, *topic chat*  
+⌨️   **Write** - writing, *topic chat*  
+😐 **Clean** - cleaning lab/studio, *ama chat*
+⚔️   **Dota2** - crystal, legion, chant, np, *ama chat*  
+🐺 **Witcher3** - cat school, Triss line, *ama chat*  
+⛏️  **Minecraft** - join community server, *ama chat*  
+🏹 **TF2** - bow sniper, engie, pyro *ama chat*  
+🤯 **Learn** - colearning, *topic chat* to help  
 🎉 **Party** - music, dancing, drinking, *ama chat*  
-🌤️  **Jaunt** - walking and talking, city tours, adventures, *ama chat*  
-🎨  **Art** - art walks, gallery crawls, artist interviews, *topical chat*    
-⚡ **Course** - semi-organized instructional content, *topical chat*  
-☕ **Morning** - slow-paced, wake-up, random planning and *ama chat*  
-☎️   **Talk** - topics in Discord with invited guests, *topical ama*  
-🍻 **Hang** - hanging in Discord lobby with approved members, *ama chat*   
-🎬 **Record** - creating a specific YouTube video, usually *no chat*  
+🌤️  **Jaunt** - walk and talk, tours, adventures, *ama chat*  
+🎨  **Art** - galleries, crawls, interviews, *topic chat*    
+🎵 **Music** - live music, pubs, *ama chat*    
+⚡ **Course** - instructional content, *topic chat*  
+☕ **Morning** - cozy, wake-up, plan, news, *ama chat*  
+☎️   **Talk** - invited guests in Discord, *topic ama*  
+🍻 **Hang** - Discord lobby, approved members, *ama chat*   
+🎬 **Record** - make specific YouTube videos, *no chat*  
 
 🐟 **Away** The fishies screensaver is on and I'm no where near the computer (usually). This is not the same as stepping away for a few minutes to take a break like I do with other modes. It means I likely won't be back for a long time. (Most of the time I'm asleep, on a date, or outside running, see rwxrob.live eventually for IRL stream.) People stay in the chat just as a hang-out, usually using an IRC client somehow (see Twitch Without the Twitch). You can leave a question for me with a Q: at the beginning of it and I'll see them later. Always music, usually Meditative, Beach, or Chillhop. Categories: Science & Technology.
 
