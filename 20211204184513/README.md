@@ -3,7 +3,7 @@
 Beginner Boost:
 
 * Becoming an Autodidact
-* Version Management with Git and GitHub
+* Source Management with Git and GitHub
 * Bash, POSIX, and PowerShell Native 
 * Learn Python and Go the Hard Way
 * C Game Development (Head First C)
