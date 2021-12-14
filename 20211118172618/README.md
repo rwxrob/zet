@@ -1,4 +1,4 @@
-# Wish List: `yq`/`jq` Multicall Binary
+# Wish: `yq`/`jq` Multicall Binary
 
 It would be so amazing if rudimentary YAML support were included in `jq`
 so that it could be a multicall and just to a basic YAML conversion and
