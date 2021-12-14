@@ -6,4 +6,4 @@ otherwise behave exactly like `jq` all within the same code base. Maybe
 I will work on this one day.
 
 Tags:
-    #wishes #jq #yaml #json #coding #cloud #devops 
+    #wish #jq #yaml #json #coding #cloud #devops 
