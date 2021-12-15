@@ -20,3 +20,12 @@ kubectl create ingress demo-localhost --class=nginx \
 kubectl port-forward --namespace=ingress-nginx \
   service/ingress-nginx-controller 8080:80
 ```
+
+Related:
+
+* Installation Guide - NGINX Ingress Controller  
+  <https://kubernetes.github.io/ingress-nginx/deploy/>
+
+Tags:
+
+    #k8s #nginx #ingress
