@@ -5,7 +5,7 @@ essentially the same as the `wait` command in bash and most other
 languages.
 
 ```
-kubectl wait --namespace ingress-nginx \
+kubectl wait -n ingress-nginx \
   --for=condition=ready pod \
   --selector=app.kubernetes.io/component=controller \
   --timeout=120s
