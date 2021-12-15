@@ -11,6 +11,7 @@ Related:
   <https://itsmetommy.com/2020/06/26/kubernetes-sealed-secrets/>
 * GitHub - bitnami-labs/sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets  
   <https://github.com/bitnami-labs/sealed-secrets>
+* <https://kind.sigs.k8s.io/docs/user/loadbalancer/>
 
 Tags:
 
