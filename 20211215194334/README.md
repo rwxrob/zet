@@ -16,6 +16,10 @@ to use:
 * Ingress (`ingress-nginx` or `traefik`)
 * LoadBalancer (`metallb`)
 
+Related:
+
+* <https://kind.sigs.k8s.io/docs/user/loadbalancer/>
+
 Tags:
 
     #k8s #onprem #batteries
