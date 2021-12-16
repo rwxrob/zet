@@ -8,3 +8,11 @@ new Kind cluster with all of that automatically, which is essentially
 what Minikube has been doing with it's plugin. I prefer using *real*
 implementations that I would encounter in the wild instead of
 replacement plugins.
+
+I really wish all those recommending Kind to me early on had recommended
+this and made sure to emphasize that I learn Kubernetes networking
+before *anything* else.
+
+Related:
+
+* <https://kind.sigs.k8s.io/docs/user/loadbalancer/>
