@@ -1,5 +1,7 @@
 # How would you change how you learned Kubernetes?
 
+📺 <https://youtu.be/8jRfpWVlo5c>
+
 * My opinions are *specifically* for a "infrastructure engineer" role
 * Learn Linux, containers, and networking *well*
 * Master Docker, Dockerfile, and Docker bridge networks
