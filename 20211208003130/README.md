@@ -1,4 +1,4 @@
-# Use `curl -o ... -w ...` for Effective Return Code
+# Use Curl `-o ... -w ...` for Effective Return Code
 
 Sometimes you want to get the HTTP response code before you decide
 to do something with what you downloaded using `curl` ---
@@ -8,7 +8,7 @@ with `-o` you can use `-w %{response_code}` to print the numeric code to
 standard out and exam that easily in a condition.  
 
 ```
-curl -sSL 'https://raw.githubusercontent.com/rwxrob/k8sapp-nfd/ma│ in/check' -o /tmp/foo -w '%{response_code}' 
+curl -sSL 'https://raw.githubusercontent.com/rwxrob/k8sapp-nfd/master/in/check' -o /tmp/foo -w '%{response_code}' 
 ```
 
 Related:
