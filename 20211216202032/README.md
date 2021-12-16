@@ -13,3 +13,6 @@ Related:
 * <https://twitter.com/i41nbeer/status/1471163195679252484>
 * <https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html>
 
+Tags:
+
+    #cybersec #secops #exploits
