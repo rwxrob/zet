@@ -37,6 +37,8 @@ Related:
   <https://opensource.com/article/20/6/kubernetes-raspberry-pi>
 * The state of netbooting Raspberry Pis  
   <https://blog.alexellis.io/the-state-of-netbooting-raspberry-pi/>
+* The 10 Best Free and Open-Source Identity Management Tools  
+  <https://solutionsreview.com/identity-management/the-10-best-free-and-open-source-identity-management-tools/>
 
 Tags:
 
