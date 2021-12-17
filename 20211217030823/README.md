@@ -35,6 +35,8 @@ Related:
 
 * Build a Kubernetes cluster with the Raspberry Pi \| Opensource.com  
   <https://opensource.com/article/20/6/kubernetes-raspberry-pi>
+* The state of netbooting Raspberry Pis  
+  <https://blog.alexellis.io/the-state-of-netbooting-raspberry-pi/>
 
 Tags:
 
