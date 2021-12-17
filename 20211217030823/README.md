@@ -31,6 +31,11 @@ and synced. Then we have to setup all the security monitoring in
 addition to this. I'm thinking a couple (maybe three) Raspberry Pis will
 be absolutely fine for DNS and TFTP for Netboot.
 
+Related:
+
+* Build a Kubernetes cluster with the Raspberry Pi \| Opensource.com  
+  <https://opensource.com/article/20/6/kubernetes-raspberry-pi>
+
 Tags:
 
     #k8s #dns #prereqs #onprem
