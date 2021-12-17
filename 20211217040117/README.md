@@ -1,8 +1,10 @@
 # Use FreeIPA for DNS, PAM, Directory, and More
 
-So happy to have discovered the FreeIPA project. I almost can't wait to
-make my own contributions after I get it all working here internally on
-my local IT infrastructure lab.
+Discovered the FreeIPA project. At first I was really excited,
+then I started to realize that it is a monolith. It bundles a bunch of
+stuff together, including DNS, and LDAP/Kerberos. Then I remembered how
+much I fucking hate Kerberos and how un-Unix-like the entire approach
+is. I would rather manage the individual components individually.
 
 Related:
 
