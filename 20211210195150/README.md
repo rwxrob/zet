@@ -9,6 +9,7 @@ Related:
 * <https://twitter.com/ineedmorecyber/status/1470224616375439369>
 * <https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592>
 * <http://slf4j.org/log4shell.html>
+* <https://logging.apache.org/log4j/2.x/security.html>
 
 Tags:
 
