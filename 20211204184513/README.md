@@ -3,11 +3,11 @@
 Beginner Boost:
 
 * Becoming an Autodidact
-* Source Management with Git and GitHub
 * Bash, POSIX, and PowerShell Native 
+* Source Management with Git and GitHub
 * Learn Python and Go the Hard Way
 * C Game Development (Head First C)
-* Get Good to Gig and Prove It
+* Get Good to Gig and Prove It (Being a PTP)
 
 Other courses that are not really "boost" in scope:
 
