@@ -24,3 +24,6 @@ Related:
 
 * <https://dev.twitch.tv/docs/cli/token-command#app-access-token>
 
+Tags:
+
+    #twitch #dev #cli #tips
