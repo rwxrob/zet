@@ -16,6 +16,7 @@ Other courses that are not really "boost" in scope:
 * Phaser JavaScript 2D Web Game Development
 * Data Structures and Algorithms in C
 * Infrastructure Engineering Essentials
+* Passing the KCNA Exam
 * Passing the CKAD Exam
 * Passing the CKA Exam
 * Passing the CKS Exam
