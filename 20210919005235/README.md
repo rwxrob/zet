@@ -12,4 +12,3 @@
 1. Must apply through email
 1. Reputation required
 1. Please send to <mailto:rob@rwx.gg>
-
