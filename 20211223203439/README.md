@@ -2,8 +2,8 @@
 
 Just re-confirmed that (unlike Minikube) there is no command line
 argument to create multiple nodes when creating clusters with Kind. The
-good news is, that you can specify different images for these nodes at
-the same time.
+good news is, that you can specify the name and different images for
+these nodes at the same time.
 
 ```yaml
 apiVersion: kind.x-k8s.io/v1alpha4
@@ -14,6 +14,11 @@ nodes:
   - role: worker
   - role: worker
 ```
+
+In fact, most of the time when using it just makes sense to start with a
+`kind.yaml` file and grow with it (sort of like the justification for
+`docker-compose.yaml` when working even with single image docker
+containerized applications.
 
 Related:
 
