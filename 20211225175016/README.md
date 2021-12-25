@@ -17,3 +17,11 @@ for key in foo bar empty other; do
   [[ ${map[$key]:+exists} ]] && echo "$key exists"
 done
 ```
+
+Related:
+
+* Bash Manual (`man`) Page - Parameter Expansion
+
+Tags:
+
+    #bash #tips #maps #dicts #associative #arrays
