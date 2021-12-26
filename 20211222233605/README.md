@@ -22,6 +22,8 @@ permissions. But still, be sure not to live stream opening that file. ;)
 
 Related:
 
+* Introducing the Twitch Command Line Interface Tool  
+  <https://blog.twitch.tv/en/2020/12/17/introducing-the-twitch-command-line-interface-tool/>
 * <https://dev.twitch.tv/docs/cli/token-command#app-access-token>
 
 Tags:
