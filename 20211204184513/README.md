@@ -5,6 +5,7 @@ Beginner Boost:
 * Becoming an Autodidact
 * Bash, POSIX, and PowerShell Native 
 * Source Management with Git and GitHub
+* Running Linux on Bare Metal
 * Learn Python and Go the Hard Way
 * C Game Development (Head First C)
 * Get Good to Gig and Prove It (Being a PTP)
