@@ -1,4 +1,4 @@
-# TODO Read Calculus Made Easy
+# TODO: Read Calculus Made Easy
 
 <https://calculusmadeeasy.org/>
 
