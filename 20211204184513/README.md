@@ -3,11 +3,14 @@
 Beginner Boosts (Starts May the 4th):
 
 1. Become an Autodidact (1 week)
-1. Get Linux (1 week)
-1. Become a Terminal Master ()
-   1. Ed/Vi/Vim Text Editing
+1. Become a Terminal Master (4 weeks)
+   1. Get Docker and Linux Container 
+   1. Edit Text with Ed/Vi/Vim
+   1. Use and Code Bash and POSIX Shell
+   1. Use TMUX and Screen "Window Managers"
 1. Manage Your Knowledge and Source (2 week)
    1. CommonMark Markdown
+   1. Use Git 
 1. Learn Python and Go the Hard Way
 1. C Game Development (Head First C) (3 weeks)
 1. Get Good to Gig and Prove It (1 week)
