@@ -1,5 +1,9 @@
 # eBPF Allows Programs to Execute Code in Kernel
 
+> eBPF is basically sandboxed kernel drivers (@strager)
+
+> ebpf is just an interpreter within the kernel (@vmttmv)
+
 This is big because it provides safe (sandboxed) access to stuff
 normally only a kernel module (think `modprobe`) would have, like
 networking layer stuff, low-level permissions, and kernel-level logging.
