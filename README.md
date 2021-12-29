@@ -16,23 +16,6 @@ you make no public changes to your fork (which would be 'derivative
 works'). If you see an error, submit an issue. Don't submit a PR
 (since technically a PR is illegal under 'no derivatives' clause).
 
-> 🤬
-> People have started forking this repo and posting harassing issues and
-> PR requests. Let me be clear, making *any* public change to this repo,
-> fork or otherwise is illegal, period. It doesn't even have to be
-> harassment to fit the legal definition of 'derivative work'. Don't
-> risk it, even if you mean well or it's just 'a joke.' Doing so is not
-> only against GitHub policy and copyright law, but could also be
-> prosecuted as criminal harassment and liable depending on the changes.
->
-> Make no mistake, I will fucking sue your ass if you violate this legal
-> requirement even if I have to go on a fund-raising campaign to make it
-> happen. It takes me thousands of hours to produce this content and I
-> will not put up with your shit. Whatever your intention, to troll,
-> harass, or plagiarize, just know that if you do create any "derivative
-> work" getting sued will be the least of your problems. You've been
-> warned.
-
 Related:
 
 * [20210810144945](/20210810144945/) Niklas Luhmann, Father of Zettelkasten
