@@ -8,3 +8,7 @@ Related:
 * Malware Written in GoLang -- A Growing Trend \| Cyware Alerts - Hacker News  
   <https://cyware.com/news/malware-written-in-golang-a-growing-trend-89fc6895>
 * <https://github.com/jgamblin/Mirai-Source-Code>
+
+Tags:
+
+    #golang #secops #hackers
