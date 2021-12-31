@@ -16,3 +16,4 @@
 * <https://twitch.tv/herrhotzenplotz>
 * <https://twitch.tv/pacificplankton>
 * <https://twitch.tv/forgotten_vcr>
+* <https://twitch.tv/dowright>
