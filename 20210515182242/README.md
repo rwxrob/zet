@@ -9,6 +9,8 @@ Thing|How to Say It
 `csh`|c-s-h
 `sh`|Be precise: POSIX, Bourne, Dash, Ash, Bash Shell
 `SQL`|"sequel" or s-q-l
+`PostgreSQL`| "postgress-q-l"
+`SQLite`| "sequel-lite"
 `/etc`|"slash" e-t-c
 `gif`|who the hell knows
 `TCL`|t-c-l or "tickle"
@@ -18,6 +20,7 @@ Thing|How to Say It
 `vi`|v-i
 `vim`|"vim"
 `nvi`|n-vi-i (which is *not* NeoVim, btw)
+`neovim`|"shit" (it's a joke)
 `emacs`|"eee-macs"
 `lua`|"loo-ah"
 `k8s`|"kubernetes"
