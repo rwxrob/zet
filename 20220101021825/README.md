@@ -148,6 +148,49 @@ important languages to learn in 2022 are Go, Python, and (of course)
 JavaScript (which kinda includes HTML and CSS that most would argue are
 not *true* programming languages).
 
+Why these three? Mostly, because they are not only in strong demand but
+have a very bright future ahead. Let me explain that a bit.
+
+Go was specifically written to address the highly-concurrent, frequently
+compiled, performance sensitive requirements of the world's largest
+Silicon Valley company, Google. Rob Pike and Ken Thompson brought the
+world C, UNIX, Unicode, Plan 9 and several other things as well as the
+Go programming language, which they call "a modern C". Every major
+application and tool in the cloud native landscape is written in Go,
+most importantly Docker and Kubernetes. Most companies are actively
+replacing legacy code in NodeJS and Java with Go. Here's one statement
+from a relatively small but important modern company like Uber:
+
+>  "While historically Uber has been mostly a Node.js and Python shop,
+>  the Go language is becoming the language of choice for building many
+>  of Uber Engineering’s new services. There is a lot of momentum behind
+>  Go at Uber, so if you’re passionate about Go as an expert or a
+>  beginner, we are hiring Go developers. Oh, the places you’ll Go!"
+>  (2016 )
+
+Go static typing fulfills the needs of most large projects better than
+any interpreted language (yes even TypeScript) and cross-compilation
+makes is flexible for everything including ultra-lightweight "FROM
+SCRATCH" containers that require a compiled language. Go's batteries
+included selection of network and encryption modules --- not to mention
+gRPC and ProtoBuf --- make it the dominant pick for cloud native
+applications development as well. Even if you just want to work in cloud
+native operations learning to read Go will help you understand what the
+applications are doing when the documentation fails you. For example, by
+reading the source code of `kubeadm` you can get a perfect understanding
+of every step necessary to create a Kubernetes cluster.
+
+Python's greatest contribution to the world is a really kick-ass C stub
+and encapsulation framework. People write simple Python code, then when
+they come to stuff that needs improvement, they write C code and create
+a stubbed library module to import. This is why Python gets all the
+credit for the innovations of PyTorch, Tensorflow, NumPy, SciPy, Pandas,
+and other C code masquerading as Python. Python also includes a full
+version of SQLite (simple database) and TK (for graphics). Even though
+Python suffers from serious distribution issues (and always has) it is
+still mandatory learning for anything involving numbers, math, machine
+learning, systems automation, and cybersecurity.
+
 ## Fundamentals of machine learning
 
 ## Managing and sharing your knowledge
