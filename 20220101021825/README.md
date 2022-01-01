@@ -1,0 +1,173 @@
+# Most Important Things to Learn in 2022
+
+... to get the best tech jobs.
+
+0.  Linux bash command line
+1.  Networking essentials
+2.  Containers and Kubernetes
+3.  Programming in Python, Go, Javascript
+4.  Fundamentals of machine learning
+5.  Managing and sharing your knowledge
+6.  Security as a mindset
+
+Other less technical but relevant skills:
+
+*  Becoming an autodidact
+*  Working remotely
+*  Managing you money
+*  General statistics math
+*  Motivating yourself and others
+*  Communicating with influence
+*  Unleashing your creativity
+*  Connecting with your tribe
+
+## Linux bash command line
+
+Linux (which is evolved from UNIX) is *the* tool for the most important
+jobs of 2022. Even though UNIX dates back to the 70s, learning to break
+even common problems and utilities into composable bash scripts like a
+UNIX boomer could be the best change in mindset you'll achieve in the
+year 2022. Your productivity will increase in ways you cannot even
+foresee and you will appear to be using magic to those stuck using
+graphics user interfaces that watch you do it.
+
+You can't see it, but UNIX and Linux are the underlying operating
+systems on almost every device in the world right now --- including your
+phone and pretty much every web site you have ever visited. 
+
+This is why the fastest and highest paying jobs in the world currently
+require at least fundamental knowledge of the Linux bash command line.
+The better you, the more you will outshine every other candidate for any
+tech job. 
+
+Why bash shell specifically? Because bash is the default shell on 90% of
+Linux systems. No other shell matters as much. It also happens to be the
+most powerful shell you can learn doing things that no other shell can
+(including completion and pretty prompts that are popular with users of
+other shells).
+
+*Bash is the most important programming language you will ever learn.*
+That's right, you heard me: bash. This is because every single line you
+type on the command line *is* programming, in bash. Combine several of
+those lines together into a file and you have a script. Learning this
+critical skill far outweighs all of the other programming you learn
+because it affects all of the other things you ever do from the Linux
+command line. It is not enough to know how to code, bash command line
+skills allow you to test, deliver, and share your code that requires
+command line skills. Plus learning bash helps you automate things in
+your life that you don't even realize you need now --- especially when
+combined with tools like `curl` and `jq`.
+
+Learning the bash command line also specifically includes a strong
+understanding of the UNIX philosophy and use of filters, programs that
+accept input, transform or operate on it, and produce output. Mastering
+this approach allows reuse of filter utility scripts by chaining them
+together into pipelines and even using pipelines within your
+command-line text editor to write code that writes for you. 
+
+Do yourself a favor and make learning the bash linux command line a
+priority and not something you'll "get to" one day.
+
+How do you learn bash? RTFM, no seriously, `man bash` is by far the most
+comprehensive way to learn it. There is not a book on planet Earth that
+covers the material better. Perhaps start out more simply by researching
+how to complete challenges first. But for this language you should
+*always* go to the manual page first because there is a lot of horrible
+shit out on the Internet that is dead wrong and inefficient. 
+
+Above all learn to use regular expression matching and parameter
+expansion over the unnecessary and stupid use of `awk`, `sed`,
+`cut`, `tr` instead. Code containing a lot of these commands just
+reeks of pretentious but clueless shell dipshit.
+
+## Networking essentials
+
+"The Network is the computer." Okay, it really isn't (despite the
+insanity of the latest 90s) but the network is definitely so important
+and ubiquitous that understanding how the Internet actually works is not
+only mandatory but the more you learn the more it sets you apart from
+everyone else in very significant ways.
+
+Kubernetes and containers have upped the complexity and scope of
+networking. Once upon a time as a developer you could be good just
+understanding the absolute basics. These days you have to be able to
+"bridge" container networks just to access stuff on your own local
+system. Kubernetes has even more complexity for all the right reasons
+that you need to learn if you ever want to deploy your application
+cleanly and securely into the cloud, which is everything in 2022.
+
+One of the best ways to learn networking is to setup your own simple
+physical home network using used computers or Raspberry Pis and then put
+a sniffer on one to inspect all the traffic as it is happening. This
+will give you greater than book knowledge about how networks work. Who
+knows, you might even catch unauthorized traffic and catch a hacker on
+your network (like I did when I first did this).
+
+## Containers and Kubernetes
+
+Want the highest paying, most challenging tech job of 2022? Become a
+Cloud Native Infrastructure Engineer. The industry has the "largest tech
+skills drought in history" because it cannot fill the roles of cloud
+native infrastructure engineers right now where the *median* salary is
+146,000 dollars. My friend, a veteran, just landed a job over 300,000 to
+help companies setup their on-prem cloud native infrastructure (and I've
+been offered over 250,000 as well, even though I took another job for
+less).
+
+Docker might have started it, but containers have gone far beyond Docker
+at this point. Sure we still use the `docker` command for everything,
+but containers are now the fundamental building block of most enterprise
+IT infrastructure. *Not* knowing how to use and create containers is a
+serious red flag to most IT employers today (although apparently not
+enough to stop me from getting a job as an Infrastructure Engineer where
+I then learned it).
+
+Like former me, you may be thinking, "I don't need to learn containers,
+I just need to learn how to create applications and infrastructure."
+Like me, you'd be dead wrong. Modern applications *are* containerized
+from the very beginning. If you get a green-field project and don't
+think immediately about how that application is going to be deployed
+as containers --- most likely into Kubernetes --- then you are just
+doing it wrong in 2022. If your current team does not understand the
+significance of that or the reason why start looking for another job
+today.
+
+Containers and Kubernetes are not just for shitty, insecure NodeJS apps
+and "DevOps." (Node is being replaced by Go REST APIs bottled in much
+safer, lighter, and faster "FROM SCRATCH" containers, btw.) Containers
+and Kubernetes are being used at large scale to deploy high-performance
+machine learning model creation, services, and testing. This stuff is
+already everywhere and is going to continue to explode in scope more
+than it already has. 
+
+## Programming in Go, Python, and Javascript
+
+Okay, I'm not including bash (the most important programming language
+you will ever learn) because I already wrote about it. But the next most
+important languages to learn in 2022 are Go, Python, and (of course)
+JavaScript (which kinda includes HTML and CSS that most would argue are
+not *true* programming languages).
+
+## Fundamentals of machine learning
+
+## Managing and sharing your knowledge
+
+## Security as a mindset
+
+## Becoming an autodidact
+
+## Working remotely
+
+## Managing you money
+
+## Motivating yourself and others
+
+## Communicating with influence
+
+## Unleashing your creativity
+
+## Connecting with your tribe
+
+Related:
+
+* <https://github.com/rwxrob/boost>
