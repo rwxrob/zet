@@ -2,20 +2,20 @@
 
 ... to get the best tech jobs.
 
-0.  Linux bash command line
-1.  Networking essentials
-2.  Containers and Kubernetes
-3.  Programming in Python, Go, Javascript
-4.  Fundamentals of machine learning
-5.  Managing and sharing your knowledge
-6.  Security as a mindset
+1.  Linux bash command line
+2.  Networking essentials
+3.  Containers and Kubernetes
+4.  Programming in Python, Go, Javascript
+5.  Fundamentals of machine learning
+6.  Managing and sharing your knowledge
+7.  Security as a mindset
 
 Other less technical but relevant skills:
 
 *  Becoming an autodidact
 *  Working remotely
 *  Managing you money
-*  General statistics math
+*  General statistics
 *  Motivating yourself and others
 *  Communicating with influence
 *  Unleashing your creativity
@@ -23,40 +23,31 @@ Other less technical but relevant skills:
 
 ## Linux bash command line
 
-Linux (which is evolved from UNIX) is *the* tool for the most important
+Linux (which evolved from UNIX) is *the* tool for the most important
 jobs of 2022. Even though UNIX dates back to the 70s, learning to break
 even common problems and utilities into composable bash scripts like a
 UNIX boomer could be the best change in mindset you'll achieve in the
-year 2022. Your productivity will increase in ways you cannot even
-foresee and you will appear to be using magic to those stuck using
-graphics user interfaces that watch you do it.
+new year. Your productivity will increase in ways you cannot foresee and
+you will appear to be using magic to those stuck using graphics user
+interfaces.
 
 You can't see it, but UNIX and Linux are the underlying operating
-systems on almost every device in the world right now --- including your
-phone and pretty much every web site you have ever visited. 
+systems on almost every device in the world including your phone and
+pretty much every web site you have ever visited. This is why the
+fastest growing and highest paying jobs currently require at least
+fundamental knowledge of the Linux bash command line. The better you
+get, the more you will outshine every other candidate for any tech job. 
 
-This is why the fastest and highest paying jobs in the world currently
-require at least fundamental knowledge of the Linux bash command line.
-The better you, the more you will outshine every other candidate for any
-tech job. 
-
-Why bash shell specifically? Because bash is the default shell on 90% of
-Linux systems. No other shell matters as much. It also happens to be the
-most powerful shell you can learn doing things that no other shell can
-(including completion and pretty prompts that are popular with users of
-other shells).
+Why bash shell specifically?
 
 *Bash is the most important programming language you will ever learn.*
-That's right, you heard me: bash. This is because every single line you
-type on the command line *is* programming, in bash. Combine several of
-those lines together into a file and you have a script. Learning this
-critical skill far outweighs all of the other programming you learn
-because it affects all of the other things you ever do from the Linux
-command line. It is not enough to know how to code, bash command line
-skills allow you to test, deliver, and share your code that requires
-command line skills. Plus learning bash helps you automate things in
-your life that you don't even realize you need now --- especially when
-combined with tools like `curl` and `jq`.
+Every line you type on the command line *is* programming, in bash.
+Combine several of those lines together into a file and you have a
+script. Unlike other programming languages bash empowers everything you
+do every time you use the command line, including coding in other
+languages. It is not enough to know how to code, bash command line
+skills allow you to test, deliver, and share your code by connecting and
+automating with other tools.
 
 Learning the bash command line also specifically includes a strong
 understanding of the UNIX philosophy and use of filters, programs that
@@ -65,15 +56,22 @@ this approach allows reuse of filter utility scripts by chaining them
 together into pipelines and even using pipelines within your
 command-line text editor to write code that writes for you. 
 
-Do yourself a favor and make learning the bash linux command line a
-priority and not something you'll "get to" one day.
+Bash is the default shell on 90% of Linux systems. It is also the safest
+shell in existence. Bash also happens to be the most powerful shell you
+can learn doing things that no other shell can (including completion and
+pretty prompts that are popular with users of other shells). Learning
+`shellcheck` with Bash ensures you can quickly make POSIX compatible
+shell scripts as well when required. 
 
-How do you learn bash? RTFM, no seriously, `man bash` is by far the most
-comprehensive way to learn it. There is not a book on planet Earth that
-covers the material better. Perhaps start out more simply by researching
-how to complete challenges first. But for this language you should
-*always* go to the manual page first because there is a lot of horrible
-shit out on the Internet that is dead wrong and inefficient. 
+How do you learn bash?
+
+Read the manual. Seriously, `man bash` is by far the most comprehensive
+way to learn it. There is not a book on the planet that covers the
+material better. Perhaps start out more simply by researching how to
+complete challenges first. But, for this language you should *always* go
+to the manual page because there is just too much shit on the Internet
+that is just dead wrong, inefficient, and dangerous at worst. *Always*
+run any code through `shellcheck`.
 
 Above all learn to use regular expression matching and parameter
 expansion over the unnecessary and stupid use of `awk`, `sed`,
