@@ -1,16 +1,18 @@
 # Things to Learn in 2022 to Get Best Tech Jobs
 
+0.  Becoming an autodidact
 1.  Linux bash command line
-2.  Networking essentials
-3.  Containers and Kubernetes
-4.  Programming in Python, Go, Javascript
-5.  Fundamentals of machine learning
-6.  Managing and sharing your knowledge
-7.  Security as a mindset
+2.  Git and GitHub
+3.  Networking essentials
+4.  Containers and Kubernetes
+5.  Programming in Python, Go, Javascript
+6.  Fundamentals of machine learning
+7.  Managing and sharing your knowledge
+8.  Security as a mindset
+9.  Manage your career search
 
 Other less technical but relevant skills:
 
-*  Becoming an autodidact
 *  Working remotely
 *  Managing you money
 *  General statistics
