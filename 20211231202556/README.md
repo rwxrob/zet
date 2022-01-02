@@ -12,3 +12,8 @@ Related:
 
 * `man gittutorial`
 * <https://ohmygit.org/>
+* <http://think-like-a-git.net/>
+
+Tags
+
+    #git #learning #education
