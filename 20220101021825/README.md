@@ -1,6 +1,4 @@
-# Most Important Things to Learn in 2022
-
-... to get the best tech jobs.
+# Things to Learn in 2022 to Get Best Tech Jobs
 
 1.  Linux bash command line
 2.  Networking essentials
