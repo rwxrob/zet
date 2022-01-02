@@ -70,21 +70,32 @@ way to learn it. There is not a book on the planet that covers the
 material better. Perhaps start out more simply by researching how to
 complete challenges first. But, for this language you should *always* go
 to the manual page because there is just too much shit on the Internet
-that is just dead wrong, inefficient, and dangerous at worst. *Always*
-run any code through `shellcheck`.
+that is just dead wrong, inefficient, and dangerous at worst. 
 
-Above all learn to use regular expression matching and parameter
-expansion over the unnecessary and stupid use of `awk`, `sed`,
-`cut`, `tr` instead. Code containing a lot of these commands just
-reeks of pretentious but clueless shell dipshit.
+For example, StackExchange is sites like it are full of unnecessary and
+stupid use of `awk`, `sed`, `cut`, `tr` and other subshells. These
+"solutions" also frequently use the ancient single bracket conditions
+(`[]`) instead of the safe double-bracket alternatives. If you see
+single brackets in bash code you know for sure the author had not idea
+how to code bash. What's worse, is that often the people posting this
+shit are as pretentious as they are clueless. You don't have fight. Just
+read the manual page be better and safer and 'always' run any code
+through `shellcheck`.
+
+> ⚠️
+> POSIX shell scripts are inherently more dangerous and easy to fuck up
+> than good bash. The idea that POSIX shell is somehow safer and more
+> compatible is simply a myth in 2022 and can easily be objectively
+> proven false.
 
 ## Networking essentials
 
-"The Network is the computer." Okay, it really isn't (despite the
-insanity of the latest 90s) but the network is definitely so important
-and ubiquitous that understanding how the Internet actually works is not
-only mandatory but the more you learn the more it sets you apart from
-everyone else in very significant ways.
+"The Network is the computer." (Sun, 1990s, now bankrupt)
+
+Okay, it really isn't (despite the insanity of the latest 90s) but the
+network is definitely so important and ubiquitous that understanding how
+the Internet actually works is not only mandatory but the more you learn
+the more it sets you apart from everyone else in very significant ways.
 
 Kubernetes and containers have upped the complexity and scope of
 networking. Once upon a time as a developer you could be good just
