@@ -13,6 +13,7 @@ Related:
 * `man gittutorial`
 * <https://ohmygit.org/>
 * <http://think-like-a-git.net/>
+* <https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics>
 
 Tags
 
