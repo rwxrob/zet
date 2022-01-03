@@ -12,10 +12,12 @@ glance.
     live
     live mode [NEW] [STATUS]
     live MODE [NEW] [STATUS]
+    live emoji [NEW]
     live category [NEW]
     live status [NEW]
     live status.default [NEW]
     live tags [NEW]
+    live description [NEW]
 
     live create
     live delete MODE
