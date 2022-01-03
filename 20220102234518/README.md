@@ -17,7 +17,7 @@ take a break that is under 30 minutes. In fact, I'm going to commit to
 stopping the stream whenever I am away for more than 30 minutes, period.
 I will still be streaming relatively boring stuff, like just a screen
 full of coding with music in the background, but there won't be any more
-"away" streams (even though I will still send the notification.
+"away" streams (even though I will still send the notification).
 
 Eventually, I'll give the fishies their own channel and download all the
 music from my favorite playlists and create a shoutcast radio station
