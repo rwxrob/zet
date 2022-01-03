@@ -22,6 +22,11 @@ need a rules channel and Discord forces a "moderators only" channel for
 their notifications. Other than that, I have just have the live channel
 and lobby for talk shows and podcasts (which I cover elsewhere).
 
+Also some things to remember:
+
+* Disable "Posting Media" which includes anything but text or links
+* Get good at removing content, keep Discord up all the time
+
 Related:
 
 * [20220103102120](/20220103102120/) 🖼️  Single Channel Discord
