@@ -8,3 +8,5 @@ Related:
 
 * Metrics Server API deployment manifests for Kubernetes kind · GitHub  
   <https://gist.github.com/hjacobs/69b6844ba8442fcbc2007da316499eb4>
+* Resource metrics pipeline \| Kubernetes  
+  <https://kubernetes.io/docs/tasks/debug-application-cluster/resource-metrics-pipeline/>
