@@ -1,4 +1,4 @@
-# Set `PATH=` to Nothing to Distinguish Builtins
+# Set `PATH` to Nothing to Distinguish Builtins
 
 I was reminiscing earlier about how in the old days we would never do
 things like `#!/usr/bin/env bash` because of how insecure it is. Another
@@ -14,20 +14,25 @@ incrementally add the directories to that `PATH`. Another cool way (from
 could even put that in your scripts tool box as `nopath` and run any
 normal command with it instead just to check for dependencies:
 
-```shell
-#!/bin/sh
-cmd=`which $1`
+```sh
+#!/bin/bash
+cmd=$(which "$1")
+shift
 export PATH=
-exec "$cmd"
+exec "$cmd" "$@"
 ```
 
 Then try it out:
 
 ```
-nopath ls  # works
-nopath foo # won't work if using any subprocesses at all
+nopath ls -l  # works
+nopath foo    # won't work if using any subprocesses at all
 ```
 
 Related:
 
 * `man bash`
+
+Tags:
+
+    #linux #bash #tips #scripting #coding
