@@ -1,4 +1,4 @@
-# Back to Double Sleep Schedule Again
+# Back to Bi-Modal Sleep Schedule
 
 Ever since vacation happened and somehow I landed back on my normal
 sleep schedule where I sleep twice a day I've felt a weird giddy
@@ -33,3 +33,5 @@ Time | Sleep
 Related:
 
 * [20211012194436](/20211012194436/) Returning to Double-Sleep Schedule
+* Humans Used to Sleep in Two Shifts, Maybe We Should Again   
+  <https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again>
