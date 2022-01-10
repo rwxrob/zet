@@ -1,2 +1,2 @@
-# SKILSTAK Projects
+# SKILSTAK Projects Stage
 
