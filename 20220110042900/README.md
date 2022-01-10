@@ -15,8 +15,8 @@ them out and hang them up if they want to chart their learning. I have
 always loved having the visual aid. 
 
 However, I'm thinking that the chart this time will be quite a bit more
-complex since I plan to update it with the SKILSTAK badges instead of
-just the larger semester blocks, as was required by the constraint of
+complex since I plan to update it with the SKILSTAK OCMS badges instead
+of just the larger semester blocks, as was required by the constraint of
 meeting with a group in person. We don't have that any more. Mapping the
 badges has been a herculean task, but once it's complete it will only
 have to be maintained and will be very sustainable since it will be like
