@@ -1,5 +1,13 @@
 # Latest Boost Writing Method: Zettelkasten CYOA
 
+> ⚠️
+> This approach largely failed. People want a "main quest" and to be
+> able to do "side quests" when they want. In other words, they need
+> linear direction and organization to feel grounded. They want the
+> freedom to wander, but the safety of the structure and community.
+
+## -------------------------- old content ---------------------------
+
 I'm trying something new this time around as I write the new Beginner
 Boost content now that I have `zet` to help with my writing. I'm writing
 one zettel at a time and allowing each of them to naturally branch out
