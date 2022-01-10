@@ -1,7 +1,7 @@
-# Book Ideas from SKILSTAK Publishing
+# Ideas for SKILSTAK Books to Write
 
-* Active Autodidact, Learn Like the Best
-* Shell Native Tools, Conquer the Command Line
+* Activate Your Autodidact, Learn Like the Best
+* Become a Shell Native, Conquer the Command Line
 * Just Enough Networking
 * Polyglot Programmer, Learn to Code in Go, Python, and Javascript
 
