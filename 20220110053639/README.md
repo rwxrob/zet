@@ -1,2 +1,2 @@
-# SKILSTAK: Preparation Stage
+# SKILSTAK: Preparation
 
