@@ -1,2 +1,2 @@
-# SKILSTAK: Programming
+# SKILSTAK Programming Stage
 
