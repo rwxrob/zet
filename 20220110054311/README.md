@@ -1,3 +1,3 @@
-# SKILSTAK: Professional Stage
+# SKILSTAK Professional Stage
 
 
