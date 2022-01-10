@@ -1,2 +1,2 @@
-# SKILSTAK: Proficiency Stage
+# SKILSTAK: Programming
 
