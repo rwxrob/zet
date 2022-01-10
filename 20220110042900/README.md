@@ -12,7 +12,7 @@ flux. I remember paying hundreds of dollars to update the classroom
 posters every other week or so with tweaks. (The local print shop loved
 me.) I intend on maintain the poster PDFs again so that people can print
 them out and hang them up if they want to chart their learning. I have
-always loved having the visual aide. 
+always loved having the visual aid. 
 
 However, I'm thinking that the chart this time will be quite a bit more
 complex since I plan to update it with the SKILSTAK badges instead of
