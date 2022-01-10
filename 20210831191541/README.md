@@ -1,4 +1,4 @@
-# Boost: Learn to Learn Like a Hacker
+# Learn to Learn Like a Hacker
 
 *Before you read this, put on some good dark industrial music.*
 
