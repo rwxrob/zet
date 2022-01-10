@@ -14,7 +14,7 @@ your friends and make sure you are all, metaphorically speaking, "tall
 enough" to ride this ride:
 
 * You know what the Beginner Boost is and how it works
-* You can dedicate six hours per week to learning, minimum
+* You can dedicate twelve hours per week to learning, minimum
 * You have full access to an *actual* computer (no iPads, etc.)
 * You have permission to install stuff onto the computer
 * You can delete everything on the computer and no one will care
@@ -40,14 +40,6 @@ room with others):
 * You take regular showers and care for your personal hygiene
 * You will be punctual (10 minutes late is automatic cancellation)
 
-Content to help you complete this room:
+Related:
 
 * [20210830121618](/20210830121618/) What is a Beginner Boost?
-
-Doors:
-
-*Remember, don't leave until you've completed all the objectives listed
-at the top of this room description. If you don't pass them all
-something horrible might happen.*
-
-* [20210902010351](/20210902010351/) Boost: Room to Learn
