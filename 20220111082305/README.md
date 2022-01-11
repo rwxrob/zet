@@ -12,7 +12,7 @@ for publishing along with the Boost in 2023):
 * Just Enough Networking Knowledge
 * Polyglot Programming: Learn to Code in Go, Python, and Javascript
 
-Before you begin make sure you meet the requirements.
+Before you begin make sure you meet the SKILSTAK minimum requirements.
 
 ## Wednesday, May  4, 2022 (week 0)
 
