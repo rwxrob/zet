@@ -1,4 +1,4 @@
-# The ONLY Way to Administer Kubernetes
+# The ONLY Way to Administer Kubernetes (Minecraft)
 
 Related:
 
