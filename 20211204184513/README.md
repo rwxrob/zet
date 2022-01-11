@@ -1,28 +1,32 @@
 # SKILSTAK Learning Content
 
+* Beginner Boost includes all of the Preparation stage plus the Polyglot
+  Programming course from the Programming stage.
+
+
 ## Preparation
 
-*Starts Every Year on May the 4th (Ends by August 15th)*
+*Starts Every Year on May the 4th (Ends on August 27th)*
 
-```
-                            2022
-                              May                   June          
-                      Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
-                                4  5  6  7            1  2  3  4  
-                       8  9 10 11 12 13 14   5  6  7  8  9 10 11  
-                      15 16 17 18 19 20 21  12 13 14 15 16 17 18  
-                      22 23 24 25 26 27 28  19 20 21 22 23 24 25  
-                      29 30 31              26 27 28 29 30        
+## Sessions
 
-        July                 August
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
-                1  2      1  2  3  4  5  6
- 3  4  5  6  7  8  9   7  8  9 10 11 12 13
-10 11 12 13 14 15 16  14 15 16 17 18 19 20
-17 18 19 20 21 22 23  21
-24 25 26 27 28 29 30 
-31                                                                
-```
+🎉 May the Fourth (AMA)
+May, 14 (5 hour)
+May, 21 (5 hour)
+May, 28 (5 hour)
+June, 4 (5 hour)
+June, 11 (5 hour)
+June, 18 (5 hour)
+June, 25 (5 hour)
+July,  2 (5 hour)
+July,  9 (5 hour)
+July, 16 (5 hour)
+July, 23 (5 hour)
+July, 30 (5 hour)
+August, 6 (5 hour)
+August, 13 (5 hour)
+August, 20 (5 hour)
+August, 27 (5 hour)
 
 > Gamingoxymoron290: I didn't have terminal skills for years. I was
 > probably 4 years into my career before I got anywhere near proficient
