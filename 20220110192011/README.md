@@ -3,7 +3,7 @@
 * Activate Your Autodidact, Learn Like the Best
 * Become a Shell Native, Conquer the Command Line
 * Just Enough Networking
-* Polyglot Programmer, Learn to Code in Go, Python, and Javascript
+* Polyglot Programmer: Learn to Code in Go, Python, and Javascript
 
 These books will cover all of the material from the annual SKILSTAK
 Beginner Boost, which runs every year between May the 4th and August
