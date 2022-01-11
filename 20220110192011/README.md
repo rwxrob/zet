@@ -1,9 +1,9 @@
 # Ideas for SKILSTAK Books to Write
 
 * Activate Your Autodidact, Learn Like the Best
-* Become a Shell Native, Conquer the Command Line
+* Conquer the Command Line, Be a Shell Native
 * Just Enough Networking
-* Polyglot Programmer: Learn to Code in Go, Python, and Javascript
+* Polyglot Programming: Learn to Code in Go, Python, and Javascript
 
 These books will cover all of the material from the annual SKILSTAK
 Beginner Boost, which runs every year between May the 4th and August
