@@ -1,4 +1,4 @@
-# SKILSTAK Prerequisites
+# SKILSTAK Minimum Requirements
 
 1.  Agree to take responsibility for your own learning
 2.  Dedicate five hours per week minimum to learning
