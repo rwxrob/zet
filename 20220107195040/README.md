@@ -17,3 +17,20 @@
 * Look at the Status for Released to be sure PV is available
 * `k explain` supports dotted notation
 * PV cannot be divided with smaller Request PVC, gets all of it
+* Best "filled storage" monitoring is Pod using same PV with `du`/`df`
+
+Recommendations from the community (so far):
+
+* Ceph
+* OpenEBS
+
+Related:
+
+* Monitoring Kubernetes PVC disk usage - Stack Overflow  
+  <https://stackoverflow.com/questions/64536815/monitoring-kubernetes-pvc-disk-usage>
+* Introduction to Kubernetes Persistent Volumes  
+  <https://phoenixnap.com/kb/kubernetes-persistent-volumes>
+* Monitoring Kubernetes PersistentVolumes · Issue \#2359 · prometheus-operator/prometheus-operator · GitHub  
+  <https://github.com/prometheus-operator/prometheus-operator/issues/2359>
+* Red Hat Storage Monitoring in Prometheus  
+  <https://access.redhat.com/solutions/4406661>
