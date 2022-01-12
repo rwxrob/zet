@@ -1,32 +1,21 @@
 # SKILSTAK Learning Content
 
-* Beginner Boost includes all of the Preparation stage plus the Polyglot
-  Programming course from the Programming stage.
+Yearly breakdown
 
+52 total weeks
+
+* 6  Weeks (Dec/25-Feb/5):  Head-First C
+* 6  Weeks (Feb/12-Mar/19): Kubernetes Application Developer Boost
+* 6  Weeks (Mar/26-Apr/30): Kubernetes Administrator Boost
+* 18 Weeks (May/4-Aug/27):  Beginner Boost 
+* 4  Weeks (Sep/3-Sep/24):  Get the Gig 
+* 6  Weeks (Oct/1-Nov/5):   Infrastructure Engineering Boost
+* 6  Weeks (Nov/12-Dec/17): Security Analyst Boost
+* 6  Weeks (Dec/24-Jan/28): Head-First C
+* 6  Weeks (Feb/4-Mar/11):  Kubernetes Application Developer Boost
+* 6  Weeks (Mar/18-Apr/22): Kubernetes Administrator Boost
 
 ## Preparation
-
-*Starts Every Year on May the 4th (Ends on August 27th)*
-
-## Sessions
-
-🎉 May the Fourth (AMA)
-May, 14 (5 hour)
-May, 21 (5 hour)
-May, 28 (5 hour)
-June, 4 (5 hour)
-June, 11 (5 hour)
-June, 18 (5 hour)
-June, 25 (5 hour)
-July,  2 (5 hour)
-July,  9 (5 hour)
-July, 16 (5 hour)
-July, 23 (5 hour)
-July, 30 (5 hour)
-August, 6 (5 hour)
-August, 13 (5 hour)
-August, 20 (5 hour)
-August, 27 (5 hour)
 
 > Gamingoxymoron290: I didn't have terminal skills for years. I was
 > probably 4 years into my career before I got anywhere near proficient
@@ -56,9 +45,10 @@ August, 27 (5 hour)
 ## Programming
 
 1. Polyglot Programming: Go, JavaScript, Python (8 weeks)
-
 1. Head-First C
+1. DSL and Data Development (not data science)
 1. Assembly for Microcontrollers
+1. Kubernetes Applications Development
 
 ## Projects: Build Portfolio of Proof You Can Do the Work
 
