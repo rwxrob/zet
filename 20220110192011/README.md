@@ -4,6 +4,7 @@
 * Conquer the Command Line, Be a Shell Native
 * Just Enough Networking
 * Polyglot Programming: Learn to Code in Go, Python, and Javascript
+* Co-working Online
 
 These books will cover all of the material from the annual SKILSTAK
 Beginner Boost, which runs every year between May the 4th and August
