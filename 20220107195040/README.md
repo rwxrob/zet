@@ -18,6 +18,7 @@
 * `k explain` supports dotted notation
 * PV cannot be divided with smaller Request PVC, gets all of it
 * Best "filled storage" monitoring is Pod using same PV with `du`/`df`
+* Only one "monitor" is required per StorageClass (generally)
 
 Recommendations from the community (so far):
 
