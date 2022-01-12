@@ -1,4 +1,4 @@
-# Wish: List Kubernetes Resources by Storage Class
+# Wish: List Kubernetes Resources by StorageClass
 
 Sometimes you want to see everything that is using a specific storage
 class in Kubernetes. This requires mapping the PeristentVolumes and
