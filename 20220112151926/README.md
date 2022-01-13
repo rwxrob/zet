@@ -1,8 +1,9 @@
 # SKILSTAK Annual Calendar
 
-Times are always Saturdays 11:00 to 16:00 (but the definitive schedule
-should always be <https://twitch.tv/rwxrob/schedule>). Sundays 11:00 to
-14:00 is "Ask Me Anything' (office hours). 
+Times are always Saturdays 11:00 to 16:00 (Eastern/-5:00) (but the
+definitive schedule should always be
+<https://twitch.tv/rwxrob/schedule>). Sundays 11:00 to 14:00 is "Ask Me
+Anything' (office hours). 
 
 * 6  Weeks (Dec/25-Feb/5):  Head-First C
 * 6  Weeks (Feb/12-Mar/19): Kubernetes Application Developer Boost
