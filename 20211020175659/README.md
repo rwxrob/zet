@@ -38,6 +38,8 @@ learning technologies.
 
 Related:
 
+* What is Kubernetes? \| Kubernetes  
+  <https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/>
 * Kubernetes(EKS) Zero to Hero - YouTube  
   <https://www.youtube.com/watch?v=sSYfxFkaYVk>
 
