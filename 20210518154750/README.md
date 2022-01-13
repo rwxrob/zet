@@ -1,4 +1,4 @@
-# `go get` is Now `go get -d` (Does Not Install)
+# `go get` is Now `go install` or `go get -d`
 
 Just ran across this in the Go documentation for `get` that really is
 going to make a lot of Install sections of `README.md` files all over
@@ -20,3 +20,7 @@ Related:
 
 * Deprecation of \'go get\' for installing executables - The Go Programming Language  
   <https://go.dev/doc/go-get-install-deprecation>
+* go get: installing executables with 'go get' in module mode is deprecated. \| by Ravindra \| Medium  
+  <https://medium.com/@sherlock297/go-get-installing-executables-with-go-get-in-module-mode-is-deprecated-de3a30439596>
+* Deprecation of \'go get\' for installing executables - The Go Programming Language  
+  <https://docs.studygolang.com/doc/go-get-install-deprecation>
