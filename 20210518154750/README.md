@@ -16,3 +16,7 @@ That is a *major* change of expectations from the entire community.
   install'. To install a package ignoring the current module, use 'go
   install' with an @version suffix like "@latest" after each argument.
 
+Related:
+
+* Deprecation of \'go get\' for installing executables - The Go Programming Language  
+  <https://go.dev/doc/go-get-install-deprecation>
