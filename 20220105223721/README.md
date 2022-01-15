@@ -2,7 +2,11 @@
 
 Sometimes it is just easier to capture everything in an application with
 `docker-compose.yaml` instead of all the more verbose Kubernetes YAML
-resource files. The `kompose` file helps out with this.
+resource files. The `kompose` command helps out with this, but keep in
+mind, this only works for *very* simple translations. Anything worth
+using `docker-compose` for in actuality will probably have too much
+variance for `kompose` to handle. In those cases it's better to just
+write Kubernetes resource manifest files instead.
 
 Related:
 
