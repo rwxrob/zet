@@ -6,7 +6,7 @@ resource files. The `kompose` command helps out with this, but keep in
 mind, this only works for *very* simple translations. Anything worth
 using `docker-compose` for in actuality will probably have too much
 variance for `kompose` to handle. In those cases it's better to just
-write Kubernetes resource manifest files instead.
+write Kubernetes resource manifest files instead. 
 
 Related:
 
