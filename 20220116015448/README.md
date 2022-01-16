@@ -15,3 +15,7 @@ Related:
 * Closed Captioning via Google Speech Recognition \| OBS Forums  
   <https://obsproject.com/forum/resources/closed-captioning-via-google-speech-recognition.833/>
 * <https://github.com/rwxrob/dot/blob/main/install/install-obs-captions-plugin>
+
+Tags:
+
+    #streaming #twitch #cc #accessibility #education
