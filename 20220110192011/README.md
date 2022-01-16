@@ -5,6 +5,7 @@
 * Just Enough Networking
 * Polyglot Programming: Learn to Code in Go, Python, and Javascript
 * Co-working Online
+* Guide to Educational Mentored Community Live Streaming
 
 These books will cover all of the material from the annual SKILSTAK
 Beginner Boost, which runs every year between May the 4th and August
