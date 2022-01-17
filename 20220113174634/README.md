@@ -4,4 +4,4 @@ Qemu is short for "quick emulator"
 
 Related:
 
-* <https://github.com/rwxrob/lab-quemu-setup>
+* <https://github.com/rwxrob/lab-qemu-setup>
