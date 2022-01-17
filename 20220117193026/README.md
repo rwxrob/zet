@@ -1,4 +1,4 @@
-# QEMU, KVM, `libvirt`, and `virt*`
+# QEMU, KVM, XEN, `libvirt`, and `virt*`
 
 I've been confused by the relationship between the core components of
 Linux virtualization. I think this is how they are related:
@@ -17,8 +17,15 @@ talks to the kernel through KVM.
 that uses any one of several virtualization methods** including KVM,
 XEN, ESXi, QEMU (and many others).
 
+I've been told that comparing KVM and XEN code in the kernel source can
+be a way to understand the difference.
+
 Related:
 
 * [20211011162244](/20211011162244/) Amazon Dropped Xen for KVM in 2019
 * The Geeky Way -- KVM vs QEMU vs Libvirt  
   <https://www.thegeekyway.com/kvm-vs-qemu-vs-libvirt/>
+* linux/kvm_main.c at master · torvalds/linux · GitHub  
+  <https://github.com/torvalds/linux/blob/master/virt/kvm/kvm_main.c#L18>
+* linux/kvm_main.c at master · torvalds/linux · GitHub  
+  <https://github.com/torvalds/linux/blob/master/virt/kvm/kvm_main.c#L18>
