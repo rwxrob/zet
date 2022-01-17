@@ -3,3 +3,4 @@
 Related:
 
 * <https://github.com/teachbsd>
+* <https://www.mckusick.com/courses/introdescrip.html>
