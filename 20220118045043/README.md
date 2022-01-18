@@ -1,0 +1,2 @@
+# Best Samba Command: `testparm`
+
