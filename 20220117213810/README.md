@@ -29,6 +29,13 @@ auth_unix_ro = "none"
 auth_unix_rw = "none"
 ```
 
+Others have reported that disabling the `security_driver` in
+`/etc/libvirt/qemu.conf`:
+
+```
+security_driver = "none"
+```
+
 ⚠️  ***MAKE SURE YOU `sudo systemctl stop libvirtd` and `sudo systemctl start libvirtd` to be absolutely sure it restarts.***
 
 Related:
