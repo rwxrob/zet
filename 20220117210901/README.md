@@ -15,6 +15,10 @@ other words, RedHat (like it or not) *is* enterprise Linux. If you want
 to work in Linux and/or cloud native in the enterprise, you cannot avoid
 learning RedHat even if you use something else on your own.
 
+It's also worth noting that RHEL comes with SELinux making it compliant
+with many government and security industry standards. I don't believe
+Ubuntu server does.
+
 Tags:
 
     #enterprise #linux #redhat
