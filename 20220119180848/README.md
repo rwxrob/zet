@@ -23,8 +23,8 @@ of them.
 > By the way, try the military if you want to see just how "asshole"-y
 > a mentor can be. No whiny, "find the most polite, coddling mentor you
 > possibly can" snowflakes there, which is why I never went for it. It's
-> too much for me. But it does work for a fucking huge number of people.
-> Discounting that method is just fucking stupid and irresponsible.
+> too much for me. But it does work for a huge number of people.
+> Discounting that method is just stupid and irresponsible.
 
 I'm not content helping people do just the minimum to get the job
 (unless they are literally starving and unemployed). I'm focused on
