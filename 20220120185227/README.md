@@ -30,3 +30,7 @@ VirtualBox, and requires this to be available on the PATH. If VirtualBox
 is installed, please find the `VBoxManage` binary and add it to the PATH
 environmental variable.
 ```
+
+Related:
+
+* <https://groups.google.com/forum/#!forum/vagrant-up>
