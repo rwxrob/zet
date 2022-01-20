@@ -1,0 +1,2 @@
+# SUSE Backs RHEL Support
+
