@@ -1,5 +1,10 @@
 # Vagrant ENV Variables Win Over Vagrantfile
 
+> 🤦
+> This entire problem was because I was using Docker image (which comes
+> with libvirt setup properly) instead of the `vagrant` command on my
+> host system. So yeah, dumb mistake to avoid. 
+
 Even if you change the provider in your Vagrantfile if you have the
 following set it will override it. I discovered this trying to use
 `virtualbox` as a provider to see that all changes to the file were
