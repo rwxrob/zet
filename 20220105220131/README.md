@@ -1,5 +1,10 @@
 # Set Up Local NFS for Kubernetes Testing
 
+Although NFS is far from perfect, it remains the most popular pick for
+enabling cross-pod storage in Kubernetes. Therefore, understanding how
+it works and testing it is a mandatory skill for any Kubernetes
+Infrastructure Engineer.
+
 Related:
 
 * KB450094 -- Single Server Linux NFS Setup -- 45Drives Knowledge Base  
@@ -14,3 +19,4 @@ Related:
   <https://raymondc.net/2018/12/07/kubernetes-hosted-nfs-client.html>
 * <https://github.com/kubernetes/examples/tree/master/staging/volumes/nfs>
 * <https://github.com/kubernetes-csi/csi-driver-nfs>
+* <https://about.gitlab.com/blog/2018/11/14/how-we-spent-two-weeks-hunting-an-nfs-bug/>
