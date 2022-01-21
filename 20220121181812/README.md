@@ -13,3 +13,8 @@ Then to check if it was disabled ...
 ```
 swapon --show
 ```
+
+Related:
+
+* How to Disable Swap in Linux  
+  <https://linuxhandbook.com/disable-swap-linux/>
