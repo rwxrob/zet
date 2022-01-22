@@ -20,3 +20,9 @@ safety-net it provides.
 Of course, using `lsblk` is definitely the way to go to avoid all of
 this confusion, but having a partition table might still avoid some
 mishaps.
+
+On the other hand, partitions cause bloat because of old conventions
+about where the partition can begin. Obviously, in a terabyte disk world
+such things are not that big of a concern, but if for any reason you
+have constrained on disk space you might want drop partitions all
+together and just format the volume directly.
