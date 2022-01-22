@@ -19,6 +19,9 @@ It's also worth noting that RHEL comes with SELinux making it compliant
 with many government and security industry standards. I don't believe
 Ubuntu server does.
 
+RedHat uses Netfilter while Ubuntu apparently defaults to the older
+`iptables` still (even though it might just front the netfilter stuff).
+
 Tags:
 
     #enterprise #linux #redhat
