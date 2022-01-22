@@ -6,10 +6,9 @@ definitive schedule should always be
 Anything' (office hours). 
 
 * 6  Weeks (Feb/12-Apr/30): Containers and Kubernetes Boost
-* 18 Weeks (May/4-Aug/27):  Linux Beginner Boost 
+* 18 Weeks (May/4-Aug/27):  Linux and Coding Beginner Boost 
 * 18 Weeks (Sep/3-Dec/31):  Infrastructure Engineering Boost
-* 4  Weeks (Jan/7-Jan/28):  Get the Gig
-* 6  Weeks (Feb/4-Apr/22):  Containers and Kubernetes Boost
+* 10 Weeks (Jan/7-Apr/22):  Containers and Kubernetes Boost
 
 > ⚠️
 > Dates are expected but are approximations. When there is a Saturday
