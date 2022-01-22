@@ -8,6 +8,18 @@
 parted /dev/sdb "mklabel msdos; mkpart primary 2048s 100%"
 ```
 
+`/dev/sdb` is the block storage device raw volume.
+
+The commands are surrounded by quotes but don't necessarily have to be.
+
+`mklabel msdos` creates the partition table at the beginning of the
+disk.
+
+`mkpart primary 2048s 100%` creates a primary partition (which can hold
+other partitions if you want later) that starts at `2048s` (a standard
+point after the partition table at the beginning) and fills `100%` of
+the disk volume.
+
 Another option, if you prefer an `fdisk` feel is `sfdisk` which is a bit
 more complicated but can be scripted with inputs and used to capture and
 backup existing partition tables.
