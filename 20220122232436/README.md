@@ -11,3 +11,4 @@ Related:
 
 * netfilter/iptables The netfilter.org \"nftables\" project  
   <https://netfilter.org/projects/nftables/index.html>
+* <https://www.redhat.com/en/blog/using-iptables-nft-hybrid-linux-firewall>
