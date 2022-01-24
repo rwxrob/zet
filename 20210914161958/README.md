@@ -9,8 +9,8 @@
 * Enables tracking history of learning and changes
 * Helps to alleviate problems of bad memory
 * Gives a sense of control over highly complicated things
-* Use consistent prefix `lab-k8s-*`
+* Use a single monorepo `lab` or consistent prefix `lab-k8s-*`
 * Has specific goal or scenario in mind
-* Include a chronological `log.md`
+* Include a chronological `README.md` for each
 * Sort of old school idea of documenting research
 * Part of RWX method
