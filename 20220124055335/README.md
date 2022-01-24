@@ -13,3 +13,14 @@ The `lab` repo also allows subdivision and better organization of
 content. For example, I have a single `nfs` directory or `k8s` directory
 under which I can create individual labs on different related topics.
 This is also much easier to share with others.
+
+The content of `labs` also will always have the commit history that
+demonstrates how each lab grew over time presenting a reference point
+for later. Labs will eventually have the completed instructions and code
+created along the way, some of which might land in other shareable
+projects. 
+
+A single learning `lab` repo will also rise far fewer alarm bells to
+anyone evaluating someone for their skill by reading through their git
+repos (as opposed to them being flooded with `lab-` repos on all sorts
+of topics.
