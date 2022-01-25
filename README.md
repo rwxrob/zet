@@ -7,7 +7,14 @@ public person because I sincerely want to help others find their own
 path. There are tons of spelling and grammar errors and opinions and
 mistakes and realizations I was wrong because it is meant to be an
 organic place to dump thoughts, not a final publication (although the
-idea is to use a Zettelkasten to produce such things).
+idea is to use a Zettelkasten to produce such things). 
+
+> ⚠️
+> Please consult with me on any specific topic before assuming
+> I currently still share that opinion or position. These notes are
+> messy and random by nature and are often kept for historical
+> significance even though I radically disagree with my own previous
+> positions.
 
 I want people to find value in this content *as is*, just don't change
 it and abuse it. Citations and quoting with attribution are 100% okay
