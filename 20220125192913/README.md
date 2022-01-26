@@ -1,5 +1,9 @@
 # Linux on VirtualBox, Best First Linux Experience
 
+***UPDATE: I'm questioning these conclusions now that Rancher Desktop is
+out. VirtualBox does *not* work on M1 Macs and has been known to
+not be supported on Windows11 in the past.***
+
 2021 Beginner Boost had me experimenting with Docker Desktop as a
 person's first experience with Linux, but events of this year have
 convinced me to go back to VirtualBox for 2022.
