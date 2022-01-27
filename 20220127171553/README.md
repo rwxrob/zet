@@ -21,4 +21,4 @@ can be done locally.
 
 * [20220127163644](/20220127163644/) DO NOT BUY A MAC M1!
 
-    #idiots #fail #coding #devops #secops
+    #rants #idiots #fail #coding #devops #secops
