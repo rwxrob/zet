@@ -29,3 +29,4 @@ Related:
   <https://github.com/torvalds/linux/blob/master/virt/kvm/kvm_main.c#L18>
 * linux/kvm_main.c at master · torvalds/linux · GitHub  
   <https://github.com/torvalds/linux/blob/master/virt/kvm/kvm_main.c#L18>
+* <https://www.arthurkoziel.com/running-virt-manager-and-libvirt-on-macos/>
