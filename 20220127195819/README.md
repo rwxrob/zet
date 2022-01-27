@@ -35,7 +35,7 @@ not persistent by nature, you have to hack in things to keep your files
 after you remove your containers, 'cuz containers. But this hassle might
 be well worth the savings in system resources otherwise dedicated to a
 full virtual machine. Notice I said "full", because if you are using
-containers on Mac or Windows you *are* using a virtual machine). 
+containers on Mac or Windows you *are* using a virtual machine.
 
 Let's go over that again. **Any container engine on Windows or Mac is
 *already* running in a virtual machine.** This is a simple fact that
