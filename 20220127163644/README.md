@@ -8,4 +8,7 @@ These things are a complete disaster:
 
 Seriously, it is just not worth the money to get one of these.
 
+* Virtualbox Mac m1 - Apple Community  
+  <https://discussions.apple.com/thread/253292128>
+
     #apple #macm1 #fail #virtualbox
