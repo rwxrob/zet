@@ -1,4 +1,4 @@
-# SIGN YOUR GITHUB COMMITS!
+# Sign Your Github Commits!
 
 Want to see Linus tell you to delete Linux? Look no further.
 
