@@ -55,7 +55,7 @@ ones that come with Docker/Rancher Desktop (if you are a Mac/Windows
 user, that is). 
 
 By the way, this is why these "products" are dependent on Windows WSL2,
-because WSL2 *is* a Linux virtual machine that Windows ships with it's
+because WSL2 *is* a Linux virtual machine that Windows ships with its
 old and busted operating system to attract the Linux/container crowd. It
 is perfectly fine to just say know to these products and the (broken)
 WSL2 and install a real virtual machine instead (as oxymoronic as that
