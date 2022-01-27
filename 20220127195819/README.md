@@ -57,13 +57,18 @@ user, that is).
 By the way, this is why these "products" are dependent on Windows WSL2,
 because WSL2 *is* a Linux virtual machine that Windows ships with its
 old and busted operating system to attract the Linux/container crowd. It
-is perfectly fine to just say know to these products and the (broken)
+is perfectly fine to just say NO to these products and the (broken)
 WSL2 and install a real virtual machine instead (as oxymoronic as that
-sounds).
+sounds). You'll probably be happier you did in the long run, provided
+your computer has enough resources to run a full Linux virtual machine.
+(Don't worry, if it can play Fortnite on max settings you will be fine.)
 
-IMHO most people should just skip "desktop containers" completely and
-install a virtual machine, yes, even the machine learning people. How
-the hell did you get that job without knowing Linux in the first place?
+Conclusion: most people should skip "desktop containers" completely and
+install a virtual machine if they can. Some companies (like mine)
+actively block installs of VirtualBox on any company computer (fucking
+morons, it's 2022 for Christ's sake). So you'll have to make your own
+educated strategy. But, when in doubt, go with a virtual machine instead
+of a workspace container on your desktop.
 
 Related:
 
