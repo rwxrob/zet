@@ -68,7 +68,8 @@ install a virtual machine if they can. Some companies (like mine)
 actively block installs of VirtualBox on any company computer (fucking
 morons, it's 2022 for Christ's sake). So you'll have to make your own
 educated strategy. But, when in doubt, go with a virtual machine instead
-of a workspace container on your desktop.
+of a workspace container on your desktop. Yes, even if all you do is
+machine learning models all day.
 
 Related:
 
