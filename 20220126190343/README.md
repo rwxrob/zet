@@ -4,6 +4,10 @@
 > get the RD rollout/process figured out. we had to take care of "right
 > now" while we get the log-term process in place
 
+***WARNING: Rancher Desktop does not work with Cisco Anyconnect VPN.
+Docker Desktop does (see
+Related).***
+
 Rancher Desktop 1.0 was just announced just in time to help large
 companies deal with the looming deadline to start paying for their
 corporate subscriptions to Docker Desktop (Enterprise). This is huge.
@@ -16,6 +20,10 @@ about container tooling for their developers.
 
 It also turns out that Rancher Desktop supports M1 Macs (while
 VirtualBox still does not).
+
+Related:
+
+* <https://github.com/rancher-sandbox/rancher-desktop/issues/1115#issuecomment-1022901127>
 
 * <https://github.com/rancher-sandbox/rancher-desktop>
 
