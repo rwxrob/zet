@@ -1,4 +1,4 @@
-# DO NOT BUY A MAC M1!
+# Do not But a Mac M1!
 
 Right now is an incredibly difficult time to make this decision. The
 direction of Apple and Google is to start using ARM for everything (the
