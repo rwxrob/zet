@@ -1,6 +1,6 @@
 # Rancher Desktop Alternative to Docker Desktop
 
-> porschephilth: no, we just bought $50k of docker licensing while we
+> porschephilth: no, we just bought \$50k of docker licensing while we
 > get the RD rollout/process figured out. we had to take care of "right
 > now" while we get the log-term process in place
 
