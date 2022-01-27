@@ -5,8 +5,10 @@
 > now" while we get the log-term process in place
 
 ***WARNING: Rancher Desktop does not work with Cisco Anyconnect VPN.
-Docker Desktop does (see
-Related).***
+Docker Desktop does (see Related). Rancher Desktop also requires WSL2
+and will install it if not found. This can break VirtualBox
+installations in subtle and annoying ways, like slowing all of your
+VMs.***
 
 Rancher Desktop 1.0 was just announced just in time to help large
 companies deal with the looming deadline to start paying for their
