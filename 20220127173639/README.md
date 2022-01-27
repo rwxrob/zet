@@ -3,7 +3,7 @@
 After several hours of evaluation of several "first Linux" possibilities
 with the community, Kali Linux has won as the easiest and most powerful
 option to start with and will therefore be what we use in the 2022
-Beginner Boost.
+Beginner Boost, yes even for non-security related careers.
 
 **VirtualBox provides the best options and flexibility for beginners.**
 Although we did 2021 with Docker Desktop (which is not proprietary)
@@ -57,9 +57,18 @@ are also financially incentivised to keep it on the cutting edge without
 making it unstable. This frequent upgrade requirement is likely the
 reason Kali remains so light-weight and easily importable into
 VirtualBox. You can get on any computer in the world, install VirtualBox
-and then Kali in minutes and be hacking.
+and then Kali in minutes and be hacking. Hackers can do this relatively
+quickly and erase their footprints rather easily using this approach.
+
+**Kali Linux has the best USB boot options** because people frequently
+run Windows on their computers and only boot into Kali when they know
+they are going to be hacking. This is far easier than a dual boot (and
+safer, in many respects) but still allows the full power of the hardware
+for either gaming, ML, or hacking.
 
 Related:
 
 * <https://kali.training>
 * [20220125192913](/20220125192913/) Linux on VirtualBox, Best First Linux Experience
+
+    #linux #kali #firstlinux #edtech #vms #distros #offsec #devops
