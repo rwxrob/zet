@@ -1,0 +1,346 @@
+1
+00:02:43,464 --> 00:02:46,836
+I think I know about the wax Trax Channel
+what's up
+
+2
+00:03:07,329 --> 00:03:09,868
+I downloaded it
+
+3
+00:03:15,401 --> 00:03:16,363
+all right
+
+4
+00:03:23,124 --> 00:03:27,988
+then I guess you just oh my God that's so
+cool
+
+5
+00:03:28,723 --> 00:03:32,420
+fantastic hey welcome to Discord to the
+stage
+
+6
+00:03:33,700 --> 00:03:49,500
+again this is sources a good notification we
+are on at which we are live on Twitch we are
+going to be installing and testing Docker
+desktop sorry ranch or desktop which is a
+replacement Shoe Doctor desktop
+
+7
+00:03:49,969 --> 00:04:01,517
+and I've already got it on on my laptop for
+work and want to try it there than most
+because I have conflicts with anyconnect on
+your cell so I think this might actually get
+around it
+
+8
+00:04:01,875 --> 00:04:11,056
+and when are you writing an installer for
+Linux which I don't know that I would
+actually use you know it's pretty damn easy
+to
+
+9
+00:04:11,056 --> 00:04:23,861
+to said you know just had a doctor said like
+that on Linux but I'm not going to sit at
+his right now I'm actually running quite a
+bit of other stuff right now
+
+10
+00:04:24,720 --> 00:04:30,003
+I still have all my other mini Cube stuff
+running
+
+11
+00:04:30,975 --> 00:04:41,918
+yeah I've got I've got a ton of a ton of
+jobs running from my previous thing we are
+going to switch back to that by the way
+later we will definitely switch back to that
+I'm going to I got to figure out how to
+drain
+
+12
+00:04:40,582 --> 00:04:48,390
+got to figure out how to drain nodes and and
+stuff and I ended up moving it First Take a
+side track down this thing
+
+13
+00:04:48,618 --> 00:04:51,947
+80's and 90's industrial sounds great
+
+14
+00:04:56,351 --> 00:05:00,409
+ouch all right so first things first
+
+15
+00:05:02,127 --> 00:05:09,089
+I get a thing download is pretty fucking big
+so I'm going to go ahead and do that
+
+16
+00:05:09,532 --> 00:05:15,354
+and I probably I probably take down this
+this this this this this thing here make you
+
+17
+00:05:15,935 --> 00:05:21,955
+I can go ahead and just destroy listening
+but Danny Keough destroy
+
+18
+00:05:22,651 --> 00:05:29,728
+where's the delete delete Dash p i knowed
+off
+
+19
+00:05:30,207 --> 00:05:34,318
+lap so that's just I'm turning down if I
+don't do this it's going to
+
+20
+00:05:34,667 --> 00:05:39,964
+and I'm going to come and blow up my system
+should be a lot happier now
+
+21
+00:05:40,902 --> 00:05:50,726
+if I'm a suspect the chill up I love the 80s
+music but this kind of thing will put some
+80's on the on the on the on the brakes
+
+22
+00:05:51,103 --> 00:05:52,483
+so
+
+23
+00:05:54,889 --> 00:06:02,360
+what are communities yeah I can give him a
+super brief explanation of that I've done
+that in my in my boots videos as well
+
+24
+00:06:03,138 --> 00:06:10,133
+Similac checks to wax Trax channel here
+absolutely yeah if you give me a link
+Porsche
+
+25
+00:06:10,644 --> 00:06:17,287
+I love to eat it okay so just I'm going to
+spend five minutes on this
+
+26
+00:06:17,484 --> 00:06:21,642
+and we'll talk about so actually consume in
+a little bit
+
+27
+00:06:21,643 --> 00:06:25,726
+hello you don't need to do it is it is
+
+28
+00:06:29,288 --> 00:06:31,181
+I want to phone them
+
+29
+00:06:35,132 --> 00:06:37,404
+white rice Wednesday
+
+30
+00:06:38,948 --> 00:06:43,230
+I can't I can't stream another streamers but
+
+31
+00:06:52,696 --> 00:06:58,672
+oh my God this is so cool how do I
+
+32
+00:06:59,550 --> 00:07:01,883
+I not know about this
+
+33
+00:07:09,437 --> 00:07:12,498
+oh my God this is so honored.
+
+34
+00:07:16,803 --> 00:07:22,535
+Oh my God oh my God really that on yeah
+
+35
+00:07:26,223 --> 00:07:32,554
+hey I don't know where the music's coming
+from its Justice website I was on
+
+36
+00:07:34,159 --> 00:07:39,922
+no one needs to say anything about that oh
+my God it's great to have
+
+37
+00:07:40,022 --> 00:07:47,865
+Alexander youtubing stuff to which is
+whatever I've been checking track to his off
+the way to do the safe way to turn track two
+off
+
+38
+00:09:23,676 --> 00:09:27,929
+I'm going to check out I can understand his
+all right
+
+39
+00:09:41,022 --> 00:09:47,161
+search mean alright so and
+
+40
+00:09:50,552 --> 00:09:53,562
+as soon as the simplest way I can say it is
+
+41
+00:09:57,255 --> 00:10:04,049
+do you know what virtual machines are he
+normally does explanation includes
+explaining what a virtual machine is
+
+42
+00:10:05,040 --> 00:10:13,445
+it because you have to understand a virtual
+machine is really before you can understand
+what a what a container is okay so
+
+43
+00:10:14,750 --> 00:10:57,008
+containers give you effectively the same
+thing as virtual machines for a fraction of
+the performance cost because instead of
+having multiple simulated hosts machines you
+have everything uses the underlying host
+operating system but in every other way is
+separate and distinct so you can have any
+uses it's been an able to buy something
+called I think it's a fella facts which is
+is you know it's in the old days if you if
+you know Linux containers are just an
+extension of Schrute
+
+44
+00:10:57,011 --> 00:11:40,855
+which means you know you can go into a point
+in your system and you can shoot into that
+and then nobody can break out you can't get
+out of it it's safe it's wet. Here's the
+thing it shares memory and it sure has a new
+line just volumes I tried everything but it
+has a different LXE thank you it but it has
+a a different schruted Mountain point at the
+users are the same and everything so you get
+what looks like effectively there's me here
+I'm going to run back to run at 500 because
+everything has to use the exact same Colonel
+that you're on Linux kernel so and it that
+and it only works unless you cannot have
+
+45
+00:11:40,862 --> 00:11:42,357
+a container
+
+46
+00:11:43,910 --> 00:12:02,923
+that is a different type of architecture
+like my chip architecture like you can't
+have so for example we have run here I can
+run it 12 I can run an entire a bunch of
+insincere right or if I wanted to I could
+run red hat
+
+47
+00:12:02,925 --> 00:12:06,982
+I think I don't think there was a redhead
+image anybody run Alma
+
+48
+00:12:06,984 --> 00:12:17,858
+I'm at 8 I wonder if there's a helmet is
+there a number eight you can run Kali Linux
+you can run Arch Linux Arch
+
+49
+00:12:18,451 --> 00:12:31,220
+whichever I don't remember their name and
+each one is an image and it uses a Target
+also so why why use containers right well
+containers let you
+
+50
+00:12:31,220 --> 00:13:14,764
+you know do one thing at the end of the day
+I can't Aynor is a running image that's the
+surrounded it's based on a single executable
+at but that Grace of lions like when I run
+you know when I run a bunch you like this
+like what what's the image mr. Rob look at
+the ears image in that case is a simulated
+operating systems I call this a space
+container but you know anything you do in
+here gets thrown away that difference
+between virtual machines and containers
+containers are ephemeral why are they
+important because you can run microservices
+inside of them and and had a few days and
+just stuff yeah
+
+51
+00:13:14,768 --> 00:13:22,011
+what you request from software engineers
+what are your request from selfridges
+
+52
+00:13:22,692 --> 00:14:01,539
+so a software engineer would be asked to put
+their application in a containerized way so
+in order to run like I have is not running
+right now but I have nginx set up so that it
+will it will stream to YouTube and twitch
+and I can run all of it including postgres
+value proposition that containers give us
+containers give us the ability to combine a
+bunch of complicated applications a database
+and one container you know a middleware and
+another container back in service another
+container and in front end servicing kit
+with all those in containers that we can run
+them all with one shot
+
+53
+00:14:00,590 --> 00:14:58,446
+all with one shot in fact we can put all
+that stuff in a single container we can put
+them on a collection of containers and in
+the Technologies like talking impose allows
+to run all of those at the same time and
+bring him up all at the same time and take
+him down very pretty much as soon as I can
+be simple that guy singing monitoring system
+which is in you know that the next version
+Nadia's basically it has post grass and has
+another database anona has Apache in there
+and it had their all configured and
+everything and then it's it's got a ton of
+like architectural pieces that you would
+have to install separately and they're all
+put together in a single container actually
+in that case multiple containers and then
+those containers can be run with you know
+they can be running with with one command
+and then you can be torn down if we come in
+and they don't do anything to your system
+they just they just they just just do around
+so when you when you start with that
+

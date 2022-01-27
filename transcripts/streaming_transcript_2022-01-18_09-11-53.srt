@@ -1,0 +1,6372 @@
+1
+00:00:08,779 --> 00:00:53,000
+all right this morning I'm going to try as
+fast I can't even do a speed install of
+icing to my try to get it up in under an
+hour is trying hard but if I can get it up
+in under an hour an hour and a half I need
+to get a test instance of a single up so I
+can write some coat against the rest API for
+icinga2 and I'm going to jump right into
+that and then later on we're going to be
+sending a simulated disk disk full messages
+from her days to figure out how to speak to
+an I sing a system outside of Aries cluster
+can't run nice and get into the community as
+easily anyway I saw the research I did so
+that's what we're going to go do
+
+2
+00:00:53,534 --> 00:00:59,525
+I said Cisco learning because I've never
+done it so if anybody wants to help out let
+me know
+
+3
+00:01:05,016 --> 00:01:10,342
+is it here really anybody to watch right now
+
+4
+00:01:13,638 --> 00:01:15,622
+first things first
+
+5
+00:01:16,749 --> 00:01:22,610
+what set out the goals for this little bit
+of a learning lab
+
+6
+00:01:25,607 --> 00:01:30,767
+I come understand
+
+7
+00:01:31,627 --> 00:01:33,897
+like I single
+
+8
+00:01:35,746 --> 00:01:39,924
+is an how it came to be
+
+9
+00:01:42,717 --> 00:01:45,363
+I already know that but I'm going to put
+that there
+
+10
+00:01:50,249 --> 00:01:53,168
+provision avian
+
+11
+00:01:55,113 --> 00:01:58,326
+refusing to host huizinga
+
+12
+00:02:09,137 --> 00:02:12,786
+I'm going to need icing and I'll gets
+components
+
+13
+00:02:20,625 --> 00:02:26,639
+Olivia. Sir
+
+14
+00:02:27,719 --> 00:02:32,520
+I saw that thing in the fantasies like
+postgres and everything
+
+15
+00:02:54,471 --> 00:03:02,155
+a working I single at 2 monitoring system
+
+16
+00:03:02,242 --> 00:03:07,260
+set up with all its dependencies
+
+17
+00:03:07,661 --> 00:03:10,557
+on a single server
+
+18
+00:03:28,337 --> 00:03:30,098
+I see
+
+19
+00:03:33,655 --> 00:03:36,385
+understand this system
+
+20
+00:03:37,294 --> 00:03:42,303
+and then it says for an icing installation
+
+21
+00:03:45,300 --> 00:03:52,699
+I saw that I sing a dependency case install
+I Singa
+
+22
+00:03:57,684 --> 00:04:03,992
+I figure I single to receive alerts
+
+23
+00:04:04,226 --> 00:04:06,389
+Oakley
+
+24
+00:04:14,995 --> 00:04:20,729
+we probably do a different lab for icing
+
+25
+00:04:23,232 --> 00:04:29,691
+yeah we probably do a different one 4
+
+26
+00:04:30,406 --> 00:04:37,428
+for setting up alerts sending an alarm as it
+going to Ronald how's it going expert G
+
+27
+00:04:50,177 --> 00:04:54,161
+test alert messages
+
+28
+00:04:56,358 --> 00:05:04,109
+what is a singer that start with the first
+thing how we so
+
+29
+00:05:10,945 --> 00:05:13,801
+is icing a monitoring
+
+30
+00:05:20,712 --> 00:05:26,474
+and I single stack all right
+
+31
+00:05:32,122 --> 00:05:34,560
+is coming to an end the latest blog post
+
+32
+00:05:39,235 --> 00:05:45,263
+monitoring basics back to
+
+33
+00:06:01,436 --> 00:06:05,694
+here we go and if we terraformed
+
+34
+00:06:08,519 --> 00:06:15,864
+and yeah I don't have to reform set up
+because I don't have a cloud but yeah
+
+35
+00:06:16,062 --> 00:06:18,512
+that would be something to try for sure
+
+36
+00:06:19,286 --> 00:06:25,492
+so what is this thing
+
+37
+00:06:26,043 --> 00:06:31,280
+so just tell me but who knows I want to be
+able to set up a monitor and
+
+38
+00:06:31,819 --> 00:07:12,084
+I need a ride the Monitor and communities so
+I'm going to be using mini cube with a VM
+driver in order to feel the disc without
+blowing them at my work station away if that
+which is what would happen if I use a darker
+as a driver I'm going to use Uber as a
+driver which I got working last night and
+I'm going to write the monitor for the full
+disco in PVC and I want to have it be able
+to send a message to I single which is going
+to be running on another vml play on the
+same network and I'll probably have to
+bridge the networks are to make it happen so
+I need to set up a single to do that so I
+need a machine on Mean Machine on Mean
+Machine For That
+
+39
+00:07:12,156 --> 00:07:13,729
+cell
+
+40
+00:07:14,009 --> 00:07:42,636
+how to get started getting shower this
+weekend so I think it is that monitoring
+solution and it was born from nagios it's
+been off for a while and caters to
+Enterprise but it's in a slack integration
+it's how many companies send slack
+notifications rather than writing their own
+Bots it already has all of that and Elsa has
+a dashboard and its own pseudo language
+
+41
+00:07:47,100 --> 00:08:12,773
+it was your first full stack Monterey
+Enterprise solution insulation course for a
+Stressless start with the singer your online
+name of the first impression we sing at
+we're going to go ahead and follow the docks
+as best we can all the courts of February on
+supposed to monitoring system at the end
+you'll be able to monitor your servers and
+works in applications I don't have a long
+time for this so I'm going to try to finish
+this and then an hour an hour and a half to
+
+42
+00:08:12,777 --> 00:08:17,229
+Aditi I don't think it is it is closer to
+Nadia's
+
+43
+00:08:18,391 --> 00:08:38,603
+do you want to relearn about Madhuri bases
+get from are the senators in general and you
+icing a way of monitoring I can just tell
+you I think I may have modules that you can
+put on systems and you can have a model for
+anything and then that model just sends up
+you know some of the mothership that's all
+it really is
+
+44
+00:08:38,605 --> 00:09:00,624
+every easy way to start working at least two
+gigs Ram two or more cores I sent you was
+for the operating system and Apache web
+server wow that's that's a lot of
+information that's exactly what I needed to
+do so let me go ahead and use maygrant to to
+provision this since we got bigger it to
+work yesterday finally I need to find you a
+bunch of image
+
+45
+00:09:01,838 --> 00:09:08,844
+I'm going to get ahead of myself though are
+you mean
+
+46
+00:09:11,464 --> 00:09:21,373
+are you started working at least 200 GB of
+RAM trim or cars or since I stopped
+Bernice's to Apache web server and might as
+well as any of us so those are all things
+that have to be
+
+47
+00:09:20,676 --> 00:09:27,912
+things that have to be installed yeah but
+still
+
+48
+00:09:30,170 --> 00:09:36,054
+and gangly out for y'all but I'll get it
+yeah I know this is the one we have to use
+
+49
+00:09:40,872 --> 00:09:45,991
+alright so let's get it sent his box set up
+
+50
+00:09:47,805 --> 00:09:54,806
+I'm going to step two understand sister
+Penzeys original version machine someone
+else at 3 already
+
+51
+00:09:56,602 --> 00:10:02,027
+I need to set up a vagrant job 2
+
+52
+00:10:03,433 --> 00:10:06,729
+pull down at Evian freysinger
+
+53
+00:10:07,693 --> 00:10:13,247
+so I'm going to try this I haven't going to
+snow while
+
+54
+00:10:14,306 --> 00:10:15,837
+regrets
+
+55
+00:10:17,050 --> 00:10:26,061
+I got to make sure it gets to the doctor.
+The doctor image the diagram which is the
+only thing you want to use I did a whole
+video on that last night if you want to go
+watch a bigger and we finally got it to work
+
+56
+00:10:27,259 --> 00:10:32,242
+is it dead in the water I don't think it
+said we use it at work everyday all the time
+
+57
+00:10:33,109 --> 00:10:36,620
+so I don't think it's dead
+
+58
+00:10:38,335 --> 00:10:45,317
+what were you what were you sitting what
+would you think would be a new thing
+
+59
+00:10:45,459 --> 00:10:55,779
+what is a more modern alternative to icing
+go I think about Prometheus and that kind of
+stuff
+
+60
+00:10:56,514 --> 00:10:59,384
+as if working. Guess is Backward Compatible
+
+61
+00:11:09,074 --> 00:11:14,413
+well not always but yeah in this case it's a
+
+62
+00:11:33,657 --> 00:11:41,215
+I taking you your browser I'm also trying to
+read here cuz I'm watching other stuff at
+work
+
+63
+00:11:41,488 --> 00:11:47,450
+I had to complete a captcha I don't want to
+complete a captcha piece of shit Cloud Fair
+
+64
+00:11:47,905 --> 00:11:50,546
+I hate fucking hate Carver
+
+65
+00:11:55,010 --> 00:12:07,214
+when I gave him a general the way depending
+datadog free this was her phone again yeah
+those are things that we do have those in
+the Enterprise but we still have a single
+left around
+
+66
+00:12:07,531 --> 00:12:14,889
+that's why I don't want to spend a lot of
+time on it dog years is the older version
+
+67
+00:12:15,309 --> 00:12:18,672
+is Narnia still supported imagine it is
+
+68
+00:12:26,366 --> 00:12:34,270
+I thought I didn't like nobody else is
+probably I got a lot more usage out there
+leftover
+
+69
+00:12:34,271 --> 00:12:42,019
+spiceworks have never heard of datadog I
+know it's been off forever I just paid them
+
+70
+00:12:42,960 --> 00:12:49,540
+they've been a mess out here that one he's.
+That's that's no
+
+71
+00:12:49,540 --> 00:12:56,678
+am I checking on RT Pandora observium none
+of these or any good
+
+72
+00:12:56,678 --> 00:13:03,204
+I think I think Nadia's going to be the most
+popular it's also the oldest
+
+73
+00:13:04,208 --> 00:13:07,405
+zabbix I haven't heard of though
+
+74
+00:13:07,405 --> 00:13:13,580
+I understand electricity support as much as
+usual as I get notified about coronavirus
+isolation without delay
+
+75
+00:13:13,882 --> 00:13:17,207
+I don't have for me feel so sit here at all
+
+76
+00:13:18,558 --> 00:13:22,810
+is Prison Break is it just a coronavirus
+check
+
+77
+00:13:24,507 --> 00:13:28,365
+I mean I could have that wrong with
+
+78
+00:13:30,465 --> 00:13:34,175
+Prometheus elasticsearch that,
+
+79
+00:13:36,652 --> 00:13:50,395
+prices of star systems monitoring and a
+learning tool kit to do my SoundCloud is
+this after 2012 many countries in
+organizations without the Prometheus and
+retracted lots of times I don't understand
+why
+
+80
+00:13:51,711 --> 00:13:57,603
+we might we might have to do it for me if
+you sing to
+
+81
+00:13:57,604 --> 00:14:04,929
+I I personally don't necessarily want to
+useall the time I just have to support it so
+
+82
+00:14:10,424 --> 00:14:13,624
+never heard of Jack Diamond there's a tons
+of stuff
+
+83
+00:14:14,974 --> 00:14:22,482
+so Francis has is the first alternate that
+comes to my mind open source has learning
+tool kit
+
+84
+00:14:24,219 --> 00:14:35,655
+the price is very active in the community
+this is true is now stand alone open source
+project which is apparently in the company
+Timber sizes and your car for the price of
+governance practices join call native
+
+85
+00:14:36,313 --> 00:14:47,994
+after communities place in stores in
+Massachusetts and Sarah's data right or
+you're free this is like an alternate being
+Flex I think it's got more stuff to it
+
+86
+00:14:48,575 --> 00:14:58,219
+I mean teachers most Edition model promise
+you all kind of hate it from Carol I'm
+serious data or the metrics
+
+87
+00:15:00,938 --> 00:15:05,842
+Pine Bush is exporters race is written in go
+
+88
+00:15:06,739 --> 00:15:09,146
+this is the one I want to get into
+
+89
+00:15:14,398 --> 00:15:22,437
+Resorts World of a of the America Center is
+data machine says you're muttering as well
+it's kind of like collecting logs
+
+90
+00:15:23,161 --> 00:15:30,425
+nice is not about logging it's about
+monitoring the messages so I don't know
+
+91
+00:15:32,019 --> 00:15:35,651
+I don't know if your major thing I don't get
+well enough of that
+
+92
+00:15:37,764 --> 00:15:40,459
+I'm going to put something like this
+
+93
+00:15:45,311 --> 00:15:47,580
+I put a warning
+
+94
+00:16:17,754 --> 00:16:25,588
+and this is my situation I have to have the
+support this I don't I don't think it's dead
+though
+
+95
+00:16:26,141 --> 00:16:28,908
+I mean certainly. Dead in our company
+
+96
+00:16:30,389 --> 00:16:37,581
+you're not on this particular point I don't
+think that they're like you know the most
+advanced thing and has all
+
+97
+00:16:57,451 --> 00:17:00,755
+I just busy running basics
+
+98
+00:17:01,740 --> 00:17:09,725
+singers will send you the one with the
+ecosystem. That's old when was this song
+written 2021
+
+99
+00:17:11,481 --> 00:17:14,860
+I think it's relatively new to this is
+interesting
+
+100
+00:17:18,249 --> 00:17:21,002
+I find this fascinating
+
+101
+00:17:24,643 --> 00:17:27,342
+my guess and I singer
+
+102
+00:17:27,395 --> 00:18:11,550
+this is 121 I don't have a lot of time to
+the time I need to set up no matter what but
+I do want to understand it better so I can
+make sure condition I think it was the New
+World Systems Monterey even though it has
+been around for over 10 years a great
+features and it's a standalone solution for
+systems and every Monday August is a
+well-established product an enormous
+community supports increase for add-ons for
+this product pricing as soon as I was that
+is free and open source software own
+audience isn't I guess which means it can be
+fairly disturbing with the source code and
+customers we can meet me at my place only
+place that products like I seen you can
+start to cost you money is in the support of
+development categories like it has a price
+tag of 2000 when did they start charge as
+they always charge your phone I guess I've
+never paid for novios
+
+103
+00:18:11,556 --> 00:18:14,096
+but that price includes some support if you
+need it
+
+104
+00:18:16,711 --> 00:18:32,333
+this makes sense a larger part of vitamins
+that so you can decorate the technologies
+that only customer software which is
+possible and I'll guess I'll take a closer
+look if you're looking for a rear bumper for
+liability and argues
+
+105
+00:18:32,336 --> 00:18:40,224
+11 is just a solution free where you looking
+it has both monitoring and system alert now
+get us off his analytical insights
+
+106
+00:18:40,341 --> 00:18:45,988
+add your devicedevice coronavirus Brazos in
+Cornelius Naga City tomorrow afternoon
+services at Wes's
+
+107
+00:18:46,382 --> 00:19:25,344
+Nargis features I sing I sing it was
+initially arrested May 28th 2009 that's why
+I never heard of it and undergone many
+updates and upgrades at most functional
+missile over the years Bowser's projects
+gain massive fan base in Montgomery Fanatics
+and it is functionally that you would expect
+to find only in an expensive Enterprise
+solution I think he uses a similar series of
+plugins and add-ons and I guess that's what
+I was talking about and that is because I
+think it began Life as a broken record for
+Nadia's although some would argue that this
+thing has become a mature and stable enough
+to be on his own a single operates through
+several different modules namely a
+single-core any I singer
+
+108
+00:19:25,472 --> 00:19:31,809
+I need to go on stage I forgot I need to go
+on stage with Discord just give me a second
+
+109
+00:19:39,855 --> 00:19:46,799
+okay so I think operates three different
+modules name in a single-core on the icing
+user interface
+
+110
+00:19:47,250 --> 00:19:54,522
+user interface is available as a visual
+interface and as a command interface
+
+111
+00:19:57,962 --> 00:20:21,881
+I think I managed to retain compatibility
+with then I guess in some ways it can even
+use the cnrp remote plug an Executor ass and
+remote systems Winery tool on all my single
+offers all the essential functionality that
+moment expecting a scalable feature-rich
+monitoring solution and the community offers
+a lot of support material information help
+you get started for him or any support you
+can request a quote for here
+
+112
+00:20:23,074 --> 00:20:44,447
+zabbix vs. nagato is obvious according to
+Alternatives that I owe was was Isaiah was
+higher in popularity than obvious as the top
+alternative to I think a so I'm just trying
+to get a lay of the land here what are the
+main differences even have to open this when
+are graphene is a table
+
+113
+00:20:45,374 --> 00:20:49,662
+before you go God
+
+114
+00:20:52,092 --> 00:20:59,310
+do I get her ego Nadia's versus cacti
+comparison somebody in this chat and mention
+cacti
+
+115
+00:21:02,139 --> 00:21:09,339
+so much time spent in there yeah most of us
+have right I feel like more of you
+
+116
+00:21:11,376 --> 00:21:16,617
+okay so stop Express is not guess what are
+the main differences
+
+117
+00:21:16,764 --> 00:21:22,302
+and I guess and I seem to have all of the
+same things
+
+118
+00:21:22,343 --> 00:21:33,084
+icmp SNMP deviously Modern Hardware
+monitoring Webster laundry actor-director
+alerts reporting Graff small are smart
+device to the game
+
+119
+00:21:35,362 --> 00:21:41,970
+everything about these solutions that there
+is definitely room for customization
+Treasure Trove of plugins
+
+120
+00:21:41,971 --> 00:21:45,713
+pill for small-scale businesses companies
+have save money
+
+121
+00:21:45,742 --> 00:21:50,441
+having a free monitoring tools such as I
+think is a good way of your small business
+
+122
+00:21:50,441 --> 00:21:54,448
+now I guess it was support as part of the
+package
+
+123
+00:21:54,449 --> 00:22:15,250
+this makes sense if your services pay for
+product can give you the support when you
+need it can be a valuable so you can't pay
+for an enticing I guess actually no download
+its wavefunction version August run for 60
+days and this is I did not know nobody else
+is proprietary I don't know where I miss
+that both of these projects give you vision
+
+124
+00:22:15,252 --> 00:22:44,693
+and today's stuff you need I will come down
+and went to which of these two pieces of her
+fits your better if you had to pick one and
+probably nagas 11 just for the fact that is
+such a reputation in this tree I've heard so
+many great features of the boss connection
+support when is proprietary that there is a
+lot of looks like about both these products
+not going to offer support and maintenance
+plan to meet your budget August Licensing
+Spokane to be here and I'll fuck that I
+thought was pretty good right up so
+
+125
+00:22:44,696 --> 00:23:20,640
+see what else how do you say sing it to
+monitor your services Services entering a
+single till that next ocean Bay. Anytime you
+find any blogs on digitalocean make sure to
+read them because digitalocean pays their
+bloggers for their contributions and they
+get really Kick-Ass great stuff I cannot
+tell you I have been so impressed how to use
+a singer to monitor you have a pay
+independent blockers for high quality
+content
+
+126
+00:23:21,905 --> 00:23:27,884
+they tend to be better than everything else
+your servers
+
+127
+00:23:28,851 --> 00:23:35,464
+and services yeah I'm not interested
+
+128
+00:23:39,005 --> 00:23:46,175
+yeah it'll be dealt and that's never going
+to be in the colonel it'll be you know that
+right
+
+129
+00:23:46,626 --> 00:23:54,670
+they openly stated emphatically rust will
+never be in the colonel it will maybe be
+supported for drivers
+
+130
+00:23:55,018 --> 00:24:02,821
+so stop saying it's going to be in the
+colonel to lie that's in Spring Boot and
+Alternatives not working on that right now
+
+131
+00:24:05,741 --> 00:24:10,630
+Kevin Love workout informations area liver
+yesterday
+
+132
+00:24:11,075 --> 00:24:18,366
+terraform we we decided you can't have
+terraformed without a cloud and so I got
+bigger into work instead
+
+133
+00:24:18,887 --> 00:24:24,705
+Easy Lover and that's why we drink today is
+because that's what it's designed to do
+
+134
+00:24:26,854 --> 00:24:28,826
+drivers are not carnal code
+
+135
+00:24:29,466 --> 00:24:54,067
+yeah they're not in their mind probe into
+the colonel that that's not Colonel Cody
+sorry no but you can't convince me otherwise
+you can try drivers do not count let most of
+the stuff is is that we use everyday is a
+driver I get it it's pretty damn close to
+the colonel I definitely calls into the
+colonel directly but it is not strictly
+speaking it is not Colonel code
+
+136
+00:24:54,832 --> 00:25:05,995
+a very specific targets protocol find to
+change the graphics inside the map to make
+the right icons bigger so I had to download
+the source and take a seat file
+
+137
+00:25:05,996 --> 00:25:15,384
+did you ever doubt how did you do that when
+I get there I think they have a f support
+right so I think that was what was going on
+
+138
+00:25:16,682 --> 00:25:20,410
+all right so it's been and would you like to
+share the snow
+
+139
+00:25:21,779 --> 00:25:29,042
+how do you say sing the money or services
+are in Oracle 14 and a bun 24 can put on
+that's pretty oldest 2014
+
+140
+00:25:29,207 --> 00:25:33,468
+is it 2014 I guess that's kind of cool. Just
+me just been around for awhile
+
+141
+00:25:34,838 --> 00:25:41,689
+I mean I don't know if it's the wrong it's
+about all the other all right back to what I
+was doing I don't want to get too distracted
+
+142
+00:25:42,502 --> 00:25:49,307
+we need to get a ride so we need to go get a
+vagrant soon system up and running
+
+143
+00:25:49,521 --> 00:25:55,639
+we need install I'm going to South Central
+us on a VM using vagrant
+
+144
+00:25:56,144 --> 00:26:00,075
+with the other support
+
+145
+00:26:08,033 --> 00:26:10,942
+and see if any permits you
+
+146
+00:26:12,413 --> 00:26:17,625
+yeah that's another it's another terraform
+issues like the one that we had before
+
+147
+00:26:22,202 --> 00:26:29,701
+LaVergne telephone provider oh nice thank
+you
+
+148
+00:26:29,701 --> 00:26:32,726
+yeah Mission denied
+
+149
+00:26:35,562 --> 00:26:39,466
+Isis count diminished default
+
+150
+00:26:45,186 --> 00:26:48,269
+Ice Princess and miss you
+
+151
+00:26:54,583 --> 00:27:01,939
+yeah isn't issue is part of the liver
+configurations yet
+
+152
+00:27:03,082 --> 00:27:09,257
+does not mean you're an eraser this is that
+comment is really stupid
+
+153
+00:27:09,258 --> 00:27:12,370
+I don't want to get sucked into this right
+now
+
+154
+00:27:14,503 --> 00:27:18,191
+I just want to say thank you for posting to
+suffer
+
+155
+00:27:20,597 --> 00:27:23,843
+and it came is fine generated
+
+156
+00:27:24,499 --> 00:27:32,129
+I guess somebody wants to see it I'm just
+reading this little bit learning
+documentation
+
+157
+00:27:36,069 --> 00:27:39,367
+I started to see Lenox
+
+158
+00:27:40,908 --> 00:27:48,500
+Air France is a homeowner upset that this is
+exactly what it is actually not terraform
+doing this live bird doing that
+
+159
+00:27:52,597 --> 00:28:00,464
+and they were fix us known issue that
+farmers Hanley volumes from look for
+
+160
+00:28:02,941 --> 00:28:10,095
+Mexican singer of Liberty ISO doesn't change
+permissions it's a liver problem
+
+161
+00:28:14,929 --> 00:28:20,651
+I fix this problem with this
+
+162
+00:28:22,785 --> 00:28:30,069
+okay play mind if I work around is security
+driver none we did this
+
+163
+00:28:31,186 --> 00:28:33,574
+a system restart we did that very thing
+
+164
+00:28:38,736 --> 00:28:46,321
+double check that driver doesn't run I tried
+that and it didn't fix it unfortunately
+
+165
+00:28:51,026 --> 00:28:52,386
+delivered
+
+166
+00:28:54,142 --> 00:28:59,936
+I think we need to actually change the
+security driver equals then let me go check
+this another project but
+
+167
+00:29:09,090 --> 00:29:14,995
+when is it Lambert's
+
+168
+00:29:16,066 --> 00:29:17,450
+Kimu
+
+169
+00:29:25,097 --> 00:29:29,292
+week we had to change the the owners of the
+group ownership
+
+170
+00:29:33,690 --> 00:29:45,875
+the extra driver's license able as a result
+of a screwdriver exactly none is a special
+buy screwdriver can be set to that value in
+isolation but it cannot appear in a list of
+drivers
+
+171
+00:29:48,069 --> 00:29:51,273
+I mean I don't have a problem with it
+
+172
+00:29:54,042 --> 00:29:58,925
+that that I thought we did that one but just
+not at tour list of fixes
+
+173
+00:30:12,255 --> 00:30:17,620
+starts convert G
+
+174
+00:30:36,864 --> 00:30:40,821
+others have reported that
+
+175
+00:30:42,450 --> 00:30:45,166
+disabling the security was it
+
+176
+00:31:08,112 --> 00:31:11,912
+there's like a plethora of fixes for this
+
+177
+00:31:20,728 --> 00:31:26,631
+plethora would you say you have a plethora
+
+178
+00:31:27,724 --> 00:31:30,981
+when you say you have a plethora
+
+179
+00:31:36,309 --> 00:31:51,961
+I think this is an SE Lennox problem just
+might actually pop up now that we're using
+Cent OS for hosting because it has selinux
+on by default I've heard I have not use it
+ever so we're going to go get at
+
+180
+00:31:54,579 --> 00:31:58,505
+thank you for sending that suffer I'll go
+have a look at that
+
+181
+00:32:00,685 --> 00:32:06,052
+appreciate that I do want to get that
+
+182
+00:32:09,081 --> 00:32:16,922
+dashing Ben is there a liver Dash bin I
+didn't know there was a liver Dish been
+
+183
+00:32:21,258 --> 00:32:28,870
+I doubt there is none of the liver d think
+I'm
+
+184
+00:32:31,548 --> 00:32:35,726
+it is a part of a generation oh
+
+185
+00:32:44,515 --> 00:32:50,731
+I want disable default policy to create
+
+186
+00:32:51,224 --> 00:32:56,662
+what the hell it is very long
+
+187
+00:33:11,072 --> 00:33:14,513
+I don't know systemctl logging I got to go
+look it up
+
+188
+00:33:17,703 --> 00:33:20,163
+I checked the log it would have been a rose
+
+189
+00:33:21,951 --> 00:33:27,095
+status is there an option to check full
+system D service on file with you let's go
+
+190
+00:33:29,599 --> 00:33:39,130
+journalctl is something I have never use
+it's it's relatively new to the admin tires
+just go to Vlog with
+
+191
+00:33:39,714 --> 00:33:47,674
+external seat l s u and I know I got really
+old semi skills really dated
+
+192
+00:33:50,542 --> 00:33:57,541
+Journal ctls you Len Birds d
+
+193
+00:34:09,659 --> 00:34:12,551
+a hostname to make a screwdriver
+
+194
+00:34:18,669 --> 00:34:24,271
+why isn't that one why is it rapping I don't
+understand
+
+195
+00:34:26,420 --> 00:34:31,482
+it should not be rapping and shouldn't
+
+196
+00:34:41,332 --> 00:34:43,817
+bubble bubble bubble
+
+197
+00:34:51,734 --> 00:34:53,297
+nice
+
+198
+00:34:56,099 --> 00:35:06,825
+how far is it to the policy to create
+confined guests
+
+199
+00:35:08,932 --> 00:35:16,769
+hope policy create can find guess and
+support a configuration security driver at
+model is not available
+
+200
+00:35:19,189 --> 00:35:27,003
+who's trying to do that I make sure I didn't
+kill my virt-manager
+
+201
+00:35:31,711 --> 00:35:34,108
+the vagrant default
+
+202
+00:35:36,422 --> 00:35:40,677
+Zoe got running
+
+203
+00:35:42,995 --> 00:35:49,586
+nothing like it weren't raining yesterday
+socially actually now it's use it later to
+Metairie
+
+204
+00:35:49,587 --> 00:35:58,188
+yeah we got we got a lot of stuff from
+yesterday that's nice right out the back
+that out but I don't see you now
+
+205
+00:36:01,505 --> 00:36:06,525
+I got to learn journalctl I have to do for
+that damn it
+
+206
+00:36:16,921 --> 00:36:24,555
+I guess I just do it's like a mandatory
+thing I know it is and I just again it's one
+of the many things that have to catch up on
+
+207
+00:36:26,709 --> 00:36:30,227
+which you know kind of came about because
+
+208
+00:36:33,654 --> 00:36:39,439
+if add to my list of notes
+
+209
+00:36:39,733 --> 00:36:50,531
+I think of what we're doing we're installing
+CV to get back I'll recommend resources for
+installing am I single so I can do my
+testing for work today
+
+210
+00:36:53,992 --> 00:36:57,508
+so yeah let's go back
+
+211
+00:37:02,631 --> 00:37:06,115
+where to go to
+
+212
+00:37:13,201 --> 00:37:21,003
+trying to decide whether we need to make a
+beacon fire or not for this probably do
+listen to it I think a bigger and file and
+then call down to
+
+213
+00:37:22,808 --> 00:37:29,566
+so just do that I don't remember a bigger I
+think it's bigger than it
+
+214
+00:37:35,011 --> 00:37:48,845
+now that's using its getting its give me
+this stuff right here because it's running
+as a Docker container which is the only way
+we can get it to work it's actually pretty
+fast to get it work that way and it includes
+delivered so far by the fault so I strongly
+recommend doing that
+
+215
+00:37:53,841 --> 00:38:01,332
+figuring files is a big ass any of this
+stuff we're going to do
+
+216
+00:38:01,889 --> 00:38:08,809
+I'm going to go here how can link and go
+look at my lips
+
+217
+00:38:09,911 --> 00:38:14,355
+I think I think it's generic sent to us but
+I don't know
+
+218
+00:38:17,098 --> 00:38:24,526
+Cento S7 what's the most recent version of
+sent to us
+
+219
+00:38:25,646 --> 00:38:28,621
+that was over a year ago
+
+220
+00:38:33,465 --> 00:38:39,203
+what's up in the sky actually Cent OS
+
+221
+00:38:40,803 --> 00:38:47,295
+generic centos7 yet let me see 18 days ago
+all right we got it
+
+222
+00:38:47,921 --> 00:38:53,653
+all right secrets
+
+223
+00:38:56,016 --> 00:39:01,550
+Cento S7 I think we need the rest of this
+
+224
+00:39:03,268 --> 00:39:08,317
+we need to vm's which I think we get by
+default
+
+225
+00:39:10,803 --> 00:39:15,197
+vagrants to CPU
+
+226
+00:39:22,014 --> 00:39:24,802
+I don't know how to do this stuff somewhere
+look it up real quick
+
+227
+00:39:28,367 --> 00:39:35,450
+customize 2
+
+228
+00:39:41,255 --> 00:39:43,417
+if I let me go
+
+229
+00:39:44,001 --> 00:39:50,192
+and provided does it have to be by the for
+the if you're running liver provider YouTube
+to the lines like this
+
+230
+00:39:51,991 --> 00:39:57,818
+as soon as I can. I have to find you have a
+lot to receive your new favorite machine
+editor file
+
+231
+00:39:57,883 --> 00:40:00,403
+I'm thinking about like this
+
+232
+00:40:00,906 --> 00:40:09,066
+is there is if you when you're slicing a
+banger by McPherson file for making a scrape
+on his details actual purpose of your family
+as described here
+
+233
+00:40:11,171 --> 00:40:13,466
+immigrants remarks
+
+234
+00:40:15,244 --> 00:40:20,007
+so you do have to do it
+
+235
+00:40:20,624 --> 00:40:24,718
+yeah you have to do it by by thing
+
+236
+00:40:34,226 --> 00:40:39,202
+liver fry can make me a provider memories of
+used to
+
+237
+00:40:39,247 --> 00:40:45,766
+what were the constraints kicking around two
+more cars
+
+238
+00:40:46,020 --> 00:40:51,695
+ticking around two more cars so that should
+work
+
+239
+00:40:53,986 --> 00:41:00,642
+ruby yeah I know I do like really I wish
+
+240
+00:41:01,052 --> 00:41:05,993
+wish we could use it more but I don't
+remember it I don't I do not remember it
+
+241
+00:41:09,937 --> 00:41:16,638
+so let's do that let's do vagrant
+
+242
+00:41:16,639 --> 00:41:22,820
+up and that should actually pull the boxes
+well
+
+243
+00:41:25,972 --> 00:41:28,736
+yay it's working
+
+244
+00:41:33,531 --> 00:41:38,699
+the too early for this probably
+
+245
+00:41:43,337 --> 00:41:47,783
+they just wake everybody up with your whole
+family up
+
+246
+00:41:49,360 --> 00:41:55,851
+I only killed my machine trying to run a
+video and a VM at the same time
+
+247
+00:41:56,673 --> 00:41:59,618
+play some I didn't crash
+
+248
+00:42:04,513 --> 00:42:12,357
+it's definitely hung that is weird Repose
+gray and yes please
+
+249
+00:42:13,499 --> 00:42:15,115
+that is so weird
+
+250
+00:42:20,104 --> 00:42:36,525
+I computer is not have a look at pump
+Alyssa's shit voice is really shit lately I
+am just going to say it like this it doesn't
+draw anything this is happened to just like
+every probably every 3 days has happened to
+me
+
+251
+00:42:37,528 --> 00:42:43,937
+and I beat my my workstation to death no
+doubt but still
+
+252
+00:42:45,117 --> 00:42:51,760
+I can't say that we have to reboot machine
+is ready
+
+253
+00:42:52,194 --> 00:42:55,527
+vagrants is ready I just can't see anything
+
+254
+00:42:59,636 --> 00:43:03,883
+Define I am going to pick you up from
+another terminal
+
+255
+00:43:04,679 --> 00:43:08,405
+I can't even add a new turn on cuz I can't
+fucking see anything
+
+256
+00:43:08,879 --> 00:43:12,981
+that's okay she'll right there and then we
+go to terminal fuck
+
+257
+00:43:16,059 --> 00:43:23,347
+pastry dough a new window new new window
+this is
+
+258
+00:43:24,573 --> 00:43:30,570
+and look it works then what's your full
+screen this guy
+
+259
+00:43:31,746 --> 00:43:36,755
+hey I got it back yay God dammit still a
+fucked up.
+
+260
+00:43:38,013 --> 00:43:40,537
+Do we know when the salmon don't lie is it
+
+261
+00:43:41,734 --> 00:43:48,584
+I don't know I have been using it look it's
+crashed on me at least four times as you
+steam
+
+262
+00:43:49,540 --> 00:43:51,926
+is he doesn't even approve thing
+
+263
+00:43:52,234 --> 00:44:03,558
+hey by the way sister is it might be I'm
+running out I mean there's a bunch of
+distros are the standard workstation for
+gaming and everything like that so
+
+264
+00:44:03,559 --> 00:44:06,836
+I'm seriously thinking about going back to
+Linux Mint though
+
+265
+00:44:08,354 --> 00:44:18,844
+Vince I don't know why I don't want to lose
+all my gaming everything too so I promise
+I'm not going to do anything to the truth
+cuz I want to store my games and stuff but
+
+266
+00:44:19,058 --> 00:44:24,640
+I'll just complain forever right we have our
+machine up now so
+
+267
+00:44:24,982 --> 00:44:29,546
+researches going to show us our machine
+
+268
+00:44:36,229 --> 00:44:44,612
+that was status what does it list and every
+go so we have a lot of things that we have
+allowed vagrant to fault
+
+269
+00:44:44,943 --> 00:44:51,464
+remember Phil are probably take down for cuz
+these things are heavy
+
+270
+00:44:52,284 --> 00:44:58,377
+let's do that vagrants I want to see verse
+
+271
+00:45:00,304 --> 00:45:06,521
+Holts hello what is it
+
+272
+00:45:07,642 --> 00:45:14,376
+I don't know her ass for real I got to learn
+it it halter stop or something
+
+273
+00:45:17,205 --> 00:45:23,043
+I meant all the things ever gave me
+
+274
+00:45:23,043 --> 00:45:27,268
+I know my jarosz shit I will never use it
+
+275
+00:45:27,268 --> 00:45:38,742
+it's the only distro that's bricked my
+entire fucking lab I felt ever ever use it
+not to mention their commute the people that
+run in absolute Crooks
+
+276
+00:45:39,367 --> 00:45:45,565
+corporate perks of the worst kind yeah I
+will never touch my girl
+
+277
+00:45:45,867 --> 00:45:51,066
+hey I love you please my job but it's too
+bad she bad I feel sorry for you
+
+278
+00:45:51,641 --> 00:46:01,208
+like people getting caught in using my
+drawers are first thing because I'm told you
+it's run by corporate Crooks who got a full
+marketing system going on
+
+279
+00:46:05,737 --> 00:46:24,499
+is that why your Papa's going to Papa's to
+get somebody suggested last year 2 years ago
+and it just worked and it got rid of all the
+you if I issue the beginners were having and
+that means did not do well and because they
+did some cool stuff at the low-level and now
+they're just doing too much cool stuff
+
+280
+00:46:24,502 --> 00:46:41,835
+I don't want to like electrical stuff
+they're doing like trying to read right
+though fucking desktop and rust how fucking
+stupid do you have to be to rewrite
+something that already works at supported by
+an entire Community for more than a decade
+just cuz you want to rewrite it and rust
+good luck with that spend all of your
+
+281
+00:46:40,557 --> 00:46:48,199
+all of your money on that what a great
+decisions system76 goodbye
+
+282
+00:46:49,162 --> 00:46:55,257
+yeah it's like it sounds like a fun project
+just not necessary
+
+283
+00:46:55,501 --> 00:47:48,755
+whoever is whoever is running the technology
+over there doesn't have a fucking clue
+forget my system 76 bunch of shit if I just
+blew it they don't whoever's going to spend
+all the HR money because people are the most
+expensive thing on rewriting an entire
+fucking desktop that already just works you
+only got three or four options out there why
+not get behind one of those instead of
+rewriting the whole fucking think the
+problem with system76 is there starting to
+get successful and so they're starting to
+not give a shit about their users or they
+could do instead keep this from happening
+but they fix their fucking another going to
+show this is the reason we need to rewrite
+it because this is no problem and I can't
+read anything at all the menus or fucked up
+and blah blah blah blah blah blah blah they
+could have contributed to fix this issue but
+instead they won't they could have not
+gotten rid of my search ability from from
+here
+
+284
+00:47:48,762 --> 00:48:05,437
+without having to click on applications and
+had to just work they cannot just stop
+fucking around the desktop and listen to the
+user that they don't want him anymore
+because he's getting big system 76 getting a
+big head and they're starting to make a
+bunch of stupid ass decisions you don't
+believe me ask Line-X does Linus Tech tips
+
+285
+00:48:06,146 --> 00:48:13,028
+oh that would never happen in Rust yeah
+
+286
+00:48:13,249 --> 00:48:15,968
+built-in protection
+
+287
+00:48:15,968 --> 00:48:24,238
+okay it's never a good idea to rewrite an
+entire thing just because it has a couple
+bucks
+
+288
+00:48:24,833 --> 00:48:32,269
+I do it all the time it's still not a good
+idea good for me the X-Men I will never
+change you to act like
+
+289
+00:48:32,269 --> 00:48:37,281
+all right so back to something useful
+
+290
+00:48:40,377 --> 00:48:47,571
+unable to watch The Watcher plasma screen TV
+Guide
+
+291
+00:48:50,369 --> 00:48:55,866
+keep my screen key doesn't work now are
+there we go again
+
+292
+00:48:57,546 --> 00:49:07,352
+it's let's go alright so we did it ya a team
+I wasn't too fast too long much time you got
+
+293
+00:49:08,291 --> 00:49:10,219
+everything going
+
+294
+00:49:24,280 --> 00:49:26,303
+pina colada
+
+295
+00:49:30,874 --> 00:49:46,769
+all right so it's all right to course around
+we just did and we we we provisioned with a
+couple lines of vagrants so I'm happy
+
+296
+00:49:47,486 --> 00:49:58,029
+okay we need to have from his second Apache
+web server am I supposed to be a base so
+what I want to know is if they want the
+Apache web server to be on its own system
+
+297
+00:50:01,346 --> 00:50:05,039
+I feel like the answer to that is yes
+
+298
+00:50:12,592 --> 00:50:22,161
+I kind of want to make a an ansible roll it
+brings up the patchy why do you have to have
+a patchy can't we use nginx
+
+299
+00:50:23,667 --> 00:50:32,053
+as his representative patch I'm serving my
+schedule a fucking hate my Askew all we need
+is postgres and nginx
+
+300
+00:50:33,736 --> 00:50:37,888
+I mean if it can't run on the same system
+
+301
+00:50:43,434 --> 00:50:50,808
+can I want to do this with the with ansible
+I know there's an ansible rule for putting
+nginx on there
+
+302
+00:50:51,453 --> 00:50:53,620
+yeah
+
+303
+00:50:55,915 --> 00:51:15,880
+read that either way I said it came in a
+razor yeah I think it means a get the
+machine running and then put these things on
+the machine I think that's what it means or
+not Apache is the will gobble up all tickets
+around like immediately it's fucking memory
+hogeye Minister that for years
+
+304
+00:51:17,090 --> 00:51:21,515
+I'm I'm I don't know if we're going to
+figure this out
+
+305
+00:51:24,984 --> 00:51:31,968
+this is really a good opportunity for me to
+learn how to use it ansible and like do the
+do the provisioning yeah
+
+306
+00:51:33,076 --> 00:51:38,736
+you probably need to include a single.
+Confident that you know, yeah I don't know
+what's going on and see
+
+307
+00:51:40,259 --> 00:51:46,420
+Mexican sauce thing that used to sing about
+just play it again I single
+
+308
+00:51:46,846 --> 00:51:53,017
+is it there is there an as well provider for
+Apache web server I bet there is
+
+309
+00:51:54,274 --> 00:51:58,701
+are using a single 0 10 x but it's a good
+too
+
+310
+00:51:59,188 --> 00:52:03,606
+I got using a single though so it's what I
+want to make sure we have any dependencies
+here
+
+311
+00:52:04,872 --> 00:52:15,248
+yeah I did I read I brought my stress and a
+singer in the sunplate I mean and nginx in
+someplace else I just don't think it's in
+this particular tutorial
+
+312
+00:52:16,261 --> 00:52:22,301
+yeah the comedian thank you for that convey
+
+313
+00:52:24,263 --> 00:52:29,950
+recommendations Sentosa patchy watch over my
+child there to give his recommendations
+
+314
+00:52:30,398 --> 00:52:37,245
+I saw a single web so I think that's it I
+saw a single Heaven instead of saying it to
+
+315
+00:52:38,285 --> 00:52:43,371
+I send it to get the director game hey hi
+
+316
+00:52:43,609 --> 00:52:49,699
+so let's go get is there an ansible role to
+install
+
+317
+00:52:49,864 --> 00:52:56,513
+I know I'm I've never done it so don't laugh
+ansible
+
+318
+00:52:57,388 --> 00:53:05,166
+install engine it's got to be and an x on
+with vagrants
+
+319
+00:53:07,843 --> 00:53:14,960
+there's a Playbook this place is everything
+as well
+
+320
+00:53:16,604 --> 00:53:22,606
+animal playground Andrea shoes ansible
+
+321
+00:53:23,394 --> 00:53:29,658
+and the reason as well so I just spoke to
+her Ash Wednesday services
+
+322
+00:53:30,617 --> 00:53:37,027
+video streaming down with vagrants managex
+as long as you so I can figure
+
+323
+00:53:38,208 --> 00:53:41,427
+out of commission is extra figurines
+
+324
+00:53:45,192 --> 00:53:48,094
+I mean let's go read it
+
+325
+00:53:50,302 --> 00:53:54,091
+Hey look it's not even doing my terminal
+properly now
+
+326
+00:53:55,823 --> 00:54:00,311
+hopeless I'm telling you dude pop OS has
+gone to shit
+
+327
+00:54:05,168 --> 00:54:11,106
+a razored edge X let's go to little bit
+further
+
+328
+00:54:11,107 --> 00:54:18,739
+30 Vigor environment did it bigger than its
+nipple
+
+329
+00:54:21,118 --> 00:54:28,601
+as you can see in the trees haven't even
+make you some blah Lenox of course yes
+
+330
+00:54:28,601 --> 00:54:34,802
+welcome and have a vagrant system
+highlighting the vagrants if I was writing
+Ruby
+
+331
+00:54:34,803 --> 00:54:38,049
+a material theme why
+
+332
+00:54:39,006 --> 00:54:46,469
+oh my God. Jesus yell provisioner
+
+333
+00:54:48,467 --> 00:54:55,310
+to have the test, so I can take something
+for something for us
+
+334
+00:54:55,312 --> 00:54:59,792
+when you find a message this one I'll just
+make it to the shell script
+
+335
+00:54:59,946 --> 00:55:05,573
+he's a shell provisioner that seems like
+cheating
+
+336
+00:55:05,573 --> 00:55:10,501
+I'm selling it and since I think I'm talking
+to it over rest
+
+337
+00:55:11,155 --> 00:55:18,210
+a divorce in a single yes please that might
+be the one
+
+338
+00:55:18,210 --> 00:55:23,258
+how to Shell how to shell script install an
+STI Singa
+
+339
+00:55:23,295 --> 00:55:26,690
+we just had your apps install
+
+340
+00:55:27,889 --> 00:55:31,659
+they gave us of our finding work yes
+
+341
+00:55:31,660 --> 00:55:51,657
+an original Up is on this telecast including
+all the warnings and chunky chunky Chompie's
+in one who got it to work because he had had
+the same problem before are they I don't
+know what they are they and got it to work
+before confirm the file is correct bigger
+notes
+
+342
+00:55:51,659 --> 00:56:02,043
+so this actually is just a song nginx like
+from the command line using the Shell
+provisioner which I did not know you could
+do Indigent I mean it's cheap and dirty way
+to do it when
+
+343
+00:56:00,558 --> 00:56:04,966
+the way to do it when you don't want to fuck
+around with
+
+344
+00:56:07,442 --> 00:56:12,654
+you know I mean that's just like a cheap and
+dirty way to do it without without fucking
+raw with ansible
+
+345
+00:56:13,115 --> 00:56:23,438
+well I mean it's why he's bigger I have it I
+get to sense there's a lot of overlap
+between Vega and Turner forum and its
+ability to make it install and do shit
+that's not designed to do that was one
+example
+
+346
+00:56:29,301 --> 00:56:34,790
+set up for forwarding configure Network
+440-8280
+
+347
+00:56:35,564 --> 00:56:51,953
+it means that we can browse to on your way
+soon as your server you never forwarded
+Portage s a t o c a t a t i n g Nikes with
+this change we should be able to launch a
+browser and see the engine x with a right
+away
+
+348
+00:56:55,620 --> 00:56:58,602
+Jay Anthony time you change a bigger file
+
+349
+00:57:01,351 --> 00:57:05,788
+and the first machine is already running
+you'll need to run a vagrant reload
+
+350
+00:57:05,923 --> 00:57:11,601
+as a thing bigger reloaded the thing I did
+not know this
+
+351
+00:57:13,000 --> 00:57:19,262
+yep vagrants I know I went from being a
+hater on it to loving it
+
+352
+00:57:22,893 --> 00:57:28,832
+configure game. For minor shell
+
+353
+00:57:31,280 --> 00:57:34,244
+I'm going to have to do an apt update I
+would think
+
+354
+00:57:37,662 --> 00:57:39,419
+I don't think
+
+355
+00:57:47,814 --> 00:57:55,008
+yep that way that way that's a config
+vagrant config 2
+
+356
+00:57:55,430 --> 00:58:03,096
+do is fig. VM
+
+357
+00:58:03,803 --> 00:58:09,094
+provision Shall Pass provision. Sh
+
+358
+00:58:18,320 --> 00:58:26,252
+Crystal scripture telling me it's that easy
+it's like a Docker file
+
+359
+00:58:26,619 --> 00:58:28,877
+it's like a Docker file
+
+360
+00:58:34,126 --> 00:58:41,455
+I think I can actually just run it I can
+take that damn provision she'll path
+
+361
+00:58:41,455 --> 00:58:48,869
+is really it holy cow a super cool
+
+362
+00:58:49,728 --> 00:58:54,385
+pig perfume for vision
+
+363
+00:58:56,379 --> 00:59:00,941
+shell pass
+
+364
+00:59:02,689 --> 00:59:08,178
+vision it seems like cheating
+
+365
+00:59:13,686 --> 00:59:15,876
+I mean
+
+366
+00:59:21,620 --> 00:59:27,936
+provision Ash on
+
+367
+00:59:30,755 --> 00:59:36,927
+I can't touch my update I feel like I'm
+running a Docker file for God sake
+
+368
+00:59:37,032 --> 00:59:42,312
+Afghan that's why it stall
+
+369
+00:59:42,312 --> 00:59:47,090
+nginx and wanted posters on there
+
+370
+00:59:49,823 --> 00:59:53,739
+service engine start no
+
+371
+00:59:55,027 --> 00:59:58,296
+no it's just a c c l
+
+372
+00:59:59,248 --> 01:00:06,685
+i don't know actually you know the stew
+let's see if we can get this work
+
+373
+01:00:06,907 --> 01:00:13,883
+this time actually it's going to start
+automatically Anixter Saint Michael
+
+374
+01:00:13,883 --> 01:00:20,412
+how do you say what is a plus for us install
+I think it's
+
+375
+01:00:21,228 --> 01:00:24,477
+I think it's I want to say
+
+376
+01:00:28,149 --> 01:00:31,035
+happy tea
+
+377
+01:00:37,043 --> 01:00:43,324
+Sommer Ray oh God went the other day be in
+pages
+
+378
+01:00:44,145 --> 01:00:51,663
+yep it's very that postgresql well let's try
+it
+
+379
+01:00:56,909 --> 01:01:04,482
+vagrant what did I say I think it's a Reload
+
+380
+01:01:07,549 --> 01:01:12,667
+at the bottom here vagrants
+
+381
+01:01:15,884 --> 01:01:17,257
+reload
+
+382
+01:01:20,131 --> 01:01:26,987
+I don't know what's going to do or is he
+still shut down at the end God damn this is
+cool
+
+383
+01:01:27,649 --> 01:01:32,490
+is it really fucking cool hey how are you
+
+384
+01:01:37,954 --> 01:01:44,681
+wow Let's go over here
+
+385
+01:01:47,457 --> 01:01:54,112
+my route status
+
+386
+01:01:54,803 --> 01:01:59,721
+nginx that doesn't make me happy
+
+387
+01:02:03,652 --> 01:02:07,166
+God damn it I just don't think it ran it
+
+388
+01:02:09,221 --> 01:02:14,655
+by the way my weight machine already
+provision run vagrant provision to use the
+provision
+
+389
+01:02:15,625 --> 01:02:22,239
+prisoners March run always will still run I
+think I missed something here
+
+390
+01:02:22,827 --> 01:02:26,994
+or make or a Jackson make the changes to
+take it back to a ha
+
+391
+01:02:29,881 --> 01:02:37,378
+fragrance risen shit
+
+392
+01:02:38,127 --> 01:02:43,257
+we talking about oh it's red at it's red hat
+
+393
+01:02:43,869 --> 01:02:55,266
+I feel really stupid in a long time I
+provision redhead server
+
+394
+01:02:56,255 --> 01:03:06,398
+since I worked at I am I'm not even kidding
+this is the first time I've ever seen a
+redhead server in since 2012
+
+395
+01:03:06,414 --> 01:03:19,124
+it has been 10 years since I've been there I
+don't even know you at all
+
+396
+01:03:19,718 --> 01:03:22,401
+no is a million things wrong here
+
+397
+01:03:22,782 --> 01:03:32,440
+so let's let's see if I can actually do it
+for the command line this is probably the
+bad day to choose to do this with redhead
+but whatever
+
+398
+01:03:32,441 --> 01:03:35,362
+I need to get my red hat skills back up
+
+399
+01:03:35,464 --> 01:03:41,128
+I do I am I am not my redhead is not any
+good
+
+400
+01:03:43,523 --> 01:03:51,897
+but young shit I haven't done it young man I
+haven't had in 20 years
+
+401
+01:03:52,153 --> 01:03:58,075
+yeah I know usually but not always update
+
+402
+01:03:59,776 --> 01:04:01,994
+sudo yum
+
+403
+01:04:02,702 --> 01:04:09,184
+all I seem to be working
+
+404
+01:04:10,282 --> 01:04:12,203
+all right
+
+405
+01:04:23,518 --> 01:04:29,049
+is this okay do you think that's okay no
+
+406
+01:04:30,722 --> 01:04:36,088
+I want to try I try my provisioning again
+
+407
+01:04:36,874 --> 01:04:41,080
+vagrant
+
+408
+01:04:41,344 --> 01:04:45,604
+start a Skype vagrant provision
+
+409
+01:04:47,671 --> 01:04:54,087
+oh hey look at looks happy Alex happy
+
+410
+01:04:54,234 --> 01:05:01,256
+it's green that's good right well football
+scouts a first person or two
+
+411
+01:05:01,742 --> 01:05:06,795
+all right that was some serious happiness
+
+412
+01:05:07,365 --> 01:05:12,232
+if he wants to know where the questions
+needed what's needed
+
+413
+01:05:14,710 --> 01:05:22,472
+and that's why oh yeah that's why I've
+always needed I'm pretty sure it's the only
+needed do I need an apt
+
+414
+01:05:23,425 --> 01:05:25,462
+and if it's needed for r.e.m.
+
+415
+01:05:26,455 --> 01:05:37,176
+so that would be a difference between the
+two definitely if that's true I feel good I
+feel like I feel kind of proud
+
+416
+01:05:38,213 --> 01:06:22,193
+how safe will to do that in one command I
+mean come on this is why I spent three days
+busting my head on ki-moon KVM vagrant
+terraform ansible and all this shit because
+even if your community's person you still
+need to bring shit up fast to do testing and
+to do things so you still need to be an
+infrastructure engineer the reason my job
+description says we don't just want devops
+Engineers is because they need people that
+know how to do this other stuff and it's
+been a while since I've done that so I'm
+it's good that I'm updating speaking of work
+I'm reading our stand-ups which is over
+nothing in the stand up
+
+417
+01:06:22,229 --> 01:06:30,963
+if it's deaf people advised up on time all
+working hard I am going to try my hardest to
+work a regular nine-to-five
+
+418
+01:06:31,765 --> 01:06:33,367
+session
+
+419
+01:06:38,033 --> 01:06:53,756
+so because I just feel like it's a better
+thing to do with my work environment because
+they work 9 to 5 or 4 or so so I'm actually
+going to try really hard to maintain a
+traditional work schedule I'm going to try
+to drop my bimodal sleep schedule
+
+420
+01:06:53,757 --> 01:07:06,150
+because it's more important that I'm
+available for work that it is that my sleep
+work better I could probably still do
+bimodal it just means I'll have to go to bed
+as soon as I get out of work
+
+421
+01:07:08,419 --> 01:07:16,949
+so I don't know if you got up you don't know
+what I'm talking about and go back and read
+my by modal sleep.
+
+422
+01:07:17,175 --> 01:07:35,544
+All right so so so so so so so so I have a
+provision thing I'm going to set up walk
+around and get a little bit more decaf
+coffee and I think I lost another job as
+soon as I already so yeah for sure no do a
+pincher yeah well
+
+423
+01:07:35,754 --> 01:07:37,999
+so so yeah
+
+424
+01:07:38,000 --> 01:08:09,836
+there's one thing that stopped me sleep
+exactly one point where the problem with
+sleep for me is is having to be at a
+consistent time frame schedule that is super
+hard for me I don't operate that way and
+I've I've I've I've pulled back on the
+alcohol alcohol and caffeine or the things
+that will fuck your sleep up there more than
+anything else that those two things actually
+really disrupt your sleep so I was doing
+both so I pulled back on the caffeine today.
+Must not have went to bed early instead of
+playing with her and tell God awful early
+hours in the morning
+
+425
+01:08:11,110 --> 01:08:21,946
+but I know we're going to we're going to
+find out no promises no promises but you can
+let my body do its thing I'll see when I get
+back to doing yoga in the morning and that I
+miss it a lot actually
+
+426
+01:08:22,111 --> 01:08:28,522
+while there's a big old thread going on
+about replacing go that's cool so
+
+427
+01:08:28,927 --> 01:08:38,933
+I mean I'm surprised at how fast it was it
+when we definitely got it up we got we got
+it we got the new provision do we got to
+here
+
+428
+01:08:38,935 --> 01:08:41,421
+we got to hear
+
+429
+01:08:41,421 --> 01:08:48,561
+in an hour so that's really great that took
+us about an hour to do all that so that was
+you cuz of vagrant
+
+430
+01:08:50,543 --> 01:09:22,207
+install a single configure I seen her she
+looks okay I'm going to set up make some
+coffee come back and we're all ready to go
+we're going to do the eye thing is so now if
+everything goes well I'll have it done by by
+noon I'll have I seen a completely installed
+by newest are playing with it for this
+afternoon and I need to write a rest API
+query to talk to it and I need to figure out
+what I want to do that with curl or because
+I need to report I may be something in my
+running go on and we'll see
+
+431
+01:09:23,518 --> 01:09:32,698
+nothing for the afternoon so the afternoon
+if you want to see me codeine alerts that
+are going to send off a single messages
+
+432
+01:09:32,698 --> 01:09:43,512
+that's going to be this afternoon I need to
+I need to get Cooper days to go fishing if
+we don't have that many Cube nevermind I
+forgot
+
+433
+01:09:43,513 --> 01:09:46,046
+I'm going to take a break
+
+434
+01:18:14,685 --> 01:18:20,254
+that way when you eat your head gets cold
+Amazon
+
+435
+01:18:20,753 --> 01:18:25,137
+blood leaves your body I guess go to your
+stomach
+
+436
+01:18:30,269 --> 01:18:33,211
+DeKalb most anybody worry
+
+437
+01:18:40,367 --> 01:18:43,864
+all right my God is so good
+
+438
+01:18:52,116 --> 01:18:57,441
+so good coffee is good when it's asleep
+snowing outside
+
+439
+01:19:01,047 --> 01:19:07,322
+I feel good but not just coffee cuz decal
+let's do this
+
+440
+01:19:07,958 --> 01:19:11,406
+how's it going at show welcome
+
+441
+01:19:17,482 --> 01:19:22,264
+so what's up you're too young to remember
+that
+
+442
+01:19:22,884 --> 01:19:26,358
+Allah
+
+443
+01:19:32,168 --> 01:19:33,962
+I definitely mean
+
+444
+01:19:43,433 --> 01:19:49,019
+my head is cold Brioni
+
+445
+01:19:50,270 --> 01:19:55,187
+Biryani I keep saying Brioni cuz I'm
+dyslexic
+
+446
+01:19:56,958 --> 01:19:58,440
+cornholio
+
+447
+01:20:00,418 --> 01:20:05,755
+I know this is not a fashion statement it's
+just cuz my fucking head is freezing
+
+448
+01:20:08,939 --> 01:20:15,632
+listen to the fashion statements about
+against his butt or into comfortable head
+
+449
+01:20:17,769 --> 01:20:26,414
+oh God we got we got like 45 in like 2 days
+ago it's almost all melted though cuz it's
+North Carolina
+
+450
+01:20:32,065 --> 01:20:38,467
+so far so good stop for Santa
+
+451
+01:20:40,415 --> 01:20:45,772
+Electronics Arduinoyou know what oh my God I
+want that
+
+452
+01:20:48,920 --> 01:20:50,484
+I want that
+
+453
+01:20:52,023 --> 01:21:01,296
+I wasn't doing what was we doing what was we
+doing for the english-speakers out there
+that is not English when I just said
+
+454
+01:21:07,601 --> 01:21:09,736
+I've shipped my teeth and Fall Guys
+
+455
+01:21:10,641 --> 01:21:21,684
+I used to care about how I look Downstream
+now it's like fuk I don't care I said I
+still like watching a I was considering day
+I like watching a you like really didn't
+give a shit in like
+
+456
+01:21:22,793 --> 01:21:29,708
+and I was like wearing a cop going to give
+it and now it's like I don't give a shit I
+just put Matthew
+
+457
+01:21:29,949 --> 01:21:35,049
+I don't care I don't care it's probably
+normal anyway
+
+458
+01:21:35,343 --> 01:21:41,998
+we have a system that is up and running
+ready to take izinga and
+
+459
+01:21:42,561 --> 01:21:50,456
+was I single as we said I think that is a
+monitoring system comprable to nagios came
+from. I guess
+
+460
+01:21:53,737 --> 01:21:59,998
+and that is all X Elizabeth this line of
+reconfigure your network in here shall we
+
+461
+01:22:01,307 --> 01:22:08,472
+it's certainly not going to hurt hey
+
+462
+01:22:08,802 --> 01:22:12,169
+hamdog oh God
+
+463
+01:22:12,169 --> 01:22:19,607
+when is your name scumdog Rascal what a name
+what a name that is
+
+464
+01:22:22,880 --> 01:22:28,954
+what I should say I should yell at because
+it's capitalized
+
+465
+01:22:29,906 --> 01:22:32,538
+what does
+
+466
+01:22:33,088 --> 01:22:39,748
+a Russian one.
+
+467
+01:22:42,572 --> 01:22:50,212
+Host 8080 ID nginx
+
+468
+01:22:55,427 --> 01:22:58,437
+on investing work should we try it
+
+469
+01:23:04,713 --> 01:23:13,198
+somebody's using the bathroom you can hear
+from here they couldn't provision
+
+470
+01:23:15,274 --> 01:23:19,185
+0111 is unhappy
+
+471
+01:23:27,643 --> 01:23:33,676
+I wish because if it was weird ass quotes in
+there that was weird
+
+472
+01:23:34,594 --> 01:23:36,454
+all right
+
+473
+01:23:37,715 --> 01:23:44,628
+Vigor from the docker file might be a little
+slower on Startup but it is so much more
+reliable
+
+474
+01:23:47,864 --> 01:23:55,777
+this is you don't run it all the time I mean
+like you know performacide nothing to do it
+says
+
+475
+01:24:00,044 --> 01:24:03,538
+Evelyn's place that's why I like speeds
+
+476
+01:24:06,538 --> 01:24:13,208
+vagrant reload mr. robot robot OST
+
+477
+01:24:13,417 --> 01:24:19,725
+Kelly Provost Mister roast
+
+478
+01:24:22,748 --> 01:24:28,984
+please mr. Candyman horsefly for
+provisioning
+
+479
+01:24:29,502 --> 01:24:37,453
+anyway I want to go to this that's what I
+should be doing right
+
+480
+01:24:45,227 --> 01:24:47,555
+hated it
+
+481
+01:24:52,730 --> 01:24:56,848
+there is 8280
+
+482
+01:24:56,848 --> 01:25:04,146
+wow I love egg right now I was so mad at it
+before now I love it
+
+483
+01:25:04,146 --> 01:25:06,946
+what else is new
+
+484
+01:25:10,406 --> 01:25:15,454
+enough of this page don't need anymore
+
+485
+01:25:15,455 --> 01:25:21,694
+definitely my thing my notes that's in my
+notes
+
+486
+01:25:26,266 --> 01:25:33,598
+you guys did Frank you approve I know you're
+Mister low-level device guy to prove that
+
+487
+01:25:44,818 --> 01:25:46,499
+call Wright cell
+
+488
+01:25:52,285 --> 01:25:59,802
+we have a current here ready to do anything
+oh yeah
+
+489
+01:26:00,508 --> 01:26:05,615
+if you think it's worth getting I might go
+buy it anyway I mean
+
+490
+01:26:07,482 --> 01:26:09,965
+who is Scott circus of shit in there
+
+491
+01:26:18,381 --> 01:26:22,753
+did you hear humblebums going away I heard
+somebody said that
+
+492
+01:26:32,501 --> 01:26:34,345
+do you like Alexa's or processing
+
+493
+01:26:43,527 --> 01:26:46,011
+offer ends in 20 days
+
+494
+01:26:49,963 --> 01:26:57,398
+I don't want that free email
+
+495
+01:26:59,848 --> 01:27:06,594
+create an account nope PayPal
+
+496
+01:27:13,470 --> 01:27:17,457
+I skis and buy another one more thing since
+Frank says is good
+
+497
+01:27:22,225 --> 01:27:28,385
+I bought a lot of books to read I'm going to
+be I don't know if I'm going to renew online
+or not
+
+498
+01:27:28,542 --> 01:27:37,335
+where you guys think it's kind of like a
+gray area copyright wise but I think it
+would be kind of fun to read through some of
+these books online together
+
+499
+01:27:39,627 --> 01:27:42,061
+would it be more valuable
+
+500
+01:27:42,644 --> 01:27:48,145
+I think we'll be fine as long as I told
+everybody else is a hey we're going to be in
+this book and go by after the burial
+
+501
+01:27:54,750 --> 01:28:04,904
+what's the country to see stuff on Saturday
+but like in my own time I got me to be
+reading it I bought all those ansible books
+that had 10 is suggested and I want to go
+read those
+
+502
+01:28:05,002 --> 01:28:15,813
+and so there is some that's why. He's the
+guy that guy wrote acordes book I don't know
+how good it looks going to be bumps going to
+be an excellent way to write my own of
+course
+
+503
+01:28:19,779 --> 01:28:21,828
+well that was easy
+
+504
+01:28:25,665 --> 01:28:27,946
+please try again soon
+
+505
+01:28:40,256 --> 01:28:47,026
+PayPal prefer balance wait
+
+506
+01:28:49,365 --> 01:28:54,363
+your payment is pending
+
+507
+01:28:55,865 --> 01:28:58,883
+looks like it's fine again
+
+508
+01:29:04,544 --> 01:29:09,580
+very eclipse or pants more closely hell
+right
+
+509
+01:29:13,470 --> 01:29:18,611
+God gave me you should about that one
+because it was like you might be getting
+owned
+
+510
+01:29:24,630 --> 01:29:30,213
+if I can be available on Linux that's what I
+heard that's what I read yeah
+
+511
+01:29:30,304 --> 01:29:34,789
+they deliberately sent out Noah next why the
+fuck would they do that
+
+512
+01:29:35,707 --> 01:29:45,443
+stupid that's why they think this could be
+safer on Mac and windows not it's not it's
+not going to be safer
+
+513
+01:29:46,311 --> 01:29:48,194
+dim
+
+514
+01:29:49,834 --> 01:29:55,350
+hurry back to what we're doing what what are
+we doing we were trying to
+
+515
+01:29:59,751 --> 01:30:05,282
+what what I want to hate if I buy The Humble
+stuff in and thenThe Humble stuff in and
+then all the sudden doesn't run on Linux a
+minute I got to be stuck
+
+516
+01:30:05,843 --> 01:30:09,859
+but I can barely even read it because I'm
+using Linux I'm going to pull my back out
+
+517
+01:30:10,483 --> 01:30:14,142
+I can do that I guess I have to do that now
+so that worried about it
+
+518
+01:30:14,349 --> 01:30:19,738
+I need to know that because if that's true
+I'm going to be like not buying stuff on
+humble anymore
+
+519
+01:30:20,104 --> 01:30:22,928
+ever so
+
+520
+01:30:24,647 --> 01:30:29,387
+like almost as a matter of principle don't
+want to spend a single dime over there
+anymore
+
+521
+01:30:29,653 --> 01:30:36,556
+because of that at such a dumbass decision
+maybe because I don't understand it
+
+522
+01:30:37,532 --> 01:30:49,102
+I wasn't I don't I've never bought anything
+from her but I don't know how they deliver
+the stuff to you the statement that they're
+going to make their own launcher makes me
+think that they're going to hide their stuff
+behind like a Kindle kind of situation
+
+523
+01:30:49,340 --> 01:30:53,051
+that PDF again then a fine
+
+524
+01:30:55,532 --> 01:31:04,654
+ultimately that's what I want to do I just
+want to add into my big PDFs collection and
+just call it a day and I want to fuck it up
+then yeah I got a USB with PDFs
+
+525
+01:31:08,665 --> 01:31:14,418
+I said is he library then probably I don't
+even know what that is
+
+526
+01:31:17,471 --> 01:31:24,117
+back to the task at hand we need to install
+Tysinger I'm going to follow the directions
+
+527
+01:31:26,684 --> 01:31:33,640
+what is this I just had to install stuff
+postgres what you don't need anymore
+
+528
+01:31:34,955 --> 01:31:41,456
+I saw a single web I need to install game
+
+529
+01:31:43,349 --> 01:31:47,116
+guess I was a single download installation
+course
+
+530
+01:31:49,155 --> 01:31:55,749
+well that's what I'm reading I'm reading I
+sing as anybody else but then other people
+say it's it's not being used that much and
+I'm like
+
+531
+01:31:55,891 --> 01:32:06,275
+I don't know I use it at work that's why I'm
+in footing on I would be inclined to use for
+me if he has instead but I'm not completely
+sure for me this isn't only an caretti SEC
+
+532
+01:32:06,407 --> 01:32:10,604
+because I haven't I haven't look deeply
+enough does anybody know
+
+533
+01:32:10,604 --> 01:32:17,644
+Prometheus is Prometheus and grafana are
+kind of like the modern thing
+
+534
+01:32:19,193 --> 01:32:25,313
+they still think he's well how's the car
+keys for you in a game nice
+
+535
+01:32:25,727 --> 01:32:27,520
+well
+
+536
+01:32:29,328 --> 01:32:36,674
+give me the full second reprise water
+solution for the installation course for a
+stressful start with a single visiting
+online demo
+
+537
+01:32:36,989 --> 01:32:41,869
+for first impression of you sing a s I like
+to try the demo
+
+538
+01:32:42,611 --> 01:32:45,883
+all the insulation course below
+
+539
+01:32:48,213 --> 01:32:53,471
+I can post a thing I thought about that but
+I don't know
+
+540
+01:32:53,471 --> 01:33:13,967
+I look like I'm going to do a VM I'm doing
+any VM I'm going to start using ATMs in
+general over darker because it's more real
+and I've already hit one situation where I
+need an actual device I can fill up the snow
+disc and and doctor would not have covered
+it
+
+541
+01:33:13,969 --> 01:33:25,087
+so I'm I it's funny because I know the
+beginning of the year people are saying why
+are you doing all of that in a container you
+can eventually needed device then they were
+right so
+
+542
+01:33:25,089 --> 01:33:30,444
+Mercedes New Relic now
+
+543
+01:33:30,444 --> 01:33:38,890
+follow this course to set my very own
+supposed to marry system from the any
+reminders or new tomorrow and learn about
+Monarch basics in
+
+544
+01:33:38,891 --> 01:34:14,019
+no I didn't say via VIA more Docker I used
+to set up I just I have a question,
+workspace container which I use a darker
+which I still do for Education stuff which
+is essentially you know everything you would
+know from the command line but it's not but
+you need to become a technician operations
+person you usually need to be up because
+you're you're trying to test the limits of
+systems and you're trying to break shit and
+you cannot break shit with darker bottom
+line I need to write that down and said
+create
+
+545
+01:34:14,023 --> 01:34:16,241
+you cannot
+
+546
+01:34:16,241 --> 01:34:28,037
+break shit with doctor I have come to the
+reality
+
+547
+01:34:28,037 --> 01:34:40,957
+that most of the development and operations
+testing requires me to stress systems to
+their
+
+548
+01:34:42,441 --> 01:34:45,279
+two again
+
+549
+01:34:46,030 --> 01:34:51,424
+better performance and monitor for
+
+550
+01:34:53,517 --> 01:35:00,987
+capacity situations well
+
+551
+01:35:01,575 --> 01:35:03,772
+most devil work yeah
+
+552
+01:35:04,182 --> 01:35:20,513
+well such things are simply unsafe to do
+with an emulated Linux system running within
+a Docker container
+
+553
+01:35:23,306 --> 01:35:30,489
+this includes development I have four things
+that
+
+554
+01:35:31,144 --> 01:35:36,464
+involve systems
+
+555
+01:35:39,220 --> 01:35:44,451
+at a lower level in the Enterprise
+architecture
+
+556
+01:35:46,929 --> 01:35:55,020
+filling a PVC storage class for example
+
+557
+01:35:57,623 --> 01:36:07,680
+even though containers are fine for most
+other
+
+558
+01:36:09,415 --> 01:36:16,548
+Cloud native applications development ants
+
+559
+01:36:17,552 --> 01:36:19,981
+hence kind
+
+560
+01:36:22,942 --> 01:36:29,919
+this means that I have been using minikube
+with
+
+561
+01:36:31,147 --> 01:36:32,984
+the live Birds
+
+562
+01:36:33,994 --> 01:36:39,421
+a driver and vagrants a lot more lately
+
+563
+01:36:40,272 --> 01:36:44,270
+as an infrastructure engineer
+
+564
+01:36:48,443 --> 01:36:55,937
+structure h e r n s r e type person
+
+565
+01:36:56,961 --> 01:37:00,402
+I like writing code
+
+566
+01:37:00,994 --> 01:37:09,001
+that either blows shit up or prevents it
+from being blown up
+
+567
+01:37:10,290 --> 01:37:15,629
+vm's are the only safe playground
+
+568
+01:37:16,092 --> 01:37:19,999
+for that kind of development
+
+569
+01:37:37,218 --> 01:37:41,387
+shit Domino's down again I got to go check
+this
+
+570
+01:38:01,083 --> 01:38:03,365
+Liam Smith
+
+571
+01:38:11,870 --> 01:38:18,806
+what's the difference between a cloud
+instances of Ian or are they wire are they
+Barbara Ferrer
+
+572
+01:38:19,092 --> 01:38:26,609
+Mel let me start that work for Content
+working a container for most of
+
+573
+01:38:27,120 --> 01:38:34,126
+dumb after I have to go look at this
+
+574
+01:38:35,677 --> 01:38:38,513
+it would be an environmental in the cloud
+
+575
+01:38:38,567 --> 01:38:46,648
+I'm going to say all right I have to read
+this this afternoon I have to read this
+stuff from work I might be off the screen
+for a bit
+
+576
+01:40:35,316 --> 01:40:39,487
+and some Freedom 87 Mower and dominoes down
+all right
+
+577
+01:40:48,752 --> 01:40:53,954
+yeah B Honeywell
+
+578
+01:40:59,094 --> 01:41:02,601
+learn Basics recommended resources we did
+that already
+
+579
+01:41:05,127 --> 01:41:12,159
+what is this download thing about just
+started download what is that about
+
+580
+01:41:13,216 --> 01:41:19,903
+download icing gun I highly recommend to use
+artificial ice packs to install a singer
+
+581
+01:41:24,458 --> 01:41:31,816
+official single repository provide the most
+recent packages for leading operating
+systems from a sign of the coming above the
+law
+
+582
+01:41:33,180 --> 01:41:38,530
+sent to us well
+
+583
+01:41:39,476 --> 01:41:41,607
+package Repository
+
+584
+01:41:50,356 --> 01:41:56,290
+Center West 7 right
+
+585
+01:42:03,873 --> 01:42:13,251
+I got to stay for vpl right by so make sure
+you're still a pill release look at that
+
+586
+01:42:18,027 --> 01:42:26,007
+I said it was 7 a single with two will also
+require PHP via the scl depository system
+hey we can have the star vagrant
+
+587
+01:42:29,223 --> 01:42:33,347
+we need to start earlier and file provision
+
+588
+01:42:37,629 --> 01:42:43,988
+and sent his release as CL
+
+589
+01:42:45,843 --> 01:42:50,780
+okay redhat incompatible
+
+590
+01:42:52,196 --> 01:43:00,015
+dnf install unless anti-nausea
+
+591
+01:43:02,858 --> 01:43:05,040
+I guess your manager
+
+592
+01:43:14,666 --> 01:43:19,702
+install is this it
+
+593
+01:43:22,096 --> 01:43:29,652
+RPM import I sing a keys
+
+594
+01:43:37,058 --> 01:43:42,707
+do you know f install
+
+595
+01:43:46,648 --> 01:43:51,505
+cuz brings back memories as of right eye
+pain or being packages
+
+596
+01:43:55,419 --> 01:44:02,494
+and then you install as a point of their apt
+thing alright I'm going to try to
+
+597
+01:44:01,316 --> 01:44:05,128
+alright I'm going to try to reposition to
+see it expert G
+
+598
+01:44:11,163 --> 01:44:17,514
+her name is a these bills with your not
+recommended for Russian use please use the
+release packages instead
+
+599
+01:44:17,912 --> 01:44:21,876
+I did apps that Bill's not interested
+
+600
+01:44:23,873 --> 01:44:29,837
+I just try to reload
+
+601
+01:44:31,522 --> 01:44:39,037
+when did the hard way reload provisioned so
+redo are provisioning god dammit School
+
+602
+01:44:44,710 --> 01:44:47,262
+waiting for the machine to boot
+
+603
+01:44:55,951 --> 01:45:03,841
+uh oh is there a Justice how do we have for
+stats in
+
+604
+01:45:04,879 --> 01:45:08,042
+Emily destruction saved as in light reaction
+
+605
+01:45:10,819 --> 01:45:17,173
+what did I forget to put in at Hawaii on dnf
+command not found
+
+606
+01:45:17,891 --> 01:45:19,855
+what is dnf
+
+607
+01:45:28,132 --> 01:45:30,909
+I don't know I haven't used our favor
+forever
+
+608
+01:45:38,552 --> 01:45:43,513
+do you know stands for dandified yum
+
+609
+01:45:44,537 --> 01:45:57,644
+it sits out for a package manager for a
+previous relationship is it still updating
+remove package in the central us operating
+system is a default package manager for 8
+
+610
+01:45:57,752 --> 01:46:05,747
+the next-generation version of yum and
+intend to be replaced with volume and RPMs
+systems did not know this
+
+611
+01:46:10,305 --> 01:46:15,418
+set create Dandy fide
+
+612
+01:46:15,696 --> 01:46:19,255
+young is new yum
+
+613
+01:46:27,551 --> 01:46:35,436
+I didn't go I don't have any good
+recommendations for go unfortunately no is
+my best
+
+614
+01:46:36,715 --> 01:46:40,482
+I guess recommendations right now or just
+through the docks
+
+615
+01:46:46,463 --> 01:46:49,981
+and just Coral definitely needs his manager
+
+616
+01:46:55,275 --> 01:46:57,774
+what is makes me wonder if
+
+617
+01:46:59,454 --> 01:47:06,714
+if this is like an option is like either
+this oh wait that's if you're on this is up
+here on 8th
+
+618
+01:47:06,773 --> 01:47:12,325
+and not seven so the Danny fight thing is
+only 48
+
+619
+01:47:12,325 --> 01:47:19,558
+holy shit okay oh now I know now I know and
+I can fix it
+
+620
+01:47:20,231 --> 01:47:26,395
+vagrant definition don't need that
+
+621
+01:47:34,129 --> 01:47:39,008
+get ready for a lot of documentation
+
+622
+01:47:41,721 --> 01:47:44,262
+to be wrong
+
+623
+01:47:45,714 --> 01:47:50,060
+the dnf command
+
+624
+01:47:50,060 --> 01:47:57,692
+is the standard as of Cent OS 8
+
+625
+01:47:58,452 --> 01:48:02,916
+before that everything is yum
+
+626
+01:48:04,400 --> 01:48:13,403
+all right
+
+627
+01:48:14,897 --> 01:48:17,550
+see if we can reprovision
+
+628
+01:48:17,550 --> 01:48:23,808
+we actually have to get all this installed
+or just run from a script wouldn't that be
+glorious
+
+629
+01:48:26,021 --> 01:48:33,484
+follow the course doesn't seem like there's
+a course
+
+630
+01:48:37,401 --> 01:48:43,119
+I get my p.m. p.m. Rocio, I knowI know
+
+631
+01:48:43,567 --> 01:48:49,011
+no this is his command it's a rerun it with
+whatever
+
+632
+01:48:50,759 --> 01:48:56,942
+is this okay laughing
+
+633
+01:48:59,766 --> 01:49:01,377
+why
+
+634
+01:49:18,558 --> 01:49:21,207
+I take back everything that is said about my
+rent
+
+635
+01:49:51,065 --> 01:49:57,821
+yay hey look I think it is now installed
+officially holy shit that was easy
+
+636
+01:49:59,101 --> 01:50:02,093
+now you need to install a sink at 2
+
+637
+01:50:04,801 --> 01:50:09,773
+you need to see me at 2 to collect the data
+in your monitor and say cancellations
+fractions we just did it
+
+638
+01:50:10,031 --> 01:50:15,841
+and learn how to run and connect it to your
+database that's going to do that
+
+639
+01:50:26,514 --> 01:50:32,712
+this is where the seven step instruction is
+selling a single too and is he going to as
+soon as I hear from their the operating
+system
+
+640
+01:50:35,350 --> 01:50:37,565
+I'm not but okay
+
+641
+01:50:53,383 --> 01:51:00,736
+all right we're very close to the answer may
+be done before noon though probably
+
+642
+01:51:01,712 --> 01:51:09,403
+I'mma start sending icing a stuff later
+today I can't believe how fast the
+provisional itself
+
+643
+01:51:10,184 --> 01:51:11,656
+Paso
+
+644
+01:51:15,142 --> 01:51:21,039
+get your Craig is it seemed please follow
+this is setting up a senior first off yet
+and slicing it to did it
+
+645
+01:51:25,793 --> 01:51:32,368
+Norm pass that okay package distribution
+less than one package of pasta raise
+
+646
+01:51:32,903 --> 01:51:37,829
+I think it was misconstrued we did all this
+wait what
+
+647
+01:51:39,539 --> 01:51:44,881
+we did all this going to need to do some
+more condemned that's horrible code
+
+648
+01:51:45,703 --> 01:51:49,017
+we don't need any of that we don't need any
+of that
+
+649
+01:51:52,013 --> 01:51:57,629
+we did that we did that mean that we can't
+find
+
+650
+01:51:57,632 --> 01:52:05,481
+off and running synthesizer 6 year olds like
+that really stood that did it did it did it
+did it did it
+
+651
+01:52:06,026 --> 01:52:11,725
+as long as you can install Cinema
+destruction pack murder he did this
+
+652
+01:52:14,636 --> 01:52:20,946
+do we actually need to do enable I don't
+think we need to I think it does this by
+default
+
+653
+01:52:21,599 --> 01:52:25,287
+wait what I seen it too is that not in there
+
+654
+01:52:29,944 --> 01:52:35,229
+oh well it's not there I ordered
+
+655
+01:52:37,018 --> 01:52:44,415
+PM install packages I feel instead of you
+thanks already
+
+656
+01:52:44,527 --> 01:52:50,727
+I think it is I think it's there vagrants
+
+657
+01:52:51,504 --> 01:52:59,376
+SSH it is systems ETL
+
+658
+01:52:59,376 --> 01:53:07,220
+satisficing guy to well that's not good
+
+659
+01:53:09,495 --> 01:53:12,310
+and like I got installed
+
+660
+01:53:16,064 --> 01:53:21,767
+it looks like all the other stuff got
+installed but it didn't get installed that's
+what I'm going to
+
+661
+01:53:23,781 --> 01:53:29,378
+hey hi so so so yeah
+
+662
+01:53:30,782 --> 01:53:32,567
+and I singer
+
+663
+01:53:35,097 --> 01:53:39,097
+I mean why don't we do the import key first
+
+664
+01:53:42,339 --> 01:53:44,191
+I don't have to do
+
+665
+01:53:47,837 --> 01:53:51,161
+I see that I think we can do it in this
+order
+
+666
+01:53:53,282 --> 01:53:55,913
+and then I don't I don't even think we need
+
+667
+01:53:58,071 --> 01:54:02,993
+I can put this all here
+
+668
+01:54:04,358 --> 01:54:06,164
+do it yourself screen
+
+669
+01:54:06,962 --> 01:54:13,966
+result Tim Oakes has a lot more
+configurability I'm not a big fan of turning
+
+670
+01:54:16,775 --> 01:54:24,489
+I'm a big screen fan so at used to be pains
+pains used to be a bit and they added that
+right
+
+671
+01:54:25,326 --> 01:54:29,216
+in about that right that is paying support
+to screen
+
+672
+01:54:29,566 --> 01:54:34,250
+haven't I mean me I was supposed to pay like
+that that was not supporting screen for
+years
+
+673
+01:54:35,534 --> 01:54:38,687
+but the number of
+
+674
+01:54:44,041 --> 01:55:13,876
+so this the status line down here is like a
+marquee program that runs and it just loves
+the content and puts it into their so again
+I am a big advocate of not losing your
+screen muscle memory because when you're on
+a system that doesn't have tea mugs
+obviously but and I've configure some of my
+L key is control a default for two months
+and I've changed all my other keys to match
+screen and Mighty Max RC
+
+675
+01:55:14,167 --> 01:55:19,516
+self yep that's it says Valley question
+though
+
+676
+01:55:19,664 --> 01:55:26,115
+like it without no screen exist they don't
+even know it exists
+
+677
+01:55:26,589 --> 01:55:35,293
+came up this awesome thing I like Oh you
+mean screen no around since the 70s
+
+678
+01:55:35,348 --> 01:55:42,640
+screen is almost as old as eunuchs it's one
+of the oldest Utilities in the world it
+would appreciate some mouse
+
+679
+01:55:49,674 --> 01:55:57,396
+well that seems to have work good let's do
+vagrant
+
+680
+01:55:57,551 --> 01:56:04,595
+as soon as you get down there stereo system
+
+681
+01:56:04,595 --> 01:56:12,198
+c channel status I single to say it's on
+it's just an active
+
+682
+01:56:12,470 --> 01:56:17,755
+all right so we need to enable it
+
+683
+01:56:19,697 --> 01:56:21,742
+and started
+
+684
+01:56:25,027 --> 01:56:29,994
+National trust's I wouldn't hear
+
+685
+01:56:36,988 --> 01:57:08,948
+yeah I would I would I would do this is not
+original I got I got mine from somebody else
+and it has all the exit be careful though
+because I took over control see my control C
+actually creates a new split pain because of
+the streaming situation so you might not
+wanted over take your country or your ears
+you know you doing nothing I did though I
+like it you can override it though that's
+pretty damn cool and that was screened
+
+686
+01:57:09,550 --> 01:57:16,937
+since you unable when I really have about
+this I can just keep adding this shit to my
+script
+
+687
+01:57:18,412 --> 01:57:25,957
+and I don't have to you know it's going
+around
+
+688
+01:57:34,956 --> 01:57:37,899
+bigger vision
+
+689
+01:57:46,129 --> 01:57:48,637
+damn it
+
+690
+01:57:53,149 --> 01:57:56,113
+that runs right
+
+691
+01:58:07,204 --> 01:58:09,004
+I see how this goes
+
+692
+01:58:18,683 --> 01:58:21,210
+sitting up check plug-ins yay
+
+693
+01:58:26,499 --> 01:58:32,684
+I think to do huh sacraments
+
+694
+01:58:36,170 --> 01:58:44,673
+bendy printed poses yeah that's who I tried
+that yet this I think it doesn't have a good
+talk with the Moe's
+
+695
+01:58:45,077 --> 01:58:51,580
+and I'm acting ignorant Yes actually vagrant
+does use key move it uses live dirt
+
+696
+01:58:52,792 --> 01:59:01,337
+I'm in East Hartford for local Dev but it's
+only if you have a cloud surprise surprise
+to her phone doesn't work unless you have
+the cloud
+
+697
+01:59:02,113 --> 01:59:12,007
+it's so I don't plan on using terraform
+until I actually have a cloud to point it
+locally which is trying to be proxmox of
+openstack or something
+
+698
+01:59:12,295 --> 01:59:35,737
+but terraform I mean is he terraform is
+because I'm sure you did tell me that many
+people of something that I thought I would
+try it and it did I did I actually got it to
+work but it just it's just the whole point
+of it is so that your end up learning
+terraformed into deal with that I'm not
+talking about a cloud cloud
+
+699
+01:59:36,087 --> 01:59:40,271
+and I'd like you to start what link did you
+just share
+
+700
+01:59:45,057 --> 01:59:51,967
+going to break into structure I know it
+which one you're talking about
+
+701
+02:00:04,117 --> 02:00:09,878
+I don't see a link you shared Ms Ms MS
+
+702
+02:00:12,512 --> 02:00:19,152
+Avicii I don't see one is a 8 minutes
+
+703
+02:00:19,856 --> 02:00:25,026
+are the doctor in pose yeah I tried that one
+it doesn't work
+
+704
+02:00:25,419 --> 02:00:30,071
+I tried that one yeah I should have
+mentioned that earlier that one doesn't work
+
+705
+02:00:30,297 --> 02:00:34,994
+I didn't work for me anyway I just ran it as
+was and it didn't work
+
+706
+02:00:36,080 --> 02:00:42,420
+I didn't work yeah I tried it I tried that
+like last week last week and like Wednesday
+
+707
+02:00:42,421 --> 02:00:56,487
+and a text because it didn't work I decided
+I was going to try something else I think
+that's the one is a chance I do to another
+one it was the community's related
+
+708
+02:00:56,641 --> 02:00:59,352
+the second senior web server
+
+709
+02:01:02,081 --> 02:01:06,820
+it's not even as my beer different one
+actually I probably driving
+
+710
+02:01:06,820 --> 02:01:13,879
+now in this case I I'm I'm fine with the
+Baker and stuff I need to learn anyway
+normally I would use a darker thing
+
+711
+02:01:15,373 --> 02:01:22,876
+but ya know I got here we're saying in fact
+that many Cube plus that will probably give
+me everything I need
+
+712
+02:01:22,876 --> 02:01:28,870
+Mini Cooper sat I'm actually almost positive
+I haven't tried that image now I'm driving
+looked at it
+
+713
+02:01:29,165 --> 02:01:34,575
+I tried one almost exactly like the same day
+music was different
+
+714
+02:01:35,134 --> 02:01:47,574
+yeah I know that's why I'm saying that's why
+the other day were okay the one that didn't
+work now that I remember the one that didn't
+work was the community's one I wonder when I
+sing in kubernetes and
+
+715
+02:01:48,115 --> 02:01:50,565
+that's what didn't work
+
+716
+02:01:50,936 --> 02:02:41,534
+do to be fair okay I fully remember now to
+be fair I did use that docker-compose and
+then I tried to use composer the K to
+convert it into coronavirus and running
+kubernetes but I didn't run Standalone his
+back then I was trying to I was trying to
+get icing to work and get rid of these which
+is stupid idea I think it is not meant
+designed to work in kubernetes everybody
+says don't do it there's a few people that
+did get it to work and I still feel like
+there's a there's a need for it but the
+overwhelming consensus that I read was his
+people think that I think I should be up and
+stand alone and support outside of her brand
+new so they can monitor communities it's
+like the same reason your train your Dino
+silver inside kubernetes even though you can
+that's what failed that's why it failed so
+so to be fair it's probably worth trying
+that
+
+717
+02:02:41,540 --> 02:02:42,692
+as well and that that
+
+718
+02:02:41,528 --> 02:03:10,836
+not that without encapsulate the way all the
+database it up and everything you know it's
+part of me that wants to actually understand
+I think I can maintain it because we do have
+a nice thing as sincere as opposed to just
+getting up and running and try to test the
+rest API against it and I was doing
+development against I think which is the
+primary requirement here but that's kind of
+secondary unspoken requirement to be able to
+step in and support I seen that as well so I
+think yeah I think I think that's totally
+doable
+
+719
+02:03:11,191 --> 02:03:19,349
+yep I'm glad you reminded me of that
+actually let me let me make sure to copy
+link address I'm going to put the a little
+note
+
+720
+02:03:19,349 --> 02:03:23,136
+am I read me about that
+
+721
+02:03:30,077 --> 02:03:34,775
+yeah game idea
+
+722
+02:03:36,957 --> 02:03:38,925
+I want that this
+
+723
+02:03:48,063 --> 02:03:55,750
+this is for how to install and configure
+
+724
+02:03:56,258 --> 02:04:00,780
+I sing a not just to get
+
+725
+02:04:03,104 --> 02:04:10,962
+it up so that you can test the rest API
+
+726
+02:04:11,451 --> 02:04:13,078
+for example
+
+727
+02:04:17,415 --> 02:04:22,374
+for such things not consider
+
+728
+02:04:22,845 --> 02:04:29,080
+you sing the docker compose
+
+729
+02:04:30,415 --> 02:04:34,315
+file in the related section
+
+730
+02:04:48,173 --> 02:04:51,080
+yep that's good to know though
+
+731
+02:04:55,786 --> 02:04:58,365
+how's it going malusis
+
+732
+02:05:00,597 --> 02:05:07,626
+here here I mean yeah my company most of the
+time I don't know
+
+733
+02:05:08,147 --> 02:05:13,262
+I may have met my company may have met this
+channel I made a minute and then in the
+community
+
+734
+02:05:17,003 --> 02:05:21,992
+now that that's noted here so if you just
+want to get it up and running go look at the
+doctor and post well
+
+735
+02:05:25,601 --> 02:05:28,087
+I just put a warning to
+
+736
+02:05:32,336 --> 02:05:39,723
+how is weather warning when The Temptations
+
+737
+02:05:40,532 --> 02:05:45,392
+to get I sing out working in kubernetes
+
+738
+02:05:45,868 --> 02:05:51,223
+it's not supported and
+
+739
+02:05:51,271 --> 02:05:55,101
+has no precedent
+
+740
+02:05:57,171 --> 02:06:02,384
+I want to put that out there for people that
+was a big rabbit hole
+
+741
+02:06:06,260 --> 02:06:10,523
+you can probably do it I just don't know
+
+742
+02:06:10,523 --> 02:06:21,651
+a Prometheus runs in the cloud Rider
+Prometheus is designed to run in the cloud I
+think I think we're going to see Prometheus
+take over more and more because of that
+
+743
+02:06:22,000 --> 02:06:27,294
+but I don't know I don't know much about any
+of them
+
+744
+02:06:30,195 --> 02:06:35,700
+all right so anything new look at my work
+
+745
+02:06:39,759 --> 02:06:42,879
+alright so we got icing it loaded
+
+746
+02:06:48,231 --> 02:06:53,852
+wow even has my history how is it keeping
+track of my history
+
+747
+02:06:54,138 --> 02:06:58,408
+fuck a massive amount of the volume or
+something
+
+748
+02:06:58,408 --> 02:07:02,616
+that's amazing that is something that
+vagrant does that is not
+
+749
+02:07:03,804 --> 02:07:16,381
+it doesn't kept it kept my history it kept a
+persistent history well it's a VM God damn
+it it has a district I keep thinking of you
+there's another reason
+
+750
+02:07:17,240 --> 02:07:22,681
+assistant I'm going to actually edit that
+that then I was like
+
+751
+02:07:21,850 --> 02:07:26,959
+I was like wait myself still there cuz it's
+not a femoral cuz it's a VM.
+
+752
+02:07:35,896 --> 02:07:37,384
+Oh yeah
+
+753
+02:07:38,073 --> 02:07:44,623
+vm's are persistent not ephemeral
+
+754
+02:07:50,363 --> 02:07:54,575
+myself after Sha
+
+755
+02:07:56,173 --> 02:08:04,494
+see him and wondering why my history and
+everything was still there
+
+756
+02:08:05,154 --> 02:08:08,221
+then I remember
+
+757
+02:08:08,755 --> 02:08:14,026
+oh yeah Liam's are persistence
+
+758
+02:08:16,507 --> 02:08:22,666
+this is a reply the ephemeral
+
+759
+02:08:27,684 --> 02:08:34,845
+container mindset can creep up on you
+
+760
+02:08:36,540 --> 02:08:42,762
+with a surprise like this if you live in
+kubernetes
+
+761
+02:08:43,823 --> 02:08:47,362
+container land all day
+
+762
+02:08:52,532 --> 02:08:59,721
+recipe for easy to humor I think that's
+funny I think it's very damn funny
+
+763
+02:09:00,268 --> 02:09:05,349
+citizen reminder slices of his source is
+difficult to choose so I wear a large
+community
+
+764
+02:09:05,952 --> 02:09:16,326
+I go for free to find it because if it's
+going to cause most people are we why do we
+have that we have that as well we being the
+place of work
+
+765
+02:09:18,240 --> 02:09:19,824
+but yeah
+
+766
+02:09:25,642 --> 02:09:31,205
+so
+
+767
+02:09:34,138 --> 02:09:41,377
+so that's a pie thing is up and it was Adam
+before so that's good news
+
+768
+02:09:43,098 --> 02:09:46,241
+we're already up to the plugins
+
+769
+02:09:53,751 --> 02:09:58,460
+I mean yeah
+
+770
+02:10:01,285 --> 02:10:05,373
+what the fuck is the secret to does not know
+how to check external services
+
+771
+02:10:09,302 --> 02:10:11,766
+do we do the one thing two
+
+772
+02:10:12,587 --> 02:10:37,286
+I guess so I'm slicing it too and we're just
+going to take me to set up check plug-ins
+without plugging since you didn't know how
+to check provides an extensive property is
+lichens are required to make the original
+example configuration work on the box okie
+dokie for your this for your for a
+convenience package name from some of the
+most popular operating systems
+
+773
+02:10:39,121 --> 02:10:43,367
+nagios plugins all oh my God
+
+774
+02:10:43,864 --> 02:10:51,830
+that looks pretty mono monolithic but
+whatever we go
+
+775
+02:10:51,830 --> 02:10:57,230
+installation path UPL slides
+
+776
+02:10:57,308 --> 02:11:08,317
+action if everybody's going to wait as long
+as their employees is to use or distribution
+package manager I have no wish to make sure
+your father just tell them to go look like
+
+777
+02:11:08,318 --> 02:11:10,695
+on Debian
+
+778
+02:11:10,695 --> 02:11:18,769
+and another thing to install OK Google
+plug-ins all really that's it
+
+779
+02:11:18,769 --> 02:11:24,531
+well you know what I'm going to do you can
+probably guess
+
+780
+02:11:30,904 --> 02:11:37,995
+all right and I guess plugins all
+
+781
+02:11:42,371 --> 02:11:48,840
+and then what all right running I sing it to
+you let's go back
+
+782
+02:11:49,291 --> 02:12:02,664
+system D service already know that's working
+we did that come and support Falls actions.
+Restart that has enabled yet I know we use
+that and
+
+783
+02:12:01,586 --> 02:12:03,722
+we use that and it's script
+
+784
+02:12:08,042 --> 02:12:15,219
+you just move a lot want you do not want you
+seeing it was just a Sunday
+
+785
+02:12:17,017 --> 02:12:25,886
+SMS is meant for Access Control System along
+such as a fine-grained from your system
+
+786
+02:12:27,193 --> 02:12:34,706
+is it going to provide its own as soon as
+policy his passing has for Red Hat
+Enterprise Linux 7 in derivatives
+
+787
+02:12:34,945 --> 02:12:43,875
+because runs on targeted runs a target of
+policy which can finds I think it to
+including an able to each other's and
+running communes
+
+788
+02:12:44,851 --> 02:12:50,544
+I guess do I need it I wonder if we need it
+
+789
+02:12:52,049 --> 02:12:56,928
+I had a feeling we do because I think I
+think Jesse Lennox comes on here but if all
+right
+
+790
+02:12:57,597 --> 02:13:00,198
+does Cento us
+
+791
+02:13:00,880 --> 02:13:07,749
+this is a new thing I'm going to hit a lot
+how's it going, sent to us come with
+
+792
+02:13:08,528 --> 02:13:15,040
+I thought he was saying the other day and I
+think I remember hearing it come with
+
+793
+02:13:18,182 --> 02:13:23,487
+what is it called secret Lenox what is the
+exact name
+
+794
+02:13:25,316 --> 02:13:27,379
+selinux yeah
+
+795
+02:13:32,396 --> 02:13:34,702
+it's a nice release officer since 2000
+
+796
+02:13:43,304 --> 02:13:45,430
+percent of 7
+
+797
+02:13:47,006 --> 02:13:51,439
+amazing concept security has Lennox as bad
+as Castrol
+
+798
+02:13:52,044 --> 02:13:56,613
+isomers 50 to Summit retarded church or
+greed
+
+799
+02:13:56,737 --> 02:14:00,989
+bring the commands as what user is a Lennox
+
+800
+02:14:04,724 --> 02:14:08,955
+I don't know if it's actually on here by
+default this is the problem
+
+801
+02:14:11,224 --> 02:14:19,096
+I mean I guess it doesn't matter it doesn't
+hurt to have it installed oh my gosh woohoo
+
+802
+02:14:19,320 --> 02:14:21,470
+that's a nice one.
+
+803
+02:14:27,407 --> 02:14:34,575
+That's funny cuz it is running in docker why
+is it running darker though
+
+804
+02:14:37,239 --> 02:14:41,651
+oh it's running a doctor because vagrant is
+docker
+
+805
+02:14:41,651 --> 02:14:47,056
+M uses a doctor process
+
+806
+02:14:47,057 --> 02:14:52,947
+that's why it is good to take care of all
+the liver to Sakaya configuration problems
+if you're having
+
+807
+02:14:56,431 --> 02:15:12,468
+Oriental Trading see if I can get at work or
+I'll be right back
+
+808
+02:24:30,681 --> 02:24:34,062
+All rights back
+
+809
+02:24:42,604 --> 02:24:49,169
+you didn't knock out that's that's
+interesting it wasn't doing that before they
+change
+
+810
+02:24:53,802 --> 02:24:56,086
+another exit status
+
+811
+02:25:00,644 --> 02:25:06,319
+I think that's because I put Securus
+security Lenox on it now I can't start
+
+812
+02:25:08,499 --> 02:25:10,441
+I think that's what's happening
+
+813
+02:25:17,588 --> 02:25:22,152
+a running slender Brothers
+
+814
+02:25:23,581 --> 02:25:28,106
+Ellipsis sized is that a word
+
+815
+02:25:28,801 --> 02:25:34,552
+still looks like a word a non-english
+speaker put in which would not be the first
+time
+
+816
+02:25:40,924 --> 02:25:43,064
+I feel like it was already there
+
+817
+02:25:50,211 --> 02:25:52,739
+I didn't see a sensationalist above
+
+818
+02:25:55,923 --> 02:26:00,539
+yeah I don't think I'm going to Sensations
+is required
+
+819
+02:26:03,899 --> 02:26:10,507
+Christina I need it for vagrant right hey, I
+don't need it I was just being honest the
+station works
+
+820
+02:26:12,980 --> 02:26:16,622
+but it does make me wonder if it's even here
+
+821
+02:26:29,256 --> 02:26:31,815
+what is it
+
+822
+02:26:37,375 --> 02:26:40,200
+a 60 so there is an HD running
+
+823
+02:26:41,630 --> 02:26:49,741
+and I got I got got up from in a phone
+
+824
+02:26:50,981 --> 02:26:58,933
+so they apparently puts SSH on there by the
+automatically did not know that is something
+I learned today
+
+825
+02:27:02,009 --> 02:27:08,429
+I don't know if they'll steal anything is
+required or not I feel like it's not
+
+826
+02:27:08,942 --> 02:27:13,397
+I don't know if I think the reason for the
+failure is because it was already enabled
+
+827
+02:27:13,939 --> 02:27:17,024
+and I just did reload for vision
+
+828
+02:27:26,954 --> 02:27:31,079
+I mean I can do it and I can delete the
+whole thing I think this because
+
+829
+02:27:33,309 --> 02:27:39,727
+one of the other steps does it how to start
+a Singapore Service Unit not found
+
+830
+02:27:40,626 --> 02:27:43,385
+Chris has bigger and seems that this music
+Medfield
+
+831
+02:27:58,989 --> 02:28:01,427
+I still says it's raining I understand
+
+832
+02:28:18,873 --> 02:28:20,452
+understand
+
+833
+02:28:25,542 --> 02:28:28,746
+I don't think we need to seal Onyx I don't
+want to fucking say more
+
+834
+02:28:32,277 --> 02:28:38,339
+I don't fully understand what what failed
+was everything is still running it's like
+
+835
+02:28:39,889 --> 02:28:41,088
+you know
+
+836
+02:28:45,209 --> 02:28:52,828
+I mean what actually did fail wonderful
+reading without the provision
+
+837
+02:28:55,848 --> 02:28:58,692
+I think it might be re-running the provision
+
+838
+02:29:00,695 --> 02:29:03,870
+I see you in a single for that does not
+exist
+
+839
+02:29:10,961 --> 02:29:17,292
+oh why is there a dish for on there anyway
+
+840
+02:29:20,206 --> 02:29:27,253
+that should have been icing it to the whole
+time somehow I change that that was always
+in there
+
+841
+02:29:28,082 --> 02:29:32,117
+that was always an error all right well that
+explains a lot
+
+842
+02:29:32,452 --> 02:29:51,844
+I must have done something with me I wear I
+like made it - 4 by putting the arrow keys
+down at all I was on a number if you ever
+done that so if he I buy the fault if you're
+on a number and use a certain combination
+it'll actually increase or decrease the
+number I think that's what happened I think
+that's what happened
+
+843
+02:29:52,756 --> 02:29:58,584
+that was it that was a stupid mistake but
+it's fixed now
+
+844
+02:29:59,872 --> 02:30:06,555
+yeah let me know that's what I want and
+that's what the problem is you control a
+
+845
+02:30:08,127 --> 02:30:15,703
+yeah hey guys this is exciting Reisinger
+
+846
+02:30:16,263 --> 02:30:22,714
+thinking provides configuration example
+sentence as you let me know okie dokie
+
+847
+02:30:24,811 --> 02:30:29,905
+it sounds like a damn sure add-ons not
+interested
+
+848
+02:30:32,549 --> 02:30:36,213
+hello there my singing audition vs. package
+manager
+
+849
+02:30:44,180 --> 02:30:51,940
+then add on manager I didn't know that was a
+thing I got a nice here today and I don't
+
+850
+02:30:51,941 --> 02:30:58,461
+I've never used that ever I honestly did not
+know that was a thing
+
+851
+02:31:00,940 --> 02:31:06,167
+yum install in my sing I am okay with that
+was try that
+
+852
+02:31:08,423 --> 02:31:11,108
+it's actually working vagrant
+
+853
+02:31:11,851 --> 02:31:17,375
+I mean this is kind of fun because it's
+going to have like everything
+
+854
+02:31:18,011 --> 02:31:22,224
+I think him a little longer than I wanted I
+got till 12 to do this
+
+855
+02:31:22,281 --> 02:31:28,265
+and then we're going to move on to testing
+it by sending message to it
+
+856
+02:31:29,484 --> 02:31:36,610
+him am I single
+
+857
+02:31:36,988 --> 02:31:43,332
+sister shaking is on tested amazon.com
+
+858
+02:31:45,166 --> 02:31:47,420
+I mean
+
+859
+02:31:51,391 --> 02:31:57,989
+Joe is like a a non plug-in that doesn't get
+home like a feminine install
+
+860
+02:32:02,383 --> 02:32:04,778
+that's stupid answersa stupid answer to
+Justin Bieber
+
+861
+02:32:14,263 --> 02:32:20,613
+I'm going to edit a s
+
+862
+02:32:23,481 --> 02:32:25,368
+nothing is there oh
+
+863
+02:32:31,253 --> 02:32:33,087
+it look like it's doing it
+
+864
+02:32:42,678 --> 02:32:49,623
+I mean I did it was worth it though so
+whatever I'm not going to do that anyway I
+would rather not do that
+
+865
+02:32:50,998 --> 02:32:53,429
+I sense if I can work I don't care
+
+866
+02:32:58,269 --> 02:32:59,928
+say yes yes
+
+867
+02:33:04,149 --> 02:33:10,884
+hey it worked yeah I just need to log into
+shell
+
+868
+02:33:12,570 --> 02:33:14,237
+that looks happy
+
+869
+02:33:17,403 --> 02:33:25,328
+I don't know if I'm ready to mail thing but
+I'll see to all right
+
+870
+02:33:25,768 --> 02:33:30,312
+and I didn't miss a single dad of a future
+with you takes care of exporting
+
+871
+02:33:31,732 --> 02:33:35,493
+I figured you be ideal and it might as well
+as long as you all
+
+872
+02:33:37,760 --> 02:33:45,560
+we need to do it I don't think we all think
+our databases actually need one right now it
+where do it though stress
+
+873
+02:33:52,641 --> 02:33:54,363
+statues
+
+874
+02:34:06,358 --> 02:34:12,657
+asphyx is on there not postgres who is
+spelled it right
+
+875
+02:34:26,912 --> 02:34:33,889
+that would make me think it's not a song
+guess where we saw it though
+
+876
+02:34:36,761 --> 02:34:38,543
+Oscar Cisco
+
+877
+02:34:42,996 --> 02:34:44,810
+all right arrested
+
+878
+02:34:51,397 --> 02:34:58,579
+SQL he asked if I was there
+
+879
+02:35:05,552 --> 02:35:07,721
+Trevor Wallace
+
+880
+02:35:17,184 --> 02:35:23,588
+I think it's probably a stand-alone thing
+
+881
+02:35:31,162 --> 02:35:37,091
+Grandpa postgres no it's not there
+
+882
+02:35:39,853 --> 02:35:46,540
+installing postgres on Centos 7
+
+883
+02:35:53,246 --> 02:35:58,746
+documents my address
+
+884
+02:36:04,792 --> 02:36:11,749
+let's just work single Siri PS4 Smith in a
+sorcerer or a motherfuking using putty
+
+885
+02:36:14,933 --> 02:36:20,945
+I am a Starbucks Reserve Bar Express can't
+read
+
+886
+02:36:22,855 --> 02:36:29,689
+twitch which is better for the kind of
+screaming I do
+
+887
+02:36:31,709 --> 02:36:38,387
+I invented the Tipsy to build a community
+better and it makes you make more money on
+Twitch
+
+888
+02:36:38,388 --> 02:36:43,333
+YouTube is for videos of sniper streaming
+this article that stream and do very well
+
+889
+02:36:42,016 --> 02:36:49,653
+stream and do very well on YouTube but it's
+if they have communities already here trying
+to build a community you can't or won't
+because he can't find you
+
+890
+02:36:51,300 --> 02:36:56,517
+that's if you can read it all about that all
+over if you do a search that's what
+everything pretty much says
+
+891
+02:37:06,850 --> 02:37:08,746
+Henry version this
+
+892
+02:37:14,738 --> 02:37:16,295
+what the hell
+
+893
+02:37:23,267 --> 02:37:28,330
+a Grinch rinone provision
+
+894
+02:37:31,613 --> 02:37:35,966
+and I think it's just a client to I am going
+to need the gland to though
+
+895
+02:37:37,343 --> 02:37:40,681
+yeah I didn't like any of that that was
+still kind of should look that up
+
+896
+02:37:42,867 --> 02:37:49,371
+yeah I swear I saw the maintained postgres
+for two years and I'll be home in 20
+
+897
+02:37:51,415 --> 02:37:58,429
+2006 first came out it was just bad only
+been released for like 2 or 3 years
+
+898
+02:37:59,268 --> 02:38:07,041
+and now I my skills honored I print out all
+the poster stocks and really I really love
+both of us really knew
+
+899
+02:38:19,266 --> 02:38:24,155
+yay inactive so
+
+900
+02:38:27,734 --> 02:38:31,869
+I mean this is his good, I like all the
+steps in one place
+
+901
+02:38:43,504 --> 02:38:50,074
+i k and Randy be
+
+902
+02:38:53,582 --> 02:39:00,251
+song EIEIO modules I'm going to bet you
+
+903
+02:39:00,284 --> 02:39:03,864
+there isn't a single idea postgres
+
+904
+02:39:06,481 --> 02:39:10,348
+hey there hiya
+
+905
+02:39:26,789 --> 02:39:32,478
+I'm still acting everything
+
+906
+02:39:34,282 --> 02:39:37,764
+well what do you know there is nothing to do
+
+907
+02:39:39,023 --> 02:39:42,914
+and that is me guessing
+
+908
+02:39:44,591 --> 02:39:50,083
+nothing at all damn it well we got to do
+some research Sun
+
+909
+02:39:50,424 --> 02:39:56,662
+I sing a nice Minnesota icing idea packages
+here
+
+910
+02:40:01,172 --> 02:40:09,043
+I single audios for postgres
+
+911
+02:40:11,900 --> 02:40:18,015
+so we can find singer reporting
+
+912
+02:40:26,354 --> 02:40:29,011
+installation
+
+913
+02:40:38,781 --> 02:40:41,500
+postgres
+
+914
+02:40:47,193 --> 02:40:49,442
+oh boy
+
+915
+02:40:53,911 --> 02:41:03,077
+am I just shipped to David smokes for
+calculating the host and service available
+today as far as that you are singing it is
+interesting
+
+916
+02:41:04,261 --> 02:41:09,098
+is that the various just dropped this module
+
+917
+02:41:09,098 --> 02:41:14,849
+isolation just dropped this module to an
+ideal report some folder in your single web
+path
+
+918
+02:41:25,252 --> 02:41:32,182
+that doesn't look right I know reports
+
+919
+02:41:33,602 --> 02:41:35,926
+I saw the idea model for my child
+
+920
+02:41:42,911 --> 02:41:45,303
+I doesn't look as supported
+
+921
+02:41:49,270 --> 02:41:52,236
+I wish it were at the credit database my
+Singa
+
+922
+02:41:53,885 --> 02:41:58,847
+yeah I guess we're just going to shell
+script and I have to put it in at the mall
+or something
+
+923
+02:41:59,147 --> 02:42:06,171
+I don't want to do this but I guess we have
+to do this is probably all configured
+automatically but I kind of want to get into
+the assignment
+
+924
+02:42:07,111 --> 02:42:10,417
+I was just very smart calculator how to
+spell stress
+
+925
+02:42:17,200 --> 02:42:18,764
+are you
+
+926
+02:42:28,229 --> 02:42:30,026
+I sing a
+
+927
+02:42:43,042 --> 02:42:49,002
+if you have to run a thing to do it yeah you
+can just do the module
+
+928
+02:42:52,133 --> 02:42:54,555
+after the nice lights are too big
+
+929
+02:42:56,490 --> 02:43:04,243
+if you can't do it from there's no module to
+install nope
+
+930
+02:43:05,749 --> 02:43:07,386
+no module
+
+931
+02:43:09,357 --> 02:43:13,859
+all right so we're going to have to replace
+those steps
+
+932
+02:43:14,968 --> 02:43:20,888
+with this and which ones are going to have
+to send a base up first and then doing
+
+933
+02:43:24,765 --> 02:43:30,521
+pricing to Route I did was I single
+
+934
+02:43:33,283 --> 02:43:41,205
+I never have to do that I slept her is going
+to slack a percent
+
+935
+02:43:42,086 --> 02:43:48,833
+Davis Wells sitting
+
+936
+02:43:49,850 --> 02:43:53,071
+I single with less grass
+
+937
+02:44:16,384 --> 02:44:22,662
+the most recent singer finish the tree.
+
+938
+02:44:23,212 --> 02:44:26,708
+I think I did okay ask you do
+
+939
+02:44:40,649 --> 02:44:42,869
+no such file
+
+940
+02:44:43,888 --> 02:44:51,233
+b p g s u l a h r o w how is it going
+
+941
+02:45:01,668 --> 02:45:07,546
+did you ask you come on baby
+
+942
+02:45:08,443 --> 02:45:15,145
+that's what we wanted to see all right exit
+
+943
+02:45:17,062 --> 02:45:20,303
+you go here
+
+944
+02:45:39,608 --> 02:45:43,904
+and are nice
+
+945
+02:45:46,358 --> 02:45:53,662
+seems like a nice day it's a beautiful day
+in the neighborhood
+
+946
+02:45:57,203 --> 02:46:03,717
+and the union representing and then wait we
+do have Project Playlist rap
+
+947
+02:46:04,114 --> 02:46:05,748
+Dash Dash provision
+
+948
+02:46:10,350 --> 02:46:12,259
+my fan is on
+
+949
+02:46:18,046 --> 02:46:24,630
+my fan is on god dammit that means my
+computer is working too hard
+
+950
+02:46:27,336 --> 02:46:32,203
+I was dming all this VM up and Downing
+goddamnit
+
+951
+02:46:33,130 --> 02:46:36,001
+Chris and Link from Little River
+
+952
+02:46:37,915 --> 02:46:43,871
+the Control process are you the codes for
+SimCity Phil says postal service for Journal
+
+953
+02:46:46,203 --> 02:46:51,431
+perseverance I don't understand
+
+954
+02:46:59,325 --> 02:47:03,855
+your onlyfans no I'm not
+
+955
+02:47:07,432 --> 02:47:09,264
+I how are you Daniel
+
+956
+02:47:17,226 --> 02:47:18,688
+yay
+
+957
+02:47:19,287 --> 02:47:26,974
+oh you get my fan I just I just got it 20
+points for the horrible joke
+
+958
+02:47:29,381 --> 02:47:36,673
+why is it not working when do it again
+obviously if I try it again it'll work this
+time
+
+959
+02:47:41,778 --> 02:47:44,129
+I just keep trying until it works
+
+960
+02:48:03,638 --> 02:48:11,308
+already wait already installed already
+installed already installed
+
+961
+02:48:13,976 --> 02:48:21,363
+I understand I don't feel like
+
+962
+02:48:24,204 --> 02:48:31,263
+officiated already installed how many Aria
+salt why am I getting all these are
+installed
+
+963
+02:48:31,777 --> 02:48:38,997
+job for your service failed because the
+first contact with a terror I don't
+understand
+
+964
+02:48:45,906 --> 02:48:52,674
+journalctl that shake see postgres I guess
+because it was already there
+
+965
+02:48:54,592 --> 02:49:02,382
+I'm fine bulshit
+
+966
+02:49:13,170 --> 02:49:20,386
+what the hell those are postgres database
+
+967
+02:49:21,576 --> 02:49:28,917
+how the Starbucks Trenta base enter why
+didn't run
+
+968
+02:49:33,837 --> 02:49:37,476
+systemctl status statues
+
+969
+02:49:48,149 --> 02:49:55,724
+I switch from Regular Show Santos stream I'm
+going to be doing sentence a lot yeah for
+sure
+
+970
+02:49:55,897 --> 02:50:06,335
+because it's Enterprise I have been doing a
+lot of Enterprise Community stuff I run pop
+OS so or dead man so you know
+
+971
+02:50:13,992 --> 02:50:17,351
+both of us. Do do do do
+
+972
+02:50:21,855 --> 02:50:24,286
+active failed
+
+973
+02:50:27,916 --> 02:50:35,498
+starts tell because Control process exited
+with error
+
+974
+02:50:37,579 --> 02:50:39,776
+surface Chris
+
+975
+02:50:50,904 --> 02:50:56,028
+Summersville why though
+
+976
+02:51:01,166 --> 02:51:06,442
+customer service failed I'll just started
+failed to start it
+
+977
+02:51:09,019 --> 02:51:15,566
+why did Fela start 4 cm is it from here to
+look at the database logs
+
+978
+02:51:16,378 --> 02:51:20,961
+it was working before so
+
+979
+02:51:22,935 --> 02:51:24,812
+I think I just did that today.
+
+980
+02:51:34,572 --> 02:51:42,490
+I can turn off yeah that's what I just did
+but doesn't say why
+
+981
+02:51:43,396 --> 02:51:50,003
+did you like CS Pedialyte
+
+982
+02:51:50,754 --> 02:51:52,746
+we're going to need to do
+
+983
+02:52:00,985 --> 02:52:05,161
+can I spend a long time it's been so long
+
+984
+02:52:07,216 --> 02:52:15,037
+I am so stuff I need to work with them I
+think I think
+
+985
+02:52:17,008 --> 02:52:19,639
+I think it's snowing the malls are broken
+
+986
+02:52:19,915 --> 02:52:25,509
+I know I like this method though because
+this tells me exactly what architecture
+broke it you know
+
+987
+02:52:25,813 --> 02:52:30,075
+and infostride a directory so is it okay
+
+988
+02:52:32,199 --> 02:52:34,865
+watch this if I provision is
+
+989
+02:52:36,620 --> 02:52:44,569
+it was I bet you it'll work there's
+something in the module that idea module
+that breaks it
+
+990
+02:52:47,355 --> 02:52:50,694
+and caused a postcard from not being able to
+run
+
+991
+02:52:52,879 --> 02:53:06,297
+that's my theory I really like this
+incremental provisioning approach to vagrant
+because it's like the incremental you know
+debugging of a shell script except for at a
+macro level
+
+992
+02:53:07,550 --> 02:53:13,384
+did you do something yeah I remember where
+it is either
+
+993
+02:53:15,657 --> 02:53:18,424
+and creates a halt
+
+994
+02:53:26,265 --> 02:53:31,972
+that's actually just read yes
+
+995
+02:53:40,070 --> 02:53:42,806
+fragrance
+
+996
+02:53:52,845 --> 02:53:59,963
+I mean I guess it was in the package it was
+something else I want to see asking Lennox
+package that was doing it
+
+997
+02:54:00,397 --> 02:54:06,869
+purveyor the port was already taken in and
+tried to open up again or something
+
+998
+02:54:07,885 --> 02:54:15,270
+and something to do I have I've been feeling
+had something to do with the provisioning
+not resetting everything
+
+999
+02:54:16,519 --> 02:54:21,374
+but I don't know hey how's it going and it
+gets
+
+1000
+02:54:24,749 --> 02:54:27,035
+download packages
+
+1001
+02:54:29,162 --> 02:54:36,467
+is it getting all the new stuff is an
+absolute fresh GM install so nope same
+problem
+
+1002
+02:54:37,743 --> 02:54:40,168
+cleaning machine folder
+
+1003
+02:54:42,463 --> 02:54:48,011
+where is a port forward fail
+
+1004
+02:54:48,761 --> 02:54:51,523
+you did not found
+
+1005
+02:54:51,649 --> 02:54:58,453
+2022 if you're being forced to learn it yes
+I wouldn't learn it by choice unless you're
+going to do mobile development
+
+1006
+02:55:11,307 --> 02:55:16,370
+who makes me wonder I wonder if it has to be
+in order
+
+1007
+02:55:17,098 --> 02:55:21,159
+Miss was the clients that shouldn't make any
+difference
+
+1008
+02:55:25,102 --> 02:55:35,925
+something has stopped working we need to go
+back and slowly and figure out what it is to
+stop working cuz it was working before I
+thank you
+
+1009
+02:55:39,761 --> 02:55:47,201
+unless you have Resources phone number and
+it's not just that it's I mean we will but
+it's not just that his other stuff
+
+1010
+02:55:48,758 --> 02:55:55,537
+so yeah
+
+1011
+02:55:58,159 --> 02:56:04,971
+I don't even think I made it yeah a trigger
+of won't work until that's gone
+
+1012
+02:56:06,869 --> 02:56:14,570
+which makes me wonder hey Hector I don't
+know how it even was able to do it tell you
+the truth
+
+1013
+02:56:19,946 --> 02:56:25,597
+I don't something changed
+
+1014
+02:56:26,616 --> 02:56:34,497
+so when I turn those two off and see what we
+can start it on our own
+
+1015
+02:56:35,692 --> 02:56:37,806
+vagrant up
+
+1016
+02:56:41,245 --> 02:56:47,441
+when you get back up and then we'll go check
+the first logs and start it individually
+
+1017
+02:56:48,021 --> 02:56:49,864
+it was working though
+
+1018
+02:56:52,206 --> 02:57:02,275
+this is the job this is the operation Shadow
+fortunately this is like the sis off job do
+you have to be able to install the shed and
+get it configured and also stripped it and
+coat it and stuff
+
+1019
+02:57:06,399 --> 02:57:09,315
+this is operations
+
+1020
+02:57:11,916 --> 02:57:15,877
+staring at screens scrolling past
+
+1021
+02:57:23,174 --> 02:57:27,823
+I know there's no gas Wiggins that's weird
+
+1022
+02:57:30,586 --> 02:57:38,529
+what part of the script that I break I broke
+something in here and I do not know what it
+is
+
+1023
+02:57:41,817 --> 02:57:43,622
+I think it
+
+1024
+02:57:51,636 --> 02:57:56,169
+it's funny because it was before and I just
+read provisioning
+
+1025
+02:57:56,482 --> 02:57:59,893
+it wasn't as broken or some reason
+
+1026
+02:57:59,894 --> 02:58:05,164
+I'm still blaming I'm going to blame those
+those icing ideas for UPS
+
+1027
+02:58:05,272 --> 02:58:08,441
+I think that they fuck with supposed to go
+somehow
+
+1028
+02:58:10,909 --> 02:58:18,973
+because we had I think it was coming up
+before it was due it was fine it didn't
+happen until we did the idea who posed for
+Stuff
+
+1029
+02:58:22,044 --> 02:58:27,902
+in fact I wonder if it has to have a
+configure database before we install it
+
+1030
+02:58:28,326 --> 02:58:37,858
+Nadia stuff I mean it does because I've been
+at tries to talk to post for us in the
+configure stuff even though the step says
+that comes after
+
+1031
+02:58:40,440 --> 02:58:41,960
+if
+
+1032
+02:58:47,378 --> 02:58:50,392
+or at least have something to connect you
+now
+
+1033
+02:58:57,620 --> 02:59:00,746
+so now what
+
+1034
+02:59:04,337 --> 02:59:10,509
+I mean seashell
+
+1035
+02:59:15,019 --> 02:59:22,896
+inactive systemctl enable
+
+1036
+02:59:25,015 --> 02:59:31,969
+Edwards I unfreeze be a delay and we might
+have to put it away there
+
+1037
+02:59:31,969 --> 02:59:39,905
+I meant I bet you either that or I can't
+return it like I 14 something for some
+reason
+
+1038
+02:59:40,736 --> 02:59:46,270
+enable now why I never done that
+
+1039
+02:59:51,032 --> 02:59:56,454
+I wonder is that can afford to be
+asynchronous
+
+1040
+02:59:56,772 --> 03:00:03,274
+oh and Abel starts at so she can buy and did
+not know that that's super cool
+
+1041
+03:00:05,308 --> 03:00:13,166
+loaded there we go
+
+1042
+03:00:21,300 --> 03:00:23,248
+Health Star Plus dress
+
+1043
+03:00:25,847 --> 03:00:32,056
+process starts his first check debeader PG
+data code Exodus acidifier
+
+1044
+03:00:33,301 --> 03:00:34,629
+of a dress
+
+1045
+03:00:45,419 --> 03:00:50,511
+barlog nothing here
+
+1046
+03:01:01,223 --> 03:01:06,088
+it has to be the only thing that changed was
+that module that was the only thing that
+changed
+
+1047
+03:01:11,042 --> 03:01:12,504
+is in Berlin
+
+1048
+03:01:14,844 --> 03:01:19,154
+pgs Grill
+
+1049
+03:01:24,801 --> 03:01:32,143
+what is versing France versus to new could
+be then I don't see anything here this is
+
+1050
+03:01:33,898 --> 03:01:36,714
+srpg astronomist nope
+
+1051
+03:01:40,605 --> 03:01:42,625
+PG current load file
+
+1052
+03:02:06,485 --> 03:02:13,655
+therapist vs. Fiora with locks
+
+1053
+03:02:18,210 --> 03:02:26,105
+Sherlock destination can't do it it's there
+snow postgres running
+
+1054
+03:02:32,394 --> 03:02:34,396
+and we must be missing something
+
+1055
+03:02:39,275 --> 03:02:44,199
+astride address for this
+
+1056
+03:02:46,293 --> 03:02:48,207
+I said they're doing there
+
+1057
+03:02:51,463 --> 03:02:59,005
+did you ask you out hey.
+
+1058
+03:03:02,068 --> 03:03:03,523
+Stars
+
+1059
+03:03:08,488 --> 03:03:12,229
+I mean kind of found them roots
+
+1060
+03:03:14,470 --> 03:03:19,251
+it's the right any logs though no
+
+1061
+03:03:23,434 --> 03:03:24,831
+well
+
+1062
+03:03:26,188 --> 03:03:40,232
+I'm going to transmit this is why we use
+vagrant I just want everybody who's
+questioning why am I using vagrant this is
+exactly why do you imagine having to throw
+away a system and restart it after ripping
+out of thing every time
+
+1063
+03:03:40,343 --> 03:03:46,792
+can you imagine it can you imagine the
+work-related for that it would be insane
+
+1064
+03:03:50,863 --> 03:03:53,977
+yeah where to do one piece at a time
+
+1065
+03:03:54,451 --> 03:04:00,994
+something has changed and so this is how we
+actually what has changed so
+
+1066
+03:04:02,032 --> 03:04:06,457
+intercept is already on there that's why I
+have to do for reprovision
+
+1067
+03:04:15,661 --> 03:04:20,224
+I don't think it's going to do it because
+the other stuff is already installed
+
+1068
+03:04:20,225 --> 03:04:23,908
+so destroyed
+
+1069
+03:04:29,302 --> 03:04:31,544
+destroy
+
+1070
+03:04:33,651 --> 03:04:43,158
+I just I just have to say how grateful I am
+to be able to script this if you if she
+couldn't script this oh my God
+
+1071
+03:04:42,873 --> 03:04:52,462
+it would be a disaster mention having to
+like reinstall maschine a fresh install
+every time I was doing this it would take me
+a week
+
+1072
+03:04:53,337 --> 03:05:04,903
+because I have to take it down and have to
+reinstall with the right stuff in it from
+scratch on Hardware it's insane how fast
+everything is gotten because of
+virtualization
+
+1073
+03:05:06,174 --> 03:05:17,323
+I mean I can actually isolate the bad line
+as soon as I say infrastructure as code I'm
+literally managing infrastructure as code by
+iterating immiserating over the different
+solutions
+
+1074
+03:05:20,004 --> 03:05:27,912
+we don't need a new TV oh and did you be
+certain the enabled postgres system b a
+start
+
+1075
+03:05:31,659 --> 03:05:39,554
+no I'll be really bad I would be really
+surprised if that's true
+
+1076
+03:05:42,262 --> 03:05:47,184
+it was actually starting before that's why
+I'm confused
+
+1077
+03:05:49,759 --> 03:05:52,410
+I mean it was starting
+
+1078
+03:06:00,647 --> 03:06:14,513
+yeah I have that one I was looking at that
+one but we'll go look at it again that one
+is the one that has the unit stuff in it but
+I don't think I think that extra in this
+stuff is only if you need it I can be wrong
+now
+
+1079
+03:06:14,643 --> 03:06:16,124
+so
+
+1080
+03:06:21,090 --> 03:06:28,229
+systemctl that might describe something else
+so I might go check your system C2
+
+1081
+03:06:29,762 --> 03:06:35,931
+enable that's that's no
+
+1082
+03:06:46,651 --> 03:06:52,295
+no it's still not working I don't know
+
+1083
+03:06:55,302 --> 03:07:01,155
+I swear to God it was working I swear to God
+we had it working
+
+1084
+03:07:29,533 --> 03:07:35,884
+I don't know if you know if we need
+phosphorus contribute to this says okay we
+are missing one thing we're missing
+
+1085
+03:07:36,838 --> 03:07:40,202
+set up an IP TV
+
+1086
+03:07:41,175 --> 03:07:46,281
+I don't know why we needed it to be I but
+I'm going to do it that's what they said to
+do
+
+1087
+03:07:48,370 --> 03:07:51,091
+it doesn't make sense of it or need it
+
+1088
+03:07:53,446 --> 03:07:59,002
+are they want you to run that can I see I
+see
+
+1089
+03:07:59,002 --> 03:08:05,391
+they want us to run that yeah yeah yeah okay
+that's what you're saying I'm sorry
+
+1090
+03:08:07,697 --> 03:08:09,711
+that's very odd
+
+1091
+03:08:24,444 --> 03:08:27,246
+initializing database
+
+1092
+03:08:28,778 --> 03:08:34,855
+so they actually wanted you to have a
+database you shouldn't have to do that
+
+1093
+03:08:35,233 --> 03:08:42,392
+no I do not think that is required
+
+1094
+03:08:42,803 --> 03:08:53,004
+yeah but if you know maybe maybe they're
+module but again I didn't load their module
+I got rid of it right so
+
+1095
+03:08:55,071 --> 03:09:02,057
+hey Mom puss Chris I mean why would you have
+to build a database before your navel here
+but it works
+
+1096
+03:09:02,881 --> 03:09:10,798
+I stay up with you anymore that's just now
+watch it work only shit
+
+1097
+03:09:11,084 --> 03:09:17,209
+it works so I don't question I just do what
+works
+
+1098
+03:09:17,210 --> 03:09:23,253
+well we got the bottom of that one that's
+good I learn a lot
+
+1099
+03:09:23,969 --> 03:09:30,821
+provision I turn this to fall back on
+
+1100
+03:09:42,746 --> 03:09:48,364
+and Studio
+
+1101
+03:10:02,598 --> 03:10:09,314
+yeah I don't know that's weird it works
+don't question it it's like
+
+1102
+03:10:11,235 --> 03:10:17,608
+bring it I'll see if this is enough
+
+1103
+03:10:18,118 --> 03:10:22,593
+not to destroy it all again it should be
+
+1104
+03:10:26,134 --> 03:10:29,183
+I supposed to be the reprovision but we'll
+see
+
+1105
+03:10:35,327 --> 03:10:39,354
+hey Claus
+
+1106
+03:10:43,498 --> 03:10:49,243
+sort of Happy it's sort of Happy
+
+1107
+03:10:52,882 --> 03:10:58,721
+cross your fingers 00
+
+1108
+03:10:59,233 --> 03:11:03,354
+my fans coming on my only fan
+
+1109
+03:11:08,066 --> 03:11:13,935
+it's so interesting what vagrant burning
+stuff with vigor
+
+1110
+03:11:14,679 --> 03:11:20,161
+damn it now I sing is mad
+
+1111
+03:11:20,879 --> 03:11:23,936
+all right but but I haven't
+
+1112
+03:11:27,055 --> 03:11:34,588
+plus dresses up worried about me SSH no a
+word that it's worth
+
+1113
+03:11:36,432 --> 03:11:38,282
+it's working
+
+1114
+03:11:43,810 --> 03:11:47,521
+sorry if that's too bad I couldn't resist
+
+1115
+03:11:51,663 --> 03:11:56,215
+it did mostly work it most of her cuz I
+
+1116
+03:12:03,317 --> 03:12:10,387
+give me the status statues systemctl status
+
+1117
+03:12:17,832 --> 03:12:25,240
+first currency post grass SQ it's activate
+running yay
+
+1118
+03:12:28,465 --> 03:12:35,322
+I think it is that's very possible
+
+1119
+03:12:35,586 --> 03:12:41,052
+it is very very possible actually we can
+check that
+
+1120
+03:12:41,327 --> 03:12:47,904
+yes we have ways of checking so we can check
+I sing a song to
+
+1121
+03:12:47,905 --> 03:12:52,059
+which is active so
+
+1122
+03:12:57,399 --> 03:13:04,475
+I mean it's up why was it unhappy ask me
+that again
+
+1123
+03:13:04,918 --> 03:13:06,862
+I don't even remember
+
+1124
+03:13:10,524 --> 03:13:15,246
+I have your back it up till like 5
+
+1125
+03:13:20,499 --> 03:13:27,989
+show up no that's too easy I just way too
+easy Catherine Jose again
+
+1126
+03:13:28,059 --> 03:13:31,951
+hey there we go at work see
+
+1127
+03:13:31,951 --> 03:13:36,231
+see all right
+
+1128
+03:13:37,988 --> 03:13:41,449
+hurry someone save it while it's all working
+
+1129
+03:13:45,155 --> 03:13:51,689
+it's all the modules okay we did that we did
+that
+
+1130
+03:13:53,931 --> 03:13:58,208
+I know it wasn't for scratchy right but it
+still works
+
+1131
+03:13:59,878 --> 03:14:04,250
+CV resume look look
+
+1132
+03:14:06,396 --> 03:14:08,885
+our script continues to grow
+
+1133
+03:14:19,236 --> 03:14:25,403
+all right still seems to have worked
+
+1134
+03:14:36,714 --> 03:14:43,516
+next one create that single database oh I
+know it totally is
+
+1135
+03:14:44,410 --> 03:14:57,473
+yep absolutely is and I single an ansible
+think so after this after the script gets
+done then I'll put in an ansible and then
+I'll tie vagrant to dance ansible which
+
+1136
+03:14:58,057 --> 03:15:01,488
+what should my child be to dependencies but
+whatever
+
+1137
+03:15:09,880 --> 03:15:12,990
+phone cannot change direction to Home
+vagrant
+
+1138
+03:15:16,518 --> 03:15:22,233
+okay I don't care their work
+
+1139
+03:15:32,913 --> 03:15:40,847
+this is a nice going we're going to go back
+we have like 2 tutorials going on now save
+us or save us
+
+1140
+03:15:42,303 --> 03:15:49,462
+I don't think I need this one I think he's
+having either there
+
+1141
+03:15:50,450 --> 03:15:54,002
+locate your pghboe in a configuration file
+
+1142
+03:15:56,123 --> 03:16:01,459
+and additional user with md5 as of indicated
+
+1143
+03:16:05,206 --> 03:16:08,150
+I said some pretty hairy insulation steps
+
+1144
+03:16:12,189 --> 03:16:13,630
+play singer
+
+1145
+03:16:22,241 --> 03:16:31,096
+tattoo the good thing I know VI right God
+what if I only knew Emax right now
+
+1146
+03:16:31,339 --> 03:16:36,678
+My Life Would Suck permission denied.
+
+1147
+03:16:38,428 --> 03:16:44,689
+Bite me pseudo call Cece
+
+1148
+03:16:48,460 --> 03:16:54,821
+oh did you see the kill I actually want a
+video about how to activate them yeah we
+took me awhile but
+
+1149
+03:16:57,796 --> 03:17:01,726
+is install instructions of Soul 1990s
+
+1150
+03:17:02,329 --> 03:17:05,827
+imagine just knowing that hoe I know
+
+1151
+03:17:06,534 --> 03:17:18,579
+I didn't they did they being my workplace
+and so now I'm forced to talk to it even
+though I don't not sure I would do for me to
+screw phone at today
+
+1152
+03:17:18,950 --> 03:17:31,385
+as my main thing if I had to pick but but
+they have I single leftover and it's a core
+thing until after they're not talking to it
+and understand it it's I think it's out
+there are a lot of single in audiosurf out
+there
+
+1153
+03:17:31,386 --> 03:17:36,222
+so so what do we put in here
+
+1154
+03:17:36,776 --> 03:17:44,438
+I'll go see you soon so I can system she's
+out restart postgres now in front of these
+lines in there
+
+1155
+03:17:44,448 --> 03:17:52,233
+yeah alright what if we just counted them
+onto the end of it I think that's what we
+can do
+
+1156
+03:18:06,274 --> 03:18:11,669
+going to have to use my cutting his buffer
+
+1157
+03:18:19,573 --> 03:18:26,599
+huzzah huzzah huzzah restart
+
+1158
+03:18:28,019 --> 03:18:35,526
+Sirius system this is like this is the job
+people
+
+1159
+03:18:35,527 --> 03:18:38,493
+walking around with stuff like this
+
+1160
+03:18:43,720 --> 03:18:50,590
+that seems to have worked I think that's the
+Kennedy for provision change
+
+1161
+03:18:54,450 --> 03:19:01,491
+pseudo I can't
+
+1162
+03:19:03,015 --> 03:19:04,656
+no I go
+
+1163
+03:19:08,422 --> 03:19:13,619
+Echo to the eom all of this shit
+
+1164
+03:19:15,286 --> 03:19:20,140
+nope 2
+
+1165
+03:19:22,250 --> 03:19:23,453
+that
+
+1166
+03:19:32,960 --> 03:19:35,343
+I can be sure what's a latest version
+
+1167
+03:19:39,509 --> 03:19:42,039
+cuz it's running on the system
+
+1168
+03:19:46,080 --> 03:19:50,907
+eventually need to go in and icing a thing I
+am
+
+1169
+03:19:51,601 --> 03:19:54,767
+this is actually running on the machine so
+
+1170
+03:19:56,494 --> 03:19:59,604
+it gets it gets copied over apparently
+
+1171
+03:20:14,132 --> 03:20:28,590
+it's my first time using a single yep I'm
+just saw him for the first time getting used
+to it I have to write some monitoring
+software that works with it at work so I
+need to learn it real quick really quickly
+just in time learning people
+
+1172
+03:20:28,635 --> 03:20:35,004
+just-in-time learning if learn something
+like everyday in like an hour or two if you
+can't you just job is not for you
+
+1173
+03:20:35,067 --> 03:20:39,506
+if you don't want to do that if you're
+unwilling to do that
+
+1174
+03:20:42,326 --> 03:20:48,966
+you like it we probably could have written
+this are I just realized
+
+1175
+03:20:55,866 --> 03:21:02,288
+I just realized we can probably do the
+restart after this
+
+1176
+03:21:07,068 --> 03:21:08,871
+I don't care
+
+1177
+03:21:16,542 --> 03:21:18,623
+I need to write
+
+1178
+03:21:18,623 --> 03:21:26,203
+an application that calls a rest API to send
+a check to it if you have any information
+about that I would appreciate it
+
+1179
+03:21:29,976 --> 03:21:46,644
+I'm from Cooper Nettie's I need to check on
+a filled storage class that's backing PBC
+specifically for Domino and then tell I sing
+about it so we can notify us
+
+1180
+03:21:48,597 --> 03:21:54,994
+because you don't have me this everything
+else doing it I mean we could do it for me
+this but
+
+1181
+03:21:57,495 --> 03:21:59,658
+back 3 yd
+
+1182
+03:22:01,186 --> 03:22:08,666
+about an hour I'm exaggerating it took me a
+while I've been working on this since 9 my
+you know
+
+1183
+03:22:09,376 --> 03:22:18,025
+you going to be able to learn pretty complex
+talking about a day and you have to
+constantly be learning new things and I'm
+learning that I've fallen behind on a bunch
+of stuff already
+
+1184
+03:22:18,025 --> 03:22:24,711
+so that's kind of the it's kind of the thing
+
+1185
+03:22:25,140 --> 03:23:21,932
+I know I mean the specifics aside the job is
+constantly refreshing your knowledge of
+whatever is immediately necessary I
+installed and deployed postgres at 8 p.m. to
+handle the data store with terabytes of
+information for 52,000 machines for out of
+compliance and I have no fucking idea how to
+do Post rest today I did that in 2006 so the
+point is you're constantly cycling your
+knowledge you're always cycling your
+knowledge and you know I did not get us a
+long time ago I mean there's always
+something is coming to the Forefront that
+you have to relearn a remember and so having
+I like a really amazing no taking strategy
+and and being you want me to sing with
+hacking right in being able to to learn
+quickly and to refresh your brain cuz your
+memory is not going to be able to remember
+everything like me
+
+1186
+03:23:21,940 --> 03:23:29,633
+the concept stay the same there'splay the
+saying there's monitoring there's databases
+that kind of thing I just got comfortable
+yeah
+
+1187
+03:23:29,862 --> 03:24:15,909
+yeah and I I hate losing this time but but
+it's a part of the job I mean you can't you
+can't work with technology until you
+understand it and if you try you're going to
+end up being in more trouble and I probably
+spent too much time researching Tech but I
+have to because I don't feel comfortable in
+a breaking a thing nothing to you need to be
+able to run your own lab and this is my
+opinion there's a lot of people who do not
+agree with me that tennis us agree with me
+and I are just wrong and respect him as it
+energy or he's one of our streamers over
+here had underscore tennis and to do the
+minimum and not do any of this and that's
+fine too I know I'm not that person vasotec
+is basically service waiting for external
+
+1188
+03:24:16,814 --> 03:24:21,202
+input while not excluding active check
+possibility yeah
+
+1189
+03:24:22,819 --> 03:24:33,321
+that's the thing I was afraid of because I I
+mean if it says anything like doggy to see
+if they can write a monitor for it right
+well what is it that's that's kind of pull
+Monitor and
+
+1190
+03:24:33,497 --> 03:24:38,214
+I'm going to have to write a check that I
+can talk to I'm going to push the
+notification
+
+1191
+03:24:38,263 --> 03:24:45,468
+and I don't I don't remember Nadia's having
+push methodology
+
+1192
+03:24:45,468 --> 03:25:11,332
+it was more about you write a check and then
+it would go out and do the thing is that
+more of a pole do with the Demi check yeah
+that's what I was afraid of because it is
+more of a whole system in a push right about
+that and basically saying do the minimum and
+it shows and I will give you the fun stuff
+basically you with the extra mile you could
+do the fun stuff and sulli
+
+1193
+03:25:11,334 --> 03:25:12,715
+yeah
+
+1194
+03:25:12,730 --> 03:25:20,825
+and that's that's what I get for a
+contractor you don't get to do the fun stuff
+anyway because the full-time people get all
+the fun stuff
+
+1195
+03:25:20,827 --> 03:25:37,627
+so you better make sure that you have
+another source of fun in your life like
+livestream because they're not going to give
+you the fun stuff you're just a lowly
+contractor doesn't matter at this is
+something I learned in my I'm totally okay
+with it so anyway
+
+1196
+03:25:37,629 --> 03:25:42,142
+have a great day miss versus you to import
+the audio database schema to find command
+
+1197
+03:25:44,831 --> 03:25:51,357
+yeah it's always a price to be a contractor
+there's there's supposed to take us to being
+a contractor right
+
+1198
+03:25:51,358 --> 03:25:56,141
+and there's lots and lots of benefits to it
+
+1199
+03:25:56,141 --> 03:26:12,940
+it has given take it's like should you be a
+contractor or not there's a whole
+conversation that we should probably do a a
+Sunday call-in talk day on that just thought
+it should be a contractor or not what the
+contractor life vs. Contractor life they're
+very different jobs
+
+1200
+03:26:12,941 --> 03:26:16,792
+yeah so
+
+1201
+03:26:18,199 --> 03:26:26,418
+you're thinking about it as being a
+contractor I've noticed is that even if my
+immediate so there's a kind of their kind of
+the Dilemma
+
+1202
+03:26:28,140 --> 03:26:36,285
+as a contractor they deliberately are not
+going to give you the stuff that will avenge
+your career and be fun to do
+
+1203
+03:26:36,287 --> 03:26:44,455
+it doesn't mean they're being mean they just
+like to keep that work for their full-time
+staff and that's totally understandable I
+would do the same thing
+
+1204
+03:26:44,456 --> 03:27:41,254
+but that means that if you want to stay
+current and the ironic thing is to sit as a
+contractor the reason you're a contractor is
+because you can pop around in your being
+expected to know the latest and greatest
+thing so you can work on any engagement
+anytime so teksystems can place me with
+another company and it's up to you to keep
+up-to-date even if the Contracting the
+company that account for what you're working
+doesn't give a shit about you and they maybe
+there's some I remember having some
+contractors when I was a Nike that they sat
+in my cubicle a program that just sucked all
+my data out of me they had no idea how to do
+shit it couldn't do anything and I resent it
+actually talked to my manager I said this
+contractor is actually costing us money
+because I'm spending all my time training
+them they're pretty much an intern I said I
+don't know how much money you're paying this
+person but you need to stop and so
+
+1205
+03:27:41,261 --> 03:28:03,359
+as a contractor it's your job to not get in
+the way first of all and that means a lot of
+times during your ass to do or suggesting
+proposing things in and having them okay if
+for you because you need to be different I
+I've learned this the hard way you need to
+be different to the people that are
+employing you at the account they are the
+bosses they're the ones and you don't resent
+them for doing the fun stuff that's their
+job you were there to help them that is your
+job
+
+1206
+03:28:01,856 --> 03:28:51,001
+that is your job and if they don't give you
+the fun stuff you still have to learn the
+fun stuff you have to learn it somehow and
+guess what the reason that that is the stuff
+that you have to do you somehow on your own
+time or you have to be able to rationalize a
+certain amount of time doing that on the
+clock because you can't be a decent contract
+with that doing it if you spend all of your
+time on the clock charging the customer for
+learning is something that you should
+already know or something that might be
+crossing over like this contractor that talk
+to me it's one thing to spend a lot of time
+learning on your own and then getting up to
+speed so you can help the company in the
+contract that's one thing it's another thing
+to sap the time of the people for whom
+you're trying to help that's not okay it's
+never okay and you keep doing that you get
+fired
+
+1207
+03:28:51,319 --> 03:29:00,813
+I know because we had a contractor fired for
+that very reason they have no business being
+there probably getting double we are
+probably paying him double or triple my
+salary
+
+1208
+03:29:01,451 --> 03:29:06,262
+hi I know this is my first time
+
+1209
+03:29:06,811 --> 03:29:39,908
+is my first time a first-year being a
+contractor or coming up on I'm coming up on
+a Fleer I really like it but I just trying
+to tell you don't feel guilty spending time
+keeping up to date on things because your
+contracting company that hires that are
+Contracting firm doesn't care about you as a
+company they don't care about you and their
+people are going to put their full-time
+people above you which means you've got to
+enter if you work for a Nexus to do
+something like that they have a meeting
+every week and they provide tons of
+resources and training and stuff like that
+so you can keep up-to-date
+
+1210
+03:29:40,490 --> 03:29:46,133
+the nearest ramen ya yeah yeah
+
+1211
+03:29:50,134 --> 03:30:07,747
+I know right I don't want to give you the
+fun projects that will get you a job next or
+leave they because they give those to their
+full-time people so I'm just telling the new
+Dynamic of Contracting and you I love you
+too since you can give $0.25 if you want
+
+1212
+03:30:08,404 --> 03:30:13,805
+is this yeah he was having freedom
+
+1213
+03:30:15,934 --> 03:30:27,084
+oh God yeah as much anyway they do have some
+but not as much as my wife's a genius
+
+1214
+03:30:27,106 --> 03:30:34,281
+she is have I tried startups yeah I run to
+start straight years
+
+1215
+03:30:34,948 --> 03:30:39,917
+the person you're a business person or you
+have a partner as a business person
+
+1216
+03:30:41,520 --> 03:30:45,614
+yeah don't do it I don't do a startup
+
+1217
+03:30:45,615 --> 03:31:02,212
+not by yourself anyway I did was a bad idea
+I loved it is one of my greatest
+accomplishments the greatest times but I
+would never recommend etemad again
+especially in America where you have no
+safety net for 8 years I had no insurance
+
+1218
+03:31:02,213 --> 03:31:11,666
+contractors are not paid more no God no
+contractors the company that contracting
+company is paid more
+
+1219
+03:31:12,120 --> 03:31:17,339
+the number I read over and over again is 60%
+
+1220
+03:31:17,437 --> 03:31:29,897
+if you take what you make as a contractor
+and you add on 60% that's the money that
+you're making out there in industry
+
+1221
+03:31:29,942 --> 03:31:36,268
+cuz like if you were going to be hired full
+time if you want to accept a full-time
+position
+
+1222
+03:31:36,268 --> 03:31:49,898
+that's how much overhead they have to pay to
+have you be there I believe that and most
+companies don't give a shit most most big
+companies the money issue is not an issue
+until it becomes an issue and then they
+start chopping people high
+
+1223
+03:31:49,901 --> 03:31:56,443
+I yes okay let's go for a walk
+
+1224
+03:31:56,443 --> 03:32:04,149
+I'm going for a walk I'll be back I don't
+know when though
+
+1225
+03:32:38,049 --> 03:32:40,976
+I'll see you in a bit
+
+1226
+04:03:16,133 --> 04:03:18,997
+haven't going to stop the stream I'm sorry
+
+1227
+04:03:22,552 --> 04:03:28,073
+having some lunch I'll be right back as soon
+as I should have killed it when I went out
+for a walk
+
+1228
+04:03:28,427 --> 04:03:34,632
+I know I'm here but I think I'm going to go
+ahead and take a break and restart the
+stream to that
+

@@ -1,0 +1,866 @@
+1
+00:00:02,785 --> 00:00:08,542
+alright so here we go I'm going to go ahead
+and is it going
+
+2
+00:00:18,854 --> 00:00:27,872
+I said there's going to be a quick video
+about how to do closed captioning twitching
+what's at me they saw this on SodaStream the
+other day
+
+3
+00:00:28,024 --> 00:00:44,150
+and I was immediately intrigued I was like
+wow that looks like really professional how
+do they do that that's been around forever
+apparently I just hadn't noticed on a few of
+the few people streams so what is it you get
+this get this closed captioning like thing
+right here
+
+4
+00:00:44,892 --> 00:01:18,075
+two people screams instead of streams the
+closed captioning is pretty good actually it
+uses Google closed captioning it for free
+there's nothing to really pay for and there
+are some gotchas however so actually asked
+her to be a grim underscore Grandma who is
+another streamer that I like to watch and
+talk to as well as the Linux gaming guys who
+were you know as usual helpful but sort of
+annoying
+
+5
+00:01:18,509 --> 00:01:31,548
+and they made a video about if their video
+misses so many details not to mention it has
+use a gooey the whole time I mean come on so
+let me show you how to do it so the first
+thing you do
+
+6
+00:01:32,886 --> 00:01:35,449
+is you make a script
+
+7
+00:01:37,126 --> 00:01:46,021
+I know you don't think you should make a
+script but let me show you what let me show
+this to before I do that so here's what you
+get when it works
+
+8
+00:01:46,164 --> 00:02:17,870
+when it works you get this you get a no BS
+that has captions down here to tell you the
+pre at the it tells you that the caption in
+real time that it's going to be putting on
+your screen and it sends the closed captions
+to the closed caption channel so that you
+know you can use it now if you want to you
+can monitor I just obviously just from the
+screen and sometimes I do it that way but in
+this case I have it
+
+9
+00:02:17,874 --> 00:02:22,004
+I just look at the screen up there and I see
+what's what it's going to do is really great
+
+10
+00:02:22,221 --> 00:02:30,584
+it's pretty good for those people who want
+to like I mean obviously closed captioning
+is great I read a thing that says 60% of
+everyone
+
+11
+00:02:30,585 --> 00:02:51,794
+who does streaming videos on Facebook I
+don't know if that's a good thing I don't
+have Facebook is this video silently so I
+did not have a castle for this but I can get
+the video I'll show you everything so and it
+may seem
+
+12
+00:02:51,884 --> 00:02:55,746
+maybe it really isn't that hard as 80%
+
+13
+00:02:55,836 --> 00:03:00,752
+and I'm so here I hear the links to it
+
+14
+00:03:00,753 --> 00:03:07,893
+so it's the obvious project is where I read
+about it the
+
+15
+00:03:09,718 --> 00:04:03,537
+and and then I linked to a script that will
+do it for you and we're going to go look at
+that script right now so I have a script I
+think everybody should have their own
+installer scripts because you never know
+sometimes something's going to be on one
+platform sometimes it's another sometimes it
+just doesn't work so the main stuff that I
+have I usually make a script to tell me what
+I'm going to do and how to do it I don't
+necessarily run it every time it's not
+automated I just go in here and at it when I
+need to so this was called install a home
+yes I'm going to go see how the script works
+and what it does and and some of the stuff I
+had to add to the script in order to get it
+to work no matter what so if you go to rat
+with a compiler OBS plug-in that's the
+plugin
+
+16
+00:04:04,056 --> 00:04:16,914
+I don't copy that link and I'll open it in a
+graphic browser just so you can see it's
+actually it was actually because I opened it
+in a graphic browser that I caught the error
+cell
+
+17
+00:04:17,048 --> 00:04:26,229
+I know it's one of those few times and you
+can say using a text browser was a bad idea
+because when I went out to the releases
+
+18
+00:04:26,229 --> 00:04:41,865
+they're just clothes capannari ice plug in
+it has insulation know it's kind of light on
+instructions for installation for for Lennox
+and it says it's not working now this is a
+thing you need to know what is it says
+requires a 27 and mine
+
+19
+00:04:40,574 --> 00:04:55,077
+and mine is not do 7 to standard one that
+comes with Papa West a little bar behind a
+little bit but it's not too far behind and
+then you go down here the Linux one and it
+says the same thing it does have people
+caption on and that says year
+
+20
+00:04:56,037 --> 00:05:02,743
+the anything after 24 has it where does it
+say that
+
+21
+00:05:03,297 --> 00:05:09,054
+that's really messy dogs but you know so
+let's go through what's required
+
+22
+00:05:09,658 --> 00:05:11,991
+so there's a number of releases
+
+23
+00:05:13,739 --> 00:05:18,464
+most the last two releases are
+
+24
+00:05:19,325 --> 00:06:09,272
+required to 7 or higher and I don't have to
+7 so when the you know Linux gaming guys
+said oh yeah she doesn't work it doesn't
+work it didn't work I was right you and I
+had to go back three versions two or three
+releases in order to get it to work on my
+resume over yes it does work you just have
+to have the right information and just
+saying it works cuz it was kind of you know
+Annoying actually because I did have to go
+through and look at it but it got me to read
+this and that's when I read this it was just
+a seven or newer and that obviously let me
+to write a script so let's just jump right
+into script obviously that's how I do
+everything so that the first things first we
+want us we want to see
+
+25
+00:06:09,277 --> 00:06:43,785
+went to show you what every step here
+doesn't disrupt we want to see we want to
+see if we have a couple beers at all so the
+standard way is worse than politics and
+everything is standard way to look up a
+script and to i m anything to look up an
+executable and see if it exists and get the
+path to it is to use command Ashby people
+may not know that some people use type over
+yes this does not always work at will tell
+you if it's there which OBS will tell you if
+you have a an executable in the path
+somewhere
+
+26
+00:06:43,788 --> 00:07:28,652
+but almost always you want to come and ask
+me and you can read about that help command
+it's a Bosch built-in desk be printed
+description of command somewhere or to the
+type built-in use the default password pad
+everyone for what's the scripture for the
+commander whatever so that does give you the
+exact path if it exists right if it doesn't
+exist it won't do anything so there's no
+food so that's the real important thing here
+so if there's no ovs this will be blank and
+then this text to see if it's blinking is if
+there is a gives you an error and exits
+program so that's that's what that's at if
+it does exist we're going to use dashes
+because we need to get the version now
+there's no clean version here so we have to
+do
+
+27
+00:07:28,658 --> 00:08:26,096
+this dirty version and we have to parse it
+up so that's what this is this is using an
+extended regular expression people are
+saying why don't use backslash D cuz that's
+a pearl regular expression just so you know
+so we have this as a new dose of parentheses
+around each one you have the backsplash the.
+Otherwise it needs any character so we're
+looking for this right major version minor
+version and password is not technically the
+patches all that but I don't care so we're
+going to get all that just cuz I found a new
+batch rematches zero that would be the whole
+match everything that matched but in this
+case we're just looking for the
+parenthetical matches which is the numbers
+at the says any numbers are so high this is
+zero or one or more of those numbers so
+remember I once again always use double
+brackets in batches safer it's the way to do
+it if you're doing it with single brackets
+are doing it wrong
+
+28
+00:08:26,103 --> 00:09:07,751
+you're doing it wrong it's unsafe it's a
+necessary it's overly complicated you should
+be using double brackets for double
+parentheses in bash and nothing else soon as
+you put back up there you've written off on
+that this is bashus so then you put your url
+no I think it's cool that get home is it
+does have a standard location in their API
+to get the latest and you can pull down that
+API anytime but if the version is less than
+27 then as it said in the release notes we
+will actually want a specifically tag
+release No thank God I just took me a little
+time to find so
+
+29
+00:09:07,755 --> 00:09:22,010
+I was like Hey I just want the release I
+don't want to get all the releases right if
+you just do if you leave these the stuff off
+do any of this stuff up here to get all the
+release of some I know I don't want all the
+releases I just want a single release and
+the most people will tag their releases so
+he
+
+30
+00:09:20,513 --> 00:10:12,914
+the release is so he can actually get that
+by doing tags and that's what we did here at
+this is the one I want is the one that works
+and so this gets me the same thing as this
+except just for this release it said latest
+will get me the latest okay so so that's
+that's that these double print that Ackles
+are just the smartest easiest way to do any
+condition that involves math and you can
+actually do math in there you can add 1 + -2
+and everything so anytime you're doing a
+Bosch condition that has math involved or a
+map comparison use double parentheses I
+don't know why people are doing the old
+ancient shit the gate so do this it's like
+so much safer so much easier you don't have
+to put a dollar sign in front of your very
+real names it's beautiful it's safe it's the
+way to go
+
+31
+00:10:12,920 --> 00:10:16,828
+so then we go down here and
+
+32
+00:10:17,647 --> 00:11:09,525
+we're going to grab the directory so we make
+a temp directory that SD says to make it a
+real people don't know about this game and
+I'm surprised how many people don't know
+about this game and this will just give you
+a standard tip for a place that there is
+temp space and it's very safe to do that and
+then you just can remove it later by the way
+if it has something in it you are forever
+not just use under because it'll keep you on
+save you from all kinds of nastiness that
+you know it could do that and I'll get rid
+of it will be cleaned out a nola commercial
+file system used to be and when she just
+lives in memory and these days not disc
+these days temp is actually on disc it's a
+part of who file system and it gets cleaned
+up by a script that removes everything when
+you reboot the so just know that
+
+33
+00:11:09,530 --> 00:12:05,453
+and you go down to your working directory
+absolutely better to use parentheses
+absolutely absolutely it's easier to read
+it's what you expect it allows you do
+mathematical calculations so you can do + +
++ + 1 + + 2 and I love that you can actually
+do a mathematical comparison that you had to
+using this stupid clue g2gt shit from how
+these days that stuff is so old you should
+never put that in a batch script ever not if
+it's in a look as soon as you say you're
+making a bash script you can use Bosch and
+all the safeties inconvenience is a badge
+and you don't have to regret it if you are
+for some reason stuck in politics unsafe
+land then you know you have to stick with
+that but very few people are required to do
+that that's the reason to not use seashells
+seashell will ruin your day because it does
+matter completely differently and cuz it
+attempts to be floating Point method should
+never do
+
+34
+00:12:05,460 --> 00:12:39,388
+all right so you show us a horrible mistake
+people that have been Coating in it are they
+have no idea how much danger there putting
+themselves in if their codeine zshell if
+you're going to code code in Bosch I don't
+care if users each other's redirect the
+Shelf I'd code in Barstow Echo working
+directory alcaiceria go girl so this what is
+this do so this is a silences girl Reader X
+if necessary it goes to the URL and download
+the file as release that right
+
+35
+00:12:40,621 --> 00:12:45,694
+I think I didn't leave something here
+DirecTV now
+
+36
+00:12:47,763 --> 00:12:54,656
+yeah we share we should we should have
+redirected into there I think I did think I
+deleted something on accident
+
+37
+00:12:55,073 --> 00:13:06,269
+give me a second cuz we're not either that
+or I did it wrong with plaster dish for
+dinner. Yeah I did so wait this will
+actually be the seed eater there we go
+
+38
+00:13:06,271 --> 00:13:16,994
+there we didn't see the internet was a
+mistake and left that there from last night
+alright so we need a to see changing the
+directory and Dad's house when you're
+working for his
+
+39
+00:13:16,996 --> 00:13:18,840
+curl
+
+40
+00:13:18,861 --> 00:13:27,598
+Dash SSL so that grabs it in the downloads
+of all companies that Jace I think I might
+have a release for you file on her nope okay
+
+41
+00:13:27,600 --> 00:13:40,902
+and then I'm going to grab the name off of
+the cash to Json file so this gets the name
+off and should we should we do this so you
+can see it so
+
+42
+00:13:41,157 --> 00:13:55,818
+but bottom line we're just getting we're
+grabbing or grabbing the thing so we can get
+the the the data off of it now but I think I
+still have unless you had curled Ash SSL
+
+43
+00:13:55,819 --> 00:14:01,502
+GPS API. Get out a calm repose are rats
+
+44
+00:14:01,058 --> 00:14:04,708
+are rats with a compiler
+
+45
+00:14:05,103 --> 00:14:09,386
+I think you need that OBS died captions
+
+46
+00:14:10,089 --> 00:15:05,202
+captions. Plug-in releases / tags / b02 at
+1:18 be all right so that it now get the
+file never go list of stuff that violin
+release. Chaisson and now we can use JQ JQ
+is the modern said I feel like it's so
+significant it should actually be included
+in the standard distro all standard
+discharge but it's not and we can go grab
+that thing we want and get the name out of
+it so there's the name you get all kinds of
+stuff we can get the assets to the assets is
+a group you have to put a CD I have to go to
+the McCords there's all the assets let's
+look at the name of all the assets there's
+the name of all the assets and I kind of
+cheated I probably could have isolated this
+more directly but I did and I just passed
+out to grab for Linux
+
+47
+00:15:05,423 --> 00:15:19,503
+cuz I just wanted that one I'd want to get
+rid of the the quote so we do. You already
+get rid of the quotes but but yeah that's
+what today so that's how we got the name
+
+48
+00:15:19,607 --> 00:15:30,965
+and then we come up here we get the URL in
+the browser download URL as the magical
+thing that you really want that is like
+really amazing I didn't know it was there
+before yesterday
+
+49
+00:15:31,059 --> 00:15:59,452
+and it's only on the releases 8 news did it
+be a convoluted way to get this but this is
+guaranteed to be good no matter what and
+they name the resources right so that we get
+that that's the URL that we need to download
+so then we can obviously we can curl l o
+that the data shows the capital O says keep
+it the same name but and the elders
+redirected kisses 82. So yes let me unzip it
+
+50
+00:15:59,456 --> 00:16:32,929
+and we get some stuff right and inside of
+there is a big along the rectory this the
+same name with this right so far without zip
+on the end so that says move that thing in
+there are called this which is the plug in
+and move it into the standard plugins
+location is it standard for all ovs on Linux
+so if you need at Safeway I know that
+because I already have the streamelements
+plugins working for Lennox using this same
+method so so there you go
+
+51
+00:16:32,932 --> 00:16:35,840
+and what else we got
+
+52
+00:16:37,886 --> 00:17:39,167
+I need music's too loud turn down so let's
+let's go ahead and just remove that is what
+the script it's in my dog files so give her
+a .docx files are available over at it
+started back to Rob's house. And then go to
+cedi in to install and you'll see it in
+there and you go get the script yourself and
+do whatever you want with it you know it's
+saved so far we've tested it and I want to
+show you what it actually does so so that
+puts a file in your home. Config Dodge OBS
+streaming this stuff to some of the stuff
+there at that plug is is a mistake and if
+that's not a thing I needed to leave then so
+here it goes here's a bath. Can take OBS
+studio and CD into plugins I'm eating ice
+cream keys or something here so don't you
+know this is just
+
+53
+00:17:39,177 --> 00:17:42,220
+this Linux browser is something from
+
+54
+00:17:43,815 --> 00:18:28,916
+that's something for the streamelements It's
+actually an amazing plug-in if you ever get
+a chance of whether it it will automatically
+turn any state full I keep the connection
+open website into a plug-in and I mean into
+something you can put on your screen any any
+website so you can actually make your own
+websites that that that tie into things and
+you can make your own extensions for for for
+streaming anything anything that you can
+make a deal website can be turned into
+something that could be put on the screen
+it's pretty amazing so anyway based on that
+but we're talking about that the Google
+plugin so we have this this plug-in I'll
+just wait for him out of it
+
+55
+00:18:28,922 --> 00:18:42,010
+as you can see there's nothing much in here
+I just to show the library and then you have
+to restart o b s course and when you do you
+get this you get this thing will pop up
+right away and it might all I got it so I
+know tell you that is disabled
+
+56
+00:18:40,482 --> 00:18:48,498
+tell you that it's disabled and they have to
+do a little bit of configuration which I'm
+going to show you so you can cook on the
+gear thing here
+
+57
+00:18:49,132 --> 00:19:49,354
+and you have to make sure that captures are
+unable to hear you have to turn into the
+source I put the mic if you're doing
+anything fancy like mixing stuff might be a
+bad idea to do that I'm really glad that
+I've got a separate Mike channel for my
+desktop audio I did that so I can filter out
+music in my twitch vod's and it was kind of
+annoying because you wouldn't want to
+monitor myself I can't tell the sound levels
+properly but I just use visual indicators
+for sale Elizabeth a really great thing
+about that isn't my mic is on its own
+channel so I can completely turn off the
+desktop and just have the mic still work
+when I need to and also means is that the
+only thing going into this look up shooting
+ingestion is my mic which means it doesn't
+have to filter it out we had somebody while
+I was doing this noticed that they were
+using something alive captioning it's a
+plugin for Chrome that would do the same
+thing but it tries to pull your voice out of
+all of the noise coming from a given YouTube
+channel or something or twitch stream and it
+was failing and you like why I switched
+
+58
+00:19:49,364 --> 00:20:21,155
+it's more effective and I'm like because
+it's just taking in my voice is not taking
+my voice in the music like y'all are here it
+it's just the only thing being sent to
+Google is was coming into this mic and even
+though it gets a pretty bad sometimes it's
+still better A lot better because you know
+and it forces me to talk to enunciate a
+little bit better but it's works is
+beautiful and wonderful so I said that
+Captian sources heard on stream and that I
+thought was interesting so
+
+59
+00:20:21,159 --> 00:21:04,588
+yeah I don't know what that is exactly I bet
+all I know is that I put that on I kept
+streams only you can actually do this for
+recordings I read some problems with people
+having it over take the captioning that
+comes from YouTube and having like multiple
+captioning on top of each other I don't know
+if it's worth trying I haven't tried to do
+it as a recording because YouTube does such
+a good job at doing its own thing and I
+don't normally have sound and in the
+background I let you two do the captioning
+so I Let It Be Strings only just for twitch
+and I bumped the number of lines up to 4
+
+60
+00:21:05,174 --> 00:21:11,826
+and what is the guest call from Discord
+notification I don't know what you're talkin
+about
+
+61
+00:21:11,826 --> 00:21:19,882
+I'm just talkin on Discord if that's what
+you're talking about I guess call from
+Discord notification is that a thing
+
+62
+00:21:20,439 --> 00:21:56,642
+I don't know where and I don't know what to
+talk about so so here we have lines at 4 I
+put 4:00 because I talk really quickly so
+that gives people more option their Force
+line breaks I did not do that at profanity
+filter off my status line taking calls I'm
+just going to guess that means I am in
+Discord right now and you can go into the
+stage and raise your hand if you want to
+talk about something have a question if you
+want otherwise we'll just talk about
+profanity filter off English caption timeout
+
+63
+00:21:56,647 --> 00:22:00,128
+I think I don't know I think that time I was
+fine
+
+64
+00:22:00,480 --> 00:22:50,684
+because I show preview here and I'll just
+give you a little pop-up box but this
+preview is plenty good make sure you click
+on Save and you're good to go it literally
+just starts working this is the greatest
+thing of although you can save transcripts
+that go with your streams I've been saving
+them to my zettelkasten Revo so that I can
+grasp through my transcripts for that one
+video where I talk about Dustin such I can
+actually find what video it was on what day
+and what time and when I talked about
+something I can't tell you how valuable that
+is even if I don't get the ACC correct cuz
+my voice is unclear whenever the chances of
+me being able to search back through hey
+remember that time when we talked about this
+and such and I can go back I can actually
+search back through the transcripts which
+are logged
+
+65
+00:22:50,686 --> 00:22:57,172
+and look at that stuff affect the kind of
+want to do that right now I haven't done it
+yet so the CD and is that
+
+66
+00:22:57,188 --> 00:23:04,386
+CD into transcripts and there's a my
+transcripts for today
+
+67
+00:23:04,397 --> 00:23:10,212
+I'll see what's in here so there you go
+
+68
+00:23:10,212 --> 00:23:16,943
+oh my God that's so amazing isn't that
+amazing that's okay
+
+69
+00:23:17,589 --> 00:23:25,463
+is it has it has the time it has it has the
+awesome oh my God that's so amazing
+
+70
+00:23:25,906 --> 00:23:46,075
+I love that it's so amazing and has a date
+so I can like search through so I can just
+grab that stuff and it remember that one
+time you talked about that one story when
+yeah it's like if you're if you're somebody
+who streams as much as I do and talks
+randomly as enough about as I do you let you
+know where this is going next right
+
+71
+00:23:46,168 --> 00:24:25,460
+you know where I'm going next to this right
+the next place I'm going with this is I'm
+going to make it so that my users can search
+my transcripts for something that was spoken
+on a given day for the last 60 days so I'm
+going to make I haven't done it yet but I'm
+going to make some sort of interface it's
+already actually there right now because
+it's in my metal casting so you can just
+search anything in my stomach acid and that
+if the key word will show up in a given
+transcript it's also another reason that I
+am going to start it's in my that's already
+yeah it's already there
+
+72
+00:24:25,467 --> 00:25:25,799
+it's already in my stomach as I just don't
+save it after each one I have to remember to
+go in and save it so if you go through and
+you searched my set and I already have that
+right so is that is that query oh yes it's
+okay I got you get it look like on the link
+and you can go find everything in OBS that
+is in a related everything in my zone Castro
+Valley to OBS like literally every single
+file that has a you get searching for free
+if use GitHub it's one of the reasons I use
+get her bra and I don't use a website if I
+had a website I'd have to create my own
+search index or hopefully wait around for
+Google to get it this stuff is available
+almost instantly new commits are indexed by
+get him almost instantly so you have a
+built-in free individualized search engine
+and get home so some of the main reasons I
+don't feel a lot of you know I don't feel
+compelled to put a website out there
+
+73
+00:25:25,807 --> 00:26:20,578
+eventually so that it can be searched and so
+is still have footballs up on search engines
+but my transcripts are also in there so it
+literally everything I've said that I care
+to keep a note on whether it's in a stream
+or is just me writing it's all goes into the
+same place that can all be searched all I
+have to do is build a slightly nicer search
+front end on that and what happened boom
+you've got you've got your own complete
+search ability in that that's tremendously
+valuable somebody like me so I mean that's
+not the kind of thing that other people
+reviewing adding the closed captioning
+plug-in would probably talk about to me
+obviously it's like really critical and
+really important to be able to do that and I
+want to make sure those doing streaming for
+education or for any other purpose know
+about this because it's so valuable not just
+for the obvious reasons for accessibility
+but
+
+74
+00:26:20,585 --> 00:27:20,723
+but because you get so much more you know
+you can you can share your content you can
+you can share your stories you can use it
+for dictation it uses the greatest I hate to
+say it but there's a lot of things about
+Google I don't like but Google has hands
+down the best natural language processing on
+planet Earth my Google pixel is remarkably
+accurate is still makes mistakes but it is
+so accurate and you have that access to that
+intelligence at mass of natural-language
+model that they have used and constructed
+over time it almost makes it worse than
+violating our privacy for Less to do 15
+years not quite at yes it's been able to
+transcribe the video all by itself is good
+and so then it'll really great thing cuz you
+might do a video and you might talk about
+something and say okay well what order did
+we cover things in right so you can go
+through the
+
+75
+00:27:20,729 --> 00:28:01,912
+video and search it I'm not prepared to do
+put all of those comments in the description
+section of a video I think it would be too
+much text to do that but I'm not beyond
+having a video link to the CC transcription
+of it which is something I'm considering I
+haven't done that yet but it would be rather
+easy you just have to link to the GitHub
+transcription and you can say hey do you
+want it search for every word that's been
+said in the same would you rather just go
+read it all in one place now you can put a
+link there just put a link in your video at
+the bottom to the transcript and I to the CC
+transcripts and they can just go look at the
+file raw you can make a conversion about
+that yeah yeah yeah
+
+76
+00:28:00,884 --> 00:29:01,127
+yeah yeah yeah I know that you had about
+that so so that is the end of this video I
+don't really have anything else to say about
+this I am just super excited by it and I
+hope that it provides value to two people
+and it's ever going to put my vitamin to be
+able to switch it up again if you want the
+script so you can install the rest even if
+you don't want the actual script it might be
+good to read the script to understand how to
+properly install it where it goes I prefer
+writing a simple script for everything
+because it's easier to understand for me
+then to write the steps down written other
+either that or make a video about it but a
+lot of times just riding a nice simple
+script as I will measure steps right there
+are you just have to know how every one of
+these steps is something you could execute
+from the vast command line which again is
+the reason that I use Bosch my command line
+interaction and my scripting are the same
+
+77
+00:29:01,135 --> 00:29:49,060
+no cognitive separation between the two used
+to be that's why I gave up parole for my
+scripting and started using this at 5 on I
+mean I still write those when I need him but
+for the most part I keep them 1 to 1 so that
+you know my my command line skills are
+reinforcing my scripting skills and
+vice-versa there's nothing wrong with our in
+Python but when I write a python script now
+I have to go look up the python stuff
+because you know I don't do it everyday I
+definitely do Bosch everyday makes me much
+more effective so that's my personal take on
+that hopefully you'll have a good time
+reviewing this and I'm going to go ahead and
+stop the spirit will be back to do some more
+Sunday conversations and ask me anything
+kind of stuff so see you in a bit
+
