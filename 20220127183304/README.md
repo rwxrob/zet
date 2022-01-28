@@ -8,32 +8,13 @@ Linux virtual machine as my daily driver:
 **Personally, I just need a Linux terminal** that's it. I don't give a
 shit how I get it so long as it is responsive and I can put TMUX on it.
 
-**Kali Linux Desktop attracts the most followers to stream** and
-prepares me and others best for a career that involves Linux since it is
--- by far -- the best first Linux experience for those wanting to learn
-Linux as a professional tool. It's also currently the prettiest Linux
-distro out of the box. In full screen mode people watching the stream
-won't even realize I'm not running Kali on my hardware -- especially
-since I'll be running it from VMware Workstation Pro and/or VirtualBox.
+**WSL2 may have a ton of bugs, not work with Cisco Anyconnect, and lack
+graphics support** but is clearly the way everything is going, even Vagrant
+supports it by redirecting everything to the host Windows system so that
+the VirtualBox and other providers just work.
 
-**WSL2 is a fucking disaster** meaning that nothing that requires or
-installs it will have any place on my systems. It blocks too many other
-important applications from working *effectively* such as VirtualBox and
-Vagrant and Cisco Anyconnect VPN and any application with any graphics
-at all (10 is better than 11). It's really sad that WSL2 is still just
-so fucking bad. Not working with Cisco Anyconnect makes it absolutely
-useless for anyone working for more serious enterprise organizations.
-(And I fucking *refuse* to use Putty unless forced.)
-
-**Run "docker" as god intended** from within a virtual Linux machine.
-That's right, I'll be installing docker from the Linux command line into
-my Kali virtual machine. No fucking Docker/Rancher Desktop to fight
-with (both of which require WSL2 for optimization).
-
-**I'll be using VMware Workstation Pro** since it is required by
-OSCP certs. I will use Kali in VirtualBox for the Boost and as long as
-the two VM applications are not running at the same time there
-absolutely no problem (unlike the rest).
+**I'll be using VMware Workstation Pro** since it is required by the
+OSCP certs. I will use Kali in VirtualBox and from WSL2 for the Boost.
 
 **I don't need long-term stability.** As ironic as it sounds, I don't
 need my computer to be on all day. I can simply turn it on when I need
