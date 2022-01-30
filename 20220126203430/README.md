@@ -1,4 +1,4 @@
-# Sign Your Github Commits!
+# GPG Sign All Your Github Commits!
 
 Want to see Linus tell you to delete Linux? Look no further.
 
