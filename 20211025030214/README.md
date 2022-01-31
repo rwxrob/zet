@@ -1,4 +1,4 @@
-# Q: What do the emoji/modes mean?
+# What do the emoji/modes mean?
 
 📺 <https://youtu.be/se_yJgVi4tc>
 
