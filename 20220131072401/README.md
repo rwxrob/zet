@@ -1,3 +1,3 @@
-# Just Say No to Go Submodules
+# Just Say No to Git Submodules
 
 Trust me. They suck
