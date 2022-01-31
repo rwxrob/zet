@@ -16,3 +16,4 @@ Pair programming with a mentor or senior developer is also one of the
 best ways to get immediate feedback on your code quality. Many senior
 developers started out that way.
 
+* <https://discord.gg/9wydZXY>
