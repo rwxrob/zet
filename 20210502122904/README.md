@@ -68,5 +68,4 @@ agree, a split keyboard beast like that would obviously be better given
 the travel and muscles required to activate the keys. Not so with a
 low-profile, low-travel, writer-preferred Apple keyboard).
 
-[evidence]: <https://www.researchgate.net/publication/23157799_The_Split_Keyboard_An_Ergonomics_Success_Story>
-
+* <https://www.researchgate.net/publication/23157799_The_Split_Keyboard_An_Ergonomics_Success_Story> 
