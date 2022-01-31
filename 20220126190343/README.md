@@ -37,4 +37,7 @@ Related:
 
 * [20220125192913](/20220125192913/) Linux on VirtualBox, Best First Linux Experience
 
+* The Time to Decide on Docker Desktop Has Arrived -- The New Stack  
+  <https://thenewstack.io/the-time-to-decide-on-docker-desktop-has-arrived/>
+
     #k8s #docker #devops #tools #rancher #foss
