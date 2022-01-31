@@ -27,19 +27,21 @@ I know. I know. I *despise* Apple.
 But there is simply no keyboard more silent, more ergonomic, and faster
 for most regular typing demands than this beautifully ugly aluminum
 white thing. In fact, it is the only white colored thing within three
-feet anything at my workstation (which I admittedly hate, but cannot find
-a "dark mode" equivalent in any knock off I've tried).
+feet anything at my workstation (which I admittedly hate, but cannot
+find a "dark mode" equivalent in any knock off I've tried).
 
 The modern keyboard from Apple prompted a class action lawsuit. They are
 horrible, loud and prone to utter destruction from the smallest bit of
 corn chip. I know, I have a shitty Macbook Pro that I would love to
-unload but can't now because this. Thank God it still
-has an escape key though.
+unload but can't now because this. Thank God it still has an escape key
+though.
 
 But really that shouldn't matter.
 
-Speaking of escape keys. I map mine to CapsLock these days in the OS as
-soon as I attach it to anything I plan to use regularly.
+Speaking of the escape key. I don't use it. I use `Control-[` and have
+had international techies tell me they actually prefer American keyboard
+layouts just so they can have that and have the `|` key in expected
+place.
 
 There. Laugh all you want, gamers. My keyboard of choice is a Mac. (108
 is my top on Nitrotype, btw). If you actually care about your hands, you
@@ -53,18 +55,18 @@ constantly just from using their horrible IBM keyboards.
 
 But y'all are gonna do what you want anyway. You have been warned.
 
-Oh yeah, split keyboards are useless pieces of wacky shit that "appeal to
-a certain type of person who also is inclined to wear five-finger shoes"
-(a great quote from green_jenny on Twitch ).
+Oh yeah, split keyboards are useless pieces of wacky shit that "appeal
+to a certain type of person who also is inclined to wear five-finger
+shoes" (a great quote from green_jenny on Twitch ).
 
-Oh wait, there actually may be [evidence] to the contrary! Looks like
+Oh wait, there actually may be evidence to the contrary! Looks like
 split keyboards might be better. I maintain my hypothesis that low
 profile, low travel keyboards reduce the muscle strain that was the
 major cause of those studies. None of them includes studies with
 low-profile keyboards. Only the shitty mechanical ones. And yeah, I
 agree, a split keyboard beast like that would obviously be better given
 the travel and muscles required to activate the keys. Not so with a
-low-profile, low-travel, writer-preferred Apple keyboard)
+low-profile, low-travel, writer-preferred Apple keyboard).
 
 [evidence]: <https://www.researchgate.net/publication/23157799_The_Split_Keyboard_An_Ergonomics_Success_Story>
 
