@@ -1,4 +1,4 @@
-# What's with with that `ix` command?
+# What's with that `ix` command?
 
 The `ix` command from <http://ix.io> is the best terminal-centric
 `pastebin` alternative out there. I've made a [video about it][vid] as
