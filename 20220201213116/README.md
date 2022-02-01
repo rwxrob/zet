@@ -11,4 +11,8 @@ most sense.
 I'm hearing rave reviews from very knowledgable people in the community
 who have this working for everything they do from home.
 
+> skirge_za: <3 proxmox, run our entire business core infrastructure
+> from it. With centralized storage which allows almost instant moving
+> of vm's between machines.
+
     #cloud #home #lab #ops #vms
