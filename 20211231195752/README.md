@@ -1,5 +1,9 @@
 # Ceasing All Research for Windows WSL2 Workstation
 
+***Update: I overreacted to VPN not working in WSL2. I've since decided
+to use WSL2 as my daily driver because outside of this VPN problem, WSL2
+really is the best Linux desktop distro for most working people.***
+
 I've concluded that further work supporting and researching how to do
 anything on Windows systems is simply out of scope until the critical
 flaws are fixed that block Anyconnect VPN from working with WSL2 out of
@@ -38,6 +42,7 @@ Related:
 * [20210505174119](/20210505174119/) Install WSL2 for Docker Desktop on Windows
 * [20210701203752](/20210701203752/) Fix WSL2 Cisco AnyConnect VPN Failures
 * [20210909140020](/20210909140020/) Use `minikube` Instead of WSL2 and Docker Desktop
+* [20220128164251](/20220128164251/) Windows WSL2 is the Best Linux Desktop of 2022
 
 Tags:
 
