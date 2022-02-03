@@ -5,7 +5,6 @@ definitive schedule should always be
 <https://twitch.tv/rwxrob/schedule>). Sundays 12:00 to 15:00 is "Ask Me
 Anything' (office hours). 
 
-* 6  Weeks (Feb/12-Apr/30): Containers and Kubernetes Boost
 * 18 Weeks (May/4-Aug/27):  Linux and Coding Beginner Boost 
 * 18 Weeks (Sep/3-Dec/31):  Infrastructure Engineering Boost
 * 10 Weeks (Jan/7-Apr/22):  Containers and Kubernetes Boost
