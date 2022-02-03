@@ -1,7 +1,7 @@
 # Make Sure to Use SHA-512 for Passwords
 
 ```
-mkpasswd -s -m sha512crypt <<< mypassword
+mkpasswd -s -m SHA-512 <<< mypassword
 ```
 
 The type of password algorithm is stored in `/etc/pam.d/passwd`.
