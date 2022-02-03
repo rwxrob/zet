@@ -4,6 +4,8 @@
 mkpasswd -s -m sha512crypt <<< mypassword
 ```
 
+The type of password algorithm is stored in `/etc/pam.d/passwd`.
+
 * Is sha256 deprecated?  
   <https://ameswanda.ddns.us/is-sha256-deprecated>
 * Changes/yescrypt as default hashing method for shadow  
