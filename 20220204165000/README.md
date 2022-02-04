@@ -18,6 +18,10 @@ reality that Microsoft (yes Microsoft) has --- by far --- the best Linux
 Desktop distribution on the market today (as of Feb 2022). That might
 change tomorrow, but that is the state of affairs today.
 
+* [20220128164251](/20220128164251/) Windows WSL2 is the Best Linux Desktop of 2022
+* [20220129203247](/20220129203247/) Mark Shuttleworth Failed at Desktop Linux
+* [20220129214806](/20220129214806/) Things Linux Desktop Fucked Up for Me
+
 * Ubuntu 22.04 Dailies Show an Ubuntu Pro Notification on Login  
   <https://www.omgubuntu.co.uk/2022/02/ubuntu-22-04-ubuntu-pro-notification>
 
