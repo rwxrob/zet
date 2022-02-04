@@ -1,3 +1,3 @@
 # Will you be starting with Docker Desktop approach?
 
-Yes. The first thing you should do is install Docker Desktop.
+No. We are using Windows WSL2 from now on.
