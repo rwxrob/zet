@@ -4,6 +4,11 @@
 > get the RD rollout/process figured out. we had to take care of "right
 > now" while we get the log-term process in place
 
+> Update: 20220204 Rancher Desktop is *really* buggy and not ready at
+> all for production use. Plus it makes permanent changes to your RC
+> files as if you didn't care. I do. We all do. I'm really sad to see so
+> many bad design decisions in something I was really hoping to love.
+
 ***WARNING: Rancher Desktop does not work with Cisco Anyconnect VPN.
 Docker Desktop does (see Related). Rancher Desktop also requires WSL2
 and will install it if not found. This can break VirtualBox
