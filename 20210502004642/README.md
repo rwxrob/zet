@@ -29,7 +29,7 @@ do on paper.
   critically important to the cognitive value of this method.
 
 * Zettels may have a title on the first line beginning with `# ` and
-  followed by a blank line. Titles (in my version) are required forcing
+  followed by a blank line. Titles (in my version) are required, forcing
   me to think carefully about what this specific zettel will be about.
 
 * Another zettel pseudo-standard I've adopted is to create a video link
@@ -44,7 +44,7 @@ do on paper.
   other assets should go into their own `asset` Zettelkasten (and repo)
   because they usually will be referenced by many other Zettels.
 
-* I also refrain from linking between zettels preferring instead to
+* I also refrain from linking between zettels, preferring instead to
   encourage searching and creation of different outlines that
   effectively compose several zettels together. I learned early on that
   the same failure of hyperlinking as an unsustainable design approach
@@ -81,5 +81,5 @@ do on paper.
   better alternative. I call this *search-centric knowledge
   management* and it has become the default knowledge consumption and
   creation method since the first Internet search engine was created.
-  Before that we all did it using the TOC and index of the book we were
+  Before that, we all did it using the TOC and index of the book we were
   reading, because it works.
