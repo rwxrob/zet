@@ -11,3 +11,5 @@ boost.
 > which is just a fucking distraction from all the other essential stuff
 > people need to learn to get real work. *No companies use Arch at all*
 > (except Valve).
+
+    #education #boost
