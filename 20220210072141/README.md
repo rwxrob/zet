@@ -1,13 +1,11 @@
-# Boost Will Focus on VirtualBox Kali *and* Rocky
+# Boost Will Focus on VirtualBox Kali *and* Ubuntu Server
 
 After a lot of reflection and experimentation I strongly feel that the
 best focus for the Boost is on *all* major operating systems, that the
 primary purpose of the Boost should, in fact, be exactly that. This
 includes knowing how to install and run a GUI virtual machine (Kali) as
-well as a no-GUI server virtual machine (Rocky). This will not only give
-everyone a taste of both, but introduce the reason why learning `apt`
-and `yum` is important (and why Arch is completely irrelevant for modern
-work).
+well as a no-GUI server virtual machine (Ubuntu). This give
+everyone a taste of both a Linux desktop and a server.
 
 While I plan on mentioning VMware Workstation Pro, I've decided to use
 VirtualBox for the boost because it works enough and is free. It also
