@@ -37,7 +37,7 @@ Consider these uncomfortable truths:
 * Most network hardware (routers, etc.) runs BSD UNIX
 
 One of the things that turned me off about prepping for OSCP was the
-focus on learning PowerShell (which is just so fucking aweful), but the
+focus on learning PowerShell (which is just so fucking awful), but the
 fact of the matter is that you *must* learn to become a hacker or
 enterprise systems infrastructure engineer. It does not matter how much
 I hate it. That's the difference between reality and things people on
@@ -50,9 +50,9 @@ script-kiddy attacks).
 It comes back to the Marvel Dr.  Strange comparison. The "ancient one"
 employed dark magic to fight for the greater good. We can use these
 proprietary technologies (when we have to) to work against the things
-about these propietary companies that we find to be truly evil. We are
+about these proprietary companies that we find to be truly evil. We are
 using their power against them to ultimately reform them or bring them
-down. It's a more nuisanced approach to the radicalism and clueless
+down. It's a more nuanced approach to the radicalism and clueless
 zealotry that defines more Linux fanatics (of which I definitely once
 was as a kid). 
 
