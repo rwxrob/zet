@@ -27,4 +27,7 @@ landscape of systems not just limited to Mac, but also including all of
 the BSD variations, AIX, Illuminos (Solaris), and such that *true*
 professionals will eventually encounter in large enterprise environments.
 
+* terminal - How to replace Mac OS X utilities with GNU core utilities? - Ask Different  
+  <https://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities>
+
     #rants #education #linux #mac #apple
