@@ -1,5 +1,9 @@
 # Personal Zettelkasten of `@rwxrob`
 
+*Follow my [commit history] to see the latest or search for keywords.*
+
+[commit history]: <https://github.com/rwxrob/zet/commits/main>
+
 Hi I'm Rob Muhlestein from http://rwxrob.tv. This is my personal, public
 Zettelkasten repository. It contains stuff on pretty much any topic
 I feel like writing about, that I'm good with being public. I'm a very
