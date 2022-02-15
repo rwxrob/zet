@@ -1,6 +1,12 @@
 # Control Twitch Ads Proactively with Ad Breaks
 
-TL;DR: Take an ad break every 30 minutes to avoid bad interruptions.
+TL;DR: Take two 90 second ad breaks to build up 50 minutes of
+uninterrupted time in order to have focused learning sessions.
+
+Ever been interrupted by a Twitch ad in the middle of an important
+question you had? Or worse, the answer to your question you finally got
+the streamer to answer? Well, if you have, it is time to help your
+favorite streamer take control of their ad interruptions.
 
 Twitch is going to show ads no matter what to your viewers. This isn't
 something that anyone can disable easily without subscribing. Even if
