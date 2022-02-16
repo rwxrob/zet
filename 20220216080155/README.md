@@ -1,7 +1,7 @@
 # Optimal Twitch Ad Break Management
 
 1. Run a 3-minute ad, get 29 minutes of "Pre-roll Off"
-1. Take a 3-minute music, talking break (until ad enabled)
+1. Take a 8.5-minute music, talking break (until ad enabled)
 1. Run a 3-minute ad, get 54 total minutes of "Pre-roll off"
 1. Start pomo timer to match 54 minutes
 1. Get busy doing uninterrupted stuff
