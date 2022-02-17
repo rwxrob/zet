@@ -1,5 +1,9 @@
 # Getting Setup for Go 1.18
 
+```
+
+```
+
 * Tutorial: Getting started with generics  
   <https://go.dev/doc/tutorial/generics>
 * tools/advanced.md at master · golang/tools · GitHub  
