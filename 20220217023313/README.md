@@ -30,3 +30,4 @@ func (x *Cmd) GetCommands() []comp.Command {
 }
 ```
 
+		#golang #gotchas #learning #programming #coding
