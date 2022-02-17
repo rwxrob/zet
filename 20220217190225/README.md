@@ -26,3 +26,5 @@ annoying syntax errors for using `[ but expected (`.
   <https://github.com/golang/tools/blob/master/gopls/doc/advanced.md#working-with-generic-code>
 * [20210519200444](/20210519200444/) One-Line Shortcut Commands Beat Aliases/Functions
 * [20210814162031](/20210814162031/) Burned by Shell Aliases, Again
+
+    #golang #generics #vim #gotchas
