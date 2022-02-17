@@ -1,5 +1,10 @@
 # One-Line Shortcut Commands Beat Aliases/Functions
 
+```
+#!/bin/sh
+exec go1.18beta2 "$@"
+```
+
 Aliases and functions are absolutely useless any time the `exec` system
 call is involved, which is more common than you might think. Take, for
 example, using the filter (`!`) command in vim. Sure functions will
