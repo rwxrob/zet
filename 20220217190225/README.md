@@ -16,6 +16,10 @@ Then create a shortcut command (always better than an alias).
 exec go1.18beta2 "$@"
 ```
 
+Now you should be able to `:GoUpdateBinaries` from within vim to get
+everything to support Go 1.18 development. Until then you will get
+annoying syntax errors for using `[ but expected (`.
+
 * Tutorial: Getting started with generics  
   <https://go.dev/doc/tutorial/generics>
 * tools/advanced.md at master · golang/tools · GitHub  
