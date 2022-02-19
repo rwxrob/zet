@@ -1,7 +1,7 @@
 # "Everybody reads the bindings, so it's important."
 
-Yeah, I'm so not a Twit fan. As the host examines his guests bookshelf,
-commenting on each one, and says, "I really like your set" and then,
+Yeah, I'm so not a Twit fan. As the host examines his guest's bookshelf,
+commenting on each one, he says, "I really like your set" and then,
 "everybody reads the bindings, so it's important." I realized how
 stupid it is to manage false perception with a "set" in the
 fucking background. 
