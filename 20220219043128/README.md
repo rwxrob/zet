@@ -9,6 +9,7 @@
 * Use Cisco Anyconnect VPN (WSL2 has 4-year old bug open)
 * Can restart host and restart VM without restarting it as well
 * Start multiple VMs and create miniature local clouds (`fluff`)
+* Allow training, use, and creation of `systemctl` commands
 
 Related:
 
