@@ -7,7 +7,7 @@
 * Cannot disable and pause freeing resources (WSL2 is always on)
 * Take reliable backups (although WSL2 does have `wsl --export`)
 * Use Cisco Anyconnect VPN (WSL2 has 4-year old bug open)
-* Can restart host and restart VM without restarting it as well
+* Automatically pause running VMs so nothing is shut down 
 * Start multiple VMs and create miniature local clouds (`fluff`)
 * Allow training, use, and creation of `systemctl` commands
 * Not fuck up your git commits
