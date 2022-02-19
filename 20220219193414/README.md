@@ -16,4 +16,11 @@ of Linux and Windows together while consuming the resources of a full
 (but buggy) virtual machine line WSL2 does. It just gives you enough
 bash to avoid posh so that you can ssh into a *real* Linux system.
 
+By the way, you can change the default OpenSSH shell to bash using this
+method:
+
+```posh
+New-ItemProperty -Path "HKLM:\SOFTWARE\OpenSSH" -Name DefaultShell -Value "C:\program files\git\bin\bash.exe" -PropertyType String -Force
+```
+
     #rant #git #bash #linux #tips
