@@ -6,7 +6,7 @@ commenting on each one, he says, "I really like your set" and then,
 stupid it is to manage false perception with a "set" in the
 fucking background. 
 
-You know this type of guy, they type who very carefully speaks in
+You know this type of guy, the type who very carefully speaks in
 a specific way because he's on a radio show, who deliberately puts
 certain things on his set that have nothing to do with him just because
 he knows his audience will "appreciate" it. I fucking hate that. 
