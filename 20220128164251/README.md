@@ -1,5 +1,18 @@
 # Windows WSL2 is the Best Linux Desktop of 2022
 
+> 🤔 Sat 19 Feb 2022 01:50:42 AM EST
+> I was so fucking wrong about this. WSL2 is still great for some
+> specific circumstances, but running a headless Ubuntu Linux server
+> with 2 GB RAM and 2 Cores kicks WSL2's ass. WSL2 becomes unbearably
+> slow to a fast terminal user to the point of being worse than a remote
+> connection to someone in China from New York.
+
+* [20220211021943](/20220211021943/) Weird Permissions Error in WSL2
+* [20220219042322](/20220219042322/) Things WSL2 Can Do That Local VM Cannot
+* [20220219043128](/20220219043128/) Things Local VM Can Do That WSL2 Cannot
+
+----
+
 I've become a huge Windows 10 19044 WSL2 fan after spending a few hours
 of prayer and work migrating off of the gawd-awful PopOS distro.
 
