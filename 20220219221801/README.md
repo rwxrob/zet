@@ -15,9 +15,9 @@ Why the fuck do so many people have such a fucking problem being
 authentic?!
 
 I don't have a fucking set. I put a few posters up and some masks. The
-rest is all just exactly who I am, including my laundry. People are
-fucking *done* with perception managers and Fyre festival influencers.
-If someone would think differently of me if I didn't have all that, fuck
-'em.
+rest is all just exactly who I am, including my laundry. People paying
+attention will see that most people are *done* with perception managers
+and Fyre festival influencers.  If someone would think differently of me
+if I didn't have all that, fuck 'em.
 
     #rants
