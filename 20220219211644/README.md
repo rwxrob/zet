@@ -21,3 +21,5 @@ for *everything* including --- wait for it --- Ansible playbooks that
 
 * OpenSSH Server configuration for Windows \| Microsoft Docs  
   <https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_server_configuration>
+
+    #windows #openssh #linux #secops
