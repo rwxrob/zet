@@ -1,8 +1,8 @@
 # Change Default OpenSSH Shell on Windows
 
 Personally, I keep mine as PowerShell since I can do things remotely
-with `ssh` commands that do not work with Git Bash, such as opening the
-local graphic web browser or playing video clips.
+with `ssh` commands that do not work with Git Bash and I can always `ssh
+win bash -c ...` when I do need bash for something.
 
 To change it to PowerShell:
 
