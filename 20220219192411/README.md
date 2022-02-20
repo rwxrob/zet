@@ -1,6 +1,6 @@
 # Warning: WSL2 Fucks Up Git Repos
 
-Today I disables WSL2 and rebooted and now I can't commit objects to my
+Today I disabled WSL2 and rebooted and now I can't commit objects to my
 zet repo. The only thing that changed was removing WSL2, which I'm
 almost positive is fucking with the filesystem somehow. There is no
 fucking way I will ever trust Windows to do the right thing with
