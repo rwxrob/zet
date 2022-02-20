@@ -37,3 +37,4 @@ Related:
   <https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-maybe-we-should-again>
 * "Why We Sleep" by Matthew Walker
 * <https://en.wikipedia.org/wiki/Bunker_experiment>
+* <https://www.bbc.com/future/article/20220107-the-lost-medieval-habit-of-biphasic-sleep>
