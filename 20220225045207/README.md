@@ -19,7 +19,7 @@ The *only* realistic option is to use lame-ass reflection:
 
 ```go
 func Some(foo FooInterface) {
-  if !reflect.ValueOf(caller).IsNil() {
+  if !reflect.ValueOf(foo).IsNil() {
     fmt.Println("always true")
   }
 }
