@@ -1,6 +1,6 @@
 # Never Use `foo == nil` Checks in Go for Interfaces
 
-You can simple never trust something like the following, ever, to do the
+You can simply never trust something like the following, ever, to do the
 right thing:
 
 ```go
