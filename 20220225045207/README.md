@@ -30,3 +30,4 @@ in `bonzai` to help me (and others) avoid this.
 
 * Why Golang Nil Is Not Always Nil? Nil Explained
   <https://codefibershq.com/blog/golang-why-nil-is-not-always-nil>
+* <https://developpaper.com/several-pits-based-on-go-interface-nil-and-their-principle-analysis/>
