@@ -39,3 +39,5 @@ Related:
 
 * Zsh vs Bash \| Top 36 Differences You Should Know  
   <https://www.educba.com/zsh-vs-bash/>
+
+    #rants #bash #zsh #linux
