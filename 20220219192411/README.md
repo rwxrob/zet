@@ -12,5 +12,6 @@ fatal: loose object 086f648bca59894842992f8493c208309938878c (stored in .git/obj
 ```
 
 * <https://github.com/microsoft/WSL/issues/5895>
+* <https://docs.microsoft.com/en-us/archive/blogs/wsl/wsl-file-system-support>
 
     #rant #wsl2 #linux
