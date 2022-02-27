@@ -35,5 +35,3 @@ and "ooo, this is interesting" flow state while reading it.
 > Web" if I could; Hyperlinking fucking suuuuucks).
 
 * [20210813210814](/20210813210814/) Zettel Model
-
-
