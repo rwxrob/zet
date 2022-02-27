@@ -6,7 +6,7 @@ TL;DR: Don't code Go like Java. Think C or Lisp instead.
 
 When you see a nearly empty `Color` struct with an `Fprintf` method just
 to print a fucking color change to the screen you can absolutely smell
-the Java stank from a mile away. This personal has fucking idea how
+the Java stank from a mile away. This personal has no fucking idea how
 terminal programming works, they just wanted their pretty colors, and so
 did everyone else, now it's the dominant package despite how uninformed
 its design decisions were. 
