@@ -11,4 +11,6 @@ error: object file .git/objects/08/6f648bca59894842992f8493c208309938878c is emp
 fatal: loose object 086f648bca59894842992f8493c208309938878c (stored in .git/objects/08/6f648bca59894842992f8493c208309938878c) is corrupt
 ```
 
+* <https://github.com/microsoft/WSL/issues/5895>
+
     #rant #wsl2 #linux
