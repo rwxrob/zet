@@ -1,5 +1,16 @@
 # Ceasing All Research for Windows WSL2 Workstation
 
+***Update: I was a complete idiot for thinking WSL2 would even be
+stable. Not only is it remarkably laggy and slow (I have tons of video
+evidence of it) but it has several other major drawbacks. In fact,
+removing it actually corrupted one of my git repos that has some crazy
+shit going on with the filesystem. STAY THE FUCK AWAY FROM WSL2!***
+
+* [20220211021943](/20220211021943/) Weird Permissions Error in WSL2
+* [20220219042322](/20220219042322/) Things WSL2 Can Do That Local VM Cannot
+* [20220219043128](/20220219043128/) Things Local VM Can Do That WSL2 Cannot
+* [20220219192411](/20220219192411/) Warning: WSL2 Fucks Up Git Repos
+
 ***Update: I overreacted to VPN not working in WSL2. I've since decided
 to use WSL2 as my daily driver because outside of this VPN problem, WSL2
 really is the best Linux desktop distro for most working people.***
