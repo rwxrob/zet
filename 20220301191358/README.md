@@ -35,4 +35,8 @@ there are some good things to read that are covered pretty well, but the
 Internet covers them just as well and is faster to query. Hard pass on
 this book if you are thinking of getting it.
 
+And besides, who the fuck puts capital letters in their file names for
+Go development. I mean how clueless is this guy. Oh yeah, he works at
+RedHat.
+
     #golang #book #reviews
