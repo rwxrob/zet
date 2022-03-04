@@ -33,6 +33,10 @@ const (
 func main() {
 	flags := 0
 	flags = asleep | dream | lucid
+
+  // check em
+	fmt.Println(flags&lucid&dream == lucid&dream)
+
 	fmt.Printf("%010b\n", flags)
 	flags ^= dream
 	fmt.Printf("%010b\n", flags)
