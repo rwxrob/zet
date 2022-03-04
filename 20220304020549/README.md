@@ -35,7 +35,13 @@ func main() {
 	flags = asleep | dream | lucid
 
   // check em
-	fmt.Println(flags&lucid&dream == lucid&dream)
+	fmt.Println(flags&(lucid|dream) == lucid|dream)        // true
+	fmt.Println(flags&(lucid|walking) == lucid|walking)    // false
+	fmt.Println(flags|lucid == flags)                      // true
+	fmt.Println(flags|lucid|dream == flags)                // true
+	fmt.Println(flags|lucid|dream|asleep == flags)         // true
+	fmt.Println(flags|lucid|dream|asleep|walking == flags) // false
+	fmt.Println(flags|walking == flags)                    // false
 
 	fmt.Printf("%010b\n", flags)
 	flags ^= dream
