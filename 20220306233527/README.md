@@ -11,7 +11,7 @@ completely ignored by the Rust evangelists when they state how "safe"
 their language is. Remember, this is a language that has willing and
 openly stated --- by it's core team leaders who don't even follow their
 own code of conduct (according to the "mod team" who resigned in
-disgust) --- that "Rust is and always will be political." What is Rust
+disgust) --- that "Rust is and always will be political." What if Rust
 decides to sneak in a backdoor (if they haven't already)? There is no
 fucking way to know if they did or didn't. 
 
