@@ -11,9 +11,9 @@ func ExampleStack_invalid_JSON_Types() {
 	defer log.SetFlags(log.Flags())
 	log.SetOutput(os.Stdout)
 	log.SetFlags(0)
-  log.Print("something")
-  // Output:
-  // something 
+	log.Print("something")
+	// Output:
+	// something 
 }
 ```
 
