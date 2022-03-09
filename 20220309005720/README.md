@@ -9,68 +9,68 @@ is to find a few *really* good Go projects (start with anything Rob Pike
 wrote in the standard library) and dig into them to understand
 everything about them.
 
-1. Not knowing how to print (yes, I actually found this is a major
+* Not knowing how to print (yes, I actually found this is a major
    project):
 
 ```go
 fmt.Printf("\n")
 ```
 
-1. Using `else if`, like, ever:
+* Using `else if`, like, ever:
 
 ```go
 } else if fileExists(cwd+"/.somefile") {
 ```
 
-1. Using anything from deprecated `ioutils`:
+* ls`:
 
 ```go
 ioutils.*
 ```
 
-1. Using anything but `os.UserHomeDir`:
+* Using anything but `os.UserHomeDir`:
 
 ```go
 xdgConfigHome := os.Getenv("XDG_CONFIG_HOME")
 ```
 
-1. Using anything but `os.UserConfigDir`
+* Using anything but `os.UserConfigDir`
 
-1. Using anything but `os.UserCacheDir`
+* Using anything but `os.UserCacheDir`
 
-1. Using `+"/"+` instead of `filepath.Join`
+* Using `+"/"+` instead of `filepath.Join`
 
-1. Writing lines longer than 100 columns
+* Writing lines longer than 100 columns
 
-1. Using unnecessarily stupid-long names in small scope:
+* Using unnecessarily stupid-long names in small scope:
 
 ```go
 xdgConfigHome := ...
 ```
 
-1. Using anything longer than three characters for parameter name:
+* Using anything longer than three characters for parameter name:
 
 ```go
 func loadFile(fileName string) {
 ```
 
-1. Printing to stdout instead of logging to stderr:
+* Printing to stdout instead of logging to stderr:
 
 ```go
 fmt.Println("No config found")
 ```
 
-1. Initial capitalizing error messages instead of lower case:
+* Initial capitalizing error messages instead of lower case:
 
 ```go
 fmt.Println("No config found")
 ```
 
-1. Misusing `:=` with `err`
+* Misusing `:=` with `err`
 
-1. Using `panic` as a really dumb replacement for throwing exceptions
+* Using `panic` as a really dumb replacement for throwing exceptions
 
-1. Being forced to stay on Go 1.13 'cuz dependencies. Open anything from
+* Being forced to stay on Go 1.13 'cuz dependencies. Open anything from
    the Kustomize project and read the issues I opened there. It's a
    disaster of a project.
 
