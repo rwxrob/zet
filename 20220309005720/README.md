@@ -16,6 +16,12 @@ everything about them.
 fmt.Printf("\n")
 ```
 
+* Not combining liked type parameters in a function signature:
+
+```go
+func Authenticate(user string, pass string) {
+```
+
 * Using `else if`, like, ever:
 
 ```go
