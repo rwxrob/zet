@@ -22,7 +22,8 @@ fmt.Printf("\n")
 } else if fileExists(cwd+"/.somefile") {
 ```
 
-* ls`:
+* Using anything at all from the deprecated `ioutils` package. (It has
+  been over a year):
 
 ```go
 ioutils.*
