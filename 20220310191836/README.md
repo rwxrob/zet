@@ -8,7 +8,7 @@ func ExampleObject_Print() {
 		Bar string
 	}
 
-	json.Object[FooBar]{FooBar{"FOO", "BAR"}}.Print()
+	json.Object{FooBar{"FOO", "BAR"}}.Print()
 
 	// Output:
 	// {"Foo":"FOO","Bar":"BAR"}
