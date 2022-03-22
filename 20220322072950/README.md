@@ -21,3 +21,7 @@ know if something has changed at all.
 
 What if we did a UPDATED file that just had an isosec time stamp? It
 seems so simple but would work with or without any other hosting system.
+One thing this would allow is the creation of multiple UPDATED files
+within the same monorepo so that different things within it could
+trigger different updates without having to rely on the one tag for the
+entire git repo. That alone seems like reason enough to do it.
