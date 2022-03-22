@@ -25,3 +25,6 @@ One thing this would allow is the creation of multiple UPDATED files
 within the same monorepo so that different things within it could
 trigger different updates without having to rely on the one tag for the
 entire git repo. That alone seems like reason enough to do it.
+
+* `util.NeedsUpdate` from Bonzai  
+  <https://github.com/rwxrob/bonzai>
