@@ -1,27 +1,71 @@
-# Your `json:",inline,omitempty"` is Really YAML
+# Use `yaml:",inline"` as Catch All
 
 People seeing the `inline` tag parameter for unmarshaling structures in
-Go will be really confused because the `encoding/json` package does not
-support it, the gopkg.in/yaml.v2 package does, and people using
-ghodss/yaml are free to use `json` instead of the `yaml` tag. So 
-it is yaml.v2 that is handling the `inline` tag, not anything to do with
-JSON.
+Go might be confused. It is a catch all from  gopkg.in/yaml.v2 package
+that reads everything from that point on into the map or struct. It is
+*extremely* valuable when dealing with files that might contain fields
+that you do not want to upset or overwrite. It allows any YAML file to
+be parsed without fear. In fact, it is so powerful it is really a reason
+to choose YAML for your configurations over JSON all by itself. There is
+currently nothing equivalent to it in the JSON Go world (although I hope
+to add it to my `rwxrob/json` package).
 
-"Why do I care?"
-
-Because sometimes you don't need all the fields, but also don't want to
-lose them when writing them all back out again, like Kind does when
-messing with ~/.kube/config file:
+From the `gopkg.in/yaml.v2` package (the only YAML package you should
+ever use if you want to stay 100% compatible with Kubernetes, which
+explicitly decided against v3 and had quite a bit of drama over wrapping
+changes to the v2 package):
 
 >  Inline the field, which must be a struct or a map, causing all of its
 >  fields or keys to be processed as if they were part of the outer
 >  struct. For maps, keys must not conflict with the yaml keys of other
 >  struct fields.
 
-That means you can throw everything in there and only focus on the stuff
-you want/need without fear of creating something that might be too
-brittle and break later because your copy of the struct does not
-coincide with that of the API (which is *exactly* why Kind uses it)..
+I first learned of this trick by inspecting the code of the amazing,
+award-winning Kubernetes utility, Kind. Kind uses it to modify the
+`~/.kube/config` file without fear of destroying the users existing
+YAML contexts and other configurations.
+
+Note that this does *not* work with `github.com/ghodss/yaml` (which has
+other advantages. You must always use the `yaml` tag and not the `json`
+one. But this is usually not a problem. In fact, since JSON *is* YAML
+you can just use the YAML library for everything and forget about all
+the JSON encoding stuff completely.
+
+Here's a sample from the "lab":
+
+```go
+package main
+
+import (
+	"fmt"
+	"log"
+	"os"
+
+	"gopkg.in/yaml.v2"
+)
+
+// this works
+type Foo struct {
+	One int            `yaml:"two"`
+	Two int            `yaml:"one"`
+	O   map[string]any `yaml:",inline"`
+}
+
+func main() {
+	foo := new(Foo)
+	buf, _ := os.ReadFile("foo.json")
+	if err := yaml.Unmarshal(buf, foo); err != nil {
+		log.Print(err)
+	}
+	fmt.Println(foo)
+}
+```
+
+Produces
+
+```out
+&{2 1 map[other:[1 2 3] some:true]}
+```
 
 * yaml package - gopkg.in/yaml.v2 - pkg.go.dev  
   <https://pkg.go.dev/gopkg.in/yaml.v2#Marshal>
