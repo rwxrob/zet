@@ -7,8 +7,7 @@ that reads everything from that point on into the map or struct. It is
 that you do not want to upset or overwrite. It allows any YAML file to
 be parsed without fear. In fact, it is so powerful it is really a reason
 to choose YAML for your configurations over JSON all by itself. There is
-currently nothing equivalent to it in the JSON Go world (although I hope
-to add it to my `rwxrob/json` package).
+currently nothing equivalent to it in the JSON Go world.
 
 From the `gopkg.in/yaml.v2` package (the only YAML package you should
 ever use if you want to stay 100% compatible with Kubernetes, which
@@ -26,7 +25,7 @@ award-winning Kubernetes utility, Kind. Kind uses it to modify the
 YAML contexts and other configurations.
 
 Note that this does *not* work with `github.com/ghodss/yaml` (which has
-other advantages. You must always use the `yaml` tag and not the `json`
+other advantages). You must always use the `yaml` tag and not the `json`
 one. But this is usually not a problem. In fact, since JSON *is* YAML
 you can just use the YAML library for everything and forget about all
 the JSON encoding stuff completely.
