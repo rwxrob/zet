@@ -21,10 +21,10 @@ problem even today.
 > self-contained or able to get what they need from the network. 
 
 The only pause I have is when thinking about enterprise applications.
-Say I release an open source tool that automatically phone's home with a
+Say I release an open source tool that automatically phones home with a
 prompt to be updated (like `gh` does). What does that say about
 corporate security policies with regard to software installation?
-Technically, if I accept the `gh` self-updater I'm in violation os
+Technically, if I accept the `gh` self-updater I'm in violation of
 several companies policies. I've by-passed any vetting of that software
 at all. But the world seems ready for "evergreen" software distribution
 where the control over the security and updated-ness of the app lies
