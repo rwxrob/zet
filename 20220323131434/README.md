@@ -27,3 +27,5 @@ symbol. Also, remember this only works for strings.
 * See the `go tool link -h` for more about `-X`
 * go - How to set package variable using -ldflags -X in Golang build  
   <https://stackoverflow.com/questions/47509272/how-to-set-package-variable-using-ldflags-x-in-golang-build>
+
+    #golang #coding #tips #building #variables
