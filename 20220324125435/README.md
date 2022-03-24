@@ -16,3 +16,9 @@ Docker. It's just a fucking binary. The potential for remote rootkits
 among many other things is just astounding. Fuck, I could even put *all*
 of Metasploit into a single binary. I think I might finally have
 something to present about at Defcon (not to mention KubeCon).
+
+I just have to make something big now (like `fluff`, which is just big
+enough) that supports Bonzai to start showing how people and begin to
+create Bonzai supported, modular, composable applications so that people
+can mix and match them together. I need to wrap something that already
+exists as well.
