@@ -1,4 +1,4 @@
-# Going to Make `lv`/`lva` Live Streamer Tool
+# Going to Make `live` Streamer Tool
 
 Creating a Twitch Bot is a rather trivial process for most veteran
 programmers. I've been just too lazy to do it. But after adding up all
@@ -22,7 +22,7 @@ Twitch in different ways using `curl` commands but it would just be
 better to send those events to a local queue and have the bot manage
 them asynchronously, which could involve stuff besides Twitch as well.
 
-I think I'll go with the name `lv` for the command line and `lva` for
-the agent.
+I think I'll go with the name `live` for the command line and `live
+agent` for the agent, which will just be a Bonzai command (of course).
 
     #twitch #livestream #utility
