@@ -7,3 +7,6 @@ These days most use the Google monopolistic interface to them, and
 that's fine.
 
 * <https://groups.google.com>
+
+* What is Usenet? Complete Guide to Usenet & How to Use It in 2022  
+  <https://www.vpnmentor.com/blog/what-is-usenet-complete-guide/>
