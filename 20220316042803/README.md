@@ -66,6 +66,8 @@ Produces
 &{2 1 map[other:[1 2 3] some:true]}
 ```
 
+And yes this works fully with YAML reference (`*`) and anchors (`&`).
+
 * yaml package - gopkg.in/yaml.v2 - pkg.go.dev  
   <https://pkg.go.dev/gopkg.in/yaml.v2#Marshal>
 
