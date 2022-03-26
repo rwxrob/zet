@@ -81,4 +81,7 @@ fmt.Println("No config found")
    the Kustomize project and read the issues I opened there. It's a
    disaster of a project.
 
+* Squatting on a dozen `golang-` GitHub organizations with nothing but
+  bike-shedding markdown confusing the shit out of everyone
+
     #golang #coding #fails
