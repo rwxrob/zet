@@ -1,5 +1,10 @@
 # Use `lockedfile` to Properly Lock File in Go
 
+*Update: Kubernetes has fixed one of the places where they were doing
+this wrong. (https://github.com/kubernetes/kubernetes/pull/107354).
+Always feels good to have someone respond to an issue you take the time
+to create. Thank you!*
+
 After hours of reading and research I've found the best way to open
 files locked for safe writing and reading. The `lockedfile` package is
 used internally by the Go project and is *very* robust. It even has
