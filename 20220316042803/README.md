@@ -1,18 +1,17 @@
 # Use `yaml:",inline"` as Catch All
 
+*UPDATE: yaml.v2 is bork and does not work with this. You will get an
+error every time you try to marshal your structs as JSON. Use v3 instead
+(like the Kind project does).*
+
 People seeing the `inline` tag parameter for unmarshaling structures in
-Go might be confused. It is a catch all from  gopkg.in/yaml.v2 package
+Go might be confused. It is a catch all from  gopkg.in/yaml.v3 package
 that reads everything from that point on into the map or struct. It is
 *extremely* valuable when dealing with files that might contain fields
 that you do not want to upset or overwrite. It allows any YAML file to
 be parsed without fear. In fact, it is so powerful it is really a reason
 to choose YAML for your configurations over JSON all by itself. There is
 currently nothing equivalent to it in the JSON Go world.
-
-From the `gopkg.in/yaml.v2` package (the only YAML package you should
-ever use if you want to stay 100% compatible with Kubernetes, which
-explicitly decided against v3 and had quite a bit of drama over wrapping
-changes to the v2 package):
 
 >  Inline the field, which must be a struct or a map, causing all of its
 >  fields or keys to be processed as if they were part of the outer
@@ -40,7 +39,7 @@ import (
 	"log"
 	"os"
 
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 // this works
@@ -68,8 +67,8 @@ Produces
 
 And yes this works fully with YAML reference (`*`) and anchors (`&`).
 
-* yaml package - gopkg.in/yaml.v2 - pkg.go.dev  
-  <https://pkg.go.dev/gopkg.in/yaml.v2#Marshal>
+* yaml package - gopkg.in/yaml.v3 - pkg.go.dev  
+  <https://pkg.go.dev/gopkg.in/yaml.v3#Marshal>
 
 * <https://github.com/kubernetes-sigs/kind/tree/main/pkg/cluster/internal/kubeconfig/internal/kubeconfig>
 
