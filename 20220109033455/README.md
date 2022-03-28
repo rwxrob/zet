@@ -26,9 +26,9 @@ Here's what my schedule looks like lately:
 Time | Sleep
 -|-
 10pm | wake
-4am  | sleep (5 hours)
-9am  | wake
-7pm  | sleep (3 hours)
+7am  | sleep (4 hours)
+11am | wake
+6pm  | sleep (4 hours)
 
 Related:
 
