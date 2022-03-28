@@ -62,11 +62,14 @@ func main() {
 	ev := yqlib.NewAllAtOnceEvaluator()
 	pr := NewYamlPrinter(os.Stdout, yqlib.YamlOutputFormat, true, false, 2, true)
 	dc := yqlib.NewYamlDecoder()
-	err := ev.EvaluateFiles(os.Args[1], []string{"sample.yaml"}, pr, true, dc)
+	//err := ev.EvaluateFiles(os.Args[1], []string{"sample.yaml"}, pr, true, dc)
+	err := ev.EvaluateFiles(os.Args[1], []string{"-"}, pr, true, dc)
 	if err != nil {
 		log.Print(err)
 	}
 }
 ```
+
+Note that using "-" gives you UNIX filter input from standard input.
 
     #golang #coding #tips #yaml #yq #yqlib
