@@ -1,20 +1,14 @@
 # Twitch Emotes to Be Made
 
-* runForestRun 
+* goBonzai
+* goDance
+* itsWorking
+* rwxwife
 * johnDeere
-* sweetBeaver
-* papaPanties
-* yourEditorSucks
-* yourLangSucks
-* yourComputerSucks
-* yourDistoSucks
 * cryptoYawn
-* bufferOverflow
 * yourHeadAsplode
 * fightMe
-* lastMiles
-* rwxDance
+* rwxVibe
 * rwxMass
 * rwxAsana
 * brawndo
-* basicBuddies
