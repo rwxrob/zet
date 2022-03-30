@@ -1,4 +1,4 @@
-# 2022 Boost with Feature Go Boost Programming
+# 2022 Boost with Feature Go Bonzai™ Programming
 
 One of the hardest things to get beginners to internalize is a sense of
 motivation about what they are creating. In the past I've used memes and
