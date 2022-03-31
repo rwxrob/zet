@@ -19,4 +19,9 @@ had when producing the web content before. I would get to something I
 knew needed a link and then forget to make that link later. At least
 this way everything is on a much smaller scale.
 
+God this makes me *really* wish `pegn` were finished so I could throw
+together a grammar for these things and parse out all the links quickly.
+Not that hard to do with regular expressions, but would be much more
+elegant with PEGN specification.
+
     #boost #edtech #pedagogy
