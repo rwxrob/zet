@@ -12,3 +12,7 @@ buffered in the app if needed and writes made at the maximum possible
 interval. We would only potentially lose the block size of messages if
 the application crashed.
 
+* Protocol Buffer Basics: Go \| Protocol Buffers \| Google Developers  
+  <https://developers.google.com/protocol-buffers/docs/gotutorial>
+
+    #protobuf #golang #twitch #bot
