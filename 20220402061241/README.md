@@ -21,4 +21,11 @@ Go --- with its hyper-focus on compilation efficiency --- it is a
 no-brainer. This is why Pike and the gang focused so heavily on
 developer efficiency and simplicity. Considering replacing shell scripts
 with Rust is fucking laughable, as would be C, but it is completely
-rational and doable in Go.
+rational and doable in Go. The speed with which I can change a shell
+script with `vic` is unparalleled, there's no recompilation at all, but
+there is always the cost in time to commit the change. It takes longer
+to get to the code in Bonzai, make the change, and then commit it, but
+the benefit is that as soon as I do anyone and everyone can also use the
+upgrades to that specific tool, or choose to never upgrade. Then I just
+have to `z update` from any existing copy of `z` to get the new binary
+and changes.
