@@ -1,5 +1,14 @@
 # NeoVim is Shit and Ruining New Developers
 
+> Update: Hey look! I have shaken the hornets nest of useless Rust and
+> NeoVim fanboys by writing this. They had being wrong. Meanwhile, tons
+> are getting great jobs at huge companies that don't allow NeoVim at
+> all. But they really would rather rant into the ether about their
+> stupid creation. I expect as much from Rust/NeoVim/Crytpo/NFT people.
+> You can spot them a mile away.
+
+* <https://lobste.rs/s/vlfxn1/neovim_is_shit_ruining_new_developers>
+
 NeoVim, which uses the `nvim` command, is unfortunately a popular
 replacement to Vim. This is bad. It is ruining beginning developers
 while providing no additional value for most users because they jump in
