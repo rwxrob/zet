@@ -1,11 +1,16 @@
 # NeoVim is Shit and Ruining New Developers
 
 > Update: Hey look! I have shaken the hornets nest of useless Rust and
-> NeoVim fanboys by writing this. They had being wrong. Meanwhile, tons
-> are getting great jobs at huge companies that don't allow NeoVim at
-> all. But they really would rather rant into the ether about their
-> stupid creation. I expect as much from Rust/NeoVim/Crytpo/NFT people.
-> You can spot them a mile away.
+> NeoVim fanboys by writing this. They hate being wrong. Meanwhile, tons
+> are getting great jobs at huge companies that don't allow
+> Neo-fucking-vim at all. But they really would rather rant into the
+> ether about their stupid creation. I expect as much from
+> Rust/NeoVim/Crytpo/NFT people. You can spot them a mile away.
+>
+> And by the way, Vim has problems also. Try using in on Alpine or
+> BusyBox containers. Oh wait, you don't know what those are, cuz you
+> use NeoVim. Maybe you'll try to use Control-C instead of escape one
+> day, pfffhahahahaha. Yeah, prove your cluelessness even more.
 
 * <https://lobste.rs/s/vlfxn1/neovim_is_shit_ruining_new_developers>
 
