@@ -44,4 +44,9 @@ nor is it any good at configuration files. In fact, the only thing that
 JSON really did (for which I am immensely grateful) is save us from XML.
 OMG, what the FUCK were we thinking?!
 
+I'm feel so free! Now I don't have to cringe every time I use the word
+"object" to describe a mapping (in YAML). See, Igny was much more my
+kind of pedantic asshole than Crockford. Besides, since when has JSON
+had *anything* to do with "JavaScript"? Be gone, plague of the 90s.
+
     #rant #json #yaml #xml
