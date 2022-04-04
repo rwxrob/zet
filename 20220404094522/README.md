@@ -89,6 +89,13 @@ besides me. But I've found some things that help me.
   closest thing to a universal "religion" that all humanity can easily
   share.
 
+* **Watch Linux workers on a Monday going to work.**
+
+  <https://www.instagram.com/p/CawyyDJlFnZ/>
+
+  You could be living in the Antarctic and have wings but can't use them
+  to fly. Consider that.
+
 I'm sure I'll think of more thing later. But these are the main ones off
 the top of my head.
 
