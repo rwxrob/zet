@@ -19,7 +19,7 @@ Even though dumb-shit, morally bankrupt, people have launched Twitter
 attacks against me --- calling me "unhinged" and comparing me to Terry
 --- the fact is that I don't mind sharing my personal struggle with
 mental illness. It has been a big part of my entire family history. (My
-mom was once talked by a police officer running naked on the highway.
+mom was once tackled by a police officer running naked on the highway.
 They straight-jacketed her.)
 
 The perception managing assholes pretending to be perfect and dishing
