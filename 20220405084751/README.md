@@ -18,9 +18,22 @@ they have really talked about them semi-openly on stream.
 Even though dumb-shit, morally bankrupt, people have launched Twitter
 attacks against me --- calling me "unhinged" and comparing me to Terry
 --- the fact is that I don't mind sharing my personal struggle with
-mental illness. It has been a big part of my entire family history. (My
-mom was once tackled by a police officer running naked on the highway.
-They straight-jacketed her.)
+mental illness. It has been a big part of my entire family history. One
+family member, running down the highway naked, was tackled by a police
+officer. They straight-jacketed her. But they are an amazing person.
+Same thing happened to another family member who was in Insulin shock.
+Another immediate family member tried to take her own life. Several
+others were sexually abused. One of my extended family is
+manic-depressive. I have two Autistic sons (one mine, one from
+marriage). Others struggled with ADHD. One developed a permanent tick
+from the shitty meds his school-teachers put him on. One of my
+close-extended family sucked on an exhaust pipe to kill herself
+"faster". One close-family member, given up for adoption at seven years
+old, invented an entire story for her "real" parents and actually
+believed it. It's horrible to recount. All these people are (and were)
+fucking *amazing* human beings who were never defined by their breaks,
+but by all the other substantial things they brought into the world,
+including me, as fucked up as I am.
 
 The perception managing assholes pretending to be perfect and dishing
 out advice and condescension as if they represent the moral majority can
