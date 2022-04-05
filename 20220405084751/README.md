@@ -2,7 +2,7 @@
 
 If random people can proclaim months for different things then I should
 be able to as well. There's no better month to dedicate to increasing
-awareness and removing stigma from our metal health problems (we all
+awareness and removing stigma from our mental health problems (we all
 have them, don't pretend you don't). I mean, April Fool's Day? What the
 fuck is up with that?
 
@@ -28,7 +28,7 @@ go fuck themselves with their shriveled
 cognitive-Dunning-Krueger-dissonance brains. I know they are just as
 sick as the narcissists and should love them anyway, but fuck 'em, along
 with the "bullies" who are some of the most fucked up people on the
-metal health spectrum of diseases. I don't mind having a preference.
+mental health spectrum of diseases. I don't mind having a preference.
 
 The rest of us admit that we all have something to work on with regard
 to our mental health. And why wouldn't me, mental health *is* physical
