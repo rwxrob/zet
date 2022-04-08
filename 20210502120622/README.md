@@ -23,11 +23,12 @@ exhaustive list, but it sure helps. Sometimes I will tweak it.
 12. Show and share
 13. Let people change
 14. Build useful things
-15. Don’t get mad, get busy
-16. Read the fucking manual
-19. “What if everybody did it?”
-17. Give the benefit of the doubt
-18. Remind your body you are human
+15. Boil the fucking water
+16. Don’t get mad, get busy
+17. Read the fucking manual
+18. “What if everybody did it?”
+19. Give the benefit of the doubt
+20. Remind your body you are human
 
 When I find myself doing the following I know I'm on the path to evil:
 
