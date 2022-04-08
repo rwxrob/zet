@@ -7,28 +7,28 @@ exhaustive list, but it sure helps. Sometimes I will tweak it.
 
 0.  Ask
 1.  Run
-1.  Yoga
-1.  Chill
-2.  Dance
-3.  Create
-4.  Forgive
-1.  Consider
-5.  Never fear
-6.  Be grateful
-7.  Use a filter
-8.  Swear better
-9.  Make it count
-10. Foster dialog
-11. Live with less
-12. Show and share
-13. Let people change
-14. Build useful things
-15. Boil the fucking water
-16. Don’t get mad, get busy
-17. Read the fucking manual
-18. “What if everybody did it?”
-19. Give the benefit of the doubt
-20. Remind your body you are human
+2.  Yoga
+3.  Chill
+4.  Dance
+5.  Create
+6.  Forgive
+7.  Consider
+8.  Never fear
+9.  Be grateful
+10. Use a filter
+11. Swear better
+12. Make it count
+13. Foster dialog
+14. Live with less
+15. Show and share
+16. Let people change
+17. Build useful things
+18. Boil the fucking water
+19. Don’t get mad, get busy
+20. Read the fucking manual
+21. “What if everybody did it?”
+22. Give the benefit of the doubt
+23. Remind your body you are human
 
 When I find myself doing the following I know I'm on the path to evil:
 
