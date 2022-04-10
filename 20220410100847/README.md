@@ -1,8 +1,9 @@
 # Go Template FuncMap Pipe to Functions Goes to Args
 
-TL:DR; `{{ some | myfunc }}` sets the output of `some` to the first
-argument of `myfunc`. If I have more arguments to `myfunc` they are
-added after.
+TL:DR; `{{ some | myfunc }}` sets the output of `some` to the *last*
+argument of `myfunc`. If I have more arguments to `myfunc` they come
+first, which means that `args[len(args)-1]` will always be the piped
+input.
 
 I swear this isn't documented anywhere. Spent a good hour looking
 through all the official docs and then finally gave up and looked at the
