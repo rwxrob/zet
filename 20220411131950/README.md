@@ -2,15 +2,16 @@
 
 What is my #1 reason not to use any of the one-off tools out there, you
 know, the fuzzy-finders, the better versions of find, the prettier `ls`
-variations? Why do I so chafe against all these efforts? If you know me,
-you could say it is is because all of them are fucking irrelevant
-distractions from learning real-shit that you need to master to do most
-hacker/operations jobs. Those cutesy tools (usually unnecessarily
-written in Rust, my god the fucking pain of writing ls in Rust, lol) are
-complete fucking wastes of time because there is zero chance any of them
-are ever going to be on a system you don't have full control of, and
-guess what, that doesn't describe *any* work environment. But there's
-hope of a new dawn, a Bonzai sunrise.
+variations? Why do I so chafe against all these efforts?
+
+If you know me, you could say it is because all of them are fucking
+irrelevant distractions from learning real-shit that you need to master
+to do most hacker/operations jobs. Those cutesy tools (usually
+unnecessarily written in Rust, my god the fucking pain of writing ls in
+Rust, lol) are complete fucking wastes of time because there is zero
+chance any of them are ever going to be on a system you don't have full
+control of, and guess what, that doesn't describe *any* work
+environment. But there's hope of a new dawn, a Bonzai sunrise.
 
 See Bonzai addresses the lack of portability and irrelevance problem as
 the first and foremost design consideration of them all: composition.
