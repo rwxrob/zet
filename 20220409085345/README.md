@@ -115,7 +115,7 @@ time. Don't believe me? How about believing the creator of Express,
 Stylus, Jade/PUG, and Apex, TJ himself. Look at his Apex log tool and
 how he created a domain-specific language rather than a horrible getopt
 monstrosity. TJ is *obsessed* with good design. His code base is one of
-the most beautiful things I've ever seek. He's a creative, a
+the most beautiful things I've ever seen. He's a creative, a
 photographer, and a crafter of very fine code. He gives a shit about
 user interactions. He gets it. He understands, and he makes things that
 don't have complicated interfaces with dashes.
