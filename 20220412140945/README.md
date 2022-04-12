@@ -10,7 +10,7 @@ in.
 I am absolutely elated that this is the case give the fact that it
 will be compiled into so many binaries in the future. I would really
 love (out of morbid curiosity) to compare the huge Cobra code base. One
-thing I've learned, the more bloated and big, the worst the design. This
+thing I've learned, the more bloated and big, the worse the design. This
 minimal design coming out of Bonzai is so elegant I just cannot fucking
 believe it. Now that the completers are in their own modules, and we
 have the notion of a Conf and Vars "driver" for those that want it,
@@ -18,7 +18,7 @@ without making it mandatory, and after removing `help.Cmd` entirely, we
 have very little left in the core `bonzai` package, and I don't see it
 growing that much at all.
 
-The only thing left to eventually add are more builtin functions for
+The only thing left to eventually add, are more builtin functions for
 BonzaiMark. We can't factor that out because it is fundamentally
 part of what makes a Bonzai command a command, the tight integration of
 very useful documentation about the command. The template language
