@@ -13,3 +13,5 @@ That's all most Go programmers will need to know to realize everything
 else that this means. Any struct that implements an Error() method and
 usually an Unwrap() method can be encapsulated so that those trapping
 the error can see what it was.
+
+    #golang #coding #tips #errors
