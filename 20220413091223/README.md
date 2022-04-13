@@ -120,7 +120,7 @@ Then there is the problem of people trying to horde or "own" their ideas
 so that others they disagree with cannot have them. Nuclear power comes
 to mind. Lately, we seen a ton of idiots try to attack Russia by
 disabling their "open source" software and crippling thousands, most of
-whom are even in Russia. That's because these fucking morons don't
+whom aren't even in Russia. That's because these fucking morons don't
 understand that once an idea has escaped into the public, no amount of
 legal protections will keep it from being used.
 
