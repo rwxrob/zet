@@ -35,35 +35,39 @@ Trump, and Sheldon Adelson, and Clapper --- that China and North Korea
 just hack and steal our IP with wild abandon while smiling and shaking
 our hands.
 
-How do you fight against an enemy who has openly steals all your best
-ideas, whether it be a nation state, or that idiot down the hall taking
-credit for your work? You beat them to "market" and make sure everyone
-knows who made it.
+How do you fight against an enemy who openly steals all your best ideas,
+whether it be a nation state, or that idiot down the hall taking credit
+for your work? Here's how: you beat them to "market" and make sure
+everyone knows you did.
 
-This is a new realization for me. There's a joke in Saturday Night Live
-where one non-contributing zero says, "Well, it's like Albert Einstein
-said, it's about 1% inspiration and 99% *getting your name out there*."
-(I showed that video once on Twitch to my community and most of them
-didn't laugh.) But, you do have to market your idea or it will never get
-adopted, or worse, someone who is smart enough to realize how good the
-idea is will act on it and get the public record before you that they
-created it (reminds me of the invention of the transistor, or
-electricity, or the PC).
+This is a new realization for me.
+
+There's a joke in Saturday Night Live where one non-contributing zero
+says, "Well, it's like Albert Einstein said, it's about 1% inspiration
+and 99% *getting your name out there*." (I showed that video once on
+Twitch to my community and most of them didn't laugh.) That statement is
+just so fucking true, despite the comedic value. You *do* have
+to market your idea or it will never get adopted, or worse, someone who
+is smart enough to realize how good the idea is will act on it and get
+the public record before you that they created it (reminds me of the
+invention of the transistor, or electricity, or the PC).
 
 We can learn a lot from the Mother of all Demos. Engelbart did almost
 no actual engineering on any of the stuff he demoed. He wasn't even an
 engineer. Sound familiar? Jobs was the same. Woz *invented* the PC we
-have today, but it was Jobs who got the credit. Woz *stole* (and admits
-it openly) the idea from Palo Alto engineers at Xerox who (few people
+have today, but it was Jobs who got the credit. Jobs *stole* (and admits
+it) the idea from Palo Alto engineers at Xerox who (few people
 know) stole the idea from Engelbart. But we can trace that IP to
 Engelbart even though --- yes even in America --- there was rampant IP
-theft all over the place. No one cares, we just enjoy the fruits of
+theft all over the place.
+
+No one cares who owns something. We just want to enjoy the fruits of
 these ideas and the unsung engineers who made it happen, like Dennis
-Ritchie, the creator C language, trillions of line of C run every device
-we know, including Apple, but Dennis' death the same week as Jobs went
-virtually unrecognized. Dennis didn't market, he fucking produced. He
-changed the world in ways so substantial we can hardly grasp it. Jobs?
-Meh.
+Ritchie, the creator C language. Trillions of lines of C run our entire
+fucking world, every device, including Apple, PC, phones, mother-fucking
+traffic lights, but Dennis' death the same week as Jobs went virtually
+unnoticed. Dennis didn't market. Dennis produced. He changed the world
+in ways so substantial we can hardly measure it today. Jobs? Meh.
 
 All this demonstrates that ideas cannot be owned. In fact, after
 extensive research to protect my BattleForge game idea (which EA
@@ -79,7 +83,8 @@ about it --- and that *you* made it (if you care).
 Software is no different than games, other than the specific code you
 write to realize that idea. You can try and patent everything like IBM
 or Amazon (who actually patented one-click purchases, which is fucking
-idiotic).
+idiotic). Or you can create something based on your idea and beat
+everyone to market.
 
 But here's the thing. China doesn't give a shit about our patents and
 copyrights. If you make it public (or even if you don't) they own it as
@@ -95,6 +100,15 @@ billionaire you have to appreciate this objective reality. You are
 give a shit are just acting.
 
 This goes for books too.
+
+By the way, how much do you charge for your "property"? Do you force the
+entire world to pay American prices? What if you gave your book away for
+free and asked those who can pay to pay what they find is fair, for the
+portion of the book and knowledge that they found useful. People in
+countries with tougher economies could pay their "widow's mite" for your
+knowledge that takes them out of poverty (and then they send you a huge
+email of gratitude for it) while other affluent SV people can sponsor
+you for \$60 a month.
 
 Wherever you are philosophically, this means that the very nature of
 "intellectual property" is the problem. You just cannot "own" ideas and
