@@ -3,7 +3,7 @@
 Luhmann had an amazing method with his Zettelkasten, but if he had been
 able to track all the changes to each of his slips of paper (without
 just looking at all the stuff that had been lined out) he might have
-found Nirvana. By keeping a Zettelkasten as a Git repo I automatically
+found Nirvana. By keeping a Zettelkasten as a Git repo, I automatically
 get revision history, which, when applied to personal knowledge source
 in Markdown text, provides phenomenal insight into how my thinking and
 ideas have changed over time. Admittedly, I haven't been using the new
