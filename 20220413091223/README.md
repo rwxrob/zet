@@ -30,10 +30,10 @@ from the Chinese leadership. That scene from Mr. Robot comes to mind,
 "We look forward to stealing your intellectual property for many years
 to come", says WhiteRose directly to her new business partners in
 Chinese so they don't understand. That's China. Americans are so fucking
-dumb and full of themselves --- like Trump and Sheldon Adelson and
-Clapper were the king morons of this variety --- that China and North
-Korea just hack and still our IP with wild abandon while smiling and
-shaking our hands.
+full of themselves and how-can-they-even-feed-themselves stupid --- like
+Trump, and Sheldon Adelson, and Clapper --- that China and North Korea
+just hack and steal our IP with wild abandon while smiling and shaking
+our hands.
 
 How do you fight against an enemy who has openly steals all your best
 ideas, whether it be a nation state, or that idiot down the hall taking
