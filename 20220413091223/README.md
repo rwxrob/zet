@@ -130,17 +130,22 @@ thought to myself, "Russians will make rats nests and malware using my
 tool. It's perfect for it, I mean, really fucking perfect." Do I somehow
 try to keep hackers from creating such tools? Or do I lament, "I am
 become death, the destroyer of worlds" like Oppenheimer (okay, my stuff
-is *nearly* as powerful, but you get the idea). Once again, history
-teaches us that World War II win was about time to market. The allies
-beat the Axis with the Enigma, Eniac, and A-bomb. The point is, it's not
-about ownership, it's about action. Those who act first, win. By
-removing the silly laws about IP ownership, we light a fucking fire
-under everyone's ass with a good idea to *do* something with that idea
-before their competition. That's it. All of humanity is accelerated in
-the process through the very successful capitalist principle of
-first-to-market wins. That competition not only pushes profit on those
-who do, but all of humanity benefits in the process because it motivated
-*everyone* no matter the origin of their birth or socio-economic status.
+is *nearly* as powerful, but you get the idea).
+
+No, I should dedicate my time to helping those I agree understand and
+adopt the idea as fast as possible. To help the good guys win the battle
+of time. That is exactly what Oppenheimer did. The World War II win was
+about time to market. The allies beat the Axis with the Enigma, Eniac,
+and A-bomb. The point is, it's not about ownership, it's about action.
+Those who act first, win.
+
+By removing the silly laws and costly squabbles about IP ownership, we
+light a fire under everyone's ass with a good idea to *do* something
+with that idea before their competition.
+
+Time to go, my ass is on fire.
+
+Don't get mad, get busy.
 
 * Iran hacked an American casino, U.S. intel director says  
   https://money.cnn.com/2015/02/27/technology/security/iran-hack-casino/index.html
