@@ -1,14 +1,14 @@
 # Intellectual Property is Bad for Humanity
 
 I used to chafe at Stallman's suggestion that if a school child brings a
-program they wrote to show at school that they are morally obligated to
-give a copy of that program to everyone in the school. That somehow that
-is the right thing to do.
+program they coded to school that they are morally obligated to give a
+copy of that program to everyone in the school, that somehow that is the
+right thing to do.
 
 Stallman was right. He just presented it the wrong way.
 
-Last night I watched the Cyberbar movie on HBO (not to be confused with
-the amazing series from Ben Makich on Vice, and winner of the World
+Last night I watched the Cyberwar movie on HBO (not to be confused with
+the amazing series from Ben Makuch on Vice, and winner of the World
 Press Freedom Award for going to prison before giving up his sources).
 While watching how China has meticulously stolen most of their greatest
 inventions --- and openly proclaimed their strategy to their forces and
