@@ -1,6 +1,6 @@
 # Intellectual Property is Bad for Humanity
 
-I used to chafe at Stallman's suggestion that is a school child brings a
+I used to chafe at Stallman's suggestion that if a school child brings a
 program they wrote to show at school that they are morally obligated to
 give a copy of that program to everyone in the school. That somehow that
 is the right thing to do.
