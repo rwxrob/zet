@@ -1,4 +1,4 @@
-# Bonzai `mark` and `fmt` Branch, Empower Shell with Go text/template
+# Bonzai `fmt` Branch, Empower Shell with Go `text/template`
 
 As I've been adding `text/template` support to most all of the fields of
 any `bonzai.Command` I realized that we have all the code necessary to
