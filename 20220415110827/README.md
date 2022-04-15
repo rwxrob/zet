@@ -9,4 +9,6 @@ and dry style so far, but I really like it. I particularly like that it
 is in a constant state of online revision and covers Go 1.18 generics.
 No other resource (besides the Go docs) does that at the moment.
 
+* https://go101.org/article/101.html
+
     #golang #learning #books #resources
