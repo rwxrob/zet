@@ -9,4 +9,4 @@ scenario tested against the binary. I feel a `bon test` suite of
 commands coming to do exactly that. There's no better testing than
 against the compiled binary itself.
 
-    #golang #coding #bonzai
+    #golang #coding #bonzai #gotchas
