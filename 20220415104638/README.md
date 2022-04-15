@@ -1,5 +1,8 @@
 # No, Let's Not "Go Further"
 
+TL;DR: Don't buy Alex's book, get Go 101 for free. It's far more
+complete and better maintained.
+
 I have to apologize to Alex in advance. I don't know this person and
 love the fact that they want to help the world, just not for
 \$60-fucking-dollars for a Go book that covers 1.17 from a person who
@@ -31,5 +34,6 @@ it's perfectly within my rights to *not* suggest shit from people who
 want to.
 
 * [20220413091223](/20220413091223/) Intellectual Property is Bad for Humanity
+* [20220415110827](/20220415110827/) Go 101 Looks Pretty Damn Good, and Free
 
     #rants #writing #authors #golang
