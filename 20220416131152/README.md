@@ -59,3 +59,5 @@ application access to scoped resources hosted on GitHub Enterprise (or
 really any Oauth-centric thing). The `gh` GitHub command line tool does
 a pretty damn good job of this without punting and using
 `localhost:234`.
+
+    #oauth #tokens #github #secops
