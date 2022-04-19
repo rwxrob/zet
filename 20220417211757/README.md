@@ -3,10 +3,8 @@
 I know `pkg` is common, but it's grating on me. People generally expect
 the high-level functions of the API to be at the top-level of a repo.
 And I think I need to go back to the `cmd` directory since that is so
-well established and there might be come repos that have multiple
-standalone commands. And, the `z` has become tradition for Bonzai things
-so creating a `z` directory that has the Bonzai branch in it seems like
-a good idea. The proposed changes would look like this for a command
+well established and there might be some repos that have multiple
+standalone commands. The proposed changes would look like this for a command
 called `foo`:
 
 ```
@@ -18,10 +16,10 @@ CONTRIBUTING
 cmd/foo/main.go (package main)
 foo.go (traditional library package foo)
 foo_test.go
+cmd.go (home of foo.Cmd)
 go.mod
 go.sum
 go.work.off
-z/foo.go (home of foo.Cmd)
 ```
 
 I *really* want to keep the trend going of having high-level functions,
