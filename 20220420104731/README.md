@@ -3,7 +3,7 @@
 The last time people got excited about "serverless" (including me) was
 in 2020, and even then some predicted its downfall. After all,
 Kubernetes was dominating then and continues to fully dominate now. If
-people need something lighter than Kubernetes they read for Nomad, but
+people need something lighter than Kubernetes they reach for Nomad, but
 people are not reaching for serverless at all in 2022. I was surprised
 there where more search hits talking about this. KNative, a "serverless"
 option that required Kubernetes to run demonstrates how ironic the whole
