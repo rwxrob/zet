@@ -81,6 +81,8 @@ is over 9000.
 * Is Serverless The End Of Kubernetes?   
   https://towardsdatascience.com/kubernetes-serverless-differences-84699f370609?gi=1e4f35571fc3
 
+* https://dev.to/brentmitchell/after-5-years-im-out-of-the-serverless-compute-cult-3f6d
+
 * https://qemu.readthedocs.io/en/latest/system/i386/microvm.html
 
     #serverless
