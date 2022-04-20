@@ -1,5 +1,8 @@
 # Serverless is Dead (Case You Didn't Hear)
 
+> The fact is, serverless technology is amazingly simple to start, but
+becomes a bear as projects and teams accelerate. (Brent Mitchell)
+
 The last time people got excited about "serverless" (including me) was
 in 2020, and even then some predicted its downfall. After all,
 Kubernetes was dominating then and continues to fully dominate now. If
