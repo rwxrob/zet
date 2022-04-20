@@ -46,6 +46,15 @@ enough, and "serverless" will *always* be "not enough." Besides, it's a
 fucking idiotic moniker in the first place, obviously there's a server,
 someplace.
 
+Most people reach for serverless for the wrong reasons. Serverless is a
+really bad bandage on an arterial hemorrhage:
+
+> For a lot of these organizations, it's hard to find the time, people,
+> and money to figure out how to automatically provision new VM's, get
+> access to a K8S cluster, etc. My challenge to you is to first fix your
+> deployment and scaling problems internally before thinking about
+> serverless compute. (Brent)
+
 In fact, we are starting to see movement toward Kubernetes approaches on
 the Internet itself, a cluster of clusters, microservices exchanging
 Protobuf (instead of JSON) at gRPC speed to one another over the open
