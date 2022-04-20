@@ -6,12 +6,12 @@ Kubernetes was dominating then and continues to fully dominate now. If
 people need something lighter than Kubernetes they reach for Nomad, but
 people are not reaching for serverless at all in 2022. I was surprised
 there weren't more search hits talking about this. KNative, a "serverless"
-option that required Kubernetes to run demonstrates how ironic the whole
+option that requires Kubernetes to run demonstrates how ironic the whole
 questions of serverless has become.
 
 I'll admit I was a huge fan of *the idea* of Amazon Lambda as a
-developer. It covers all the right things that a lonely, developer wants
-to hear. I'm not any more.
+developer. I'm not any more. It covers all the right things that a
+lonely, developer wants to hear.
 
 "What?! I don't need a whole platform (or Heroku)? I can just write
 "functions" in my favorite language?"
@@ -21,11 +21,13 @@ has managed infrastructure or applications will tell you that there is
 still a lot of work to be done, that the integrations with systems will
 immediately make such things impossible, that vendor lock-in is beyond
 acceptable when depending on Amazon for the very code execution and
-not just the infrastructure. It's no surprise astute software
-architects are seeing it for that it is, a huge ploy from Amazon to
-force permanent, dependency on their proprietary system, 'cuz that's
-what it is. They can fool you into thinking you can write in any FOSS
-language, blah, blah. But they want you to be permanently stuck there.
+not just the infrastructure.
+
+It's no surprise astute software architects are seeing it for that it
+is, a huge ploy from Amazon to force permanent, dependency on their
+proprietary system, 'cuz that's what it is. They can fool you into
+thinking you can write in any FOSS language, blah, blah. But they want
+you to be permanently stuck there.
 
 The reality of any significant application development is that there are
 so many moving parts on the backend before an application even makes it
@@ -46,20 +48,32 @@ Internet. Kubernetes is on its way to breaking out of the enterprise
 walled gardens of the world, "hybrid" is the new hotness, where cloud
 providers can seamlessly communicate with on-prem services to provide
 one Kubernetes cluster to rule them all. The adoption of WASM in the
-browser just furthers that future. By the way, that is a much better
-future, for everyone, built on open standards and much faster than
-anything Amazon Lambda, KNative (or any of the clones) can provide. A
-few major things need to happen, support for gRPC native in the browser
-for one, but they definitely will happen. Learn them. Learn them today.
-Protobuf and gRPC applications will overtake every other application on
-the planet. Front ends will get significantly smaller as more of the
-processing returns to where it belongs --- on the server.
+browser just furthers that future, a much better future, for everyone,
+built on open standards and faster than anything Amazon Lambda, KNative
+(or any of the clones) will ever be able to  provide.
 
-Save your career, get the fuck away from "serverless" wherever you see
-it. And, by the way, one of the biggest "serverless" products, Amazon
-Firecracker, which tries (and fails) to replace the hugely successful
-QEMU (which also has a "microVM mode"), is also written entirely in
-Rust. I rest my case. "Serverless" cluelessness is over 9000.
+A few major things need to happen before the *Kubernetes Internet* (a
+term I think I just invented) becomes a reality, support for gRPC native
+in the browser, for one. It definitely will happen.
+
+Why should you care?
+
+There's not enough time to learn everything. Don't waste your time
+learning "serverless" anything. Learn Protobuf, gRPC, containers, and
+Kubernetes. And --- for the love of God --- ***learn Go***. It's
+everywhere! Everyone agrees Go is "the language of cloud" and when cloud
+becomes Internet Go that means Go becomes "the language of the
+Internet." Learn these today. Protobuf and gRPC applications will
+overtake every other application on the planet. Front ends will get
+significantly smaller as more of the processing returns to where it
+belongs --- on the server.
+
+Let me put it another way, save your career, get the fuck away from
+"serverless" wherever you see it. And, by the way, one of the biggest
+"serverless" products, Amazon Firecracker, which tries (and fails) to
+replace the hugely successful QEMU (which also has a "microVM mode"), is
+also written entirely in Rust. I rest my case. "Serverless" cluelessness
+is over 9000.
 
 * Why the Serverless Revolution Has Stalled  
   https://www.infoq.com/articles/serverless-stalled/
