@@ -1,7 +1,7 @@
 # Go Where the Noobs Are: Dev.to
 
 If I have any hope of fighting the tide of cluelessness that keeps
-carrying great beginning technologists out to sea, where they drowned in
+carrying great beginning technologists out to sea, where they drown in
 the idiotic, swirling trends of pop tech culture, then I suppose I have
 to engage more with these people where they are. So I created (another)
 Dev.to account today. I had to delete it before because I was so
