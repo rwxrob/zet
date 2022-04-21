@@ -40,6 +40,9 @@ more or less, complete).
 * Red Hat Is The New IBM  
   https://www.ibtimes.com/red-hat-new-ibm-3479562
 
+* IBM and Red Hat to Help Modernize U.S. Department of Education\'s G5 Grants Management System  
+  https://finance.yahoo.com/news/ibm-red-hat-help-modernize-110000709.html
+
 * [20220421145024](/20220421145024/) Pick Better Sources of Tech Information
 
     #redhat #ibm #linux #research
