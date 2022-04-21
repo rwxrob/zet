@@ -18,7 +18,7 @@ platform, despise OpenShift, but the fact remains, they are seeking work
 in substantial areas of our society that is critically needed, not
 feeding someone their next Netflix binge.
 
-So hates off the few and the proud who quietly seek career opportunities
+So hats off the few and the proud who quietly seek career opportunities
 that *really* make a difference for society, that lift up, not distract
 and tear down. I salute you. You need your own fucking holiday as far as
 I'm concerned.
