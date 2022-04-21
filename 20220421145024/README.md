@@ -20,4 +20,7 @@ sources of critical, decision making information, including what desktop
 Linux to run if you want it to further your employable skills and keep
 you relevant.
 
+Consider that all significant information about, say, Go and Linux still
+takes place on a UUCP Newsgroup (Google Groups), not Slack, not Discord.
+
     #prescience #knowledge #research
