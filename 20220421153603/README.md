@@ -23,4 +23,7 @@ that *really* make a difference for society, that lift up, not distract
 and tear down. I salute you. You need your own fucking holiday as far as
 I'm concerned.
 
+* IBM and Red Hat to Help Modernize U.S. Department of Education\'s G5 Grants Management System  
+  https://finance.yahoo.com/news/ibm-red-hat-help-modernize-110000709.html
+
     #rant #careers #faang
