@@ -1,7 +1,7 @@
-# Kustomize
+# Kustomize or Helm?
 
-Nice, but Helm seems to be better --- especially after discovering Helm
-plugins where we can do OPA policy validation and more.
+I don't know which is worse. Helm charts get crazy. But Kustomize can
+get just as crazy. The NFD project actually added their own "operators".
 
 Related:
 
