@@ -14,10 +14,10 @@ called `foo`:
 README.md
 CONTRIBUTING
 cmd/foo/main.go (package main)
-cmd/foo.go (package cmd, importable Bonzai commands)
 foo.go (traditional library package foo)
 foo_test.go
 cmd.go (home of foo.Cmd)
+baz.go (home of foo.Baz)
 go.mod
 go.sum
 go.work.off
