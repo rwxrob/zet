@@ -12,4 +12,6 @@ most Node projects):
 I *never* include merge commit messages. I refuse to clutter my commit
 log with shit that makes no fucking sense.
 
+* [20210503055302](/20210503055302/) Git Notes
+
     #git #conventions
