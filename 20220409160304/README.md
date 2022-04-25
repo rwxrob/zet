@@ -6,7 +6,7 @@ equivalent ligature).
 
 ```go
 type CacheMap interface {
-  Var(key, type string)
+  Var(key, typ string)
   Type(key string) string
   Get(key string) string
   Set(key, val string)

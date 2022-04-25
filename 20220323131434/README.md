@@ -8,6 +8,7 @@ values.
 ```go
 package main
 
+const VersionConst = `some`
 var Version string
 
 func main() {
