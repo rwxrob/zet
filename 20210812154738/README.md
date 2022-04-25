@@ -6,14 +6,16 @@ boundaries resulting in content that is maximally succinct, digestible,
 and composable as if applying the UNIX philosophy to knowledge:
 communicate one thing well, and make sure it can be composed nicely with
 others. This promotes compatibility with more limited text
-representations (such as YouTube descriptions and Go documentation) as
-well as simplify the requirements for any tooling to work with
-ZettelMark. Relatively powerful parsers and utilities can be created
-with simple bash scripts alone.
+representations such as YouTube descriptions and Go documentation ---
+even just on paper. It simplifies the requirements for any
+tooling to work with ZettelMark. Relatively powerful parsers and
+utilities can be created with simple bash scripts alone. For example,
+since no "front-matter" `head -1` always gets the title; since tags are
+always on last line `tail -1` always gets them.
 
 CommonMark is the most widely accepted standard for knowledge content,
 but further redundancy reductions are required to keep things as simple
-as possible:
+as possible and maximally readable in source form:
 
 * Only `*`,`**`,`***` for italic, bold, bold italic
 * Only `1.` for ordered lists
@@ -21,14 +23,19 @@ as possible:
 * Just one space following list markers
 * Lists must only be one level deep
 * Everything at beginning of line (not within 3 spaces)
-* Only `----` for horizontal rule / separator
+* Only `----` for horizontal rule / separator (but generally avoid)
 * Use two or more trailing spaces for hard breaks
 * Use three backticks for fenced content
 * Use three tildes for fenced when contains three backticks
 * Use four tildes for fenced when contains three tildes
-* No space between opening fence token and keyword
+* No spaces between opening fence token and keyword
 * Use initial angle bracket for every line of quoted block
 * Never HTML allowed in any way
+* Never any links of any kind, just raw URLs without angle brackets
+* No images but one allowed and must be own block
+* Images must meet specific requirements (see Raster Image Figures)
+
+* [20210813202844](/20210813202844/) ZettelMark: Raster Image Figures
 
 CommonMark does not allow tables, but GitHub does. Therefore, GFM tables
 are allowed in ZettelMark but with the following constraints to
@@ -60,12 +67,12 @@ easier to create, grok, and index:
 * Title text must be 50 columns or less (same as Git)
 * Wrap *everything* but references block to 72 columns
 * Substantial code, raw, and images should be in separate files
-* Remember, code blocks will be automatically clipped
-* No links anywhere but the final references list and video line
+* Links should be usually kept in references section (last before tags)
 * Optional video link must be third line (own block)
-* Video link must be less than 72 cols and start with 📺
-* Optional reference links list must be last list block
-* Optional tags line must be last line of file
+* Video link must be less than 72 cols and start with 📺 (1st after title)
+* Optional tags line must be last line of file and indented 4 spaces
 * All reference links must be explicit and visible
 * Block quotes must only contain paragraph and list blocks
 * Block quotes may begin with a semantic emoji line (`> ⚠️`)
+* Only one figure (image) per zettel, must be own block, not linked
+
