@@ -7,6 +7,18 @@ pull up an *info node* that fits under 380 characters (an arbitrary, but
 good, size set by Twitch/IRC). This size also fits well in Tweets. And
 God knows the world is obsessed with bite-sized information these days.
 
+```yaml
+hacker: &hacker >-
+  😎💻 Hacking is a mind-set. Hackers figures shit out, !autodidacts who
+  make stuff do what they want in unexpected ways. Hackers learn more
+  about than the original creators. That's it. Hackers are, therefore,
+  pragmatic scientists. They !RWX their way though life for fun and
+  profit. Learn to think like a hacker. You'll be smarter for it. Hack
+  the planet!
+
+hackers: *hacker
+```
+
 I'm using YAML for them with the title as the key and a reference link.
 I generally start them with emojis of some kind as a way to roughly
 categorize them. I don't think I'll every formalize that. It just
