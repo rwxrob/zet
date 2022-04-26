@@ -4,7 +4,7 @@ When creating and consume knowledge there seems to be a few organic
 scopes and sizes:
 
 1. Title - 50 characters or less (git commits, titles, etc.)
-1. Micro - 380 characters or less (one tweet, or long paragraph)
+1. Micro - 380 characters or less (one tweet, index car, or paragraph)
 1. Zettel - about 25 lines of 72 columns (one Luhmann "zettel")
 1. Digest - readable in one bathroom sitting (reader's digest, etc.)
 1. Article - longer than digest (newspaper, blog, magazine, etc.)
@@ -13,8 +13,8 @@ scopes and sizes:
 1. Part - multiple chapters
 1. Book - multiple parts
 
-This is a zettel. It fits on about one of my terminal screens. The
-Twitch commands I use are micros.
+What I'm writing right now is a zettel. It fits on about one of my
+terminal screens. The Twitch commands I use are micros.
 
 I think this difference in scoping is why there will need to be a `kn`
 tool in addition to a `zet` tool. The `kn` tool will encompass the
