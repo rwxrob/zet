@@ -21,7 +21,6 @@ as possible and maximally readable in source form:
 * Only `1.` for ordered lists
 * Only `* ` for unordered lists
 * Just one space following list markers
-* Lists must only be one level deep
 * Everything at beginning of line (not within 3 spaces)
 * Only `----` for horizontal rule / separator (but generally avoid)
 * Use two or more trailing spaces for hard breaks
@@ -31,7 +30,8 @@ as possible and maximally readable in source form:
 * No spaces between opening fence token and keyword
 * Use initial angle bracket for every line of quoted block
 * Never HTML allowed in any way
-* Never any links of any kind, just raw URLs without angle brackets
+* Most links should just be URLs without angle brackets
+* Never hide essential information in a link
 * No images but one allowed and must be own block
 * Images must meet specific requirements (see Raster Image Figures)
 
