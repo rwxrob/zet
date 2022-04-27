@@ -11,8 +11,8 @@ mid-August, but we'll just go with it.
 
 1. !Welcome, !friend.
 1. !Learn Like a !Hacker
-1. !Setup Your !Home !Lab
-1. !Linux !Terminal, This is The !Way
+1. !Setup a !Home !Lab
+1. Learn !Linux !Terminal
 1. !Develop !Tools in !Bash and !Go
 1. !Meet, !Communicate, and !Publish
 1. Get and Keep a !Job
