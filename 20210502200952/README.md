@@ -9,7 +9,6 @@ promotion of this medium. It will only continue. For better or worse,
 GitHub is already established in that space and motivated to always
 allow users to see content hosted there.
 
-
 So where does that leave KEG?
 
 KEG has always been about content and never the transport. If anything,
