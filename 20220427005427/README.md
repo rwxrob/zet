@@ -14,7 +14,7 @@ anything else and if it did whatever named itself `me` is the dumb shit
 that needs to die, not the owner of the GitHub account who *is* "me" in
 that case.
 
-"Or just find me at 'rwxrob/me' on GitHub."
+"Or just find 'me' at 'rwxrob' on GitHub."
 
 Yeah, that sounds nice.
 
