@@ -1,4 +1,4 @@
-# KEG Master Node GitHub Conventional Name
+# KEG Master Node GitHub Conventional Name: `me`
 
 I love `dot` for dotfile and such, but what to call a person's primary
 KEG Master Node? Here are some possibilities:
