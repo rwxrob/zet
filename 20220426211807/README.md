@@ -47,17 +47,9 @@ additions of technology where available, not dependencies.
         foo.go
         go.mod
     info/
-      README.md
+      README.md          - KN Type: InfoTags, multiple h1 tags, <380 each
       README.md.sig
       index.html
-      hacker/
-        README.md
-        README.md.sig
-        index.html
-      job/
-        README.md
-        README.md.sig
-        index.html
     cv/                  - KN Type: CV
       README.md          - partially generated from data.yaml
       README.md.sig
