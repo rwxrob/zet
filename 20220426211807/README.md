@@ -27,6 +27,8 @@ additions of technology where available, not dependencies.
     KEG/
       manifest           - sorted by lastmod(isosec), path
       sigs               - GPG signatures by path, one per line
+      follow             - list of KEG URLs followed
+      cancel             - cancelled KEG URLs to ignore completely
       types/
         infotag/
           README.md
