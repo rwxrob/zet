@@ -1,4 +1,4 @@
-# Mim KEG Master Knowledge Node (Mono Repo)
+# KEG Master Node (KEG Site), Early Spec Thoughts
 
 So often I need to link to a very small bit of code to convey how
 something is done. I would put them in an *info node* if I could include
@@ -25,50 +25,55 @@ containing the same information. GPG signing is a *progressive*
 additions of technology where available, not dependencies.
 
     KEG/
-      recent             - lastmod(isosec), path, titles
+      manifest           - sorted by lastmod(isosec), path
+      sigs               - GPG signatures by path, one per line
+      types/
+        infotag/
+          README.md
+        zettel/
+          README.md
+        lab/
+          README.md
+        cv/
+          README.md
+        post/
+          README.md
     README.md
-    README.md.sig        - optional GPG signature
     zet/
-      20220426213407/    - KN Type: Zettel, isosec unique identifier
+      K20220426213407/    - KN Type: Zettel, isosec unique identifier
         README.md
-        README.md.sig
     lab/
-      20220426213452/    - KN Type: Lab
+      K20220426213452/    - KN Type: Lab
         README.md
-        README.md.sig
         foo.go
         go.mod
     info/
       README.md          - KN Type: InfoTags, multiple h1 tags, <380 each
-      README.md.sig
     cv/                  - KN Type: CV
       README.md          - partially generated from data.yaml
-      README.md.sig
       data.yaml          - main file
       gen.go             - generator
     foo/                 - anything needing short url, generated
       README.md          - standard KN node file
-      README.md.sig
       README.gotmpl      - (extra but allowed)
       data.yaml          - standard KN node file
-      data.yaml.sig
       gen.go             - anything with gen triggers generation
-    posts/               - KN Type: Post
+    posts/               - KN Type: Post (edited for publication)
       README.md
-      README.md.sig
 
 Note that *no Web code of any kind is allowed in any KEG node* (unless,
 of course, the content itself is *about* Web development). This is by
-design. Web pages are one form to which KEG Markdown may be rendered.
+design. Web pages are one form to which KEG Markdown may be rendered,
+but rendering is out of scope for the KEG project.
 
-This does prevent someone from mixing rendered Web pages *next to* a KEG
-site, say if both are in the same GitHub repo. Since KEG does not
-fundamentally depend on Git it could still be saved there for
-convenience. The same goes for hosting on a web server. I could have
-`rwx.gg` pointing to my rendered web pages while `keg.rwx.gg` points to
-the raw KEG data being served over HTTP, FTP, Gopher, or `rsync` (since nothing
-about KEG cares about the transport protocol). A KEG node is just
-another static site to be mirrored, that's it.
+However, someone may want rendered Web pages *next to* a KEG site, say
+if both are in the same GitHub repo. Since KEG does not fundamentally
+depend on Git it could still be saved there for convenience. The same
+goes for hosting on a web server. For example, I could have `rwx.gg`
+pointing to my rendered web pages while `keg.rwx.gg` points to the raw
+KEG data being served over HTTP, FTP, Gopher, or Secure Shell (`scp`,
+`rsync`, since nothing about KEG cares about the transport protocol). A
+KEG node is just another static site to be mirrored, that's it.
 
 One fundamental different this separation has from previous designs is
 that there is no longer an optional `index.html` that lives next to the
