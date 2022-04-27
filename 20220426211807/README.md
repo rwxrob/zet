@@ -21,56 +21,57 @@ especially when other followers have `mim keg` from the command line to
 use to read anything on KEG in their terminal (or GUI eventually)
 without any web rendering at all. In principle, everything here that
 takes a computer to create could be replaced with just folders of paper
-containing the same information. GPG and Web rendering are *progressive*
+containing the same information. GPG signing is a *progressive*
 additions of technology where available, not dependencies.
 
     KEG/
-      updates            - lastmod(isosec), path, titles
+      recent             - lastmod(isosec), path, titles
     README.md
     README.md.sig        - optional GPG signature
-    index.html           - always ephemeral and rendered from README.md
-    assets/              - reserved for Web content, but still a KN
-      README.md
-      README.md.sig
-      main.js
-      main.css
     zet/
       20220426213407/    - KN Type: Zettel, isosec unique identifier
         README.md
         README.md.sig
-        index.html       - rendered, ephemeral
     lab/
       20220426213452/    - KN Type: Lab
         README.md
         README.md.sig
-        index.html
         foo.go
         go.mod
     info/
       README.md          - KN Type: InfoTags, multiple h1 tags, <380 each
       README.md.sig
-      index.html
     cv/                  - KN Type: CV
       README.md          - partially generated from data.yaml
       README.md.sig
-      index.html         - generated from README.md and gen.go
       data.yaml          - main file
       gen.go             - generator
     foo/                 - anything needing short url, generated
       README.md          - standard KN node file
       README.md.sig
       README.gotmpl      - (extra but allowed)
-      index.html
       data.yaml          - standard KN node file
       data.yaml.sig
       gen.go             - anything with gen triggers generation
-    articles/            - KN Type: Article
+    posts/               - KN Type: Post
       README.md
       README.md.sig
 
-The Web rendering being intermixed is an inconvenient requirement given
-the world's dependency on the WorldWideWeb right now. This way, if
-anyone wants the source, they can just add README.md to the end or
-README.md.sig to see the authorized signer.
+Note that *no Web code of any kind is allowed in any KEG node* (unless,
+of course, the content itself is *about* Web development). This is by
+design. Web pages are one form to which KEG Markdown may be rendered.
+
+This does prevent someone from mixing rendered Web pages *next to* a KEG
+site, say if both are in the same GitHub repo. Since KEG does not
+fundamentally depend on Git it could still be saved there for
+convenience. The same goes for hosting on a web server. I could have
+`rwx.gg` pointing to my rendered web pages while `keg.rwx.gg` points to
+the raw KEG data being served over HTTP, FTP, Gopher, or `rsync` (since nothing
+about KEG cares about the transport protocol). A KEG node is just
+another static site to be mirrored, that's it.
+
+One fundamental different this separation has from previous designs is
+that there is no longer an optional `index.html` that lives next to the
+`README.md` file bloating up the entire KEG node.
 
     #mim #keg #structure #design
