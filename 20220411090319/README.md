@@ -42,4 +42,9 @@ what hyperlinks are, fucking "cute" in the worst way. I wish I could go
 get a Ph.D just to prove how fucking, fucked up hyperlinks *always*
 were.
 
+Based on this, it is always better to *describe* the entry point to a
+source of information and rhetorically describe what to look for there.
+This way stuff can move around (and content is naturally supposed to do)
+and you can just find it at the source there.
+
     #rant #hyperlinks #web
