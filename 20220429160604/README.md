@@ -1,4 +1,4 @@
-# But in `kubectl` That Forces Upgrade
+# Design Flaw in `kubectl` Forces Upgrade
 
 While deploying my `klogin` tool at work one of the users opened a bug
 on it stating that "it should not force an upgrade of `kubectl` unless
