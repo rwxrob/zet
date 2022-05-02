@@ -28,4 +28,9 @@ a scanner and parser be two different things, that a single parser
 struct should be created with an AST mode that can be set when capturing
 the node tree is wanted.
 
+In short, I think the safest way to go is to keep the rune scanner
+optimized for very efficient parsing and coding and to encapsulate it
+within a Parser struct (with state) containing mostly just methods that
+are named for the things they are parsing.
+
     #coding #parsers
