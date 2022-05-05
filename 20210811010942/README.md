@@ -2,9 +2,9 @@
 
 Thanks sponsors, subs, and followers:
 
-* GitHub: <https://github.com/sponsors/rwxrob>
-* Twitch: <https://www.twitch.tv/subs/rwxrob>
-* Twitter: <https://twitter.com/rwxrob>
-* Discord: <https://discord.com/invite/9wydZXY>
+* GitHub: https://github.com/sponsors/rwxrob
+* Twitch: https://www.twitch.tv/subs/rwxrob
+* Twitter: https://twitter.com/rwxrob
+* Discord: https://discord.com/invite/9wydZXY
 
-See <http://rwxrob.tv/schedule> for scheduled streams.
+See https://twitch.tv/rwxrob/schedule for stream schedule.
