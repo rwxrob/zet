@@ -5,8 +5,6 @@
 * `sudo apt update; sudo apt upgrade`
 * `sudo apt install curl`
 * Don't use their fucking brain-dead `harbor.sh` script
-* Use the one here
-
 
 
 Related:
