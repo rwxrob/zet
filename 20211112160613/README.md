@@ -1,15 +1,13 @@
-# Learning to Install VMWare Harbor Locally
+# Installing Harbor Into VM
 
-* Two installation methods: 1) Installer 2) Helm
-* Installer has critical dependency on docker-compose for installation
-* Seems that most use Helm for install
-* Roadmap of HA dependencies seems to be clear:
-  * Istio
-  * PostgreSQL
-  * Redis
-* Decided to go with hardware lab setup first
+* Install an Ubuntu Server VM
+* Install OpenSSH Server
+* `sudo apt update; sudo apt upgrade`
+* `sudo apt install curl`
+* `curl -sSL
+  https://gist.githubusercontent.com/kacole2/95e83ac84fec950b1a70b0853d6594dc/raw/ad6d65d66134b3f40900fa30f5a884879c5ca5f9/harbor.sh 
 
 Related:
 
-* <https://goharbor.io/>
-* <https://github.com/goharbor/harbor>
+* Harbor docs \| Deploy Harbor with the Quick Installation Script  
+  https://goharbor.io/docs/2.0.0/install-config/quick-install-script/
