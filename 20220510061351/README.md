@@ -22,4 +22,7 @@ and supplement it that are the real things anyone needs to learn.
 * Work with remote images registries  
   https://github.com/containers/skopeo
 
+* "no image found in manifest" error explanation  
+  https://github.com/containers/skopeo/issues/634
+
     #k8s #cloudnative #containers
