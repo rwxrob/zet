@@ -1,5 +1,16 @@
 # Use Skopeo for Moving Container Images Around
 
+```
+skopeo login <registery>
+skopeo copy --override-os linux docker://<from> docker://to
+```
+
+Yeah, you don't need Docker (thank god). This is particularly useful for
+Mac users (forced to use Mac because of corporate requirements, but who
+don't have docker running on their laptops). Don't forget the override
+because lots of container images don't have a `darwin` version
+(`gpu-feature-discovery` from Nvidia, for example).
+
 Recently, I was told about Skopeo, a useful tool for moving images
 between registries --- particularly when moving from the Internet into a
 private enterprise repository in Harbor or Portus of something. It's yet
