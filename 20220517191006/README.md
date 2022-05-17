@@ -16,4 +16,6 @@ zero-trust deployments.
 * Twitch OIDC Authentication  
   https://dev.twitch.tv/docs/authentication/getting-tokens-oidc/
 
+* https://www.digitalocean.com/community/tutorials/recommended-steps-to-secure-a-digitalocean-kubernetes-cluster#step-1-enabling-remote-user-authentication
+
     #oidc
