@@ -9,3 +9,5 @@ opensource under Apache 2.0.
 * [Keycloak](https://www.keycloak.org/)
 * [What Keycloak Is and What It Does?](https://dzone.com/articles/what-is-keycloak-and-when-it-may-help-you)
 * [KeyCloak on GitHub](https://github.com/keycloak/keycloak)
+* Tutorial 1 - Installing & Running Keycloak  
+  https://keycloak.ch/keycloak-tutorials/tutorial-1-installing-and-running-keycloak/
