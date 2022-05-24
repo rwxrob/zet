@@ -57,3 +57,5 @@ for now. Still don't know if will put into K8S or run stand-alone.
   https://www.reddit.com/r/devops/comments/9dtnn2/openldap_in_docker_container/
 * Configure OpenLDAP on Rocky Linux 8 \[Step-by-Step\] \| GoLinuxCloud  
   https://www.golinuxcloud.com/install-configure-openldap-rocky-linux-8/
+* Authenticate to Kubernetes using Hashicorp Vault -- /var/log/tmaurice  
+  https://blog.thomas.maurice.fr/posts/authenticate-with-kubernetes-using-vault/
