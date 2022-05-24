@@ -13,6 +13,9 @@ private internal enterprise authentication, and the fact that the same
 tech works inside or outside a VPN is what leads to the future of
 zero-trust deployments.
 
+* OpenID Connect explained \| Connect2id  
+  https://connect2id.com/learn/openid-connect
+
 * Twitch OIDC Authentication  
   https://dev.twitch.tv/docs/authentication/getting-tokens-oidc/
 
