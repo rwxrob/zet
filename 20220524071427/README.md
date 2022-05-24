@@ -18,4 +18,7 @@ Where does this leave LDAP-driven `grant_type=password` authorization flows such
 * OAuth 2.0 Password Grant Type  
   https://oauth.net/2/grant-types/password/
 
+* OIDC Identity Provider \| Vault by HashiCorp  
+  https://www.vaultproject.io/api-docs/secret/identity/oidc-provider
+
     #k8s
