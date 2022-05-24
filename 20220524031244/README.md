@@ -1,5 +1,10 @@
 # Using Vault Instead of Keycloak
 
+Update: Vault does *not* support the `grant_type=password` that many
+authorization flows have established despite it being discouraged by
+OAuth itself. This may be the singular reason so many people are stuck
+on Keycloak, because their `klogin` programs use `password`.
+
 All I had to read was that Vault is written in Go 1.17 from Hashicorp
 and Keycloak is an ancient Java application from a company that was
 acquired by RedHat to make my decision about an IAM provider for my home
