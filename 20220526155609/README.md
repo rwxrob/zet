@@ -7,7 +7,7 @@ login method at all is the first major missing piece of any on-prem
 Kubernetes deployment (along with other things like Ingres, CNI, storage
 classes, etc.).
 
-Using an OIDC provider is by far the most common architecture (yes, even if you are using a home lab setup wijth OpenLDAP and Keycloak, dex, or Vault).
+Using an OIDC provider is by far the most common architecture (yes, even if you are using a home lab setup with OpenLDAP and Keycloak, dex, or Vault).
 
 > 1. Login to your identity provider
 > 2. Your identity provider will provide you with an access_token,
