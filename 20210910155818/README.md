@@ -35,6 +35,22 @@ Getting Started:
 * Follow documentation on <https://kubernetes.io>
 * Recommend VirtualBox "Driver" for Minikube
 
+* [20211015160432](/20211015160432/) Kubernetes and Cloud-Native Colearning
+* [20211015160605](/20211015160605/) Cloud-Native and Kubernetes Colearning, Oct 15, 2021
+* [20211016014040](/20211016014040/) Cloud-Native and Kubernetes Colearning, Oct 15, 2021
+* [20211016160649](/20211016160649/) Cloud-Native and Kubernetes Colearning, Oct 16, 2021
+* [20211017011307](/20211017011307/) Cloud-Native and Kubernetes Colearning, Oct 16, 2021
+* [20211018013036](/20211018013036/) Cloud-Native and Kubernetes Colearning, Oct 17, 2021
+* [20211019013846](/20211019013846/) Cloud-Native and Kubernetes Colearning, Oct 18, 2021
+* [20211022150753](/20211022150753/) Cloud-Native and Kubernetes Colearning, Oct 22, 2021
+* [20211028220924](/20211028220924/) Kubernetes Colearning (bare-metal and more)
+* [20211029150822](/20211029150822/) Kubernetes Colearning (bare-metal and more)
+* [20211029171439](/20211029171439/) Kubernetes Applications Development (CKAD) Colearning (rwxrob.tv)
+* [20211105153226](/20211105153226/) Kubernetes Colearning
+* [20211105165811](/20211105165811/) Kubernetes Colearning, Nov 5, 2021
+* [20211106143351](/20211106143351/) Kubernetes Colearning, Nov 6, 10:30am
+* [20220517201202](/20220517201202/) Added Kubernetes Colearning Back to Fridays
+
 Tags:
 
     #colearning #k8s #ckad #cka #cks #cncf #cloud
