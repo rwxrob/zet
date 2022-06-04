@@ -52,5 +52,6 @@ streaming:
 * Pack while driving gives driving POV, different effect from dash cam
 * Mount phone so visible and readable near steering wheel
 * Absolutely use NoALBs or equivalent
+* Start/stop a new stream to save time on VOD editing, YouTube export
 
     #zetcast #streaming #tips #irl
