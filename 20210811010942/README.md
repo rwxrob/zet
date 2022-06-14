@@ -7,4 +7,4 @@ Thanks sponsors, subs, and followers:
 * Twitter: https://twitter.com/rwxrob
 * Discord: https://discord.com/invite/9wydZXY
 
-See https://twitch.tv/rwxrob/schedule for stream schedule.
+See https://bit.ly/rwxrobsched for stream schedule.
