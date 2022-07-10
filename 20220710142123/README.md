@@ -26,3 +26,11 @@ a MB streamer).
 * Advice
 * Performance
 * Podcasts
+
+## Personal IRL Streaming Rig
+
+* Belabox with Metal case
+* Netgear Nighthawk M5 + Ethernet Cable
+* Verizon Jetpack 8800 + USBC charging cable
+* 
+
