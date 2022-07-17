@@ -33,5 +33,5 @@ again) the problem. They create a disingenuous shit storm of bad vibes.
 So yeah, I learned what I *never* want to have in my community. This is
 why I've been so slow to add mods and remove follower-only chat and
 such. I want a *curated* community of highly-responsible participants
-who think about what they right, and mods who are exceptional from among
+who think about what they write, and mods who are exceptional from among
 them. I've just experienced the polar opposite of that.
