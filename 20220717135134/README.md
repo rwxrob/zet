@@ -1,15 +1,15 @@
 # Twitch Mods are Power-Hungry Pricks
 
 Just learned a really important lesson after subbing to jaystreazy
-(whome I've followed off and on for a year). During an IRL TwitchCon
+(whom I've followed off and on for a year). During an IRL TwitchCon
 forum I typed four words of Russian when a question was asked about the
 necessity of speaking a foreign language to be an IRL streamer abroad.
 It was just a little fun. But I got immediately timed out for 10 minutes
 because of it. Then, when I brought it up later I got timed out again.
 Then, when during a live TwitchCon interview with someone who was overly
 aggressively banned who didn't even request an unban Jay reached out to
-the community to ask about unbanning him these same mods where shamed
-when the  community agreed and unbanned him. The guy could have cared
+the community to ask about unbanning him these same mods were shamed
+when the community agreed and unbanned him. The guy could have cared
 less about being unbanned, "your mods are shit" he basically said, right
 after they unbanned him. And, during that moment, when I said, "these
 moderators are a bit aggressive" I got timed out for a full fucking day,
