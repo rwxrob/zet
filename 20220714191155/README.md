@@ -1,5 +1,13 @@
 # Resize Linux LVM Disk with an ext3 Filesystem
 
+First, extend the disk in VMWare if needed. Then grow the specific
+partition.
+
+```
+lsblk
+sudo growpart /dev/sda 3
+```
+
 Get the name of the logical volume group (VG).
 
 ```
