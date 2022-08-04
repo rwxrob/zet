@@ -15,6 +15,15 @@
 
 * How much experience do I need before I apply for a new job?
 
-* What should I learn form "backend tool type of stuff"?
-
 * How to improve courage as an IT employee?
+
+* What should I learn from "backend tool type of stuff"?
+
+* How much money do I really need?
+
+* Should I disclose my salary to others?
+
+* Should I approach my employer about money?
+
+* How would approach the money question with your employer?
+
