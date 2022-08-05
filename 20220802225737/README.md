@@ -27,3 +27,13 @@
 
 * How would approach the money question with your employer?
 
+thoughts on Kali vs Parrot. will watch the vod
+
+Why is Linux a good OS?
+
+What about bootcamps?
+
+ i used to run before when i was 17-18 but now im 24 and i havent ran in such a long time. I'm looking into going to the Gym and starting running on a treadmill. Why do doctors say that running is bad for ur hearth and you should only jog in moderation. I'm looking into running to lose weight.
+
+saaltyman: @rwxrob What language do you speak, anyway I’m on High, so let’s go. I’m Ruby on Rails developer, but feels like dead inside you know, I too young 25 y.o., I don’t understand what I need to do do golang or go to nodejs and I don’t understand Ruby status is it already dead or not, do you believe in TOIBE index? thanks for your responds, I really lost, thanks a lot if you respond to this message and it’s hope to my mind
+
