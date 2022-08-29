@@ -34,8 +34,7 @@ itself into Kubernetes because I feel like that adds too many
 unnecessary moving parts and points of failure for what is going to be
 one of the most intensely used infrastructure services. Some might feel
 that is a reason to put it into Kubernetes, but I'm just not sold on the
-idea. It's like DNS. Would I put DNS *inside* of Kubernetes? No fucking
-way.
+idea. It's like DNS. Would I put DNS *inside* of Kubernetes? No way.
 
 I'm going to use Podman for the container engine on the Rocky Linux
 distro because it is common and I need some exposure to Podman given
@@ -59,3 +58,5 @@ for now. Still don't know if will put into K8S or run stand-alone.
   https://www.golinuxcloud.com/install-configure-openldap-rocky-linux-8/
 * Authenticate to Kubernetes using Hashicorp Vault -- /var/log/tmaurice  
   https://blog.thomas.maurice.fr/posts/authenticate-with-kubernetes-using-vault/
+* How do I setup my own LDAP server? -- Clambaronline.com  
+  <https://www.clambaronline.com/how-do-i-setup-my-own-ldap-server/>
