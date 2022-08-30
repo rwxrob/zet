@@ -14,7 +14,7 @@ are the same people who take valuable time from their days to rant on
 tumblr and reddit and answer "Which language do you love the most?"
 idiotic surveys on Stack Exchange.
 
-The writer gives up his JavaScript script-kiddy roots when complaining
+The writer gives up their JavaScript script-kiddy roots when complaining
 about Go's concurrency model after clearly been raised on the fucking
 moronic async/await model of JS that Rust also followed (finally, after
 they decided to add it to the language about three years after, unlike
