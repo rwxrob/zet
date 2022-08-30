@@ -7,20 +7,29 @@ people in the IT world who are focused on cloud IT stuff and
 
 I see myself in them sometimes, the part of me that wants to prepare
 people for work in the enterprise, to be empowered by full-time
-employment to do other things that matter far more.
+employment to do other things that matter far more. I asked my manager
+where all the other TEK Systems people were and most of them are doing
+SRE work and Terraform.
 
 But mostly I realize that being a hacker means that if something is just
-stupid architecture for what I want to accomplish that I can hack it to
-do what I want without guilt, that I can even invent something that is
-better that what the whole world is using for my purposes. That's the
-power of having my own home lab and having Go coding skills mastered
-(for anyone). It's the only reason that I code, at all, I don't enjoy
-coding. I enjoy making shit that is better than other shit.
+irrelevant architecture for what I want to accomplish that I can hack it
+to do what I want without guilt, that I can abandon it and invent
+something that is better. That's the power of having my own homelab,
+having a lot of experience, and having Go coding skills mastered (for
+anyone). It's the only reason that I code, at all. I don't enjoy coding.
+I enjoy making things better than what already exist.
 
-What am I going to do with my home lab? Well, definitely nothing that I
-would waste time putting into some cloud service somewhere, where
-everything is at the whims of people making decisions in their interests
-and not mine.
+What does this have to do with my homelab?
+
+It means that my homelab is what I want, not what my company (or any
+company) would want. And I would waste time putting into some cloud
+service somewhere, where everything is at the whims of people making
+decisions in their interests and not mine. My homelab is where I can use
+technologies that I absolutely love, that I want to improve and learn,
+no matter what the use of those technologies outside of my homelab. And
+my homelab, after all, is for learning new things, practicing things
+that I do need for the job of my dreams, and for hacking the shit out of
+people for fun and profit.
 
 This means that things like Terraform and Ansible and Vagrant are just
 completely unnecessary when ssh certs and a good bash script will do
