@@ -39,5 +39,8 @@ Go where it was a first-class consideration from the start).
 My frustration about all of this is that assholes like this are more
 likely to put dumb, uninformed shit on the Web that people will more
 likely see than any amount of quality information whatsoever, because
-the people who actually matter are not really publishing a lot, they're
-getting shit done that matters.
+the people who actually matter --- the ones who actually are the
+authorities in this space --- are not really publishing a lot, they're
+getting shit done that matters. As TJ says, "the more likely you are to
+discover someone on the Internet, the less likely they are going to be
+to have anything of value to say."
