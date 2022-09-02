@@ -1,5 +1,8 @@
 # Could I Try Zero-Trust Architecture at Home?
 
+TL;DR: No. It's not worth the hassle since I simply don't have or need
+the infrastructure involved for such a thing.
+
 PREPARE
 
 * Identify resources, network identities, and roles/privileges
