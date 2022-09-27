@@ -8,6 +8,7 @@ Thing|How to Say It
 `zsh`|z-s-h, "zed shell" (some say "zeeesh", but omg)
 `csh`|c-s-h
 `sh`|Be precise: POSIX, Bourne, Dash, Ash, Bash Shell
+`ssh` | "s-s-h" (never ever "shhh")
 `SQL`|"sequel" or s-q-l
 `PostgreSQL`| "postgress-q-l"
 `SQLite`| "sequel-lite"
@@ -51,4 +52,6 @@ Thing|How to Say It
 `UEFI`|u-e-f-i
 `USB`|u-s-b
 `ricing`|means to make a terminal or rig or desktop look cool
-
+`kubectl` | "cube c-t-l"
+`IOPS` | "eye ops"
+`etcd` | "etsy dee"
