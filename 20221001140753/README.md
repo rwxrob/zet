@@ -14,6 +14,7 @@ Then you will need to add this to your `~/.bashrc`.
 
 ```
 export ANSIBLE_LOAD_CALLBACK_PLUGINS=1
+export ANSIBLE_STDOUT_CALLBACK=json
 ```
 
 Now the following will work.
