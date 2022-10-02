@@ -1,5 +1,10 @@
 # OCMS Credentials (Badges) Specification
 
+> WARNING: This document is now maintained at
+https://github.com/rwxrob/ocms/spec as of Sunday, October 2, 2022,
+10:18:29AM EDT. Eventually, that will be a copy of whatever is at
+https://ocms.cc when that is up.
+
 This is the specification for Open Credential Merit System credentials,
 informally referred to as "badges". OCMS ("Occam's") badges are central
 to OCMS itself. (See <https://ocms.cc> for more.)
