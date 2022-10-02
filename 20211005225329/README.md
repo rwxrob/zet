@@ -1,5 +1,11 @@
 # Open Credential Merit System (OCMS) for Learning
 
+> WARNING: This document is now maintained at
+https://github.com/rwxrob/ocms/about as of Sunday, October 2, 2022,
+10:18:29AM EDT. Eventually, that will be a copy of whatever is at
+https://ocms.cc when that is up.
+
+
 > Don't dictate, facilitate. (OCMS Motto)
 
 OCMS (pronounced "Occam's") is a learning system focused on cutting away
