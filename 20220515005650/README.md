@@ -5,5 +5,6 @@
 
 
 🎉 rwxafterdark (warning: mature)
-
-
+🐧🏡 Linux Homelab Init
+📞 QCA
+😎 HackTheBox
