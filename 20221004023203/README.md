@@ -6,5 +6,6 @@ body is very real. It's not unlike an e-sport. This is why software
 developers burn out so much, and, I imagine, why so many Twitch
 streamers just give the whole thing up.
 
-* Just simplify the schedule (fewer missed expectations)
+* Simplify the schedule (fewer missed expectations)
 * Add Discord stage to more (maybe even all) streams
+* Remember, you don't really owe anyone anything (except your employer)
