@@ -6,6 +6,7 @@ These days `fdisk` is kinda boomer. Here's some alternatives:
 * `lvs` - list logical volumes
 * `vgs` - list volume groups
 * `lvcreate`  - create logical volume
+* `lvextend`  - extend existing volume
 * `pvcreate` - create physical volume
 * `lsblk` - list your block devices
 * `blkid` - locate/print block device attributes
