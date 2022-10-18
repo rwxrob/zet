@@ -15,6 +15,9 @@ CIDR                                           | Every | IPs/Subnet
 192.168.{56,64,72,80,88,96,104,112}.0/21       | 8     | 2044
 192.168.{128,144,160,175,191,207,224,240}.0/20 | 16    | 4094
 
+Another good one is 192.168.128.0/17, which is 32766 assignable hosts and
+leaves all of everything up to 128.0 alone.
+
 Of course, these can be grouped entirely differently, on different
 boundaries, but this is nice to just grab one of a given size that you
 know starts and stops on a reasonable number.
