@@ -20,3 +20,7 @@ All the stuff that I once did for a "workspace container" is relevant,
 but this is just so much better because it is a *real* machine with
 volumes that I can mount and test and fill. Such cannot be done with
 containers.
+
+Related:
+
+* https://cloud-images.ubuntu.com/releases
