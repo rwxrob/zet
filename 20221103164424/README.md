@@ -1,4 +1,4 @@
-# More ISOSEC Identifier in My Zettelkasten
+# No More ISOSEC Identifier in My Zettelkasten
 
 Turns out using an isosec identifier is a problem because there is no
 indication of what that node is about, nor is there any promise that the
