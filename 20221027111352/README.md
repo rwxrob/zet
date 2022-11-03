@@ -15,11 +15,11 @@ most technologists. Focus is on practices, habits, and knowledge rather
 than specific technologies.
 
 * Terminal Velocity: Mastering the Fastest Human-Computer Interface
-* Autodidactic: Habits of Successful Knowledge Workers
+* Autodidactic: How to Succeed as a Knowledge Worker
 * Good to Gig: Surviving the Radical New Sharing Economy
-* Works on My Machine: Modern Collaborative Developer Practices
+* Works for Me: Modern Collaborative Developer Practices
 * Coding for Self-Empowerment: Programming with Purpose
-* SKILSTAK: Lessons Learned Over a Decade of Helping Others Learn
+* SKILSTAK: Learning How to Help Others Learn
 * PEGN: Parsing Expression Grammar Notation
-* Bonzai: Building Stateful Command Tree Applications with Go
-
+* Bonzai: Building Stateful Command Tree Interfaces with Go
+* Knowledge Exchange Graphs: Manage Knowledge Like Software (or Booze)
