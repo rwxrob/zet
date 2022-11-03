@@ -14,12 +14,12 @@ This category of books contains stuff of general interest and import to
 most technologists. Focus is on practices, habits, and knowledge rather
 than specific technologies.
 
-* Autodidactic, Habits of Successful Knowledge Workers
-* Good to Gig, Surviving the Radical New Sharing Economy
-* Works on My Machine, Modern Collaborative Developer Practices
-* Terminal Velocity, Mastering the Fastest Human-Computer Interface
-* Coding for Self-Empowerment, Programming with Purpose
-* SKILSTAK, Lessons Learned Over a Decade of Helping Others Learn
-* Learning PEGN, The Parsing Expression Grammar Notation
-* Building Fluid Command Line Tools with Bonzai
+* Terminal Velocity: Mastering the Fastest Human-Computer Interface
+* Autodidactic: Habits of Successful Knowledge Workers
+* Good to Gig: Surviving the Radical New Sharing Economy
+* Works on My Machine: Modern Collaborative Developer Practices
+* Coding for Self-Empowerment: Programming with Purpose
+* SKILSTAK: Lessons Learned Over a Decade of Helping Others Learn
+* PEGN: Parsing Expression Grammar Notation
+* Bonzai: Building Stateful Command Tree Applications with Go
 
