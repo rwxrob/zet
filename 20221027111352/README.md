@@ -15,11 +15,14 @@ most technologists. Focus is on practices, habits, and knowledge rather
 than specific technologies.
 
 * Terminal Velocity: Mastering the Fastest Human-Computer Interface
+* Bonzai: Building Stateful Command Tree Interfaces with Go
+* Knowledge Exchange Graphs: Manage Knowledge Like Software (or Microbrews)
+* PEGN: Parsing Expression Grammar Notation
+
+I *might* make the following:
+
 * Autodidactic: How to Succeed as a Knowledge Worker
 * Good to Gig: Surviving the Radical New Sharing Economy
 * Works for Me: Modern Collaborative Developer Practices
 * Coding for Self-Empowerment: Programming with Purpose
 * SKILSTAK: Learning How to Help Others Learn
-* PEGN: Parsing Expression Grammar Notation
-* Bonzai: Building Stateful Command Tree Interfaces with Go
-* Knowledge Exchange Graphs: Manage Knowledge Like Software (or Booze)
