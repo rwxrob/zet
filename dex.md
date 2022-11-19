@@ -1,8 +1,4 @@
-# Last Changes Index
-
-This index is automatically updated when new content is created or old content is updated. The latest changes are always on top. Every KEG content node is included. This list is guaranteed to always be the first and only list so that it can be reliably used to compare to previous cached copies of this KEG site to determine what has been updated.
-
-* 20221119T210223Z [Is a single BDFL for an entire social media community a bad idea?](/1691)
+* 20221119T210223Z [Is a single BDFL for an entire social media community is bad idea?](/1691)
 * 20221119T202454Z [Please don't quote me from my Zettelkasten without asking](/1690)
 * 20221119T202424Z [I'm pretty public because it might end up helping someone](/1689)
 * 20221119T171445Z [Generics in Go block interface validation trick](/1636)
