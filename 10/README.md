@@ -1,7 +1,6 @@
 # Can I Run Linux Desktop in Containers?
 
-Yes you can, but probably shouldn't. I would instead suggest using
-either a virtual machine, or a "workspace container" (my term). 
+Yes you can, but probably shouldn't. I would instead suggest using either a virtual machine, or a "workspace container" (my term).
 
 Related:
 
