@@ -1,3 +1,0 @@
-# Sample
-
-New one.
