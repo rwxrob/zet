@@ -1,3 +1,4 @@
+updated: 2022-11-22 03:43:48Z
 kegv:    2023-01
 
 title:   KEG Zettelkasten for Muhlestein, Robert S. (rwxrob)
@@ -11,7 +12,7 @@ summary:
   good stuff ends up in other kegs and publications.
 
 indexes:
-  - id: dex
+  - id: dex/latest.md
     summary: last changes
-
-updated: 2022-11-20T19:10:09Z
+  - id: dex/nodes.tsv
+    summary: all nodes by id
