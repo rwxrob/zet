@@ -1,10 +1,12 @@
 # Gifted five subs, completely ignored, not even minor thank you
 
-Just gifted five subs to a Twitch streamer in the spirit of the holidays after thinking their Twitter post "Ha ha ha ha. Ok loser" regarding my announcement that I'm leaving Twitter over the shit Elon is doing was sort of a joke. I guess not.
+Look, I know it shouldn't bother me, but it does.
+
+I just gifted five subs to a Twitch streamer in the spirit of the holidays after thinking their Twitter post "Ha ha ha ha. Ok loser" regarding my announcement that I'm leaving Twitter over the shit Elon is doing was sort of a joke. I guess not.
 
 Not only did they completely scroll past them on stream, they decided to not even mention it, then later say, "no, I did see them" reinforcing that they saw them and deliberately chose to be a major dick and not to even say, "Thanks for the subs" (which, by the way, is the polite human thing to do).
 
-I wasn't fishing for compliments, or flexing, or searching for some validation. It was a very sincere, holiday-driven gesture. And the response was, um, less than human. Fuck 'em.
+I wasn't fishing for compliments, or flexing, or searching for some validation. It was a very sincere, holiday-driven gesture. And the response was, um, less than human.
 
 What have I learned?
 
