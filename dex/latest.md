@@ -1,4 +1,4 @@
-* 2022-11-24 00:16:55Z [Get `kind` to Start Exploring Kubernetes](/770)
+* 2022-11-24 00:18:11Z [Get `kind` to Start Exploring Kubernetes](/770)
 * 2022-11-23 23:55:30Z [Pomodoro timer](/33)
 * 2022-11-23 23:39:44Z [Use `export LESS=-R` to get color in `less` output](/1712)
 * 2022-11-23 23:13:04Z [Q: What is this pomodoro extension in your terminal?](/1711)
