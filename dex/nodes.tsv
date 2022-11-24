@@ -1365,7 +1365,7 @@
 1368	2022-07-01 11:59:04Z	I am Installing Talos OS (Sidero) at Home
 1369	2022-07-01 11:59:04Z	Docker-Compose + Kompose = Kubernetes YAML
 1370	2022-10-20 03:44:24Z	Use 198.18/15 for Home Lab
-1371	2022-07-01 11:59:04Z	Kubernetes `kubeseal` "SealedSecrets"
+1371	2022-11-24 01:23:04Z	Kubernetes `kubeseal` "SealedSecrets"
 1372	2022-07-01 11:59:04Z	Goal Status, Oct 2021
 1373	2022-07-01 11:59:04Z	TODO: Golem is a Thing, Look Into It
 1374	2022-07-01 11:59:04Z	Disable Swap on Linux
