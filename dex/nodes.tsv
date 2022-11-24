@@ -30,7 +30,7 @@
 30	2022-07-01 11:59:04Z	Use `realpath` to Get Real Path
 31	2022-07-01 11:59:04Z	Zsh is Shit: Unnecessary Zsh Completion Complexity
 32	2022-07-01 11:59:04Z	Use `if has("eval")` for `vim-tiny` Detection
-33	2022-11-23 23:55:30Z	Pomodoro timer
+33	2022-11-24 05:56:31Z	Pomodoro timer
 34	2022-07-01 11:59:04Z	Series: Happy-ish
 35	2022-07-01 11:59:04Z	Daily News/Coffee Uploads to YouTube
 36	2022-10-28 17:11:45Z	Current Domains
@@ -1705,8 +1705,8 @@
 1708	2022-11-23 16:38:58Z	Rust ageist fuck calls me "old beaded man that makes oldware in Go"
 1709	2022-11-23 17:34:50Z	"Go is a glue language" (Taniwha3)
 1710	2022-11-23 17:36:23Z	Firecracker could be the first significant *public* Rust codebase
-1711	2022-11-24 05:51:44Z	Q: What is this pomodoro extension in your terminal?
+1711	2022-11-24 05:56:34Z	Q: What is this pomodoro extension in your terminal?
 1712	2022-11-23 23:39:44Z	Use `export LESS=-R` to get color in `less` output
 1713	2022-11-24 01:46:10Z	Bonzai `help.Cmd` now supports system pager detection
 1714	2022-11-24 01:58:03Z	Use j and k for scrolling up and down in `less`
-1715	2022-11-24 05:21:13Z	Still undecided on how much of Markdown list syntax to keep
+1715	2022-11-24 05:56:34Z	Still undecided on how much of Markdown list syntax to keep
