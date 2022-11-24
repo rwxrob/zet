@@ -1,4 +1,4 @@
-* 2022-11-24 01:54:20Z [Containerd VS CRI-O](/531)
+* 2022-11-24 01:54:34Z [Containerd vs CRI-O](/531)
 * 2022-11-24 01:46:10Z [Bonzai `help.Cmd` now supports system pager detection](/1713)
 * 2022-11-24 01:23:04Z [Kubernetes `kubeseal` "SealedSecrets"](/1371)
 * 2022-11-24 00:18:11Z [Get `kind` to Start Exploring Kubernetes](/770)

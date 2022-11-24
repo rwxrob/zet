@@ -1,4 +1,4 @@
-# Containerd VS CRI-O
+# Containerd vs CRI-O
 
 This is a place to summarize difference between the two biggest container engine competitors (k8s 1.24 requires one or the other):
 
