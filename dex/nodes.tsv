@@ -1706,3 +1706,4 @@
 1709	2022-11-23 17:34:50Z	"Go is a glue language" (Taniwha3)
 1710	2022-11-23 17:36:23Z	Firecracker could be the first significant *public* Rust codebase
 1711	2022-11-23 23:13:04Z	Q: What is this pomodoro extension in your terminal?
+1712	2022-11-23 23:39:44Z	Use `export LESS=-R` to get color in `less` output
