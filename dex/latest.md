@@ -1,3 +1,4 @@
+* 2022-11-24 05:16:33Z [Keep outlines in markdown, not YAML](/952)
 * 2022-11-24 01:58:03Z [Use j and k for scrolling up and down in `less`](/1714)
 * 2022-11-24 01:54:34Z [Containerd vs CRI-O](/531)
 * 2022-11-24 01:46:10Z [Bonzai `help.Cmd` now supports system pager detection](/1713)
@@ -19,7 +20,6 @@
 * 2022-11-22 04:06:31Z [🤔💭 hummm channel added to Discord for zet posts and such](/1701)
 * 2022-11-22 04:00:10Z [So GitHub really failed on the CSV/TSV thing](/1700)
 * 2022-11-22 03:46:09Z [Oh my god! keg/zet/kn is working for local content creation](/1699)
-* 2022-11-22 02:55:20Z [Keep Outlines in Markdown, Not YAML, Use PEGN](/952)
 * 2022-11-22 02:53:46Z [Idea of PEGN -> Compiled Regex Thwarted](/212)
 * 2022-11-21 19:18:30Z [I love "PKM specialists" who use slugs and fail to understand](/1697)
 * 2022-11-21 16:08:47Z [Returning slice of structs is faster than slice of pointers](/1698)
