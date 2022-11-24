@@ -1708,3 +1708,4 @@
 1711	2022-11-23 23:13:04Z	Q: What is this pomodoro extension in your terminal?
 1712	2022-11-23 23:39:44Z	Use `export LESS=-R` to get color in `less` output
 1713	2022-11-24 01:46:10Z	Bonzai `help.Cmd` now supports system pager detection
+1714	2022-11-24 01:58:03Z	Use j and k for scrolling up and down in `less`
