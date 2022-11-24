@@ -1,3 +1,4 @@
+* 2022-11-24 05:51:44Z [Q: What is this pomodoro extension in your terminal?](/1711)
 * 2022-11-24 05:21:13Z [Still undecided on how much of Markdown list syntax to keep](/1715)
 * 2022-11-24 05:16:33Z [Keep outlines in markdown, not YAML](/952)
 * 2022-11-24 01:58:03Z [Use j and k for scrolling up and down in `less`](/1714)
@@ -7,7 +8,6 @@
 * 2022-11-24 00:18:11Z [Get `kind` to Start Exploring Kubernetes](/770)
 * 2022-11-23 23:55:30Z [Pomodoro timer](/33)
 * 2022-11-23 23:39:44Z [Use `export LESS=-R` to get color in `less` output](/1712)
-* 2022-11-23 23:13:04Z [Q: What is this pomodoro extension in your terminal?](/1711)
 * 2022-11-23 17:36:23Z [Firecracker could be the first significant *public* Rust codebase](/1710)
 * 2022-11-23 17:34:50Z ["Go is a glue language" (Taniwha3)](/1709)
 * 2022-11-23 16:38:58Z [Rust ageist fuck calls me "old beaded man that makes oldware in Go"](/1708)
