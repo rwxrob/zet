@@ -1707,3 +1707,4 @@
 1710	2022-11-23 17:36:23Z	Firecracker could be the first significant *public* Rust codebase
 1711	2022-11-23 23:13:04Z	Q: What is this pomodoro extension in your terminal?
 1712	2022-11-23 23:39:44Z	Use `export LESS=-R` to get color in `less` output
+1713	2022-11-24 01:46:10Z	Bonzai `help.Cmd` now supports system pager detection
