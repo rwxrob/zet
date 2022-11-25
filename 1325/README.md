@@ -1,5 +1,0 @@
-# SOLID Principles
-
-
-Related:
-
