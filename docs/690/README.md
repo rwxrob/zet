@@ -1,12 +1,6 @@
-# Pandoc Markdown is Out, Dollar Signs Non-Standard
+# Pandoc Markdown is out, dollar signs non-standard
 
-Realizing now that default Pandoc Markdown is not compatible at all with
-GitHub Flavored Markdown. Pandoc Markdown treats all dollar signs as the
-beginning of a LaTeX math sequence. This is really too bad, because
-while I support the need for math in zettelkasten notes, suddenly
-imbuing dollar signs with more meaning causes them to all have to be
-escaped in a way that is not only annoying to most writers, but
-incompatible with GFM rendering making for very confusing things if read
+Realizing now that default Pandoc Markdown is not compatible at all with GitHub Flavored Markdown. Pandoc Markdown treats all dollar signs as the beginning of a LaTeX math sequence. This is really too bad, because while I support the need for math in zettelkasten notes, suddenly imbuing dollar signs with more meaning causes them to all have to be escaped in a way that is not only annoying to most writers, but incompatible with GFM rendering making for very confusing things if read
 from GitHub.
 
 Consider the following title in GFM:
@@ -21,15 +15,10 @@ This has to be written like this in Pandoc Markdown:
 Use `echo "\$(<"$path")"` Instead of `cat` in Bash
 ```
 
-But the backslash shows up in the rendered title on GitHub, which can
-really confuse people since that is even within a literal (backticks)
-block. 
+But the backslash shows up in the rendered title on GitHub, which can really confuse people since that is even within a literal (backticks) block.
 
 I'm sorry. I love Pandoc. But that's just fucked up.
 
-So this means that I have settled on CommonMark + GFM Tables (which,
-other than this shitty problem with `$`, is 100% Pandoc Markdown
-compatible) for everything I do from now on. This means no math support
-other than putting it into a code fence, as the R language does.
+So this means that I have settled on CommonMark + GFM Tables (which, other than this shitty problem with `$`, is 100% Pandoc Markdown compatible) for everything I do from now on. This means no math support other than putting it into a code fence, as the R language does.
 
-    #pandoc #bugs #commonmark #latex #markdown #writing #coding
+Besides, I can just use fenced code blocks with `math` as a syntax as well with GFM. Pandoc has no support for that and likely never will.
