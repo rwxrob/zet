@@ -1,4 +1,4 @@
-* 2022-11-25 15:11:39Z [KEG has No Linking Between KEG Sites](/1304)
+* 2022-11-25 15:11:39Z [KEG has No Linking Between KEG Sites](../1304)
 * 2022-11-25 06:24:29Z [Need to switch everything to YubiKey](/772)
 * 2022-11-25 06:23:49Z [What are ZettelCasting and ZettelCasts?](/742)
 * 2022-11-25 03:27:04Z [Use Bash instead of `realpath` to get real path](/30)
