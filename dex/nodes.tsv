@@ -1712,3 +1712,4 @@
 1716	2022-11-24 06:10:36Z	Q: How many years have you been in your career?
 1717	2022-11-24 06:19:17Z	Q: How do you maintain a large code base?
 1718	2022-11-24 06:29:06Z	Q: Is GitHub truncating your zet?
+1719	2022-11-25 02:48:56Z	Beware of Go `path.Join` vs `filepath.Join`
