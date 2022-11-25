@@ -27,7 +27,7 @@
 27	2022-07-01 11:59:04Z	Pure Go SQLite3 Module
 28	2022-07-01 11:59:04Z	SKILSTAK Beginner Boost Moved to Sundays
 29	2022-10-28 16:39:24Z	Add sadservers.com to List of Practice Sites
-30	2022-07-01 11:59:04Z	Use `realpath` to Get Real Path
+30	2022-11-25 03:27:04Z	Use Bash instead of `realpath` to get real path
 31	2022-07-01 11:59:04Z	Zsh is Shit: Unnecessary Zsh Completion Complexity
 32	2022-07-01 11:59:04Z	Use `if has("eval")` for `vim-tiny` Detection
 34	2022-07-01 11:59:04Z	Series: Happy-ish

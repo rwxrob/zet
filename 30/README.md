@@ -1,7 +1,6 @@
-# Use `realpath` to Get Real Path
+# Use Bash instead of `realpath` to get real path
 
-Using `realpath` transforms a local path into a full one, or keeps the
-same path if it is already a full path.
+Using `realpath` transforms a local path into a full one, or keeps the same path if it is already a full path.
 
 ```
 some -> /home/rwxrob/some
