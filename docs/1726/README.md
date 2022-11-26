@@ -23,3 +23,28 @@ Not only that, but this code from `pager.c` proves they are just blowing away th
      pager_process.env = env;
    }
 ```
+
+Suffice it to say, rather than get angry, I made sure `Z.Page` from Bonzai does the right thing:
+
+```go
+// FixPagerEnv sets environment variables for
+// different pagers to get them to support color ANSI escapes. FRX is
+// added to LESS and LV is set to -c. (These are the same fixes used by
+// the git diff command.)
+func FixPagerEnv() {
+	less := os.Getenv(`LESS`)
+	if strings.Index(less, `R`) < 0 {
+		less += `R`
+	}
+	if strings.Index(less, `F`) < 0 {
+		less += `F`
+	}
+	if strings.Index(less, `X`) < 0 {
+		less += `X`
+	}
+	os.Setenv(`LESS`, less)
+	os.Setenv(`LV`, `-c`)
+}
+```
+
+Yet another incident of fixing something in Go that was already broken in another language or app.
