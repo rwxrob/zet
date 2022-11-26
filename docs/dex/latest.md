@@ -1,5 +1,5 @@
+* 2022-11-26 02:14:11Z [GitHub Flavored Markdown supports math](../690)
 * 2022-11-25 20:37:20Z [Q: Do you have a favorite book?](../1725)
-* 2022-11-25 18:37:14Z [Pandoc Markdown is out, dollar signs non-standard](../690)
 * 2022-11-25 18:35:35Z [GitHub supports advanced mathjax markup](../1724)
 * 2022-11-25 16:20:28Z [Q: What do you think of language servers?](../1723)
 * 2022-11-25 16:04:30Z [Eventually moving to better theme](../1722)
