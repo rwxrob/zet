@@ -1721,3 +1721,4 @@
 1726	2022-11-26 21:36:14Z	Git fails to recognize `/usr/bin/pager`
 1727	2022-11-27 23:47:27Z	GitHub doesn't delete organization repos
 1728	2022-11-28 18:17:06Z	Microblogging is a horrible format for good communications
+1729	2022-11-28 17:37:05Z	Stateful command tree monolith design pattern
