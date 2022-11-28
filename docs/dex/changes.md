@@ -1,6 +1,6 @@
+* 2022-11-28 17:33:49Z [GitHub Flavored Markdown supports math](../690)
 * 2022-11-27 23:47:27Z [GitHub doesn't delete organization repos](../1727)
 * 2022-11-26 21:36:14Z [Git fails to recognize `/usr/bin/pager`](../1726)
-* 2022-11-26 07:14:11Z [GitHub Flavored Markdown supports math](../690)
 * 2022-11-26 01:37:20Z [Q: Do you have a favorite book?](../1725)
 * 2022-11-25 21:20:28Z [Q: What do you think of language servers?](../1723)
 * 2022-11-25 21:04:30Z [Eventually moving to better theme](../1722)
