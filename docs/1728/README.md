@@ -1,5 +1,9 @@
 # Microblogging is a horrible format for good communications
 
+After considering Mastodon, I've concluded I'm not going to do any microblogging at all, other than to notify of my entries to my zettelkasten and other publications. Discord, Slack, Twitch, and KEG cover the communications needs I have. It's just more valuable to isolate communications to those who actually matter, to actively curate my in-bound signals and make sure specific, important people have priority in my limited daily reading time.
+
+***Good people have nothing I care to hear.*** Microblogging involves hearing from people about their cats as well as their latest Kubernetes discoveries. This would not be that big of a hassle if there were a reliable, easy way to search through or even filter such content, but microblogging makes this very hard. Some of the most amazing people I've ever known are not people I want to hear from on a daily basis. There's just too much noise to filter out from the signal.
+
 ***You cannot compose a full thought.*** Microblogging format punishes those who use more than 100 characters even if allowed to write that much.
 
 ***You cannot dialog.*** There is no real-time interaction.
