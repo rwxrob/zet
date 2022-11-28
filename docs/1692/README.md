@@ -20,4 +20,4 @@ Like my friend, do yourself (and your family) a favor and master Linux, bash, py
 
 And, please, for the love of God, learn enough C to understand what all the Rust hype about "garbage collection" and memory management and dangling pointers is even about. Otherwise, you just sound like a sheeple idiot trying to justify your decision to learn Rust first without knowing a damn thing about how software actually works.
 
-[^1]: https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454
+[^1]: <https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454>
