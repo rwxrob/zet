@@ -14,8 +14,10 @@ They learned Go and almost immediately got a job making 100K a year starting sal
 
 Most people learning a language are doing so to become productive and employable, like my friend. Rust distracts you from these goals.
 
-While it is an exciting language for a very specific niche of applications that are yet to be determined, it is a huge fucking waste of time for MOST people reading this.
+While it is an exciting language for a very specific niche of applications that are yet to be determined, it is a huge fucking waste of time for MOST people reading this.[^1]
 
 Like my friend, do yourself (and your family) a favor and master Linux, bash, python, Go, and even JavaScript before even wading into Rust. Then you can waste your time learning Rust if you really want. I don't.
 
 And, please, for the love of God, learn enough C to understand what all the Rust hype about "garbage collection" and memory management and dangling pointers is even about. Otherwise, you just sound like a sheeple idiot trying to justify your decision to learn Rust first without knowing a damn thing about how software actually works.
+
+[^1]: https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454

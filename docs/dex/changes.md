@@ -1,3 +1,4 @@
+* 2022-11-28 17:35:36Z [Don't learn Rust first](../1692)
 * 2022-11-28 17:33:49Z [GitHub Flavored Markdown supports math](../690)
 * 2022-11-27 23:47:27Z [GitHub doesn't delete organization repos](../1727)
 * 2022-11-26 21:36:14Z [Git fails to recognize `/usr/bin/pager`](../1726)
@@ -50,7 +51,6 @@
 * 2022-11-20 02:09:28Z [What is a UNIX/Linux Filter?](../1)
 * 2022-11-20 02:08:06Z [Avoid `microk8s` for Home Learning Lab](../1001)
 * 2022-11-20 01:33:20Z [Decided easier to have `nodes.md` *and* `nodes.json`](../1693)
-* 2022-11-19 23:25:15Z [Don't learn Rust first](../1692)
 * 2022-11-19 21:03:33Z [Is a single BDFL for an entire social media community a bad idea?](../1691)
 * 2022-11-19 20:24:54Z [Please don't quote me from my Zettelkasten without asking](../1690)
 * 2022-11-19 20:24:24Z [I'm pretty public because it might end up helping someone](../1689)
