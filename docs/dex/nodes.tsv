@@ -685,7 +685,7 @@
 687	2022-07-01 15:59:04Z	Twitch Emotes to Be Made
 688	2022-07-01 15:59:04Z	"I practice GSD (Getting Shit Done)"
 689	2022-07-01 15:59:04Z	Difference Between Coder, Programmer, Developer, Engineer
-690	2022-11-28 17:33:49Z	GitHub Flavored Markdown supports math
+690	2022-11-29 00:20:49Z	GitHub Flavored Markdown supports math
 691	2022-07-01 15:59:04Z	Getting Setup for Go 1.18
 692	2022-07-01 15:59:04Z	Create a Persistent Macro in Vim
 693	2022-07-01 15:59:04Z	Terminal ANSI Control (Escape) Sequences
@@ -1721,5 +1721,5 @@
 1726	2022-11-26 21:36:14Z	Git fails to recognize `/usr/bin/pager`
 1727	2022-11-27 23:47:27Z	GitHub doesn't delete organization repos
 1728	2022-11-28 18:17:06Z	Microblogging is a horrible format for good communications
-1729	2022-11-28 17:37:05Z	Stateful command tree monolith design pattern
-1730	2022-11-28 18:26:49Z	Created a release for my personal `z` command
+1729	2022-11-28 22:37:05Z	Stateful command tree monolith design pattern
+1730	2022-11-28 23:26:49Z	Created a release for my personal `z` command
