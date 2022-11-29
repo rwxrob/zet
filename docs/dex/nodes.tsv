@@ -1724,5 +1724,10 @@
 1729	2022-11-28 22:37:05Z	Stateful command tree monolith design pattern
 1730	2022-11-28 23:26:49Z	Created a release for my personal `z` command
 1731	2022-11-29 02:30:53Z	Bonzai `grep`: stateful, concurrent, faster than UNIX, composable
-1732	2022-11-28 22:41:06Z	Looks like `errgroup` is the thing to use for concurrency
-1733	2022-11-28 23:36:37Z	Q: How can I prepare for cybersecurity without paying for college?
+1732	2022-11-29 03:41:06Z	Looks like `errgroup` is the thing to use for concurrency
+1733	2022-11-29 04:36:37Z	Q: How can I prepare for cybersecurity without paying for college?
+1734	2022-11-28 08:03:18Z	Q: What is a closure?
+1735	2022-11-28 08:30:45Z	Podman Desktop now requires WSL2
+1736	2022-11-28 08:35:15Z	Turns out git-bash doesn't support terminal escapes
+1737	2022-11-28 02:49:37Z	Added Preserve/Restore to rwxrob/fs
+1738	2022-11-28 07:35:20Z	Idiot claiming PowerShell is better than bash
