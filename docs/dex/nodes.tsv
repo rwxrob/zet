@@ -979,7 +979,6 @@
 983	2022-07-01 15:59:04Z	Do Not Write Go Malware from GitHub
 984	2022-07-01 15:59:04Z	Know How Bash Regex and Patterns Differ
 985	2022-07-01 15:59:04Z	PowerShell is Definitely Worth Learning
-986	2022-07-01 15:59:04Z	Why do you wrap at 72 columns?
 987	2022-07-01 15:59:04Z	Discussing the 'Lowest Layer' of Cloud-Native Stack
 988	2022-07-01 15:59:04Z	Massive Vulnerability in Log4j
 989	2022-07-01 15:59:04Z	Read Beej Guide to UNIX IPC
@@ -1731,3 +1730,5 @@
 1736	2022-11-28 08:35:15Z	Turns out git-bash doesn't support terminal escapes
 1737	2022-11-28 02:49:37Z	Added Preserve/Restore to rwxrob/fs
 1738	2022-11-28 07:35:20Z	Idiot claiming PowerShell is better than bash
+1739	2022-11-29 19:58:10Z	
+1740	2022-11-29 16:16:10Z	My terminal is at 100 columns now (without wrapping)
