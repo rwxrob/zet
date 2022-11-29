@@ -1,4 +1,4 @@
-# Just Wrap at 72 Columns, Please
+# I used to wrap at 72 columns
 
 ***Once upon a time I wrapped at 72. [I do 90 now.](../1740)*** This zettel is kept for historical purposes.
 

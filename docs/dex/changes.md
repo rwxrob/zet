@@ -1,4 +1,4 @@
-* 2022-11-29 21:23:05Z [Just Wrap at 72 Columns, Please](../1303)
+* 2022-11-29 21:24:26Z [I used to wrap at 72 columns](../1303)
 * 2022-11-29 21:16:10Z [My terminal is at 100 columns now (without wrapping)](../1740)
 * 2022-11-29 19:58:10Z [](../1739)
 * 2022-11-29 04:36:37Z [Q: How can I prepare for cybersecurity without paying for college?](../1733)
