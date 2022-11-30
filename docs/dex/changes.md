@@ -1,3 +1,4 @@
+* 2022-11-30 02:58:31Z [Q: What do you think of language servers (LSPs)?](../1723)
 * 2022-11-30 00:37:46Z [Just realizing I have a lot of keg-spec in my zet](../1749)
 * 2022-11-29 23:58:11Z [🤦 "I won't use Ubuntu 'cuz snap"](../1748)
 * 2022-11-29 23:05:22Z [](../1747)
@@ -25,7 +26,6 @@
 * 2022-11-27 23:47:27Z [GitHub doesn't delete organization repos](../1727)
 * 2022-11-26 21:36:14Z [Git fails to recognize `/usr/bin/pager`](../1726)
 * 2022-11-26 01:37:20Z [Q: Do you have a favorite book?](../1725)
-* 2022-11-25 21:20:28Z [Q: What do you think of language servers?](../1723)
 * 2022-11-25 21:04:30Z [Eventually moving to better theme](../1722)
 * 2022-11-25 20:11:39Z [KEG has No Linking Between KEG Sites](../1304)
 * 2022-11-25 11:24:29Z [Need to switch everything to YubiKey](../772)
