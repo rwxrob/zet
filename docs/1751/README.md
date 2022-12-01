@@ -1,5 +1,7 @@
 # Q: What are you doing for advent of code this year?
 
+* <https://youtu.be/PLBL85M_qqw>
+
 Nothing. I never do. I consider it a waste of good time that could have been spent contributing to *any number* of FOSS projects or, I don't know, helping your local charity out with whatever coding they need. A little planning and all that amazing energy could be spent on *activities that actually matter*.
 
 Oh, and if you are looking to get a job, having a contributor status with a company, non-profit, or FOSS project goes a *lot further* to convince someone to trust you to work for them.

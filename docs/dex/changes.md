@@ -1,4 +1,4 @@
-* 2022-12-01 00:17:41Z [Q: What are you doing for advent of code this year?](../1751)
+* 2022-12-01 01:08:32Z [Q: What are you doing for advent of code this year?](../1751)
 * 2022-11-30 04:30:40Z [Wahooo, got a raid from *the* Kris Nova ❤](../1750)
 * 2022-11-30 02:58:31Z [Q: What do you think of language servers (LSPs)?](../1723)
 * 2022-11-30 00:37:46Z [Just realizing I have a lot of keg-spec in my zet](../1749)
