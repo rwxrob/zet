@@ -1,4 +1,4 @@
-* 2022-12-04 07:24:08Z [How Fucking Stupid is NeoVim Removing `view`](../1226)
+* 2022-12-04 07:24:57Z [How stupid is NeoVim for removing `view`](../1226)
 * 2022-12-04 07:19:19Z [Q: What is pomo (pomodoro) and how do I get it?](../1759)
 * 2022-12-04 07:02:34Z [Stop Stream and Restart When Topic Changes](../1630)
 * 2022-12-04 06:38:19Z [Q: What do you recommend for helping write code comments?](../1762)
