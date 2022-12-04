@@ -7,3 +7,7 @@
 * If you are already doing peer review make sure the native speakers do as well
 * Avoid the temptation to spend to much time on comments up front
 * Avoid the temptation to put your docs into your identifiers
+* Write about why it exists, not so much how it works
+* Don't forget to include resource consumption considerations
+
+<https://research.google/pubs/pub51783/>
