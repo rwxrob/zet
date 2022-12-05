@@ -1,4 +1,4 @@
-# 2000% Increase in Golang Malware
+# 2000% increase in go malware
 
 📺 <https://youtu.be/aEDDTHj70II>
 

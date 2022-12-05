@@ -1077,7 +1077,7 @@
 1084	2022-12-04 23:36:24Z	Local (On-Prem) Kubernetes Requires DNS Server
 1085	2022-12-04 23:36:24Z	Kubernetes Port Forwarding
 1086	2022-12-04 23:36:24Z	Use `apt-get` for Scripts, Not `apt`
-1087	2022-12-05 06:31:55Z	2000% Increase in Golang Malware
+1087	2022-12-05 06:32:58Z	2000% increase in go malware
 1088	2022-12-04 23:36:24Z	TODO: Learn `firewall-cmd` for Infrastructure Engineering
 1089	2022-12-04 23:36:24Z	K8SAPP Helm Procedure
 1090	2022-12-04 23:36:24Z	Local Kubernetes Kind Persistent Volumes
