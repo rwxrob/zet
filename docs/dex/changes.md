@@ -1,4 +1,4 @@
-* 2022-12-05 04:49:29Z [Only way to safely remove an item from a slice (array) in Go](../1771)
+* 2022-12-05 06:17:11Z [Only way to safely remove item from a slice (array) in Go](../1771)
 * 2022-12-05 03:50:54Z [Q: How do you maintain a large code base?](../1717)
 * 2022-12-05 03:48:33Z [Q: Is GitHub truncating your zet?](../1718)
 * 2022-12-05 03:45:41Z [Q: I lost my way around week 8. Should I restart the Boost?](../1720)
