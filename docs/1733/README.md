@@ -1,5 +1,7 @@
 # Q: How can I prepare for cybersecurity without paying for college?
 
+📺 <https://youtu.be/PLBL85M_qqw>
+
 Depends on how much money you need and when you need it. Find something to pay the bills to relieve the pressure.
 
 * OvertheWire.org
