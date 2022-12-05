@@ -8,5 +8,3 @@ executable.
 ```
 entr bash -c 'clear; go run main.go' <<< main.go
 ```
-
-    #linux #coding #tips
