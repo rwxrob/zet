@@ -1,5 +1,7 @@
 # Q: What is pomo (pomodoro) and how do I get it?
 
+📺 <https://youtu.be/wtRJGkPZ2gM>
+
 The pomo command is a tool I created for doing my own version of Pomodoro method for time tracking (which you can easily search). This video shows how to get mine and incorporate it into your TMUX configuration. My pomo has some things that are not normally associated with such timers:
 
 * Set durations to the top of the upcoming hour
