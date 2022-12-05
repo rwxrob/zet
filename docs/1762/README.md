@@ -1,5 +1,7 @@
 # Q: What do you recommend for helping write code comments?
 
+📺 <https://youtu.be/Arxi8-u_IxU>
+
 * Start with the simplest code comments possible
 * Maybe turn your TODOs into comments
 * Don't write stupid comments that restate the obvious
