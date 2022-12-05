@@ -1,5 +1,7 @@
 # Q: What is a closure?
 
+📺 <https://youtu.be/fdDHs0piS-E>
+
 A closure is a way to *enclose* a reference to a variable or function within a function. Anything that returns the value of a reference that is not otherwise available is an *enclsure*
 
 ```go

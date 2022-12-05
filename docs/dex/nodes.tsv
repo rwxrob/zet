@@ -1722,7 +1722,7 @@
 1731	2022-12-04 23:36:24Z	Bonzai `grep`: stateful, concurrent, faster than UNIX, composable
 1732	2022-12-04 23:36:24Z	Looks like `errgroup` is the thing to use for concurrency
 1733	2022-12-05 03:30:55Z	Q: How can I prepare for cybersecurity without paying for college?
-1734	2022-12-04 23:36:24Z	Q: What is a closure?
+1734	2022-12-05 03:35:01Z	Q: What is a closure?
 1735	2022-12-04 23:36:24Z	Podman Desktop now requires WSL2
 1736	2022-12-04 23:36:24Z	Turns out git-bash doesn't support terminal escapes
 1737	2022-12-04 23:36:24Z	Added Preserve/Restore to rwxrob/fs
