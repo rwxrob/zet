@@ -1,4 +1,6 @@
-# Simple Command Dependency Checking in Perl
+# Simple command dependency checking in perl
+
+Sometimes you just need to know if the commands are available. The `which` command is one way to do this without dependency on any shell.
 
 ```perl
 for (qw( yq docker id )) {
