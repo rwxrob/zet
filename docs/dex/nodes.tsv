@@ -1,4 +1,4 @@
-1	2022-12-05 17:46:04Z	Q: Can you show example of UNIX/Linux filter in bash shell?
+1	2022-12-05 22:46:04Z	Q: Can you show example of UNIX/Linux filter in bash shell?
 2	2022-12-04 23:36:24Z	Make Sure to Disable Clips for IRL Streaming
 3	2022-12-04 23:36:24Z	James Gosling Would "Leave Out Classes"
 4	2022-12-04 23:36:24Z	Get Witcher3 on Linux with Steam Proton
@@ -53,7 +53,7 @@
 54	2022-12-04 23:36:24Z	Concurrency Download More Than One File with `curl`
 55	2022-12-04 23:36:24Z	I need to stream Systems Approach book
 56	2022-12-04 23:36:24Z	Idiotic Assumption: I'll Develop "in the Cloud"
-57	2022-12-05 23:04:24Z	How NOT to lock a file in Go
+57	2022-12-06 04:04:24Z	How NOT to lock a file in Go
 58	2022-12-04 23:36:24Z	Typing Practice Web Sites
 59	2022-12-04 23:36:24Z	Should I Start with Linux, Coding, or Something Else?
 60	2022-12-04 23:36:24Z	Don't Hate Documentation, Volunteer
@@ -102,7 +102,7 @@
 104	2022-12-04 23:36:24Z	Love utterances.es for Blog/Zet Comments
 105	2022-12-04 23:36:24Z	Kubernetes Colearning, Nov 5, 2021
 106	2022-12-04 23:36:24Z	No Better Explanation of YAML Problems
-107	2022-12-05 21:58:41Z	Using ProtoBuf for Twitch bot message persistence
+107	2022-12-06 02:58:41Z	Using ProtoBuf for Twitch bot message persistence
 108	2022-12-04 23:36:24Z	Use `go work ...` for Concurrent Go Package Dev
 109	2022-12-04 23:36:24Z	ZettelMark: References List
 110	2022-12-04 23:36:24Z	Git Commit Conventions
@@ -142,7 +142,7 @@
 144	2022-12-04 23:36:24Z	Stop Saying Python FastAPI is Fast
 145	2022-12-04 23:36:24Z	Extended ZettelMark, for Academia and More
 146	2022-12-04 23:36:24Z	LMAO at This Meme of an Anti-Go Blog Post
-147	2022-12-04 18:36:24Z	Refresh Gnome Desktop without Reboot
+147	2022-12-04 23:36:24Z	Refresh Gnome Desktop without Reboot
 148	2022-12-04 23:36:24Z	Don't Get Mad, Get Busy ...
 149	2022-12-04 23:36:24Z	Linux on VirtualBox, Best First Linux Experience
 150	2022-12-04 23:36:24Z	Need TFTP Linux Server at Home
@@ -918,7 +918,7 @@
 925	2022-12-04 23:36:24Z	Use FreeCAD on Linux
 926	2022-12-04 23:36:24Z	Why do you go running at specific time?
 927	2022-12-04 23:36:24Z	Disaster (Moving to Windows) Averted
-928	2022-12-04 18:36:24Z	Universal `open` for Markdown, Git, URLs, Files
+928	2022-12-04 23:36:24Z	Universal `open` for Markdown, Git, URLs, Files
 929	2022-12-04 23:36:24Z	Why are Go Web Search Results Different?
 930	2022-12-04 23:36:24Z	GPG Sign All Your Github Commits!
 931	2022-12-04 23:36:24Z	Perl `pae` Better Than `sed` and/or `awk`
@@ -967,13 +967,13 @@
 974	2022-12-04 23:36:24Z	How Do You Fight Burnout?
 975	2022-12-04 23:36:24Z	Q: Do you hate virtual machines (VMs)?
 976	2022-12-04 23:36:24Z	IRL Rig Components
-977	2022-12-05 23:03:51Z	Simple command dependency checking in perl
+977	2022-12-06 04:03:51Z	Simple command dependency checking in perl
 978	2022-12-04 23:36:24Z	Greed and Power Have Destroyed Learning
 979	2022-12-04 23:36:24Z	Personal Preference for Go Code Organization
 980	2022-12-04 23:36:24Z	Rob's Personal Code of Conduct
 981	2022-12-04 23:36:24Z	KEG URLs Have No Schema
 982	2022-12-04 23:36:24Z	Just Getting Into Buildah
-983	2022-12-05 06:32:21Z	Do not write Go malware from GitHub
+983	2022-12-05 11:32:21Z	Do not write Go malware from GitHub
 984	2022-12-04 23:36:24Z	Know How Bash Regex and Patterns Differ
 985	2022-12-04 23:36:24Z	PowerShell is Definitely Worth Learning
 987	2022-12-04 23:36:24Z	Discussing the 'Lowest Layer' of Cloud-Native Stack
@@ -1008,7 +1008,7 @@
 1016	2022-12-04 23:36:24Z	Content Organization and Locations
 1017	2022-12-04 23:36:24Z	First Go Bonzai Project Actually Paid to Do
 1018	2022-12-04 23:36:24Z	One Possible Future
-1019	2022-12-04 18:36:24Z	Books I want to write
+1019	2022-12-04 23:36:24Z	Books I want to write
 1020	2022-12-04 23:36:24Z	Determine Best First Language for *You*
 1021	2022-12-04 23:36:24Z	Call Shell Function Same as Script with `"$@"`
 1022	2022-12-04 23:36:24Z	CN VIPs: Kelsey Hightower, Google
@@ -1076,7 +1076,7 @@
 1084	2022-12-04 23:36:24Z	Local (On-Prem) Kubernetes Requires DNS Server
 1085	2022-12-04 23:36:24Z	Kubernetes Port Forwarding
 1086	2022-12-04 23:36:24Z	Use `apt-get` for Scripts, Not `apt`
-1087	2022-12-05 06:32:58Z	2000% increase in go malware
+1087	2022-12-05 11:32:58Z	2000% increase in go malware
 1088	2022-12-04 23:36:24Z	TODO: Learn `firewall-cmd` for Infrastructure Engineering
 1089	2022-12-04 23:36:24Z	K8SAPP Helm Procedure
 1090	2022-12-04 23:36:24Z	Local Kubernetes Kind Persistent Volumes
@@ -1685,7 +1685,7 @@
 1694	2022-12-04 23:36:24Z	TIL about Birdwatch that uses web of trust for content filtering
 1695	2022-12-04 23:36:24Z	Go has a `regexp.ReplaceAllString` function like `sed -i`
 1696	2022-12-04 23:36:24Z	So annoying that Go marshals time.Time with T in output
-1697	2022-12-04 18:36:24Z	I love "PKM specialists" who use slugs and fail to understand
+1697	2022-12-04 23:36:24Z	I love "PKM specialists" who use slugs and fail to understand
 1698	2022-12-04 23:36:24Z	Returning slice of structs is faster than slice of pointers
 1699	2022-12-04 23:36:24Z	Oh my god! keg/zet/kn is working for local content creation
 1700	2022-12-04 23:36:24Z	So GitHub really failed on the CSV/TSV thing
@@ -1738,14 +1738,16 @@
 1757	2022-12-04 23:36:24Z	 Q: How do you stream and record for Twitch and YouTube with music?
 1758	2022-12-04 23:36:24Z	GitHub Pages sites can be created with `gh` through API
 1759	2022-12-05 03:29:41Z	Q: What is pomo (pomodoro) and how do I get it?
-1760	2022-12-05 06:39:03Z	Use github.com/charmbracelet/glamour for terminal markdown rendering
+1760	2022-12-05 11:39:03Z	Use github.com/charmbracelet/glamour for terminal markdown rendering
 1761	2022-12-05 03:26:37Z	Q: What is your opinion on vim-wiki?
 1762	2022-12-05 03:27:58Z	Q: What do you recommend for helping write code comments?
 1764	2022-12-04 23:36:24Z	More reason to use commands over functions and aliases
 1765	2022-12-04 23:36:24Z	Torn between providing in-command docs over stand-alone keg
 1767	2022-12-05 03:28:39Z	Q: What's your take on the Takahashi method for presentations?
 1768	2022-12-05 03:29:11Z	Q: Should I work on the weekends, or will it burn me out?
-1769	2022-12-05 18:27:39Z	Q: How do you do interactive git staging?
+1769	2022-12-05 23:27:39Z	Q: How do you do interactive git staging?
 1770	2022-12-05 00:30:00Z	Q: Why don't you use Arch Linux?
-1771	2022-12-05 06:17:11Z	Only way to safely remove item from a slice (array) in Go
-1772	2022-12-05 17:49:10Z	Filter
+1771	2022-12-05 11:17:11Z	Only way to safely remove item from a slice (array) in Go
+1772	2022-12-05 22:49:10Z	Filter
+1773	2022-12-06 08:46:11Z	Q: Can I use GUI or should I master git terminal commands?
+1774	2022-12-06 08:37:09Z	I love Glamour, but inlining footnotes? Fucking really?
