@@ -1,4 +1,4 @@
-# How NOT to Lock a File in Go
+# How NOT to lock a file in Go
 
 Looks like Go might finally get robust file-level locking available at lease in the `/x` source code. https://github.com/golang/go/issues/33974
 
