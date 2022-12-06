@@ -102,7 +102,7 @@
 104	2022-12-04 23:36:24Z	Love utterances.es for Blog/Zet Comments
 105	2022-12-04 23:36:24Z	Kubernetes Colearning, Nov 5, 2021
 106	2022-12-04 23:36:24Z	No Better Explanation of YAML Problems
-107	2022-12-04 23:36:24Z	Using ProtoBuf for Twitch Bot App
+107	2022-12-05 21:58:41Z	Using ProtoBuf for Twitch bot message persistence
 108	2022-12-04 23:36:24Z	Use `go work ...` for Concurrent Go Package Dev
 109	2022-12-04 23:36:24Z	ZettelMark: References List
 110	2022-12-04 23:36:24Z	Git Commit Conventions
@@ -838,7 +838,6 @@
 843	2022-12-04 23:36:24Z	Use `README.md` and `data.yaml` for Consistency
 844	2022-12-04 23:36:24Z	Learn Golang for Cloud Native / Kubernetes
 845	2022-12-04 23:36:24Z	Installing Steam Deleted PopOS for Linus
-846	2022-12-04 23:36:24Z	I'm Fucking Done with JSON, YAML and Protobuf FTW!
 847	2022-12-04 23:36:24Z	Mizu: TCPDump for Kubernetes API Calls
 848	2022-12-04 23:36:24Z	Hyperlinks are a Horrible, Unsafe Idea
 849	2022-12-04 23:36:24Z	Prefix 'Figure:' Required for Figure Zettels
