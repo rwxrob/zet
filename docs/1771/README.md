@@ -8,16 +8,10 @@ By the way, this is one of those times when Go generics become obviously needed.
 // RemoveIndex removes the item at the given index returning a new slice
 // while preserving the references to each item in the original slice.
 func RemoveIndex[T any](set []T, pos int) []T {
-	nset := make([]T, (len(set) - 1))
-	k := 0
-	for i, it := range set {
-		if i == pos {
-			continue
-		}
-		nset[k] = it
-		k++
+	if pos < 0 || pos >= len(set) {
+		return set
 	}
-	return nset
+	return append(set[0:pos], set[pos+1:]...)
 }
 ```
 
