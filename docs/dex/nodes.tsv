@@ -274,7 +274,7 @@
 278	2022-12-04 23:36:24Z	Q: What do you think of Vim9's new Vimscript?
 279	2022-12-04 23:36:24Z	Call Anonymous Function for Go `var` Assignment
 280	2022-12-04 23:36:24Z	Always Return Errors in Go
-281	2022-12-04 23:36:24Z	No `kubeadm`? You're Probably Doing it Wrong
+281	2022-12-04 18:36:24Z	No `kubeadm`? You're Probably Doing it Wrong
 282	2022-12-04 23:36:24Z	Filter Unwanted Labels in Node Feature Discovery
 283	2022-12-04 23:36:24Z	Interactive JSON with `ijq` for Learning
 284	2022-12-04 23:36:24Z	What do you think about microk8s vs minikube?
@@ -374,7 +374,7 @@
 378	2022-12-04 23:36:24Z	Mimir™ Personal Knowledge Management Assistant
 379	2022-12-04 23:36:24Z	Why don't you split your TMUX panes?
 380	2022-12-04 23:36:24Z	Stop Using ChallengeReponseAuthentication, Deprecated
-381	2022-12-07 21:58:04Z	📞 What do the emoji Twitch modes mean?
+381	2022-12-07 22:14:43Z	📞 What do the emoji Twitch modes mean?
 382	2022-12-04 23:36:24Z	Do You Have More Than One Zettelkasten?
 383	2022-12-04 23:36:24Z	What If Kubernetes Components Were People?
 384	2022-12-04 23:36:24Z	What is Web3?
@@ -1752,4 +1752,4 @@
 1773	2022-12-07 21:28:31Z	Q: Can I use GUI or should I master git terminal commands?
 1774	2022-12-06 08:37:09Z	I love Glamour, but inlining footnotes? Fucking really?
 1775	2022-12-07 21:41:39Z	⚡ Creating `bon`, a stateful command tree utility for Go Bonzai
-1776	2022-12-07 22:00:05Z	💡Emojis
+1776	2022-12-07 22:02:18Z	Emojis

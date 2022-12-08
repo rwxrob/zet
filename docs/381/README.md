@@ -2,8 +2,8 @@
 
 📺 <https://youtu.be/se_yJgVi4tc>
 
-The emoji/modes are my level of engagement with the live stream. You can
-read more about it on my about page: <https://twitch.tv/rwxrob/about>
+
+The emoji/modes are my level of engagement with the live stream. You can read more about it on my about page: <https://twitch.tv/rwxrob/about>
 
 ⚙️ **doing stream maintenance** [admin]  Keep me company while I do the boring admin work to keep the live stream community up and running: pushing videos, making hilights, updating descriptions, managing music collection, creating OBS scenes, drawing emotes, updating schedule, etc. This is a good time to ask questions about running your own live stream community.
 
@@ -11,17 +11,15 @@ read more about it on my about page: <https://twitch.tv/rwxrob/about>
 
 🎵 **appreciating music, pub crawls, etc.** [appreciating.music]  I love music of all kinds, but I especially love live impromptu music like you find in a pub or from people busking on the street. I can't always get out, so you'll see me set this status when just searching through Spotify and YouTube for good music to add to my collection. Chat is fun, interactive, and emotes are totally fine.
 
-👉 **away for now but come back soon** [away]  I'm away from my computer or phone and not streaming. Don't worry. Chat is blocked but people regularly use IRC or Discord to hang out even if I'm away.
+🛑 **away for now but come back soon** [away]  I'm away from my computer or phone and not streaming. Don't worry. Chat is blocked but people regularly use IRC or Discord to hang out even if I'm away.
 
 🍻 **chillin, random whatever, and music** [chillin]  Chilling is when I'd have a beer with friends and just talk about random shit, listen to good music, and sometimes belly laugh laugh. The mood is definitely 'no worries' so just about anything goes, including limited emoji spam.
-
-💢 **coding bash, go, c, or web** [coding]  My coding ability sucks ass compared to *real* "leet" coders I've known. Hence the emoji. I'm okay with sucking. I'm plenty good enough to be paid a lot for doing it professionally. But I'm a practical guy. I code when I want something that doesn't exist (which is often). That's also why I code mostly in bash and Go. I can get shit done incredibly fast with them. I'm usually in a pretty intense state and focused so there's a good chance I won't see your chat messages for up to 10 minutes at a time and when I do I'm less prone to answer. See something wrong or just stupid? Please let me know. Questions are okay, but please don't expect a lot of narration or "rubber ducking" because I need all my neurons focused on the task at hand. Also avoid posting emotes and other distractions.
 
 ☕ **coffee talk, news, music** [coffee]  Quiet, more intellectual conversation about current events, tech trends, secops drama, and roasting shitting blog posts. Coffee not required. Ask anything you want, but please don't spam.
 
 🤔 **learning something together** [colearning]  Learning is often best when done with a group of friends. Y'all are my friends (honestly, I have few outside of streaming) and the current followers in chat are the group. Let's figure this shit out together. Questions and insights are strongly (and selfishly) encouraged.
 
-💰 **working together (co-working)** [coworking]  I'm just here working on my day job that pays the bills. Imagine if we were all sitting in a co-working/co-location center or coffee shop. I have no idea what you are working on, but we are madly working away on our own stuff. We take breaks and talk about the industry and life, then we get back to it. If you get lonely or unmotivated (like so many of us) join us for chillhop and quiet co-working. I'll try not to be too distracting. Any chat is allowed, but avoid excessive emoji spam since we are trying to get work done.
+🍅 **working together (pomodoro coworking)** [coworking]  I'm just here working and taking breaks at the top of the hour. Imagine if we were all sitting in a co-working/co-location center or coffee shop. I have no idea what you are working on, but we are madly working away on our own stuff. We take breaks and talk about the industry and life, then we get back to it. If you get lonely or unmotivated (like so many of us) join us. I'll try not to be too distracting. Any chat is allowed, but avoid excessive emoji spam since we are trying to get work done.
 
 ☠️ **hacking to learn** [hacking]  I'm a slow, methodical, grey-hat hacker who takes lots of tangents along the way. I don't hack for speed. I hack to discover, understand, and shame. I've never been a "professional," but I have written systems security audit software and performance-testing fork-bombs for IBM where I also did forensics on Tivoli core dumps. I've caught hackers on my personal network (using tools I've written) and reported them. And, yes, I've "hacked" into systems in the past. In fact, I may or may not "accidentally" dox my IP address to attract more script-kiddies to my honeypot. You've been warned. I also have quite a few contacts (we'll say) in the "security" space with a particular set of skills that far surpass mine. (I also speak Russian and French.) When I first started streaming in early 2020 I started to pursue an OSCP certification and considered getting into it formally. I'm glad I switched to cloud-native infrastructure engineering instead, more money and less paper work. Plus, I can still hack "for fun" in my own time (but obviously nothing on stream unless it is to learn). Ask all the questions you want when I'm in this mode.
 
@@ -45,13 +43,13 @@ read more about it on my about page: <https://twitch.tv/rwxrob/about>
 
 🤬 **yelling obscenities into the camera** [ranting]  Old man shouts at the camera connected to the cloud, about whatever. "Don't get mad, get busy. Don't get mad, get busy. Don't get mad, get busy." (There, I'm calm now.) You can yell back in chat if you want to.
 
-🎬 **making videos for youtube** [recording]  When making videos everything that appears in chat will permenantly be recorded with the YouTube video. Please keep that in mind. I do have moderators, but there is always a chance someone will force me to cut out a segment of video that is inappropriate. If you have relevant additions to the video *please* make them in the chat --- especially if I make a mistake.
+📺 **making videos for youtube** [recording]  When making videos everything that appears in chat will permenantly be recorded with the YouTube video. Please keep that in mind. I do have moderators, but there is always a chance someone will force me to cut out a segment of video that is inappropriate. If you have relevant additions to the video *please* make them in the chat --- especially if I make a mistake.
 
 🔍 **trying to find answers on the internetz** [searching]  Could be looking up functional parsing algorithems, or could be finding the Buckaroo Bonzai theme song. Chat is strongly encouraged to help get the answer as fast as possible.
 
 🛒 **looking for something to buy** [shopping]  There's something that I need to buy and am doing the research to get the right thing, could be tech, could be music, or just a good book.
 
-☎️ **taking calls from discord guests** [taking.calls]  When the phone is on you can call from Discord stage and talk on the stream with me. That status will have the topic we are talking about.
+📞 **taking calls from discord guests** [taking.calls]  When the phone is on you can call from Discord stage and talk on the stream with me. That status will have the topic we are talking about.
 
-⌨️ **writing in zettelkasten, working on books** [writing]  My first love is writing. Since the time I wrote all those Dungeons and Dragons adventure campaigns from scratch I have never been satisfied. My fingers hurt writing this now (because of of how unnecessarily verbose all of this is). I was the college kid who submitted 25 pages when only eight were required (but somehow my professors still liked me, even let me turn in a final two weeks late once). The books I'm currently working on are listed in their own Twitch About section. You can chat away about whatever you want because I very likely am not looking at the chat at all. Just don't expect a response from me. Typo corrections are very welcome. People have said they really appreciate seeing the thought process behind the writing in real-time. I would agree. I like watching others do it as well.
+📝 **writing in zettelkasten, working on books** [writing]  My first love is writing. Since the time I wrote all those Dungeons and Dragons adventure campaigns from scratch I have never been satisfied. My fingers hurt writing this now (because of of how unnecessarily verbose all of this is). I was the college kid who submitted 25 pages when only eight were required (but somehow my professors still liked me, even let me turn in a final two weeks late once). The books I'm currently working on are listed in their own Twitch About section. You can chat away about whatever you want because I very likely am not looking at the chat at all. Just don't expect a response from me. Typo corrections are very welcome. People have said they really appreciate seeing the thought process behind the writing in real-time. I would agree. I like watching others do it as well.
 
