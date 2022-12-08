@@ -1,4 +1,4 @@
-# Creating `bon`, a stateful command tree utility for Go Bonzai
+# ⚡ Creating `bon`, a stateful command tree utility for Go Bonzai
 
 📺 <https://youtu.be/4k4Nluhv9Pc>
 
