@@ -2,7 +2,6 @@
 
 📺 <https://youtu.be/se_yJgVi4tc>
 
-
 The emoji/modes are my level of engagement with the live stream. You can read more about it on my about page: <https://twitch.tv/rwxrob/about>
 
 ⚙️ **doing stream maintenance** [admin]  Keep me company while I do the boring admin work to keep the live stream community up and running: pushing videos, making hilights, updating descriptions, managing music collection, creating OBS scenes, drawing emotes, updating schedule, etc. This is a good time to ask questions about running your own live stream community.
