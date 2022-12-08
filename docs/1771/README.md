@@ -1,49 +1,37 @@
-# Only way to safely remove item from a slice (array) in Go
+# Removing item from a slice (array) in Go
 
-📺 <https://youtu.be/1_5GRcVS9DU>
-
-The StackOverflow answers on this are ridiculously bad, but the discussion and understanding *why* they are so wrong is worth a look. Most of them are wrong because they would destroy any code that uses those methods with slices containing references to things that are being used by reference in other places in the same code base. Using references is one of the greatest things that Go supports (and why Rust is shit, you can't even implement a linked list in it without enabling "unsafe"). But all this Go awesomeness (which it gets from being like C in that regard) is completely thrown out the window if you do not preserve those references in the slices you are trying to shrink by some amount removing items in the list. The *only* way to do this properly is build a *new* slice containing exactly what was in the other, with a brand new underlying array to go with the slice.
-
-By the way, this is one of those times when Go generics become obviously needed. This code wouldn't be nearly as elegant without them.
+Because Go uses arrays underneath a slice it is possible to keep the underlying array alive (on accident) while replacing (destroying) the slice that used it.
 
 ```golang
-// RemoveIndex removes the item at the given index returning a new slice
-// while preserving the references to each item in the original slice.
-func RemoveIndex[T any](set []T, pos int) []T {
-	if pos < 0 || pos >= len(set) {
-		return set
-	}
-	return append(set[0:pos], set[pos+1:]...)
+
+type SomeType struct {
+  Thing string
 }
-```
 
-And here's an example test to go with it:
+one := &SomeType{`one`}
+two := &SomeType{`two`}
+three := &SomeType{`three`}
 
-```golang
-func ExampleRemoveIndex() {
+set := []*SomeType{one, two, three}
 
-	type SomeType struct {
-		Thing string
-	}
+// create refs that will keep array alive after set dies
 
-	one := &SomeType{`one`}
-	two := &SomeType{`two`}
-	three := &SomeType{`three`}
+oneref := set[0]
+threeref := set[2]
 
-	set := []*SomeType{one, two, three}
-	oneref := set[0]
-	threeref := set[2]
+// overwrite set with new set slice
 
-	nset := filt.RemoveIndex(set, 1)
+set = append(set[0:pos], set[pos+1:]...)
 
-	fmt.Println(nset[0] == oneref)
-	fmt.Println(nset[1] == threeref)
+// these still refer to memory that was allocated for orig set array
+// including the unused memory for item 'two' even though there is
+// now no way to refer to it
 
-	// Output:
-	// true
-	// true
-}
+fmt.Println(oneref,threeref)
+
 ```
 
 * go - How to delete an element from a Slice in Golang - Stack Overflow  
   <https://stackoverflow.com/questions/37334119/how-to-delete-an-element-from-a-slice-in-golang>
+* Reallocating underlying array of slice · golang-101-hacks  
+  <https://nanxiao.gitbooks.io/golang-101-hacks/content/posts/reallocating-underlying-array-of-slice.html>
