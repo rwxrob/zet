@@ -1,3 +1,4 @@
+* 2022-12-07 21:16:23Z [Filter](../1772)
 * 2022-12-07 21:13:58Z [Q: Why don't you use Arch Linux?](../1770)
 * 2022-12-07 21:13:14Z [Only way to safely remove item from a slice (array) in Go](../1771)
 * 2022-12-07 21:00:10Z [Q: How do you do interactive git staging?](../1769)
@@ -6,7 +7,6 @@
 * 2022-12-06 04:04:24Z [How NOT to lock a file in Go](../57)
 * 2022-12-06 04:03:51Z [Simple command dependency checking in perl](../977)
 * 2022-12-06 02:58:41Z [Using ProtoBuf for Twitch bot message persistence](../107)
-* 2022-12-05 22:49:10Z [Filter](../1772)
 * 2022-12-05 22:46:04Z [Q: Can you show example of UNIX/Linux filter in bash shell?](../1)
 * 2022-12-05 11:39:03Z [Use github.com/charmbracelet/glamour for terminal markdown rendering](../1760)
 * 2022-12-05 11:32:58Z [2000% increase in go malware](../1087)
