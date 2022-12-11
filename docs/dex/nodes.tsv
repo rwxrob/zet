@@ -272,7 +272,7 @@
 276	2022-12-04 23:36:24Z	Vim is a Text Editor. Emacs and VSCode are IDEs
 277	2022-12-04 23:36:24Z	I Created the TOML Logo
 278	2022-12-04 23:36:24Z	Q: What do you think of Vim9's new Vimscript?
-279	2022-12-04 23:36:24Z	Call Anonymous Function for Go `var` Assignment
+279	2022-12-04 18:36:24Z	Call Anonymous Function for Go `var` Assignment
 280	2022-12-04 23:36:24Z	Always Return Errors in Go
 281	2022-12-04 18:36:24Z	No `kubeadm`? You're Probably Doing it Wrong
 282	2022-12-04 23:36:24Z	Filter Unwanted Labels in Node Feature Discovery
@@ -1764,4 +1764,5 @@
 1785	2022-12-11 00:30:08Z	⚡ Secure shell (ssh) client in 80 lines of Go code
 1786	2022-12-11 00:32:28Z	Secure shell (ssh) servers already in Go
 1787	2022-12-11 10:00:10Z	Use `strings.Builder` and not `bytes.Buffer`
+1788	2022-12-11 12:33:30Z	📞 Do you still do 1-1 mentoring?
 1789	2022-12-11 11:54:17Z	Sample content node
