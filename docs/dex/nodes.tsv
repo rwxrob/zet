@@ -1707,7 +1707,7 @@
 1717	2022-12-05 03:50:54Z	Q: How do you maintain a large code base?
 1718	2022-12-05 03:48:33Z	Q: Is GitHub truncating your zet?
 1719	2022-12-04 23:36:24Z	Beware of Go `path.Join` vs `filepath.Join`
-1720	2022-12-05 03:45:41Z	Q: I lost my way around week 8. Should I restart the Boost?
+1720	2022-12-04 22:45:41Z	Q: I lost my way around week 8. Should I restart the Boost?
 1721	2022-12-05 03:41:56Z	Q: Are you going to write all the UNIX utilities in Go?
 1722	2022-12-04 23:36:24Z	Eventually moving to better theme
 1723	2022-12-05 03:38:09Z	Q: What do you think of language servers (LSPs)?
@@ -1763,3 +1763,4 @@
 1784	2022-12-10 10:43:29Z	Matthew 7:21-23 should be required for every Christian to memorize
 1785	2022-12-11 00:30:08Z	⚡ Secure shell (ssh) client in 80 lines of Go code
 1786	2022-12-11 00:32:28Z	Secure shell (ssh) servers already in Go
+1787	2022-12-11 09:59:05Z	Use `strings.Builder` and not `bytes.Buffer`

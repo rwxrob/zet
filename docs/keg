@@ -1,9 +1,9 @@
-updated: 2022-12-11 00:36:55Z
+updated: 2022-12-11 09:59:05Z
 kegv:    2023-01
 
 title:   KEG Zettelkasten for Muhlestein, Robert S. (rwxrob)
 url:     git@github.com:rwxrob/zet.git
-nodefmt: https://rwxrob.github.io/zet/{{id}}
+linkfmt: https://rwxrob.github.io/zet/{{id}}
 creator: git@github.com:rwxrob/zet.git
 state:   living
 
