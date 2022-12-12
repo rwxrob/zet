@@ -7,8 +7,8 @@ That said, the books I write will always be free online with paper equivalents i
 ***General technology*** books contains stuff of general interest and import to most technologists. Focus is on practices, habits, and knowledge rather than specific technologies.
 
 * Terminal Velocity: Mastering the Fastest Human-Computer Interface
+* Knowledge Exchange Graphs: Manage Knowledge Like Software with KEG
 * Bonzai: Building Stateful Command Tree Interfaces with Go
-* Knowledge Exchange Graphs: Manage Knowledge Like Software (or Microbrews)
 * PEGN: Parsing Expression Grammar Notation
 
 ***Other, random important books*** are about historical stuff I've worked on and discoveries made along the way.
