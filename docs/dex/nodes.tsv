@@ -1191,7 +1191,7 @@
 1199	2022-12-04 23:36:24Z	I Like the Word Scenario
 1200	2022-12-04 23:36:24Z	Using `go get -u` is Usually Bad, Beware
 1201	2022-12-04 23:36:24Z	Containers Leave No Trace
-1202	2022-12-04 23:36:24Z	Use `lockedfile` to Properly Lock File in Go
+1202	2022-12-12 07:59:49Z	Use `lockedfile` to properly lock file in Go
 1203	2022-12-04 23:36:24Z	How do you get large color font title on terminal?
 1204	2022-12-04 23:36:24Z	Press K in Vi/m to Get `man` Page in C
 1205	2022-12-04 23:36:24Z	"NeoVim makes other editors look like Stoneedge"
