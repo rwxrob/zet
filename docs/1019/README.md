@@ -18,3 +18,5 @@ That said, the books I write will always be free online with paper equivalents i
 * Works for Me: Modern Collaborative Developer Practices
 * Coding for Self-Empowerment: Programming with Purpose
 * SKILSTAK: Learning How to Help Others Learn
+* There and Never Back Again
+* Prone to Pride, Overcoming the Greatest Sin
