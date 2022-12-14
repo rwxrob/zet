@@ -4,19 +4,15 @@ I've always been a fan of books even though technical books regularly suffer fro
 
 That said, the books I write will always be free online with paper equivalents in print (like No Starch Press).
 
-***General technology*** books contains stuff of general interest and import to most technologists. Focus is on practices, habits, and knowledge rather than specific technologies.
-
-* Terminal Velocity: Mastering the Fastest Human-Computer Interface
-* Knowledge Exchange Graphs: Manage Knowledge Like Software with KEG
-* Bonzai: Building Stateful Command Tree Interfaces with Go
-* PEGN: Parsing Expression Grammar Notation
-
-***Other, random important books*** are about historical stuff I've worked on and discoveries made along the way.
-
-* Autodidactic: How to Succeed as a Knowledge Worker
-* Good to Gig: Surviving the Radical New Sharing Economy
-* Works for Me: Modern Collaborative Developer Practices
-* Coding for Self-Empowerment: Programming with Purpose
-* SKILSTAK: Learning How to Help Others Learn
-* There and Never Back Again
-* Prone to Pride, Overcoming the Greatest Sin
+1.  Terminal Velocity: Mastering the Fastest Human-Computer Interface
+2.  Knowledge Exchange Graphs: Manage Knowledge Like Software with KEG
+3.  Bonzai, Building Stateful Command Tree Interfaces with Go
+4.  Autodidactic, How to Succeed as a Knowledge Worker
+5.  Good to Gig, Surviving the “Radical” New Sharing Economy
+6.  Programming with Purpose: Coding for Self-Empowerment
+7.  Works for Me, Modern Collaborative Developer Practices
+8.  PEGN: Parsing Expression Grammar Notation
+9.  SKILSTAK, Learning to Help Others Learn
+10. There and Never Back Again, A Former Mormon’s Tale
+11. Prone to Pride, Overcoming the Greatest Sin
+12. A Code Wizard's First Spell Book
