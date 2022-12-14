@@ -7,5 +7,4 @@ $ ssh -i testdata/blahpriv blah@localhost "echo" <<< hello
 2022/12/14 05:42:00 [safesh -c echo]
 $ ssh -i testdata/blahpriv blah@localhost "ls -ld"
 2022/12/14 05:45:39 [safesh -c ls -ld]
-
 ```
