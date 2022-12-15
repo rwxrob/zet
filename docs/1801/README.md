@@ -18,6 +18,8 @@ Here are my initial emoji title preferences:
 |  ✅   | Todo lists | todo |
 |  🧾   | Journal, Log, Diary | log |
 |  💡   | Big Idea, Thought, Breakthrough | idea |
+|  👍   | Recommendation, Positive Review | thumbs up |
+|  👎   | Avoid, Negative Review | thumbs down |
 
 I've decided put a single space after the emoji and to only use double-wide emojis (rather than their earlier smaller counterparts).
 
