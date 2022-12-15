@@ -17,7 +17,7 @@ Here are my initial emoji title preferences:
 |  🎯   | Best Pick, Right Tools for Job | pick |
 |  ✅   | Todo lists | todo |
 |  🧾   | Journal, Log, Diary | log |
-|  💡   | Big Idea, Thought, Breakthrough | idea |
+|  💡   | ProTip, Big Idea, Thought, Breakthrough | idea |
 |  👍   | Recommendation, Positive Review | thumbs up |
 |  👎   | Avoid, Negative Review | thumbs down |
 |  🤔   | Hummm, Discovery, Interesting, Thinking, Undecided | thinking |
