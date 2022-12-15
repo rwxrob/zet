@@ -1,4 +1,4 @@
-# 🤦Use `export no_proxy` to turn off `HTTPS_PROXY` etc.
+# 🤦 Use `export no_proxy` to turn off `HTTPS_PROXY` etc.
 
 ```sh
 export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com"
