@@ -12,5 +12,7 @@ Here are my initial emoji title preferences:
 |  💬   | Quote, Comment, Dialog, Conversation |
 |  💀   | Warning, Caution |
 |  🤬   | Profane, Rant |
+|  🤦   | Cluelessness |
+|  💢   | Struggle, ___ is hard |
 
 At the moment I have not yet cleaned out all my old zettels referring to other approaches involving "Figures". But, this initial emoji approach is really all that is needed. The rest can emerge organically from the KEG community.
