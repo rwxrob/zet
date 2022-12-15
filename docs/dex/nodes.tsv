@@ -1771,3 +1771,4 @@
 1792	2022-12-14 01:48:08Z	Bandersnatch, "watch" it
 1793	2022-12-14 05:55:58Z	Secure shell (`ssh`) required `-c` support
 1794	2022-12-14 09:44:04Z	🤦 Use `export no_proxy` to turn off `HTTPS_PROXY` etc.
+1795	2022-12-15 01:25:09Z	Add `vmrun` command for VMware from git-bash on Windows
