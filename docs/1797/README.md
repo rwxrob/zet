@@ -1,3 +1,3 @@
-# People who use screenshots in tutorials for terminal tasks are morons
+# 🤦 Morons use screenshots in tutorials for terminal tasks
 
 That is all.
