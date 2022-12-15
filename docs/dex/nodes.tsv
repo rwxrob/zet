@@ -187,7 +187,7 @@
 190	2022-12-04 23:36:24Z	Vagrant Gives VMs Same IP *and* ARP Address
 191	2022-12-04 23:36:24Z	Using USB as Git Repo in Windows WSL2
 192	2022-12-04 23:36:24Z	"Poor Men Zettelkasten with Go"
-193	2022-12-04 23:36:24Z	Streaming Content Categories
+193	2022-12-04 18:36:24Z	Streaming Content Categories
 194	2022-12-04 23:36:24Z	Dark Mode for Proxmox
 195	2022-12-04 23:36:24Z	Good Morning: Thursday, December  2, 2021
 196	2022-12-04 23:36:24Z	Kubernetes Learning Resources
@@ -1767,7 +1767,7 @@
 1790	2022-12-13 12:30:05Z	People who have been coding for *decades* prefer Go
 1791	2022-12-14 06:20:28Z	💀 Hack secure shell (`ssh`) with shell injection
 1792	2022-12-14 06:48:08Z	Bandersnatch, "watch" it
-1793	2022-12-14 10:55:58Z	Secure shell (`ssh`) required `-c` support
+1793	2022-12-15 04:59:32Z	🤔 Secure shell (`ssh`) required `-c` support
 1794	2022-12-15 04:53:59Z	💡 Use `export no_proxy` to turn off `HTTPS_PROXY` etc.
 1795	2022-12-15 06:25:09Z	Add `vmrun` command for VMware from git-bash on Windows
 1797	2022-12-15 06:58:56Z	People who use screenshots in tutorials for terminal tasks are morons
