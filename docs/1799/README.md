@@ -1,4 +1,4 @@
-# ⚡ Share a folder between Windows and Linux
+# ⚡Share a folder between Windows and Linux
 
 It's always easier to create a samba share on the Linux machine and add that "network drive" from the Windows machine. The reverse can be quite painful with all the craziness with username and password setups now that the cloud is the default Windows login method.
 
