@@ -1,4 +1,4 @@
-# Add `vmrun` command for VMware from git-bash on Windows
+# 💡 Add `vmrun` command for VMware from git-bash on Windows
 
 VMware comes with many command line utilities that aren't always documented well. One of my favorites is `vmrun.exe`, but it needs a bit of help to make it useful. This function starts up a virtual machine matching the name passed as the first argument. The VM is started without the GUI, but the GUI can be easily accessed from the VMware client GUI if needed.
 
