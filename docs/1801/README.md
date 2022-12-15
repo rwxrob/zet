@@ -20,7 +20,7 @@ Here are my initial emoji title preferences:
 |  💡   | Big Idea, Thought, Breakthrough | idea |
 |  👍   | Recommendation, Positive Review | thumbs up |
 |  👎   | Avoid, Negative Review | thumbs down |
-|  🤔   | Hummm, Interesting, Thinking, Undecided | thinking |
+|  🤔   | Hummm, Discovery, Interesting, Thinking, Undecided | thinking |
 
 I've decided put a single space after the emoji and to only use double-wide emojis (rather than their earlier smaller counterparts).
 
