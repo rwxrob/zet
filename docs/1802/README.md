@@ -1,4 +1,4 @@
-# 🤦 Someone thought YDKJS was a good model for Go
+# 🤦Someone thought YDKJS was a good model for Go
 
 * <https://ydkgo.netlify.app/>
 
