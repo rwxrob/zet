@@ -8,6 +8,8 @@ The problem is that you really pay for performance when you drop the C library:
 
 Another advantage of just accepting our CGO fate is that later I can incorporate other C things (more notable for Python stubbing than anything) and be ready for it.
 
+Still, adding a CGO dependency to *this single thing* will force every fucking Bonzai monolith that includes a command branch that uses this to use CGO even if it is just for that single branch. There is *no way* that is worth it. So the answer is NO CGO --- ever. I don't care how much a perf hit we take. The load is already distributed across different instances of keg directories. And, if it every came to it, we can replace the internal non-CGO API with one that is, no premature optimization.
+
 * GitHub - glebarez/go-sqlite: pure-Go SQLite driver for Go (SQLite embedded)  
   <https://github.com/glebarez/go-sqlite>
 * sqlite package - modernc.org/sqlite - Go Packages  
