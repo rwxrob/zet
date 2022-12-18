@@ -1785,3 +1785,4 @@
 1810	2022-12-18 07:51:24Z	Don't need Go vendoring?
 1811	2022-12-18 04:38:22Z	Yeah github.com/jmoiron/sqlx is really a must
 1812	2022-12-18 05:49:24Z	Moving `nodes` TSV to KEG root and adding to formal spec
+1813	2022-12-18 09:04:30Z	Revising `keg-nodes` (`nodes`) file, still no `created`, add children
