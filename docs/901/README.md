@@ -1,28 +1,7 @@
-# Final Bonzai Version Turning Out Remarkably Small
+# Final Bonzai version turning out remarkably small
 
-As we approach what will be the most likely candidate for a v1.0 of
-Bonzai (scheduled for August 1st if all goes well) I cannot believe how
-little code this entire thing actually took to put together. The lines
-of code has significantly decreased through the last few years of
-refactoring from CmdTab -> CmdBox -> Bonzai -> Bonzai with nothing built
-in.
+As we approach what will be the most likely candidate for a v1.0 of Bonzai (scheduled for August 1st if all goes well) I cannot believe how little code this entire thing actually took to put together. The lines of code has significantly decreased through the last few years of refactoring from CmdTab -> CmdBox -> Bonzai -> Bonzai with nothing built in.
 
-I am absolutely elated that this is the case give the fact that it
-will be compiled into so many binaries in the future. I would really
-love (out of morbid curiosity) to compare the huge Cobra code base. One
-thing I've learned, the more bloated and big, the worse the design. This
-minimal design coming out of Bonzai is so elegant I just cannot fucking
-believe it. Now that the completers are in their own modules, and we
-have the notion of a Conf and Vars "driver" for those that want it,
-without making it mandatory, and after removing `help.Cmd` entirely, we
-have very little left in the core `bonzai` package, and I don't see it
-growing that much at all.
+I am absolutely elated that this is the case give the fact that it will be compiled into so many binaries in the future. I would really love (out of morbid curiosity) to compare the huge Cobra code base. One thing I've learned, the more bloated and big, the worse the design. This minimal design coming out of Bonzai is so elegant I just cannot fucking believe it. Now that the completers are in their own modules, and we have the notion of a Conf and Vars "driver" for those that want it, without making it mandatory, and after removing `help.Cmd` entirely, we have very little left in the core `bonzai` package, and I don't see it growing that much at all.
 
-The only thing left to eventually add, are more builtin functions for
-BonzaiMark. We can't factor that out because it is fundamentally
-part of what makes a Bonzai command a command, the tight integration of
-very useful documentation about the command. The template language
-depends heavily on the fields and methods of the Cmd itself. So, it
-makes no sense to factor that out, but it will grow, for sure.
-
-    #bonzai #golang #coding #plans
+The only thing left to eventually add, are more builtin functions for BonzaiMark. We can't factor that out because it is fundamentally part of what makes a Bonzai command a command, the tight integration of very useful documentation about the command. The template language depends heavily on the fields and methods of the Cmd itself. So, it makes no sense to factor that out, but it will grow, for sure.

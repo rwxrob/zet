@@ -162,7 +162,7 @@
 165	2022-12-04 23:36:24Z	ZettelMark: Tags Line
 166	2022-12-04 23:36:24Z	Goodbye YouTube Live Streaming
 167	2022-12-04 23:36:24Z	What is yoga?
-168	2022-12-04 18:36:24Z	Figure: Portable Royal Typewriter
+168	2022-12-04 23:36:24Z	Figure: Portable Royal Typewriter
 169	2022-12-04 23:36:24Z	WARNING: DO NOT BUY "Mastering Go" (It is Shit)
 170	2022-12-04 23:36:24Z	Boost: Writing Style and Conventions
 171	2022-12-04 23:36:24Z	Kubernetes 'Objects' vs 'Resources'?
@@ -187,7 +187,7 @@
 190	2022-12-04 23:36:24Z	Vagrant Gives VMs Same IP *and* ARP Address
 191	2022-12-04 23:36:24Z	Using USB as Git Repo in Windows WSL2
 192	2022-12-04 23:36:24Z	"Poor Men Zettelkasten with Go"
-193	2022-12-04 18:36:24Z	Streaming Content Categories
+193	2022-12-04 23:36:24Z	Streaming Content Categories
 194	2022-12-04 23:36:24Z	Dark Mode for Proxmox
 195	2022-12-04 23:36:24Z	Good Morning: Thursday, December  2, 2021
 196	2022-12-04 23:36:24Z	Kubernetes Learning Resources
@@ -890,7 +890,7 @@
 898	2022-12-04 23:36:24Z	Use iotop to Check IO Bottlenecks
 899	2022-12-04 23:36:24Z	Boost Will Focus on VirtualBox Ubuntu Server
 900	2022-12-04 23:36:24Z	We Have to Learn What We Like
-901	2022-12-04 23:36:24Z	Final Bonzai Version Turning Out Remarkably Small
+901	2022-12-17 23:10:14Z	Final Bonzai version turning out remarkably small
 902	2022-12-04 23:36:24Z	Use `curl --data-urlencode` and `-G` Instead of URL
 903	2022-12-04 23:36:24Z	Staged Approach to Understand How Kubernetes Works
 904	2022-12-04 23:36:24Z	Cloud-Native and Kubernetes Colearning, Oct 15, 2021
@@ -1311,7 +1311,7 @@
 1320	2022-12-04 23:36:24Z	KeyCloak is an Opensource IAM Tool (OpenID, Oauth)
 1321	2022-12-04 23:36:24Z	SKILSTAK Preparing Stage
 1322	2022-12-04 23:36:24Z	Source `/etc/bash_completion` as `root` to Fix Tab
-1323	2022-12-17 02:21:49Z	Books I want to read
+1323	2022-12-17 07:21:49Z	Books I want to read
 1324	2022-12-04 23:36:24Z	No Dashes `-` or Underscores `_` in REST APIs
 1325	2022-12-04 23:36:24Z	SOLID Principles
 1326	2022-12-04 23:36:24Z	Pleased with Minimal Zettel Model
@@ -1766,16 +1766,18 @@
 1789	2022-12-11 16:54:17Z	Sample content node
 1790	2022-12-13 12:30:05Z	People who have been coding for *decades* prefer Go
 1791	2022-12-14 06:20:28Z	💀 Hack secure shell (`ssh`) with shell injection
-1792	2022-12-15 05:00:11Z	👍 Bandersnatch, "watch" it
-1793	2022-12-15 04:59:32Z	🤔 Secure shell (`ssh`) required `-c` support
-1794	2022-12-15 04:53:59Z	💡 Use `export no_proxy` to turn off `HTTPS_PROXY` etc.
-1795	2022-12-15 05:00:47Z	💡 Add `vmrun` command for VMware from git-bash on Windows
-1797	2022-12-15 05:02:25Z	🤦 Morons use screenshots in tutorials for terminal tasks
-1798	2022-12-15 04:52:59Z	🤬 MS 99% text help Web site requires JavaScript to work
-1799	2022-12-15 04:51:17Z	⚡ Share a folder between Windows and Linux
-1800	2022-12-15 04:52:07Z	🎯 Use Nimbus Screenshot instead of Windows Snip
-1801	2022-12-15 05:01:04Z	💡 Initial emojis as keg content node types
-1802	2022-12-15 04:50:38Z	🤦 Someone thought YDKJS was a good model for Go
-1803	2022-12-15 05:19:12Z	💡 Create branch from `git stash branch BRANCH STASH`
-1804	2022-12-16 02:14:38Z	Standard reply to all vendors on Twitter
-1805	2022-12-16 21:08:32Z	📞 Why are you so "toxic"?
+1792	2022-12-15 10:00:11Z	👍 Bandersnatch, "watch" it
+1793	2022-12-15 09:59:32Z	🤔 Secure shell (`ssh`) required `-c` support
+1794	2022-12-15 09:53:59Z	💡 Use `export no_proxy` to turn off `HTTPS_PROXY` etc.
+1795	2022-12-15 10:00:47Z	💡 Add `vmrun` command for VMware from git-bash on Windows
+1797	2022-12-15 10:02:25Z	🤦 Morons use screenshots in tutorials for terminal tasks
+1798	2022-12-15 09:52:59Z	🤬 MS 99% text help Web site requires JavaScript to work
+1799	2022-12-15 09:51:17Z	⚡ Share a folder between Windows and Linux
+1800	2022-12-15 09:52:07Z	🎯 Use Nimbus Screenshot instead of Windows Snip
+1801	2022-12-15 10:01:04Z	💡 Initial emojis as keg content node types
+1802	2022-12-15 09:50:38Z	🤦 Someone thought YDKJS was a good model for Go
+1803	2022-12-15 10:19:12Z	💡 Create branch from `git stash branch BRANCH STASH`
+1804	2022-12-16 07:14:38Z	Standard reply to all vendors on Twitter
+1805	2022-12-17 02:08:32Z	📞 Why are you so "toxic"?
+1806	2022-12-17 07:21:24Z	
+1807	2022-12-18 01:20:03Z	Reasons to use SQLite3 in 2023
