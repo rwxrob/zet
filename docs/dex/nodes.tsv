@@ -1784,3 +1784,4 @@
 1809	2022-12-18 07:32:17Z	Adding CGO with the least amount of pain
 1810	2022-12-18 07:51:24Z	Don't need Go vendoring?
 1811	2022-12-18 04:38:22Z	Yeah github.com/jmoiron/sqlx is really a must
+1812	2022-12-18 05:49:24Z	Moving `nodes` TSV to KEG root and adding to formal spec
