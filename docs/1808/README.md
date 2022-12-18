@@ -1,4 +1,6 @@
-# Golang SQLite3 options, CGO?
+# Golang SQLite3 options
+
+TL;DR: Use `import modernc.org/sqlite` with no CGO deps and 100% `database/sql` interface compatibility at about a 20% cost in performance. Annoying name and source hosting, but oh well.
 
 To CGO or not to CGO, that is the question. "It depends" is always the answer. If we do, we get some kick-ass speed and official compatibility with the `database/sql` standard Go interface. We also are immediately ready to write a compatible API in C directly. But, building for CGO is a *pain in the ass*.
 
@@ -8,7 +10,7 @@ The problem is that you really pay for performance when you drop the C library:
 
 Another advantage of just accepting our CGO fate is that later I can incorporate other C things (more notable for Python stubbing than anything) and be ready for it.
 
-Still, adding a CGO dependency to *this single thing* will force every fucking Bonzai monolith that includes a command branch that uses this to use CGO even if it is just for that single branch. There is *no way* that is worth it. So the answer is NO CGO --- ever. I don't care how much a perf hit we take. The load is already distributed across different instances of keg directories. And, if it every came to it, we can replace the internal non-CGO API with one that is, no premature optimization.
+Still, adding a CGO dependency to *this single thing* will force every Bonzai monolith that includes a command branch that uses this to use CGO even if it is just for that single branch. There is *no way* that is worth it. So the answer is NO CGO --- ever. I don't care how much a perf hit we take. The load is already distributed across different instances of keg directories. And, if it every came to it, we can replace the internal non-CGO API with one that is, no premature optimization.
 
 * GitHub - glebarez/go-sqlite: pure-Go SQLite driver for Go (SQLite embedded)  
   <https://github.com/glebarez/go-sqlite>
