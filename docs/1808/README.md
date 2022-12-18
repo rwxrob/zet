@@ -28,3 +28,5 @@ Still, adding a CGO dependency to *this single thing* will force every fucking B
   <https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html>
 * cznic / sqlite · GitLab  
   <https://gitlab.com/cznic/sqlite>
+
+By the way, looked at `cvilsmeier/sqinn-go` which is so bad it's comical. Strong recommendation to stay the hell away from it, but you'll get that sense immediately when you read "listed in some-dumb-ass's" awesome-go list."
