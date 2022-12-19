@@ -2,7 +2,7 @@
 
 This makes it easier to navigate those long single lines (which are preferable over wrapped lines in 2023 because they fit into any pane size and wrap properly).
 
-```vimrc
+```vim
 au FileType markdown,pandoc noremap j gj
 au FileType markdown,pandoc noremap k gk
 ```
