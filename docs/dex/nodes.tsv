@@ -1793,3 +1793,4 @@
 1820	2022-12-19 04:35:38Z	Using `<b>` to help with terminology-heavy content
 1821	2022-12-19 04:41:34Z	Dealing with multiple forms of the same term, plurals, etc.
 1822	2022-12-19 07:37:48Z	Use Go `panic` instead of `log.Fatal`
+1823	2022-12-19 08:01:16Z	Bonzai dilemma of separate package libs from commands
