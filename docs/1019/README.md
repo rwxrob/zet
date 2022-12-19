@@ -4,8 +4,8 @@ I've always been a fan of books even though technical books regularly suffer fro
 
 That said, the books I write will always be free online with paper equivalents in print (like No Starch Press).
 
-1.  Terminal Velocity: Mastering the Fastest Human-Computer Interface
-2.  Knowledge Exchange Graphs: Manage Knowledge Like Software with KEG
+1.  Knowledge Exchange Graphs: Manage Knowledge Like Software with KEG
+2.  Terminal Velocity: Mastering the Fastest Human-Computer Interface
 3.  Bonzai, Building Stateful Command Tree Interfaces with Go
 4.  Autodidactic, How to Succeed as a Knowledge Worker
 5.  Good to Gig, Surviving the “Radical” New Sharing Economy
