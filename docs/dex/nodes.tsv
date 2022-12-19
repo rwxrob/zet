@@ -1787,3 +1787,4 @@
 1812	2022-12-18 05:49:24Z	Moving `nodes` TSV to KEG root and adding to formal spec
 1813	2022-12-18 09:04:30Z	Revising `keg-nodes` (`nodes`) file, still no `created`, add children
 1816	2022-12-19 03:44:34Z	Up at 3am, maybe I'll keep doing this
+1817	2022-12-19 03:50:03Z	Trying embedded approach to `libkeg` model this time
