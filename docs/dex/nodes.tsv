@@ -311,7 +311,7 @@
 316	2022-12-04 23:36:24Z	SKILSTAK Learning Content
 317	2022-12-04 23:36:24Z	Zettel Category: Series
 318	2022-12-04 23:36:24Z	Only Perl and C Let You Change Running Process Name
-319	2022-12-04 23:36:24Z	Disable Accidental Terminal Suspends
+319	2022-12-19 14:03:28Z	Disable Accidental Terminal Suspends
 320	2022-12-04 23:36:24Z	Zsh Fails Expectations Again: `test` and `[]`
 321	2022-12-04 23:36:24Z	How Many Black Tee-Shirts Do You Have?
 322	2022-12-04 23:36:24Z	Install Elasticsearch (ECK) Colearning
@@ -421,7 +421,7 @@
 426	2022-12-04 23:36:24Z	Looks Like ss Replaced netstat
 427	2022-12-04 23:36:24Z	Apparently `strings.Fields()` Exists in Go
 428	2022-12-04 23:36:24Z	Determine the Default IP, Interface, and Route
-429	2022-12-11 16:15:43Z	Still conflicted about remapping CapsLock to ESC
+429	2022-12-11 11:15:43Z	Still conflicted about remapping CapsLock to ESC
 430	2022-12-04 23:36:24Z	
 431	2022-12-04 23:36:24Z	Only Certain Kubernetes Resources Create from CLI
 432	2022-12-04 23:36:24Z	CmdBox to Use Godoc for Description
