@@ -1798,3 +1798,4 @@
 1825	2022-12-19 10:45:00Z	Realizing using `nodes` for everything is better than file system
 1826	2022-12-19 14:19:25Z	Remap k to gk and j to gj for better navigation in Markdown
 1827	2022-12-19 14:22:29Z	Markdown code fence supported language types/classes
+1828	2022-12-20 01:47:34Z	Use `text.go` for everything with translatable text in Go
