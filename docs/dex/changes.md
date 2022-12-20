@@ -1,7 +1,7 @@
+* 2022-12-20 00:06:08Z [Disable accidental terminal suspends](../319)
 * 2022-12-19 14:26:19Z [Books I want to write](../1019)
 * 2022-12-19 14:22:29Z [Markdown code fence supported language types/classes](../1827)
 * 2022-12-19 14:19:25Z [Remap k to gk and j to gj for better navigation in Markdown](../1826)
-* 2022-12-19 14:15:41Z [Disable Accidental Terminal Suspends](../319)
 * 2022-12-19 10:45:00Z [Realizing using `nodes` for everything is better than file system](../1825)
 * 2022-12-19 08:53:17Z [💡 Initial emojis as keg content node types](../1801)
 * 2022-12-19 08:50:59Z [Check Go durations with regular comparison operators](../1824)
