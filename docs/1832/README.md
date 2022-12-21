@@ -1,0 +1,5 @@
+# Creating `scanner` as new home for `scan` (not `pegn`)
+
+Having regrets about combining `scan` into `pegn`.
+
+Just the version bumping is going to present a problem. I think I'll factor it all into `github.com/rwxrob/scanner` so that I'm not messing with `rwxrob/scan`. Also, I want to get it to the point where it can just be copied into any project and used in a "vendored" sort of way so that there is no lock-in or dependency on external deps. This is particularly important because that stuff that depends on a scanner for anything is likely to be *really* dependent on it never, ever changing or going away. The scanner in such cases is the central part of the package or application. This justifies the decision to create a Go package is this *intentionally* designed to be super easy to plop into any other project and just tweak the package paths. In fact, I could create a Bonzai stateful command branch to do just that. `z go scanner add` would just create a directory with my favorite Rune scanner and all the code stuff changed over, and with no copyright lines (or perhaps as an option).
