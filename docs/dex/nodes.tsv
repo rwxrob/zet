@@ -1763,7 +1763,6 @@
 1786	2022-12-11 05:32:28Z	Secure shell (ssh) servers already in Go
 1787	2022-12-11 15:00:10Z	Use `strings.Builder` and not `bytes.Buffer`
 1788	2022-12-11 17:33:30Z	📞 Do you still do 1-1 mentoring?
-1789	2022-12-11 16:54:17Z	Sample content node
 1790	2022-12-13 12:30:05Z	People who have been coding for *decades* prefer Go
 1791	2022-12-14 06:20:28Z	💀 Hack secure shell (`ssh`) with shell injection
 1792	2022-12-15 10:00:11Z	👍 Bandersnatch, "watch" it
