@@ -1,9 +1,9 @@
 # Sample content node
 
-    This is a quote
-    here
-
-    And this is another line from that quote.
+> This is a quote
+> here
+>
+> And this is another line from that quote.
 
 
 Hello KEG friend! For full reference try KEG Quick Start Guide[^start] or official KEG Specification[^spec]. If you already know some form of Markdown this sample summary should be enough to help you understand KEGML constraints to regular Markdown for the sake of simplicity, clarity, and efficiency.
