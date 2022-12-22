@@ -1804,23 +1804,23 @@
 1837	2022-12-22 09:33:31Z	Don't link, include dependent keg content
 1838	2022-12-22 12:32:17Z	Resolving grounding loop buzz and sound board artifacts
 1839	2022-12-22 13:27:40Z	Bonzai best practice: high-level API and `Cmd` get separate repos
-1840	2022-12-22 14:33:13Z	📞 Are there Linux "front-end" CLI dev jobs?
+1840	2022-12-22 15:43:52Z	📞 Are there Linux "front-end" CLI dev jobs?
 1841	2022-12-22 14:39:59Z	📞 QCA archived questions, conversations, advice
 1842	2022-12-22 14:40:15Z	Remember, remember the fifth of November
-1843	2022-11-02 00:07:58Z	The YAML "Norway" Problem
-1844	2022-12-22 15:08:14Z	What are "stateful command trees"?
-1845	2022-12-22 15:08:27Z	What do you think of "hate speech"?
-1846	2022-12-22 15:09:36Z	What is KEG and why are you so obsessed with it right now?
-1847	2022-12-22 15:35:58Z	What is PEGN and why use it?
+1843	2022-12-22 15:44:08Z	The YAML "Norway" Problem
+1844	2022-12-22 15:44:20Z	📞 What are "stateful command trees"?
+1845	2022-12-22 15:44:28Z	📞 What do you think of "hate speech"?
+1846	2022-12-22 15:44:57Z	📞 What is KEG and why are you so obsessed with it right now?
+1847	2022-12-22 15:45:10Z	📞 What is PEGN and why use it?
 1848	2022-12-22 15:37:38Z	📞 Where can I get your theme?
-1849	2022-11-05 17:15:09Z	Which OS is better for programming?
-1850	2022-12-22 15:38:11Z	Why not CONTROL-C instead of ESC?
-1852	2022-12-22 15:39:14Z	How do you do unique identifiers?
-1853	2022-12-22 15:39:29Z	How do you find motivation?
-1854	2022-12-22 15:39:29Z	How does KEG compare to Wikipedia?
+1849	2022-12-22 15:45:16Z	📞 Which OS is better for programming?
+1850	2022-12-22 15:45:23Z	📞 Why not CONTROL-C instead of ESC?
+1852	2022-12-22 15:45:28Z	📞 How do you do unique identifiers?
+1853	2022-12-22 15:45:32Z	📞 How do you find motivation?
+1854	2022-12-22 15:45:36Z	📞 How does KEG compare to Wikipedia?
 1855	2022-12-22 15:40:13Z	KEGML initial docs
 1856	2022-11-11 02:31:31Z	Overview of functional scanning and parsing with PEGN
-1857	2022-12-22 10:46:00Z	PEGN scanner interface and functions
-1858	2022-12-22 14:30:06Z	Wondering if Go templates would be best for filters and snippets
-1859	2022-12-22 15:31:35Z	Footnotes *require* surrounding blank lines
+1857	2022-12-22 10:46:22Z	PEGN scanner interface and functions
+1858	2022-12-22 15:45:46Z	Wondering if Go templates would be best for filters and snippets
+1859	2022-12-22 15:45:49Z	Footnotes *require* surrounding blank lines
 1860	2022-12-22 15:35:33Z	Watch out when copying Glamour output for bullets, etc.
