@@ -1804,7 +1804,7 @@
 1837	2022-12-22 09:33:31Z	Don't link, include dependent keg content
 1838	2022-12-22 12:32:17Z	Resolving grounding loop buzz and sound board artifacts
 1839	2022-12-22 13:27:40Z	Bonzai best practice: high-level API and `Cmd` get separate repos
-1840	2022-12-22 13:31:30Z	📞 Are there Linux "front-end" CLI dev jobs?
+1840	2022-12-22 09:33:13Z	📞 Are there Linux "front-end" CLI dev jobs?
 1841	2022-11-01 21:41:36Z	Archived Questions, Conversations, Advice
 1842	2022-11-05 21:05:45Z	Remember, Remember the Fifth of November
 1843	2022-11-02 00:07:58Z	The YAML "Norway" Problem
@@ -1823,3 +1823,4 @@
 1856	2022-11-11 02:31:31Z	Overview of functional scanning and parsing with PEGN
 1857	2022-11-02 17:01:01Z	PEGN Scanner Interface and Functions
 1858	2022-12-22 09:30:06Z	Wondering if Go templates would be best for filters and snippets
+1859	2022-12-22 10:31:35Z	Footnotes *require* surrounding blank lines
