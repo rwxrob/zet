@@ -1801,7 +1801,7 @@
 1832	2022-12-21 15:27:31Z	Creating `scanner` as new home for `scan` (not `pegn`)
 1833	2022-12-22 07:36:57Z	🤬 Microsoft documentation web site requires JavaScript
 1834	2022-12-22 07:57:39Z	Glamour (goldmark) considers blockquotes big, long sentences
-1836	2022-12-22 13:09:25Z	Review of Goldmark source code reconfirmed need for PEGN (end of 2024)
+1836	2022-12-22 08:09:25Z	Review of Goldmark source code reconfirmed need for PEGN (end of 2024)
 1837	2022-12-22 09:33:31Z	Don't link, include dependent keg content
 1838	2022-12-22 12:32:17Z	Resolving grounding loop buzz and sound board artifacts
-1839	2022-12-22 13:00:25Z	Bonzai best practice: high-level API and `Cmd` get separate repos
+1839	2022-12-22 08:27:40Z	Bonzai best practice: high-level API and `Cmd` get separate repos
