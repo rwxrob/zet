@@ -1,4 +1,4 @@
-# Glamour considers blockquotes big, long sentences
+# Glamour (goldmark) considers blockquotes big, long sentences
 
 Just got another solid reason to throw out blockquotes other than single paragraphs out in KEGML. It would seem the makers of Glamour agree. Glamour renders all paragraphs in a blockquote together into a single sentence (without even a space after the last period of the previous paragraph).
 
