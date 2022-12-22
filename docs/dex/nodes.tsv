@@ -6,7 +6,7 @@
 6	2022-12-04 23:36:24Z	Need Two Utility Rune Scanners
 7	2022-12-04 23:36:24Z	Don't Depend on `jq`, Learn Builtin Alternatives
 8	2022-12-04 23:36:24Z	Use `jq .[] | select` and `test` to Filter
-9	2022-12-04 23:36:24Z	GitHub API versus CLI `gh` Tool?
+9	2022-12-04 18:36:24Z	GitHub API versus CLI `gh` Tool?
 10	2022-12-04 23:36:24Z	Can I Run Linux Desktop in Containers?
 11	2022-12-04 23:36:24Z	Is the Future About Code Generation?
 12	2022-12-04 23:36:24Z	Good Morning: Wednesday, December  1, 2021
@@ -1803,3 +1803,4 @@
 1834	2022-12-22 02:57:39Z	Glamour (goldmark) considers blockquotes big, long sentences
 1837	2022-12-22 04:33:31Z	Don't link, include dependent keg content
 1838	2022-12-22 07:32:17Z	Resolving grounding loop buzz and sound board artifacts
+1839	2022-12-22 08:00:25Z	Bonzai best practice: high-level API and `Cmd` get separate repos
