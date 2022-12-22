@@ -1,9 +1,6 @@
 # How does KEG compare to Wikipedia?
 
-KEG is more like if Twitter and Wikipedia "had a baby" (as
-mossy_machines) put it. KEG fundamentally is only a specification for
-how to organize content in a sustainable, exchangeable way, nothing
-more. There are, however, a number of significant differences:
+KEG is more like if Twitter and Wikipedia "had a baby" (as mossy_machines) put it. KEG fundamentally is only a specification for how to organize content in a sustainable, exchangeable way, nothing more. There are, however, a number of significant differences:
 
 * Wikipedia promotes antagonistic editing practices
 * Wikipedia never has a single voice making it hard to read

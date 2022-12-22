@@ -1,6 +1,8 @@
 # How do you do unique identifiers?
 
-https://github.com/rwxrob/uniq is the Bonzai command I use. I just added isosect based on a request. There are many ways to use uniqueness, use the best for you:
+I use my own collection encapsulated into the Bonzai command I use. I just added isosect based on a request. There are many ways to use uniqueness, use the best for you:
+
+<https://github.com/rwxrob/uniq>
 
 * isosec  - sortable unique second in GMT
 * isosect - sortable unique second in GMT (with T)

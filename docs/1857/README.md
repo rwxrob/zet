@@ -1,10 +1,12 @@
-# PEGN Scanner Interface and Functions
+# PEGN scanner interface and functions
 
-https://youtu.be/zErrjCUEhG8
+***Update:*** Dropping the `pegn.Scanner` interface approach in favor of providing tools to produce specialized scanners instead.
 
-My PEGN scanner implementation now conforms to a common `pegn.Scanner`
-interface so that other scanners can be implemented by people that
-conform to it. Why an interface?
+----
+
+📺 <https://youtu.be/zErrjCUEhG8>
+
+My PEGN scanner implementation now conforms to a common `pegn.Scanner` interface so that other scanners can be implemented by people that conform to it. Why an interface?
 
 * So that the library of scan functions can be interchangeable with
   different scanner implementations
@@ -17,6 +19,6 @@ conform to it. Why an interface?
 
 Related:
 
-* https://github.com/rwxrob/pegn
-* https://github.com/rwxrob/pegn-spec
-* https://pegn.dev (but a little older and out of date)
+* <https://github.com/rwxrob/pegn>
+* <https://github.com/rwxrob/pegn-spec>
+* <https://pegn.dev> (but a little older and out of date)

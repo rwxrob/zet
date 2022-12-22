@@ -1,7 +1,6 @@
 # How do you find motivation?
 
-How do you *not* find motivation to work on so many wonderful things
-that need our attention?
+How do you *not* find motivation to work on so many wonderful things that need our attention?
 
 * It may be you are doing the wrong things
 * Look around the world and see everything that wrong
