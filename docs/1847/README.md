@@ -23,7 +23,7 @@ For years ABNF and EBNF provide excruciating levels of specificity in their gram
 The hope is that the PEGN language itself can become a more explicit, better performing, and readable replacement for many grammar meta-languages and inline regular expressions. Code generators producing parsers of different types and in different implementation languages can
 be created from the same grammar specification expressed in PEGN. PEGN parsers and standard libraries can even provide highly optimized handling of PEGN grammars included directly in code as strings and constants much like compiled regular expressions are handled today but with much greater clarity and efficiency.
 
-• https://github.com/rwxrob/pegn-spec
-• https://github.com/rwxrob/pegn
-• https://pegn.dev
+• blah https://github.com/rwxrob/pegn-spec
+• blah https://github.com/rwxrob/pegn
+• blah https://pegn.dev
 
