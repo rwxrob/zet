@@ -6,7 +6,7 @@
 6	2022-12-04 23:36:24Z	Need Two Utility Rune Scanners
 7	2022-12-04 23:36:24Z	Don't Depend on `jq`, Learn Builtin Alternatives
 8	2022-12-04 23:36:24Z	Use `jq .[] | select` and `test` to Filter
-9	2022-12-04 18:36:24Z	GitHub API versus CLI `gh` Tool?
+9	2022-12-04 23:36:24Z	GitHub API versus CLI `gh` Tool?
 10	2022-12-04 23:36:24Z	Can I Run Linux Desktop in Containers?
 11	2022-12-04 23:36:24Z	Is the Future About Code Generation?
 12	2022-12-04 23:36:24Z	Good Morning: Wednesday, December  1, 2021
@@ -224,7 +224,7 @@
 228	2022-12-04 23:36:24Z	Make Sure `/etc/sshd_config`, Not `/etc/ssh_config`
 229	2022-12-04 23:36:24Z	Getting Linux Root with Grub
 230	2022-12-04 23:36:24Z	"Based" Means Something Good in Slang
-231	2022-12-20 03:13:40Z	Use `net/http/httptest` for HTTP Go Testing
+231	2022-12-20 08:13:40Z	Use `net/http/httptest` for HTTP Go Testing
 232	2022-12-04 23:36:24Z	Give Go fmt.Stringer a Non-Pointer Receiver
 233	2022-12-04 23:36:24Z	TIL ESXi Was a Fork of KVM and Sued
 234	2022-12-04 23:36:24Z	KEG Mark Parser Showing Promise for Code Gen
@@ -311,7 +311,7 @@
 316	2022-12-04 23:36:24Z	SKILSTAK Learning Content
 317	2022-12-04 23:36:24Z	Zettel Category: Series
 318	2022-12-04 23:36:24Z	Only Perl and C Let You Change Running Process Name
-319	2022-12-20 00:06:08Z	Disable accidental terminal suspends
+319	2022-12-20 05:06:08Z	Disable accidental terminal suspends
 320	2022-12-04 23:36:24Z	Zsh Fails Expectations Again: `test` and `[]`
 321	2022-12-04 23:36:24Z	How Many Black Tee-Shirts Do You Have?
 322	2022-12-04 23:36:24Z	Install Elasticsearch (ECK) Colearning
@@ -421,7 +421,7 @@
 426	2022-12-04 23:36:24Z	Looks Like ss Replaced netstat
 427	2022-12-04 23:36:24Z	Apparently `strings.Fields()` Exists in Go
 428	2022-12-04 23:36:24Z	Determine the Default IP, Interface, and Route
-429	2022-12-11 11:15:43Z	Still conflicted about remapping CapsLock to ESC
+429	2022-12-11 16:15:43Z	Still conflicted about remapping CapsLock to ESC
 430	2022-12-04 23:36:24Z	
 431	2022-12-04 23:36:24Z	Only Certain Kubernetes Resources Create from CLI
 432	2022-12-04 23:36:24Z	CmdBox to Use Godoc for Description
@@ -865,7 +865,7 @@
 873	2022-12-04 23:36:24Z	Cloud Images are Bad for Beginner Training
 874	2022-12-04 23:36:24Z	Add Namespace Exception to Gateway for NFD
 875	2022-12-04 23:36:24Z	Files < 60 Bytes Never Stored to Disk
-876	2022-12-04 18:36:24Z	How are you doing animated terminal background?
+876	2022-12-04 23:36:24Z	How are you doing animated terminal background?
 877	2022-12-04 23:36:24Z	Commentary on Sixth Edition UNIX Operating System
 878	2022-12-04 23:36:24Z	So Many Go Modules Smell Like Java
 879	2022-12-04 23:36:24Z	Helm All the Things
@@ -1006,7 +1006,7 @@
 1016	2022-12-04 23:36:24Z	Content Organization and Locations
 1017	2022-12-04 23:36:24Z	First Go Bonzai Project Actually Paid to Do
 1018	2022-12-04 23:36:24Z	One Possible Future
-1019	2022-12-19 14:26:19Z	Books I want to write
+1019	2022-12-19 19:26:19Z	Books I want to write
 1020	2022-12-04 23:36:24Z	Determine Best First Language for *You*
 1021	2022-12-04 23:36:24Z	Call Shell Function Same as Script with `"$@"`
 1022	2022-12-04 23:36:24Z	CN VIPs: Kelsey Hightower, Google
@@ -1082,13 +1082,13 @@
 1092	2022-12-04 23:36:24Z	Kubernetes 1.22+ Supports Kubelet Swap Memory
 1093	2022-12-04 23:36:24Z	Intellectual Property is Bad for Humanity
 1094	2022-12-04 23:36:24Z	People Expect What They Want
-1095	2022-12-20 06:02:00Z	Just learned Russian mnemonic keyboard
+1095	2022-12-20 11:02:00Z	Just learned Russian mnemonic keyboard
 1096	2022-12-04 23:36:24Z	Kubernetes Colearning
 1097	2022-12-04 23:36:24Z	Learn a "Hard" Language First, Like C
 1098	2022-12-04 23:36:24Z	Q: Any tips to help with Linux end-user support?
 1099	2022-12-04 23:36:24Z	Proxmox with Terraform at Home
 1100	2022-12-04 23:36:24Z	What is the Best Way to Learn Go?
-1101	2022-12-22 02:56:18Z	One zettel per quotation (with optional 💬 emoji)
+1101	2022-12-22 07:56:18Z	One zettel per quotation (with optional 💬 emoji)
 1102	2022-12-04 23:36:24Z	Adding to PATH in PowerShell
 1103	2022-12-04 23:36:24Z	Don't Forget to `apt-get upgrade` in Dockerfiles
 1104	2022-12-04 23:36:24Z	Avoid `g:go_auto_type_info`, Forces "Press ENTER"
@@ -1220,7 +1220,7 @@
 1230	2022-12-04 23:36:24Z	More Evidence Go is a Favorite for Hackers
 1231	2022-12-04 23:36:24Z	Test Exec and Executables from Golang
 1232	2022-12-04 23:36:24Z	Optionally, Start with a Linux Workspace Container
-1233	2022-12-04 18:36:24Z	Snagged keg.pub, Cannot Wait to Build KEG
+1233	2022-12-04 23:36:24Z	Snagged keg.pub, Cannot Wait to Build KEG
 1234	2022-12-04 23:36:24Z	Peiter Lange's kube-backup Script
 1235	2022-12-04 23:36:24Z	Just say no to GitHub organizations
 1236	2022-12-04 23:36:24Z	Bash Enterprise Cloud-Native Script Sweet Spot
@@ -1733,7 +1733,7 @@
 1756	2022-12-04 23:36:24Z	Twitch supports better music options
 1757	2022-12-04 23:36:24Z	 Q: How do you stream and record for Twitch and YouTube with music?
 1758	2022-12-04 23:36:24Z	GitHub Pages sites can be created with `gh` through API
-1759	2022-12-04 22:29:41Z	Q: What is pomo (pomodoro) and how do I get it?
+1759	2022-12-05 03:29:41Z	Q: What is pomo (pomodoro) and how do I get it?
 1760	2022-12-05 11:39:03Z	Use github.com/charmbracelet/glamour for terminal markdown rendering
 1761	2022-12-05 03:26:37Z	Q: What is your opinion on vim-wiki?
 1762	2022-12-05 03:27:58Z	Q: What do you recommend for helping write code comments?
@@ -1771,36 +1771,37 @@
 1798	2022-12-15 09:52:59Z	🤬 MS 99% text help Web site requires JavaScript to work
 1799	2022-12-15 09:51:17Z	⚡ Share a folder between Windows and Linux
 1800	2022-12-15 09:52:07Z	🎯 Use Nimbus Screenshot instead of Windows Snip
-1801	2022-12-19 08:53:17Z	💡 Initial emojis as keg content node types
+1801	2022-12-19 13:53:17Z	💡 Initial emojis as keg content node types
 1802	2022-12-15 09:50:38Z	🤦 Someone thought YDKJS was a good model for Go
 1803	2022-12-15 10:19:12Z	💡 Create branch from `git stash branch BRANCH STASH`
 1804	2022-12-16 07:14:38Z	Standard reply to all vendors on Twitter
 1805	2022-12-17 02:08:32Z	📞 Why are you so "toxic"?
 1807	2022-12-18 06:20:03Z	Reasons to use SQLite3 in 2023
-1808	2022-12-18 02:58:35Z	Golang SQLite3 options
+1808	2022-12-18 08:00:41Z	Golang SQLite3 options
 1809	2022-12-18 07:32:17Z	Adding CGO with the least amount of pain
 1810	2022-12-18 07:51:24Z	Don't need Go vendoring?
-1811	2022-12-18 04:38:22Z	Yeah github.com/jmoiron/sqlx is really a must
-1812	2022-12-18 05:49:24Z	Moving `nodes` TSV to KEG root and adding to formal spec
-1813	2022-12-18 09:04:30Z	Revising `keg-nodes` (`nodes`) file, still no `created`, add children
-1816	2022-12-19 03:44:34Z	Up at 3am, maybe I'll keep doing this
-1817	2022-12-19 03:50:03Z	Trying embedded approach to `libkeg` model this time
-1818	2022-12-19 03:56:40Z	Go doesn't require `implements` declaration
-1819	2022-12-19 04:08:47Z	Capitalize acronyms in Go: `NodeID` not `NodeId`
-1820	2022-12-19 04:35:38Z	Using `<b>` to help with terminology-heavy content
-1821	2022-12-19 04:41:34Z	Dealing with multiple forms of the same term, plurals, etc.
-1822	2022-12-19 07:37:48Z	Use Go `panic` instead of `log.Fatal`
-1823	2022-12-19 08:01:16Z	Bonzai dilemma of separate package libs from commands
-1824	2022-12-19 08:50:59Z	Check Go durations with regular comparison operators
-1825	2022-12-19 10:45:00Z	Realizing using `nodes` for everything is better than file system
-1826	2022-12-19 14:19:25Z	Remap k to gk and j to gj for better navigation in Markdown
-1827	2022-12-19 14:22:29Z	Markdown code fence supported language types/classes
-1828	2022-12-20 01:47:34Z	Use `text.go` for everything with translatable text in Go
-1830	2022-12-20 09:45:12Z	And Go Glamour doesn't know about generics either
-1831	2022-12-20 10:21:45Z	When a CEO has a soul, it shows
-1832	2022-12-21 10:27:31Z	Creating `scanner` as new home for `scan` (not `pegn`)
-1833	2022-12-22 02:36:57Z	🤬 Microsoft documentation web site requires JavaScript
-1834	2022-12-22 02:57:39Z	Glamour (goldmark) considers blockquotes big, long sentences
-1837	2022-12-22 04:33:31Z	Don't link, include dependent keg content
-1838	2022-12-22 07:32:17Z	Resolving grounding loop buzz and sound board artifacts
-1839	2022-12-22 08:00:25Z	Bonzai best practice: high-level API and `Cmd` get separate repos
+1811	2022-12-18 09:38:22Z	Yeah github.com/jmoiron/sqlx is really a must
+1812	2022-12-18 10:49:24Z	Moving `nodes` TSV to KEG root and adding to formal spec
+1813	2022-12-18 14:04:30Z	Revising `keg-nodes` (`nodes`) file, still no `created`, add children
+1816	2022-12-19 08:44:34Z	Up at 3am, maybe I'll keep doing this
+1817	2022-12-19 08:50:03Z	Trying embedded approach to `libkeg` model this time
+1818	2022-12-19 08:56:40Z	Go doesn't require `implements` declaration
+1819	2022-12-19 09:08:47Z	Capitalize acronyms in Go: `NodeID` not `NodeId`
+1820	2022-12-19 09:35:38Z	Using `<b>` to help with terminology-heavy content
+1821	2022-12-19 09:41:34Z	Dealing with multiple forms of the same term, plurals, etc.
+1822	2022-12-19 12:37:48Z	Use Go `panic` instead of `log.Fatal`
+1823	2022-12-19 13:01:16Z	Bonzai dilemma of separate package libs from commands
+1824	2022-12-19 13:50:59Z	Check Go durations with regular comparison operators
+1825	2022-12-19 15:45:00Z	Realizing using `nodes` for everything is better than file system
+1826	2022-12-19 19:19:25Z	Remap k to gk and j to gj for better navigation in Markdown
+1827	2022-12-19 19:22:29Z	Markdown code fence supported language types/classes
+1828	2022-12-20 06:47:34Z	Use `text.go` for everything with translatable text in Go
+1830	2022-12-20 14:45:12Z	And Go Glamour doesn't know about generics either
+1831	2022-12-20 15:21:45Z	When a CEO has a soul, it shows
+1832	2022-12-21 15:27:31Z	Creating `scanner` as new home for `scan` (not `pegn`)
+1833	2022-12-22 07:36:57Z	🤬 Microsoft documentation web site requires JavaScript
+1834	2022-12-22 07:57:39Z	Glamour (goldmark) considers blockquotes big, long sentences
+1836	2022-12-22 08:03:14Z	
+1837	2022-12-22 09:33:31Z	Don't link, include dependent keg content
+1838	2022-12-22 12:32:17Z	Resolving grounding loop buzz and sound board artifacts
+1839	2022-12-22 13:00:25Z	Bonzai best practice: high-level API and `Cmd` get separate repos
