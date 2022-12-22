@@ -1820,7 +1820,7 @@
 1854	2022-12-22 15:39:29Z	How does KEG compare to Wikipedia?
 1855	2022-12-22 15:40:13Z	KEGML initial docs
 1856	2022-11-11 02:31:31Z	Overview of functional scanning and parsing with PEGN
-1857	2022-12-22 10:43:13Z	PEGN scanner interface and functions
+1857	2022-12-22 10:46:00Z	PEGN scanner interface and functions
 1858	2022-12-22 14:30:06Z	Wondering if Go templates would be best for filters and snippets
 1859	2022-12-22 15:31:35Z	Footnotes *require* surrounding blank lines
 1860	2022-12-22 15:35:33Z	Watch out when copying Glamour output for bullets, etc.

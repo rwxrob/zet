@@ -1,4 +1,4 @@
-# How do you do unique identifiers?
+# 📞 How do you do unique identifiers?
 
 I use my own collection encapsulated into the Bonzai command I use. I just added isosect based on a request. There are many ways to use uniqueness, use the best for you:
 

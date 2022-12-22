@@ -1,4 +1,4 @@
-# What is KEG and why are you so obsessed with it right now?
+# 📞 What is KEG and why are you so obsessed with it right now?
 
 📺 <https://youtu.be/cfXMuoaijQQ>
 

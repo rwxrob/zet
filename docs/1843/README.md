@@ -1,6 +1,6 @@
 # The YAML "Norway" Problem
 
-https://youtu.be/mIcdYkKu1CE
+📺 <https://youtu.be/mIcdYkKu1CE>
 
 * Yes it's annoying, but easy to work around
 * YAML is for humans, and there's nothing better

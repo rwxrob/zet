@@ -1,4 +1,4 @@
-# What do you think of "hate speech"?
+# 📞 What do you think of "hate speech"?
 
 I don't believe "hate speech" should be defined or codified into law at all (even though it very much is in the United States). Do people say hateful, horrible things? Absolutely.
 

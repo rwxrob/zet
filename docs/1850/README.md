@@ -1,4 +1,4 @@
-# Why not CONTROL-C instead of ESC?
+# 📞 Why not CONTROL-C instead of ESC?
 
 Using control-c instead of escape key (or equivalent, control-left-bracket) in Vi/Vim/NeoVim is a horrible idea.
 
