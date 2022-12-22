@@ -1,6 +1,6 @@
-# Glamour considers block quotes long sentences
+# Glamour considers blockquotes big, long sentences
 
-Just got another solid reason to throw out block quotes other than single paragraphs out in KEGML. It would seem the makers of Glamour agree. Glamour renders all paragraphs in a block quote together into a single sentence (without even a space after the last period of the previous paragraph).
+Just got another solid reason to throw out blockquotes other than single paragraphs out in KEGML. It would seem the makers of Glamour agree. Glamour renders all paragraphs in a blockquote together into a single sentence (without even a space after the last period of the previous paragraph).
 
 ```md
 > "It is possible that answers.microsoft.com may not work with text-based browsers such as lynx or w3m because these browsers do not support modern web technologies and may not be able to properly render the website's content.
