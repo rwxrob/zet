@@ -1801,7 +1801,26 @@
 1832	2022-12-21 15:27:31Z	Creating `scanner` as new home for `scan` (not `pegn`)
 1833	2022-12-22 07:36:57Z	🤬 Microsoft documentation web site requires JavaScript
 1834	2022-12-22 07:57:39Z	Glamour (goldmark) considers blockquotes big, long sentences
-1836	2022-12-22 08:09:25Z	Review of Goldmark source code reconfirmed need for PEGN (end of 2024)
+1836	2022-12-22 13:09:25Z	Review of Goldmark source code reconfirmed need for PEGN (end of 2024)
 1837	2022-12-22 09:33:31Z	Don't link, include dependent keg content
 1838	2022-12-22 12:32:17Z	Resolving grounding loop buzz and sound board artifacts
-1839	2022-12-22 08:27:40Z	Bonzai best practice: high-level API and `Cmd` get separate repos
+1839	2022-12-22 13:27:40Z	Bonzai best practice: high-level API and `Cmd` get separate repos
+1840	2022-12-22 13:31:30Z	📞 Are there Linux "front-end" CLI dev jobs?
+1841	2022-11-01 21:41:36Z	Archived Questions, Conversations, Advice
+1842	2022-11-05 21:05:45Z	Remember, Remember the Fifth of November
+1843	2022-11-02 00:07:58Z	The YAML "Norway" Problem
+1844	2022-11-07 00:50:11Z	What are "stateful command trees"?
+1845	2022-11-02 17:29:42Z	What do you think of "hate speech"?
+1846	2022-11-02 13:14:12Z	What is KEG and why are you so obsessed with it right now?
+1847	2022-11-02 14:44:41Z	What is PEGN and why use it?
+1848	2022-11-05 17:09:12Z	📞 Where can I get your theme?
+1849	2022-11-05 17:15:09Z	Which OS is better for programming?
+1850	2022-12-22 13:02:22Z	Why not CONTROL-C instead of ESC?
+1851	2022-11-11 03:43:53Z	Documenting pegn.Scanner interface
+1852	2022-11-07 21:11:18Z	How do you do unique identifiers?
+1853	2022-11-04 01:52:38Z	How do you find motivation?
+1854	2022-11-03 23:36:19Z	How does KEG compare to Wikipedia?
+1855	2022-11-02 13:35:47Z	KEGML Initial Docs
+1856	2022-11-11 02:31:31Z	Overview of functional scanning and parsing with PEGN
+1857	2022-11-02 17:01:01Z	PEGN Scanner Interface and Functions
+1858	2022-12-22 09:30:06Z	Wondering if Go templates would be best for filters and snippets
