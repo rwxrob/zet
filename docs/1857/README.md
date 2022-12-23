@@ -1,6 +1,6 @@
 # PEGN scanner interface and functions
 
-***Update:*** Dropping the `pegn.Scanner` interface approach in favor of providing tools to produce specialized scanners instead.
+***Update:*** Dropping the `pegn.Scanner` interface approach in favor of providing tools to produce specialized scanners instead. Also calling them `Parsers` now that AST is included and referential rather than redundant copies of values.
 
 ----
 
