@@ -70,3 +70,5 @@ func (s *R) Scan() bool {
 But it's not just that code, it is all the other code that was used to grab ranges out of the buffer to return them as AST node content. All of them had to stumble around the variations in position within the buffer because of the variable unicode rune length. Now that is all gone. The `[]rune` indexing just does the right thing.
 
 Don't be me. Just use `[]rune` for your parser/scanners. Hell, it's so easy one almost doesn't even need a helper package for it at all anymore.
+
+At least now I have a *great* "whiteboard" problem to vet the *good* Go programmers. I think I'm finally getting there.
