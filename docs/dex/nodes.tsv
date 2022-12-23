@@ -1829,3 +1829,4 @@
 1863	2022-12-23 07:15:00Z	💢 OMG! Just use a `[]rune` instead of `[]byte` dummy! (to myself)
 1864	2022-12-23 10:38:17Z	Using slices as arguments to functional scanners in Go
 1865	2022-12-23 10:04:50Z	Use "reslicing" to clear array instead of creating new one in Go
+1866	2022-12-23 11:27:11Z	Static site generators
