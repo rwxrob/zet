@@ -1830,3 +1830,4 @@
 1864	2022-12-23 10:38:17Z	Using slices as arguments to functional scanners in Go
 1865	2022-12-23 10:04:50Z	Use "reslicing" to clear array instead of creating new one in Go
 1866	2022-12-23 11:27:11Z	Static site generators
+1867	2022-12-23 12:26:03Z	Realizing AST should have index integers, not actual values
