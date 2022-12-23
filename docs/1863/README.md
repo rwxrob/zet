@@ -1,4 +1,4 @@
-# OMG! Just use a `[]rune` instead of `[]byte` dummy! (to myself)
+# 💢 OMG! Just use a `[]rune` instead of `[]byte` dummy! (to myself)
 
 I cannot believe how stupid I was to miss this all along. For the last two years I've been writing parsers in Go and completely doing it wrong. I was thinking like a C code the whole time. I forced myself to deal with incoming `[]byte` slices and using long-winded code like `utf8.DecodeRune` and shit. But the entire time all I had to do was coerce the input into a `[]rune` slice instead. I mean, I had dumb convoluted `Pointer` and `Cursor` types just to deal with the varying width of the runes in the underlying `[]byte` buffer and the *entire fucking time* I could have just been using simple integer indexing.
 
