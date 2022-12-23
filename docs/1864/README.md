@@ -1,5 +1,9 @@
 # Using slices as arguments to functional scanners in Go
 
+***Update:*** This doesn't look like it is going to get me all the way there. I'm back to a functional parser that takes the parser as it's only argument to avoid parser lock-in and allow expandable modules to use that same parser. (Goldmark is absolute shit, by the way, and does all of that completely wrong. It's like a testament to horrible i-code-in-java-now-go.)
+
+----
+
 Strings *always* point to immutable memory segments. Slices always point to specific locations of an underlying `array` memory segment. So, the most important thing to remember when creating PEG parsers is to load all the `[]byte` slice into a `string` and then convert to a `[]rune` slice since casting a slice (`byte` or `rune`) to a `string` will force the creation of a new sequence of underlying bytes in memory that are not immutably associated with that string. So, in order to keep scanner functions from using unnecessary memory it is imperative to use slices of slices only, and to pass them to the scanner functions. In fact, it is likely more memory efficient to cast a string literal to an array of runes for comparison, than to cast a slice from the main buffer to a `string` (which creates a new, temporary `string` at runtime)
 
 > In Go, a string is in effect a read-only slice of bytes.
