@@ -1827,3 +1827,4 @@
 1861	2022-12-22 13:41:52Z	When it comes time to learn Rust, here's what looks best (to me)
 1862	2022-12-23 04:04:54Z	Consider how names will appear in documentation
 1863	2022-12-23 07:15:00Z	💢 OMG! Just use a `[]rune` instead of `[]byte` dummy! (to myself)
+1865	2022-12-23 10:04:50Z	Use "reslicing" to clear array instead of creating new one in Go
