@@ -1826,3 +1826,4 @@
 1860	2022-12-22 15:35:33Z	Watch out when copying Glamour output for bullets, etc.
 1861	2022-12-22 13:41:52Z	When it comes time to learn Rust, here's what looks best (to me)
 1862	2022-12-23 04:04:54Z	Consider how names will appear in documentation
+1863	2022-12-23 07:12:27Z	OMG! Just use a `[]rune` instead of `[]byte` dummy! (to myself)
