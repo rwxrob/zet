@@ -1831,3 +1831,4 @@
 1865	2022-12-23 10:04:50Z	Use "reslicing" to clear array instead of creating new one in Go
 1866	2022-12-23 11:27:11Z	Static site generators
 1867	2022-12-23 12:26:03Z	Realizing AST should have index integers, not actual values
+1868	2022-12-23 13:05:07Z	Decided to go with "parser" over "scanner"
