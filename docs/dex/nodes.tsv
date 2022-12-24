@@ -1837,3 +1837,4 @@
 1871	2022-12-24 04:44:45Z	"Slander Sunday" (deyloop's perfect name)
 1872	2022-12-24 05:04:39Z	OMG it is so easy to open source of a function in Vim
 1873	2022-12-24 07:25:22Z	Get a Go function name through reflection (best effort)
+1874	2022-12-24 07:26:43Z	Use Control-X +o/p to navigate between Vim LSP completion
