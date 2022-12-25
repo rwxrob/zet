@@ -10,3 +10,4 @@ Packrat parsing[^1] is a uniquely modern approach to parser development based on
 
 The easiest way to write and maintain a packrat parser is using a functional approach by writing core parser functions with consistent signatures that return matches consisting of references to the underlying data and a limit set of meta functions for combining those parser functions.
 
+<https://github.com/rwxrob/rat>

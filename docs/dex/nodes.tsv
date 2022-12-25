@@ -1005,7 +1005,7 @@
 1016	2022-12-04 23:36:24Z	Content Organization and Locations
 1017	2022-12-04 23:36:24Z	First Go Bonzai Project Actually Paid to Do
 1018	2022-12-04 23:36:24Z	One Possible Future
-1019	2022-12-19 19:26:19Z	Books I want to write
+1019	2022-12-19 14:26:19Z	Books I want to write
 1020	2022-12-04 23:36:24Z	Determine Best First Language for *You*
 1021	2022-12-04 23:36:24Z	Call Shell Function Same as Script with `"$@"`
 1022	2022-12-04 23:36:24Z	CN VIPs: Kelsey Hightower, Google
@@ -1832,7 +1832,7 @@
 1866	2022-12-23 16:27:11Z	Static site generators
 1867	2022-12-23 17:26:03Z	Realizing AST should have index integers, not actual values
 1868	2022-12-23 18:05:07Z	Decided to go with "parser" over "scanner"
-1869	2022-12-24 04:48:30Z	Packrat parsing
+1869	2022-12-25 07:06:43Z	Packrat parsing
 1870	2022-12-24 00:26:10Z	Match results are not necessarily AST nodes
 1871	2022-12-24 04:44:45Z	"Slander Sunday" (deyloop's perfect name)
 1872	2022-12-24 05:04:39Z	OMG it is so easy to open source of a function in Vim
