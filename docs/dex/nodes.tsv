@@ -206,7 +206,7 @@
 209	2022-12-04 23:36:24Z	Reconsidering "Computational Thinking" and Scratch
 210	2022-12-04 23:36:24Z	Teach Yourself Computer Science
 211	2022-12-04 23:36:24Z	EzMark: Simplified CommonMark + GFM Tables
-212	2022-12-04 23:36:24Z	Idea of PEGN -> Compiled Regex Thwarted
+212	2022-12-04 18:36:24Z	Idea of PEGN -> Compiled Regex Thwarted
 213	2022-12-04 23:36:24Z	Check for Newer Version
 214	2022-12-04 23:36:24Z	Source Code for Google Calendar Extension
 215	2022-12-04 23:36:24Z	I Hate How Red Hat Hides
@@ -1839,3 +1839,4 @@
 1873	2022-12-24 07:25:22Z	Get a Go function name through reflection (best effort)
 1874	2022-12-24 07:26:43Z	Use Control-X +o/p to navigate between Vim LSP completion
 1875	2022-12-24 08:03:28Z	"Applied informatics" university major that seems to include Linux
+1876	2022-12-25 05:29:47Z	PEG Packrat: "You don't need a fucking scanner"
