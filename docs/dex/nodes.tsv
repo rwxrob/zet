@@ -1843,3 +1843,4 @@
 1877	2022-12-25 07:00:19Z	Crunchgen is BusyBox for BSD
 1878	2022-12-26 09:32:15Z	Macos is "largest UNIX desktop distribution" in the world
 1879	2022-12-26 09:47:36Z	PEGN grammar caching supports minimal possible grammar specs
+1880	2022-12-26 10:31:18Z	Adding cache check bad idea in packrat PEGN parser
