@@ -1,5 +1,7 @@
 # PEGN scanner interface and functions
 
+***Update:*** No longer calling them `Parsers` because they aren't parsing anything. Using the words `Rule` and `Check` and `Results` now. Also distinguishing between AST and tree of results. Adding capture syntax to PEGN and dropping the `<--` operator. Every rule defined in an PEGN specification is significant. An AST should always be created from a results (parse) tree.
+
 ***Update:*** Dropping the `pegn.Scanner` interface approach in favor of providing tools to produce specialized scanners instead. Also calling them `Parsers` now that AST is included and referential rather than redundant copies of values.
 
 ----
