@@ -1848,3 +1848,4 @@
 1882	2022-12-27 11:45:15Z	Stop repeating yourself with `fmt` in Go
 1883	2022-12-27 12:03:49Z	"Prairie Go Companion" Recipes for Gophers
 1884	2022-12-28 04:01:01Z	PEGs are greedy and blind by default, don't use negative lookaheads
+1885	2022-12-28 17:54:48Z	Memoization requires `sync.Map` even with tokenization
