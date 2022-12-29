@@ -1852,3 +1852,4 @@
 1886	2022-12-29 06:37:33Z	Almost dropped `rat.Result.R` because annoying, but we need it
 1887	2022-12-29 07:36:25Z	Use structs for type switching in Go
 1888	2022-12-29 07:25:13Z	I just (re)discovered anonymous/nameless fields in Go, and OMFG!
+1889	2022-12-29 09:37:19Z	Better to do type assertions in central `Pack` function
