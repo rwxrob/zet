@@ -9,7 +9,6 @@ package main
 import "fmt"
 
 type Foo struct { any }
-
 type Bar struct { any }
 
 func main() {
