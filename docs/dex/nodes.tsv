@@ -1850,4 +1850,4 @@
 1884	2022-12-28 04:01:01Z	PEGs are greedy and blind by default, don't use negative lookaheads
 1885	2022-12-28 17:54:48Z	Memoization requires `sync.Map` even with tokenization
 1886	2022-12-29 06:37:33Z	Almost dropped `rat.Result.R` because annoying, but we need it
-1888	2022-12-29 07:20:19Z	I just (re)discovered anonymous/nameless fields in Go, and OMFG!
+1888	2022-12-29 07:23:15Z	I just (re)discovered anonymous/nameless fields in Go, and OMFG!

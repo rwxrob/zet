@@ -8,14 +8,9 @@ package main
 
 import "fmt"
 
-type Foo struct {
-	any
-}
+type Foo struct { any }
 
-type Bar struct {
-  any
-  // []rune // breaks
-}
+type Bar struct { any }
 
 func main() {
 	same := &struct{ string }{`some`}
