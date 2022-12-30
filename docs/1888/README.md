@@ -1,5 +1,9 @@
 # I just (re)discovered anonymous/nameless fields in Go, and OMFG!
 
+***Update 2022-12-30T15:54:00Z*** Turns out nameless fields are absolutely useless for most things because they are private and not exported.
+
+----
+
 I've known for a long time about anonymous *structs* but had no idea there is a thing called anonymous fields.[^1] If a field doesn't have a name, then the *type* is used as the name.
 It appears that only primitives work this way. An anonymous slice doesn't seem to work.
 
