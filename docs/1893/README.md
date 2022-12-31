@@ -1,5 +1,7 @@
 # Go maps are safe for concurrent reads (as best we can tell)
 
+> Map access is unsafe only when updates are occurring.[^1]
+
 It would appear maps *are* safe for concurrent reads (but not writes). This is intuitive, but for a long time there's been confusion about how *theoretically* safe concurrent map *reads* are. 
 
 Here's one quote that causes some of the confusion:
