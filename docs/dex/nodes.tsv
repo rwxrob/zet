@@ -1856,4 +1856,4 @@
 1890	2022-12-30 07:13:25Z	Use Twitter/Mastodon profile to bookmark tags
 1891	2022-12-30 07:17:59Z	Going with `Check` over `Parse` or `Match`
 1892	2022-12-31 08:45:21Z	The Go `unicode` lookup tables are not safe for concurrency
-1893	2022-12-31 10:05:16Z	Go maps are safe for concurrent reads (as best we can tell)
+1893	2022-12-31 10:15:13Z	Go maps are safe for concurrent reads (as best we can tell)
