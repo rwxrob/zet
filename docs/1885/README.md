@@ -1,6 +1,6 @@
-# Memoization requires `sync.Map` even with tokenization
+# PEG packrat parsing requires memoization with `map` in Go
 
-The more I get into the packrat parser implementation in Go the more I realize it cannot be done properly without a hash map to contain the operations that have been already created, and `sync.Map` was created exactly for this type of work.
+The more I get into the packrat parser implementation in Go the more I realize it cannot be done properly without a hash map to contain the memoized closure functions.
 
 The key (for me) to understanding this is walking through the repetition that would otherwise happen without it to compile the functions.
 
