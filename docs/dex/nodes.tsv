@@ -1855,5 +1855,5 @@
 1889	2022-12-29 09:37:19Z	Better to do type assertions in central `Pack` function
 1890	2022-12-30 07:13:25Z	Use Twitter/Mastodon profile to bookmark tags
 1891	2022-12-30 07:17:59Z	Going with `Check` over `Parse` or `Match`
-1892	2022-12-31 08:45:21Z	The Go `unicode` lookup tables are not safe for concurrency
+1892	2022-12-31 10:23:55Z	Go `unicode.RangeTables` maps are fast/safe for concurrent reads
 1893	2022-12-31 10:17:46Z	Go maps are safe for concurrent reads (as best we can tell)
