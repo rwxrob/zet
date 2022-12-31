@@ -1,4 +1,4 @@
-* 2022-12-31 11:16:52Z [Pass Go maps as-is (`mymap`), slices by pointer (`&myslice`)](../1894)
+* 2022-12-31 11:18:29Z [Pass Go maps as-is (`mymap`), slices by pointer (`&myslice`)](../1894)
 * 2022-12-31 10:26:04Z [PEG packrat parsing requires memoization with `map` in Go](../1885)
 * 2022-12-31 10:23:55Z [Go `unicode.RangeTables` maps are fast/safe for concurrent reads](../1892)
 * 2022-12-31 10:17:46Z [Go maps are safe for concurrent reads (as best we can tell)](../1893)

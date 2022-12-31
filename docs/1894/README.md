@@ -29,7 +29,7 @@ func main() {
 
 Produces:
 
-```sh
+```
 $ go run /tmp/foo.go
 map[]
 map[some:{3 4}]
@@ -61,7 +61,7 @@ func main() {
 
 Produces:
 
-```sh
+```
 $ go run /tmp/foo.go
 [one]
 [one]
