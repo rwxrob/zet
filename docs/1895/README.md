@@ -3,3 +3,4 @@
 People say that resolutions are bad for you psychologically. I call bullshit. I just know that I'm probably not going to accomplish them the way that I would like, but failure is a part of it.
 
 * [Return to daily Ashtanga Yoga practice](../1896)
+* [Prepare for move to Greensboro](../1897)
