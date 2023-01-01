@@ -1,4 +1,4 @@
-# 2023 New Year Resolutions
+# 2023 New Year Resolutions and Goals
 
 People say that resolutions are bad for you psychologically. I call bullshit. I just know that I'm probably not going to accomplish them the way that I would like, but failure is a part of it.
 
@@ -7,6 +7,7 @@ People say that resolutions are bad for you psychologically. I call bullshit. I 
 * [Complete major version of enterprise REST API in Go at work](../1898?L)
 * [Books to complete by end of 2023](../1901?L)
 * [Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`](../1902?L)
+* [Personal publishing platform (`pub`)](../1903)
 
 Note the things that *aren't* there:
 

@@ -1,5 +1,7 @@
 # Personal publishing platform (`pub`)
 
+The `pub` is the second half of `keg.pub`.
+
 Once upon a time I called this `live`, a way to manage all the ways that a person might want to "go live" on social media and streaming platforms. But now I realize it is part of a bigger suite of applications involving self-publishing in all forms of media, primarily written content. I've realized that written content is still king.
 
 * It can be searched
