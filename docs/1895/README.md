@@ -8,8 +8,10 @@ People say that resolutions are bad for you psychologically. I call bullshit. I 
 * [Books to complete by end of 2023](../1901?L)
 * [Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`](../1902?L)
 * [Personal publishing platform (`pub`)](../1903)
+* [Twitch no-VOD, pomo-radio format and multiple categories for 2023](../1905)
 
 Note the things that *aren't* there:
 
 * [Maybe no Beginner Boost for 2023](../1899?L)
 * [Kubernetes is not a top priority in 2023](../1900?L)
+* [No conference presentations in 2023, but definitely in 2024](../1904)
