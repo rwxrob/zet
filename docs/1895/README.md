@@ -5,9 +5,9 @@ People say that resolutions are bad for you psychologically. I call bullshit. I 
 * [Return to daily Ashtanga Yoga practice](../1896?L)
 * [Prepare for move to Greensboro](../1897?L)
 * [Complete major version of enterprise REST API in Go at work](../1898?L)
+* [Books to complete by end of 2023](../1901)
 
 Note the things that *aren't* there:
 
 * [Maybe no Beginner Boost for 2023](../1899?L)
 * [Kubernetes is not a top priority in 2023](../1900?L)
-
