@@ -9,3 +9,5 @@ People say that resolutions are bad for you psychologically. I call bullshit. I 
 Note the things that *aren't* there:
 
 * [Maybe no Beginner Boost for 2023](../1899?L)
+* [Kubernetes is not a top priority in 2023](../1900?L)
+
