@@ -9,6 +9,7 @@ People say that resolutions are bad for you psychologically. I call bullshit. I 
 * [Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`](../1902?L)
 * [Personal publishing platform (`pub`)](../1903)
 * [Twitch no-VOD, pomo-radio format and multiple categories for 2023](../1905)
+* [Focusing on CKAD, Kubernetes applications development](../1912)
 
 Note the things that *aren't* there:
 
