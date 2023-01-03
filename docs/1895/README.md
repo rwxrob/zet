@@ -7,9 +7,9 @@ People say that resolutions are bad for you psychologically. I call bullshit. I 
 * [Complete major version of enterprise REST API in Go at work](../1898?L)
 * [Books to complete by end of 2023](../1901?L)
 * [Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`](../1902?L)
-* [Personal publishing platform (`pub`)](../1903)
-* [Twitch no-VOD, pomo-radio format and multiple categories for 2023](../1905)
-* [Focusing on CKAD, Kubernetes applications development](../1912)
+* [Personal publishing platform (`pub`)](../1903?L)
+* [Twitch no-VOD, pomo-radio format and multiple categories for 2023](../1905?L)
+* [Focusing on CKAD, Kubernetes applications development](../1912?L)
 
 Note the things that *aren't* there:
 
