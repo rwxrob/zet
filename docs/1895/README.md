@@ -10,9 +10,10 @@ People say that resolutions are bad for you psychologically. I call bullshit. I 
 * [Personal publishing platform (`pub`)](../1903?L)
 * [Twitch no-VOD, pomo-radio format and multiple categories for 2023](../1905?L)
 * [Focusing on CKAD, Kubernetes applications development](../1912?L)
+* [🐧 Homelab `init` on Saturdays](../1919?L)
 
 Note the things that *aren't* there:
 
 * [Maybe no Beginner Boost for 2023](../1899?L)
 * [Kubernetes is not a top priority in 2023](../1900?L)
-* [No conference presentations in 2023, but definitely in 2024](../1904)
+* [No conference presentations in 2023, but definitely in 2024](../1904?L)
