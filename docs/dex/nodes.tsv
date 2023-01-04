@@ -1885,3 +1885,4 @@
 1919	2023-01-04 08:50:46Z	🐧 Homelab `init` on Saturdays
 1920	2023-01-04 09:26:05Z	!tldr rwxrob.tv
 1921	2023-01-04 09:27:31Z	TODO write my own damn Twitch bot
+1922	2023-01-04 11:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
