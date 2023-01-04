@@ -5,13 +5,13 @@
 Never been happier with Twitch than pretending to be a radio station that focuses on HackerBeachYoga music and vibe. I'm really leaning into this in 2023. Here's the regular stuff that I'm really going to try extremely hard to keep going with in 2023:
 
 * 10-hour streams minimum, as long as I'm awake, I'm streaming
-* 10-minute breaks at the top of pretty much every hour
+* 2-5 minute breaks at the top of the hour
 * Daily Yoga at 3:30pm - fat guy does Ashtanga
-* Satan Saturdays (DevilsPlaylist) - change it up a bit, code/hack/crank
-* 🐧 Homelab init - Saturdays working on the homelab
+* Daily Sunset/IRL at 5:30 (after Yoga) - meet, music, manger (Bhakti yoga)
+* Yoga talk Saturdays at 3:30pm - support those getting started, answer questions, music
+* 🐧 Homelab init - Saturdays working on the homelab (to keep it hacker-ey)
 
 I realize this is like 3-4 hours of my day, every day, but what the fuck am I living for if I can't at least do that?
 
-I am *not* putting anything else officially on the schedule. That should cover everything, that and the daily/hourly breaks to answer questions.
-
-* [!novods](../1914)
+* [!novods rwxrob.tv](../1914)
+* [!tldr rwxrob.tv](../1920)
