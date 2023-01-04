@@ -1,5 +1,13 @@
 # 🧘Yoga Log
 
+***Tuesday, January 3, 2023, 9:19:37PM EST***
+
+This morning the sky was orange out the window when I woke so I walked to a field and meditated for a bit. I took the Twitch community along with me for the ride. It was a very nice sunrise. I'm going to try and do that every morning. Just such a great way to start the day. Worth the time spent.
+
+Today's yoga was *tough*! My body doesn't recover like it once did. The load from the last two days has caught up with me. I made it through about 30 minutes, but after the sun salutations I was toast. I did some version of most of the half-primary poses, but even that was hard. I really don't want to blow all this momentum by pushing too hard. I have to remember Ahimsa.
+
+I did practice some *great* Bhakti yoga at sunset. The overcast skies kept the sun from shining through, so we met Jose, the owner of a local restaurant and my neighbor, it turns out. I had an amazing enchilada dinner, a couple beers, and some great conversation with my neighbor, his brother Carlos, and co-worker Mula. The community was really welcoming. I was smiling ear to ear not wanting it to stop. But, just so exhausted.
+
 ***Monday, January 2, 2023, 2:52:12PM EST***
 
 Second day in 2023 and feels amazing. This doing yoga in front of people is freaking me out a bit, but I'll get over it. It's kind of good training for non-attachment. If I can continuously get my fat ass on stream doing yoga and be okay with all of it I will have mastered one of the most important parts of yoga. Besides, if even a single person starts their own yoga practice because of my public suffering and failures then the world will be that much better off. It's fucking worth it. I'm just a crusty old man trying to improve his healthy. Cringe be damned.
