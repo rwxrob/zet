@@ -1887,4 +1887,5 @@
 1921	2023-01-04 09:27:31Z	TODO write my own damn Twitch bot
 1922	2023-01-04 11:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
 1923	2023-01-04 11:21:59Z	TODO: Setup LDAP PAM/SSH authentication in homelab
+1924	2023-01-04 12:27:18Z	Does SharePoint handle search for things not in SharePoint?
 1925	2023-01-04 11:51:31Z	💩 answers.microsoft.com was developed by fucking morons
