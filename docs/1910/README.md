@@ -1,5 +1,20 @@
 # 🧘Yoga Log
 
+***Thursday, January 5, 2023, 4:13:42PM EST***
+
+Better. Maybe it's the sun outside. Maybe it's not having my wife "assist" me. ;) Managed a back-bend today, not pretty, but strength coming back to do them. Biggest challenge now is my fucking fat in the way.
+
+Oh, I had my "race" meal an hour before and it totally worked. It's almost like my body has dialed into it over the decades:
+
+* Half a banana
+* Almost burnt piece of toast
+* Half-tablespoon of peanut butter
+* Full glass of water.
+
+Best PRs of my life came after that meal. So weird that there isn't much to it.
+
+Tomorrow is a full moon day. Day after that is Saturday. So, I'll do some Saucha tomorrow. Saturday, will be doing Bhakti by helping others get a practice started if they want one. I'm still the king of cringe, but what the hell, if even a single person starts a personal practice because of my fat ass it will have been worth it.
+
 ***Wednesday, January 4, 2023, 5:30:00AM EST***
 
 Wife talked my ear off during all of it. Which was probably good because I was absolutely wiped out. I think it might be a moon day that I just don't know. I feel the "tide" is out. I did manage a headstand today though. Wife gave me a Shavasana assist that was glorious.
