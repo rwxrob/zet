@@ -12,5 +12,7 @@ mkdir -p ~/.local/bin
 tar zxvf ngrok-v3-stable-linux-amd64.tgz -C ~/.local/bin
 ```
 
+Creating a webhook that ties to desktop is so easy with this.
+
 * Accepting Github Webhooks with Go · groob.io  
   <http://groob.io/tutorial/go-github-webhook/>
