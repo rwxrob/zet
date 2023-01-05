@@ -1,0 +1,50 @@
+# Universal `open` for Markdown, Git, URLs, Files
+
+```perl
+#!/usr/bin/env perl
+
+# Opens what you would expect. If there is no argument passed to it
+# checks if this is a GitHub repo and if so opens it with the gh tool in
+# your browser. Otherwise, it checks if the argument is a file in the
+# current directory and opens it with the default application (xdg-open).
+# Finally, it assumes it is a URL, ensures begins with https:// and
+# opens it in a new window with Firefox.
+
+use v5.14;
+$_ = shift;
+
+# git repo
+if (not $_) {
+    my $gh = (grep {/github/ && s,git@,, && s,:,/, && s/\.git$//}
+             qx{git remote get-url --all origin})[0];
+         #    $gh and exec 'firefox', '-new-window', "https://$gh";
+         $gh and exec 'google-chrome', "https://$gh";
+}
+
+# markdown file
+if (/\.md$/ && `which pandoc` && `which lynx`) {
+    `pandoc -s -o /tmp/index.html $_ 2>/dev/null`;
+    exec 'lynx', '/tmp/index.html';
+}
+
+# file
+if (-r $_) {
+  `which xdg-open` && exec 'xdg-open', $_;
+  `which /usr/bin/open` && exec '/usr/bin/open', $_;
+  `which explorer.exe` && exec 'explorer.exe', $_;
+  print "Unable to open file: $_";
+  exit 1;
+}
+
+# bare url
+m,^http, or  s,^,https://,;
+`which lynx` && exec 'lynx', $_;
+`which /usr/bin/open` && exec '/usr/bin/open', $_;
+`which explorer.exe` && exec 'explorer.exe', $_;
+`which google-chrome` && exec 'google-chrome', $_;
+my $chrome = '/System/Applications/Google\ Chrome.app';
+`which $chrome` && exec "$chrome", "$_";
+
+print "Unable to determine how to open $_\n";
+```
+

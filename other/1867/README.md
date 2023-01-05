@@ -1,0 +1,5 @@
+# Realizing AST should have index integers, not actual values
+
+With PEG there is always a solid block of memory under the whole thing. All the abstractions on top of it --- including the entire AST --- should be references to locations within that memory, not duplicate copies. I was reminded of this the more I thought about how maps and slices are actually implemented in Go, which is exactly that same way, abstractions on top of memory. There can be any number of slices all with different identifiers and size, all pointing to the same underlying array. This is exactly how any PEG parser should approach every form of abstraction into that underlying memory. Then, when marshaling is required, the copies of those memory ranges can be flattened out.
+
+This also makes is rather trivial to include the AST within the scanner state while doing the scanning. Even if the AST isn't used, what has been the cost, two integers per node scanned? That's nothing. This also effectively makes every single node one that has an optional value that is only printed or used by request.

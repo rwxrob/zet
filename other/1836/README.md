@@ -1,0 +1,5 @@
+# Review of Goldmark source code reconfirmed need for PEGN (end of 2024)
+
+Goldmark is a solution to the wrong problem. It promotes extreme flexibility the form of extensions to the parser and therefore syntax. Pandoc does the same thing. The problem is this all-things-to-all-people approach is fundamentally broken as a premise. The complications required to implement parsers and software that use them is *monstrously* complicated for most. The solution is found in a meta-language like PEGN where the grammar can quickly and easily differ just from a few line changes in the grammar itself, not an entire, "plugin" for a single, specific parser implementation.
+
+2023 is going to be the year of book publishing, above everything else, and I need KEG to get there. But after that, PEGN will have ever single second of my free-time dedicated to getting v2.0.0 out and solid and promoting it in as many languages as I can implement (Go, Python, JavaScript, C, and yes, Rust). So by the end of 2024, I really want reference implementations in all of those languages, including dynamic compilation (exactly like regular expressions, only *way* faster).
