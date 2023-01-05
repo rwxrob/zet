@@ -1,7 +1,5 @@
 # Creating a minimal Go webhooks server
 
-
-
 * [There's a GitHub webhook for pretty much everything](../1934)
 
 Related:
