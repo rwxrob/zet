@@ -558,7 +558,7 @@
 564	2022-12-04 23:36:24Z	Godwin's Law Applies to More Than Nazis
 565	2022-12-04 23:36:24Z	Semantic Versioning Isn't All That Great, Isosec?
 566	2022-12-04 23:36:24Z	Figure: GruvBox Colors
-567	2022-12-04 23:36:24Z	Just Made Hugo for Go CLI Utilities
+567	2022-12-04 18:36:24Z	Just Made Hugo for Go CLI Utilities
 568	2022-12-04 23:36:24Z	Latest Boost Writing Method: Zettelkasten CYOA
 569	2022-12-04 23:36:24Z	Use `ssh -R 2222:localhost:22 <remote>` for NAT VMs
 570	2022-12-04 23:36:24Z	Use `kubectl get ns -l '!name'` to Select No Label
@@ -1881,7 +1881,7 @@
 1915	2023-01-03 12:53:11Z	Use of initial exclamation point for Twitch and bot commands
 1916	2023-01-05 06:53:25Z	Creating a minimal Go webhooks server
 1917	2023-01-03 14:35:51Z	Is it worth using google/go-github?
-1918	2023-01-03 14:39:44Z	ngrok.io looks amazing!
+1918	2023-01-05 12:17:26Z	ngrok.io looks amazing!
 1919	2023-01-04 08:50:46Z	🐧 Homelab `init` on Saturdays
 1920	2023-01-04 09:26:05Z	!tldr rwxrob.tv
 1921	2023-01-04 09:27:31Z	TODO write my own damn Twitch bot
