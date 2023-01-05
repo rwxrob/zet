@@ -1,3 +1,0 @@
-# SKILSTAK Professional Stage
-
-

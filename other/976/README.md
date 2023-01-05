@@ -1,4 +1,0 @@
-# IRL Rig Components
-
-  
-

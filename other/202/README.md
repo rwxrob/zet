@@ -1,2 +1,0 @@
-# SKILSTAK Programming Stage
-

@@ -1,2 +1,0 @@
-# SKILSTAK Preparing Stage
-

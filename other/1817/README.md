@@ -1,3 +1,0 @@
-# Trying embedded approach to `libkeg` model this time
-
-I've been struggling with how robust to make the model for KEG. A **node** for example has more properties than just what is listed in the `nodex` index file. But, I don't always have or need those extra properties. So I've decided to go the way of properties through interfaces as the `fs.FileInfo` interface does. Then people accessing the data will always have a consistent interface and I can expand it as needed, as can they. We pay slightly for it, but that's okay. This lets those encapsulating it with more to just add more to their implementations. 
