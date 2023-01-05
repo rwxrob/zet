@@ -1,5 +1,9 @@
 # Creating a minimal Go webhooks server
 
+Make sure you just enable `push` events.
+
+Also, be sure to change the type to `json` on GitHub.
+
 * [There's a GitHub webhook for pretty much everything](../1934)
 
 Related:
