@@ -1,5 +1,11 @@
 # Creating a minimal Go webhooks server
 
+
+
+* [There's a GitHub webhook for pretty much everything](../1934)
+
+Related:
+
 * Webhook receiver for GitHub, Bitbucket, GitLab, Gogs  
   <https://golangexample.com/webhook-receiver-for-github-bitbucket-gitlab-gogs/>
 * Accepting Github Webhooks with Go · groob.io  
