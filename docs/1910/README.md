@@ -1,5 +1,9 @@
 # 🧘Yoga Log
 
+***Wednesday, January 4, 2023, 5:30:00AM EST***
+
+Wife talked my ear off during all of it. Which was probably good because I was absolutely wiped out. I think it might be a moon day that I just don't know. I feel the "tide" is out. I did manage a headstand today though. Wife gave me a Shavasana assist that was glorious.
+
 ***Tuesday, January 3, 2023, 9:19:37PM EST***
 
 This morning the sky was orange out the window when I woke so I walked to a field and meditated for a bit. I took the Twitch community along with me for the ride. It was a very nice sunrise. I'm going to try and do that every morning. Just such a great way to start the day. Worth the time spent.
