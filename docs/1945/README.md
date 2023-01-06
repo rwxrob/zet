@@ -12,6 +12,8 @@ Learning Rust because it "is a good language for WebAssembly" is one of the dumb
 * Rust Reality YouTube Playlist  
   <https://www.youtube.com/playlist?list=PLrK9UeDMcQLpp9EcYfnoAb4VQvN6931F5>
 
+* Strager concludes not to proceed with Rust, [for now](../1947)
+
 ----
 
 Let me tell you a story of the first person who ever told me about Rust.
