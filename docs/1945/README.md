@@ -1,6 +1,18 @@
 # !rust rwxrob.tv
 
-💢 I really hate Rust: the syntax is uglier than Java; it takes *forever* to write anything in it; compilation times are ridiculous; the mod team resigned in disgust because of "hypocrisy" of the governance board; Ph.Ds have written dissertations on how Rust "safety" is a lie; and there are virtually *no* jobs for Rust. !Go blows Rust away for the things which matter most.
+💢 I hate Rust: the syntax is uglier than Java/C++; it takes *forever* to write anything in it; compilation takes forever; the mod team resigned in disgust over "hypocrisy" of governance board; dissertations have been written about the "lie" of Rust "safety"; CTOs regret it destroying their IT projects; and virtually *no* jobs exist for it. !Go blows Rust away for the things which matter most.
+
+To be fair, Rust and Go can co-exist. They solve very different problems. This is perhaps the biggest misunderstand to which naive beginners fall victim when considering which "serious" language to first learn. Usually you *want* garbage collection, sometimes you don't. Understanding that difference is key to even making a choice for oneself. I do think everyone should *eventually* learn Rust. It will broaden the way you think about coding in general, just never as a first or even second language.
+
+Learning Rust because it "is a good language for WebAssembly" is one of the dumbest things I regularly hear. All the advantages of Rust are completely and totally lost on WebAssembly. Go down the list of advantages people say about what makes Rust amazing and notice that not a single one relates to WebAssembly, which runs in a protected web browser sandbox. Why on Earth would you torture yourself with all that shit? Just use JavaScript or *any* language that is faster to produce code in (Nim comes to mind) over Rust. To me nothing says, "I'm an inexperience noob" more than choosing to learn Rust first and because "it is good for WebAssembly". When you press these people they almost always confess they are actually doing it because Rust is "trending" or some other clueless person (usually a JavaScript script kiddy) told them it was the "cool" language to learn. I call bullshit.
+
+* Using Rust at a Startup, a Cautionary Tale  
+  <https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454>
+
+* Rust Reality YouTube Playlist  
+  <https://www.youtube.com/playlist?list=PLrK9UeDMcQLpp9EcYfnoAb4VQvN6931F5>
+
+----
 
 Let me tell you a story of the first person who ever told me about Rust.
 
