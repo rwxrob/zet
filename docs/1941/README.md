@@ -11,3 +11,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!tldr rwxrob.tv](../1920)
 * [!novods rwxrob.tv](../1914)
 * [!support !sponsor rwxrob.tv](../1942)
+* [!jobs rwxrob.tv](../1943)
