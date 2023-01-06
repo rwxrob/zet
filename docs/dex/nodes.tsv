@@ -1898,3 +1898,4 @@
 1932	2023-01-05 13:38:12Z	Generics could be used to do generic JSON unmarshaling
 1934	2023-01-05 13:46:27Z	There's a GitHub webhook for pretty much everything
 1937	2023-01-06 09:42:10Z	Twitch (chat bot) commands as zettels
+1939	2023-01-06 10:12:05Z	Length of KEG URL needs to be under 100
