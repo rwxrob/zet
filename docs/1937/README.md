@@ -8,4 +8,10 @@ I've figured out a way to make my life a lot easier when maintaining those usefu
 * First paragraph is under 380 characters [500-len(url)]
 * Rest is further explanation that can read by clicking link
 
+Command titles will be be one of the priority search rules I'll be adding to KEG/Rat as well:
+
+```peg
+Command <- '!' (!(SP / '!') alnum)+
+```
+
 This is one of those times when the get-out-of-your-way approach to zettelkasten really pays off. People can make it into what they need because it is so foundational and "paper-compatible".
