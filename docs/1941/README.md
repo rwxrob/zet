@@ -14,3 +14,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!jobs rwxrob.tv](../1943)
 * [!dobetter rwxrob.tv](../1944)
 * [!rust rwxrob.tv](../1945)
+* [!beginner !noob rwxrob.tv](../1946)
