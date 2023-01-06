@@ -8,6 +8,10 @@ Go was specifically created to handle *most* high-performance utilitarian softwa
 
 [^2]: Holowaychuk, TJ. "Farewell to Node" (2019). <https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b>
 
+It is trivial to make robust, cross-compiled tools and applications with Go, which includes robust encryption, web-client and server code, and more in its standard library, which may be why there was a [2000% increase in Go malware in 2021](https://www.zdnet.com/article/go-malware-is-now-common-having-been-adopted-by-both-apts-and-e-crime-groups/). Hackers absolutely love Go for all the right reasons, which you'll have to research for yourself.
+
+Now that Go fully supports generics people are flocking to it even more. I'm porting all my bash scripts into a !bonzai *z* monolith that will run on any operating system supported by Go.
+
 ***Learning Go***
 
 Learning Go is one of the most rewarding activities you can pursue. The best way to learn it is to start writing code in it, even the simplest code.
