@@ -1,5 +1,5 @@
+* 2023-01-06 15:34:34Z [!beginner !noob rwxrob.tv](../1946)
 * 2023-01-06 15:33:42Z [!command !commands !cmds !cmd rwxrob.tv](../1941)
-* 2023-01-06 15:33:10Z [!beginner !noob rwxrob.tv](../1946)
 * 2023-01-06 15:21:45Z [!rust rwxrob.tv](../1945)
 * 2023-01-06 14:47:06Z [!dobetter rwxrob.tv](../1944)
 * 2023-01-06 14:32:36Z [Twitch stream titles](../375)
