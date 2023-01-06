@@ -12,3 +12,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!novods rwxrob.tv](../1914)
 * [!support !sponsor rwxrob.tv](../1942)
 * [!jobs rwxrob.tv](../1943)
+* [!dobetter rwxrob.tv](../1944)
