@@ -206,7 +206,7 @@
 209	2022-12-04 23:36:24Z	Reconsidering "Computational Thinking" and Scratch
 210	2022-12-04 23:36:24Z	Teach Yourself Computer Science
 211	2022-12-04 23:36:24Z	EzMark: Simplified CommonMark + GFM Tables
-212	2022-12-04 18:36:24Z	Idea of PEGN -> Compiled Regex Thwarted
+212	2022-12-04 23:36:24Z	Idea of PEGN -> Compiled Regex Thwarted
 213	2022-12-04 23:36:24Z	Check for Newer Version
 214	2022-12-04 23:36:24Z	Source Code for Google Calendar Extension
 215	2022-12-04 23:36:24Z	I Hate How Red Hat Hides
@@ -367,7 +367,7 @@
 372	2022-12-04 23:36:24Z	Open Policy Agent (OPA) Policy Library
 373	2022-12-04 23:36:24Z	Use `jo` with `curl --json` and `jq` for JSON
 374	2022-12-04 23:36:24Z	Knowledge Repos
-375	2023-01-06 14:32:36Z	Twitch stream titles
+375	2023-01-06 19:32:36Z	Twitch stream titles
 376	2022-12-04 23:36:24Z	Personal Go Project Testing Conventions
 377	2022-12-04 23:36:24Z	The Go YAML Package Discards String Quotes
 378	2022-12-04 23:36:24Z	Mimir™ Personal Knowledge Management Assistant
@@ -558,7 +558,7 @@
 564	2022-12-04 23:36:24Z	Godwin's Law Applies to More Than Nazis
 565	2022-12-04 23:36:24Z	Semantic Versioning Isn't All That Great, Isosec?
 566	2022-12-04 23:36:24Z	Figure: GruvBox Colors
-567	2022-12-04 18:36:24Z	Just Made Hugo for Go CLI Utilities
+567	2022-12-04 23:36:24Z	Just Made Hugo for Go CLI Utilities
 568	2022-12-04 23:36:24Z	Latest Boost Writing Method: Zettelkasten CYOA
 569	2022-12-04 23:36:24Z	Use `ssh -R 2222:localhost:22 <remote>` for NAT VMs
 570	2022-12-04 23:36:24Z	Use `kubectl get ns -l '!name'` to Select No Label
@@ -768,7 +768,7 @@
 774	2022-12-04 23:36:24Z	KEGML -> KEG Mark (meh, same diff)
 775	2022-12-04 23:36:24Z	Actual Issue Opened for `rm -rf /usr` on Install
 776	2022-12-04 23:36:24Z	Zettelkasten User/Reader Assistance Ideas
-777	2022-12-28 08:11:30Z	`podman` Adds `systemd` to All Containers
+777	2022-12-28 13:11:30Z	`podman` Adds `systemd` to All Containers
 778	2022-12-04 23:36:24Z	Create Good REST APIs
 779	2022-12-04 23:36:24Z	More Proof the World Wants KEG
 780	2022-12-04 23:36:24Z	Take Home Tests Win Over White Board Interviews
@@ -808,7 +808,7 @@
 815	2022-12-04 23:36:24Z	dnf is the new yum
 816	2022-12-04 23:36:24Z	Learn Mac, Windows, and Linux for Best Results
 817	2022-12-05 03:25:52Z	Execute Commands When File Changes with `entr`
-818	2022-12-24 02:16:25Z	Read `kubeadm` source to learn
+818	2022-12-24 07:16:25Z	Read `kubeadm` source to learn
 819	2022-12-12 04:35:28Z	Kubernetes certification seems worth it
 820	2022-12-04 23:36:24Z	"Dedicated Kubernetes Clusters" are a Thing
 821	2022-12-04 23:36:24Z	Rust Insists You Just "Trust" Their Compiler
@@ -834,7 +834,7 @@
 841	2022-12-04 23:36:24Z	Learn Ruby
 842	2022-12-04 23:36:24Z	Problems with Traditional Education
 843	2022-12-04 23:36:24Z	Use `README.md` and `data.yaml` for Consistency
-844	2022-12-24 02:08:45Z	Learn Golang for Cloud Native / Kubernetes
+844	2022-12-24 07:08:45Z	Learn Golang for Cloud Native / Kubernetes
 845	2022-12-04 23:36:24Z	Installing Steam Deleted PopOS for Linus
 847	2022-12-04 23:36:24Z	Mizu: TCPDump for Kubernetes API Calls
 848	2022-12-04 23:36:24Z	Hyperlinks are a Horrible, Unsafe Idea
@@ -1005,7 +1005,7 @@
 1016	2022-12-04 23:36:24Z	Content Organization and Locations
 1017	2022-12-04 23:36:24Z	First Go Bonzai Project Actually Paid to Do
 1018	2022-12-04 23:36:24Z	One Possible Future
-1019	2022-12-19 14:26:19Z	Books I want to write
+1019	2022-12-19 19:26:19Z	Books I want to write
 1020	2022-12-04 23:36:24Z	Determine Best First Language for *You*
 1021	2022-12-04 23:36:24Z	Call Shell Function Same as Script with `"$@"`
 1022	2022-12-04 23:36:24Z	CN VIPs: Kelsey Hightower, Google
@@ -1071,7 +1071,7 @@
 1082	2022-12-04 23:36:24Z	"Package Management" Will Never Work in Kubernetes
 1083	2022-12-04 23:36:24Z	TIL CIDR is Just Subnet Mask in Short Form
 1084	2022-12-04 23:36:24Z	Local (On-Prem) Kubernetes Requires DNS Server
-1085	2022-12-04 18:36:24Z	Kubernetes Port Forwarding
+1085	2022-12-04 23:36:24Z	Kubernetes Port Forwarding
 1086	2022-12-04 23:36:24Z	Use `apt-get` for Scripts, Not `apt`
 1087	2022-12-05 11:32:58Z	2000% increase in go malware
 1088	2022-12-04 23:36:24Z	TODO: Learn `firewall-cmd` for Infrastructure Engineering
@@ -1365,7 +1365,7 @@
 1377	2022-12-04 23:36:24Z	Expand YAML Merge Operators with yq
 1378	2022-12-04 23:36:24Z	Python JupyterHub in Kubernetes with PyTorch Clusterfuck
 1379	2022-12-04 23:36:24Z	Good Morning: Monday, November 22, 2021
-1380	2022-12-27 03:30:18Z	Use `len(args)` Instead of `args == nil` in Go
+1380	2022-12-27 08:30:18Z	Use `len(args)` Instead of `args == nil` in Go
 1381	2022-12-04 23:36:24Z	TIL `timeout` Exists
 1382	2022-12-04 23:36:24Z	The ONLY Way to Administer Kubernetes (Minecraft)
 1383	2022-12-04 23:36:24Z	Resize Linux LVM Disk with an ext3 Filesystem
@@ -1780,7 +1780,7 @@
 1810	2022-12-18 07:51:24Z	Don't need Go vendoring?
 1811	2022-12-18 09:38:22Z	Yeah github.com/jmoiron/sqlx is really a must
 1812	2022-12-18 10:49:24Z	Moving `nodes` TSV to KEG root and adding to formal spec
-1813	2023-01-06 09:52:09Z	Revising `keg-index` (`nodes`) file, still no `created`, add children
+1813	2023-01-06 14:52:09Z	Revising `keg-index` (`nodes`) file, still no `created`, add children
 1816	2022-12-19 08:44:34Z	Up at 3am, maybe I'll keep doing this
 1817	2022-12-19 08:50:03Z	Trying embedded approach to `libkeg` model this time
 1818	2022-12-19 08:56:40Z	Go doesn't require `implements` declaration
@@ -1818,8 +1818,8 @@
 1853	2022-12-22 15:45:32Z	📞 How do you find motivation?
 1854	2022-12-22 15:45:36Z	📞 How does KEG compare to Wikipedia?
 1855	2022-12-22 15:40:13Z	KEGML initial docs
-1856	2022-11-10 21:31:31Z	Overview of functional scanning and parsing with PEGN
-1857	2022-12-26 05:13:52Z	PEGN scanner interface and functions
+1856	2022-11-11 02:31:31Z	Overview of functional scanning and parsing with PEGN
+1857	2022-12-26 10:13:52Z	PEGN scanner interface and functions
 1858	2022-12-22 15:45:46Z	Wondering if Go templates would be best for filters and snippets
 1859	2022-12-22 15:45:49Z	Footnotes *require* surrounding blank lines
 1860	2022-12-22 15:35:33Z	Watch out when copying Glamour output for bullets, etc.
@@ -1831,83 +1831,84 @@
 1866	2022-12-23 16:27:11Z	Static site generators
 1867	2022-12-23 17:26:03Z	Realizing AST should have index integers, not actual values
 1868	2022-12-23 18:05:07Z	Decided to go with "parser" over "scanner"
-1869	2022-12-25 07:06:43Z	Packrat parsing
-1870	2022-12-24 00:26:10Z	Match results are not necessarily AST nodes
-1871	2022-12-24 04:44:45Z	"Slander Sunday" (deyloop's perfect name)
-1872	2022-12-24 05:04:39Z	OMG it is so easy to open source of a function in Vim
-1873	2022-12-24 07:25:22Z	Get a Go function name through reflection (best effort)
-1874	2022-12-24 07:26:43Z	Use Control-X +o/p to navigate between Vim LSP completion
-1875	2022-12-24 08:03:28Z	"Applied informatics" university major that seems to include Linux
-1876	2022-12-25 05:29:47Z	PEG Packrat: "You don't need a fucking scanner"
-1877	2022-12-25 07:00:19Z	Crunchgen is BusyBox for BSD
-1878	2022-12-26 09:32:15Z	Macos is "largest UNIX desktop distribution" in the world
-1879	2022-12-26 09:47:36Z	PEGN grammar caching supports minimal possible grammar specs
-1880	2022-12-26 10:31:18Z	Adding cache check bad idea in packrat PEGN parser
-1881	2022-12-26 16:14:29Z	PEGN version 2023-01 tagging
-1882	2022-12-27 11:45:15Z	Stop repeating yourself with `fmt` in Go
-1883	2022-12-27 12:03:49Z	"Prairie Go Companion" Recipes for Gophers
-1884	2022-12-28 04:01:01Z	PEGs are greedy and blind by default, don't use negative lookaheads
-1885	2022-12-31 10:26:04Z	PEG packrat parsing requires memoization with `map` in Go
-1886	2022-12-29 06:37:33Z	Almost dropped `rat.Result.R` because annoying, but we need it
-1887	2022-12-29 07:36:25Z	Use structs for type switching in Go
-1888	2022-12-30 10:54:40Z	I just (re)discovered anonymous/nameless fields in Go, and OMFG!
-1889	2022-12-29 09:37:19Z	Better to do type assertions in central `Pack` function
-1890	2022-12-30 07:13:25Z	Use Twitter/Mastodon profile to bookmark tags
-1891	2022-12-30 07:17:59Z	Going with `Check` over `Parse` or `Match`
-1892	2022-12-31 10:23:55Z	Go `unicode.RangeTables` maps are fast/safe for concurrent reads
-1893	2022-12-31 10:17:46Z	Go maps are safe for concurrent reads (as best we can tell)
-1894	2022-12-31 11:18:29Z	Pass Go maps as-is (`mymap`), slices by pointer (`&myslice`)
-1895	2023-01-04 09:24:20Z	2023 New Year Resolutions and Goals
-1896	2023-01-01 14:32:23Z	Return to daily Ashtanga yoga practice
-1897	2023-01-01 14:35:33Z	Prepare for move to Greensboro
-1898	2023-01-01 14:39:20Z	Complete major version of enterprise REST API in Go at work
-1899	2023-01-01 14:44:16Z	Maybe no Beginner Boost for 2023
-1900	2023-01-03 14:51:51Z	Kubernetes *administration* is not a top priority in 2023
-1901	2023-01-01 14:57:39Z	Books to complete by end of 2023
-1902	2023-01-01 15:56:10Z	Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`
-1903	2023-01-07 08:55:24Z	Personal publishing platform (`pub`)
-1904	2023-01-01 16:58:48Z	No conference presentations in 2023 (but definitely in 2024)
-1905	2023-01-01 16:42:46Z	Twitch no-VOD, pomo-radio format and multiple categories for 2023
-1906	2023-01-01 16:54:42Z	💩 confs.tech was developed by fucking morons
-1907	2023-01-01 16:53:33Z	💩 dev.events was developed by fucking morons
-1908	2023-01-02 09:17:35Z	The clig.dev means well, but still misses the most important point
-1909	2023-01-02 11:49:03Z	Damn, are all these commit going to annoy everyone?
-1910	2023-01-05 16:18:18Z	🧘Yoga Log
-1911	2023-01-02 18:16:35Z	Eight limbs of Ashtanga yoga
-1912	2023-01-03 10:33:11Z	Focusing on CKAD, Kubernetes applications development
-1913	2023-01-04 12:52:03Z	📺 rwxrob.tv is all about HackerBeachYoga vibe for 2023
-1914	2023-01-04 09:21:02Z	!novods rwxrob.tv
-1915	2023-01-03 12:53:11Z	Use of initial exclamation point for Twitch and bot commands
-1916	2023-01-05 15:00:25Z	Creating a minimal Go webhooks server
-1917	2023-01-03 14:35:51Z	Is it worth using google/go-github?
-1918	2023-01-05 12:58:18Z	ngrok.io looks amazing!
-1919	2023-01-04 08:50:46Z	🐧 Homelab `init` on Saturdays
-1920	2023-01-04 09:26:05Z	!tldr rwxrob.tv
-1921	2023-01-04 09:27:31Z	TODO write my own damn Twitch bot
-1922	2023-01-04 11:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
-1923	2023-01-04 11:21:59Z	TODO: Setup LDAP PAM/SSH authentication in homelab
-1924	2023-01-04 12:27:18Z	Does SharePoint handle search for things not in SharePoint?
-1925	2023-01-04 11:51:31Z	💩 answers.microsoft.com was developed by fucking morons
-1926	2023-01-04 12:41:15Z	200 words maximum for KEG/Web site descriptions
-1927	2023-01-04 12:54:00Z	20 keywords maximum, 10 is ideal in KEG/Web
-1928	2023-01-05 07:19:58Z	Forward x11 display through ssh
-1929	2023-01-05 08:21:34Z	GitHub decided to stop giving search results
-1930	2023-01-05 09:25:01Z	Loopback mount an ISO image in Linux
-1931	2023-01-05 10:08:49Z	Should I use copilot?
-1932	2023-01-05 13:38:12Z	Generics could be used to do generic JSON unmarshaling
-1934	2023-01-05 13:46:27Z	There's a GitHub webhook for pretty much everything
-1936	2023-01-06 11:28:36Z	!go !golang rwxrob.tv
-1937	2023-01-06 10:39:33Z	Twitch (chat bot) commands as zettels
-1938	2023-01-06 10:21:12Z	Optimized personal search parameters for KEG and zettelkasten
-1939	2023-01-06 10:12:05Z	Length of KEG URL needs to be under 100
-1940	2023-01-06 11:37:35Z	!legal !onair !recording !rights rwxrob.tv
-1941	2023-01-07 09:22:16Z	!command !commands !cmds !cmd rwxrob.tv
-1942	2023-01-06 11:56:33Z	!support !sponsor rwxrob.tv
-1943	2023-01-06 13:30:56Z	!jobs rwxrob.tv
-1944	2023-01-06 14:47:06Z	!dobetter rwxrob.tv
-1945	2023-01-06 16:02:50Z	!rust rwxrob.tv
-1946	2023-01-06 15:34:34Z	!beginner !noob rwxrob.tv
-1947	2023-01-06 15:58:04Z	Strager concludes not to proceed with Rust, for now
-1948	2023-01-07 08:18:14Z	Beard product reviews
-1949	2023-01-07 08:30:10Z	!rep rwxrob.tv
-1951	2023-01-07 09:14:58Z	!help !questions !question !qca !faq rwxrob.tv
+1869	2022-12-25 12:06:43Z	Packrat parsing
+1870	2022-12-24 05:26:10Z	Match results are not necessarily AST nodes
+1871	2022-12-24 09:44:45Z	"Slander Sunday" (deyloop's perfect name)
+1872	2022-12-24 10:04:39Z	OMG it is so easy to open source of a function in Vim
+1873	2022-12-24 12:25:22Z	Get a Go function name through reflection (best effort)
+1874	2022-12-24 12:26:43Z	Use Control-X +o/p to navigate between Vim LSP completion
+1875	2022-12-24 13:03:28Z	"Applied informatics" university major that seems to include Linux
+1876	2022-12-25 10:29:47Z	PEG Packrat: "You don't need a fucking scanner"
+1877	2022-12-25 12:00:19Z	Crunchgen is BusyBox for BSD
+1878	2022-12-26 14:32:15Z	Macos is "largest UNIX desktop distribution" in the world
+1879	2022-12-26 14:47:36Z	PEGN grammar caching supports minimal possible grammar specs
+1880	2022-12-26 15:31:18Z	Adding cache check bad idea in packrat PEGN parser
+1881	2022-12-26 21:14:29Z	PEGN version 2023-01 tagging
+1882	2022-12-27 16:45:15Z	Stop repeating yourself with `fmt` in Go
+1883	2022-12-27 17:03:49Z	"Prairie Go Companion" Recipes for Gophers
+1884	2022-12-28 09:01:01Z	PEGs are greedy and blind by default, don't use negative lookaheads
+1885	2022-12-31 15:26:04Z	PEG packrat parsing requires memoization with `map` in Go
+1886	2022-12-29 11:37:33Z	Almost dropped `rat.Result.R` because annoying, but we need it
+1887	2022-12-29 12:36:25Z	Use structs for type switching in Go
+1888	2022-12-30 15:54:40Z	I just (re)discovered anonymous/nameless fields in Go, and OMFG!
+1889	2022-12-29 14:37:19Z	Better to do type assertions in central `Pack` function
+1890	2022-12-30 12:13:25Z	Use Twitter/Mastodon profile to bookmark tags
+1891	2022-12-30 12:17:59Z	Going with `Check` over `Parse` or `Match`
+1892	2022-12-31 15:23:55Z	Go `unicode.RangeTables` maps are fast/safe for concurrent reads
+1893	2022-12-31 15:17:46Z	Go maps are safe for concurrent reads (as best we can tell)
+1894	2022-12-31 16:18:29Z	Pass Go maps as-is (`mymap`), slices by pointer (`&myslice`)
+1895	2023-01-04 14:24:20Z	2023 New Year Resolutions and Goals
+1896	2023-01-01 19:32:23Z	Return to daily Ashtanga yoga practice
+1897	2023-01-01 19:35:33Z	Prepare for move to Greensboro
+1898	2023-01-01 19:39:20Z	Complete major version of enterprise REST API in Go at work
+1899	2023-01-01 19:44:16Z	Maybe no Beginner Boost for 2023
+1900	2023-01-03 19:51:51Z	Kubernetes *administration* is not a top priority in 2023
+1901	2023-01-01 19:57:39Z	Books to complete by end of 2023
+1902	2023-01-01 20:56:10Z	Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`
+1903	2023-01-07 13:55:24Z	Personal publishing platform (`pub`)
+1904	2023-01-01 21:58:48Z	No conference presentations in 2023 (but definitely in 2024)
+1905	2023-01-01 21:42:46Z	Twitch no-VOD, pomo-radio format and multiple categories for 2023
+1906	2023-01-01 21:54:42Z	💩 confs.tech was developed by fucking morons
+1907	2023-01-01 21:53:33Z	💩 dev.events was developed by fucking morons
+1908	2023-01-02 14:17:35Z	The clig.dev means well, but still misses the most important point
+1909	2023-01-02 16:49:03Z	Damn, are all these commit going to annoy everyone?
+1910	2023-01-05 21:18:18Z	🧘Yoga Log
+1911	2023-01-02 23:16:35Z	Eight limbs of Ashtanga yoga
+1912	2023-01-03 15:33:11Z	Focusing on CKAD, Kubernetes applications development
+1913	2023-01-04 17:52:03Z	📺 rwxrob.tv is all about HackerBeachYoga vibe for 2023
+1914	2023-01-04 14:21:02Z	!novods rwxrob.tv
+1915	2023-01-03 17:53:11Z	Use of initial exclamation point for Twitch and bot commands
+1916	2023-01-05 20:00:25Z	Creating a minimal Go webhooks server
+1917	2023-01-03 19:35:51Z	Is it worth using google/go-github?
+1918	2023-01-05 17:58:18Z	ngrok.io looks amazing!
+1919	2023-01-04 13:50:46Z	🐧 Homelab `init` on Saturdays
+1920	2023-01-04 14:26:05Z	!tldr rwxrob.tv
+1921	2023-01-04 14:27:31Z	TODO write my own damn Twitch bot
+1922	2023-01-04 16:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
+1923	2023-01-04 16:21:59Z	TODO: Setup LDAP PAM/SSH authentication in homelab
+1924	2023-01-04 17:27:18Z	Does SharePoint handle search for things not in SharePoint?
+1925	2023-01-04 16:51:31Z	💩 answers.microsoft.com was developed by fucking morons
+1926	2023-01-04 17:41:15Z	200 words maximum for KEG/Web site descriptions
+1927	2023-01-04 17:54:00Z	20 keywords maximum, 10 is ideal in KEG/Web
+1928	2023-01-05 12:19:58Z	Forward x11 display through ssh
+1929	2023-01-05 13:21:34Z	GitHub decided to stop giving search results
+1930	2023-01-05 14:25:01Z	Loopback mount an ISO image in Linux
+1931	2023-01-05 15:08:49Z	Should I use copilot?
+1932	2023-01-05 18:38:12Z	Generics could be used to do generic JSON unmarshaling
+1934	2023-01-05 18:46:27Z	There's a GitHub webhook for pretty much everything
+1936	2023-01-06 16:28:36Z	!go !golang rwxrob.tv
+1937	2023-01-06 15:39:33Z	Twitch (chat bot) commands as zettels
+1938	2023-01-06 15:21:12Z	Optimized personal search parameters for KEG and zettelkasten
+1939	2023-01-06 15:12:05Z	Length of KEG URL needs to be under 100
+1940	2023-01-06 16:37:35Z	!legal !onair !recording !rights rwxrob.tv
+1941	2023-01-07 10:01:02Z	!command !commands !cmds !cmd rwxrob.tv
+1942	2023-01-06 16:56:33Z	!support !sponsor rwxrob.tv
+1943	2023-01-06 18:30:56Z	!jobs rwxrob.tv
+1944	2023-01-06 19:47:06Z	!dobetter rwxrob.tv
+1945	2023-01-06 21:02:50Z	!rust rwxrob.tv
+1946	2023-01-06 20:34:34Z	!beginner !noob rwxrob.tv
+1947	2023-01-06 20:58:04Z	Strager concludes not to proceed with Rust, for now
+1948	2023-01-07 13:18:14Z	Beard product reviews
+1949	2023-01-07 13:30:10Z	!rep rwxrob.tv
+1951	2023-01-07 14:14:58Z	!help !questions !question !qca !faq rwxrob.tv
+1952	2023-01-07 14:59:29Z	!doit !dontwait !ceasetheday !carpediem rwxrob.tv

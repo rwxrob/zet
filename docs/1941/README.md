@@ -17,3 +17,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!rust rwxrob.tv](../1945)
 * [!beginner !noob rwxrob.tv](../1946)
 * [!rep rwxrob.tv](../1949)
+* [!doit !dontwait !ceasetheday !carpediem rwxrob.tv](../1952)
