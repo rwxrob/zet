@@ -1,4 +1,4 @@
-# !rig !setup !specs !homelab rwxrob.tv
+# !rig !setup !specs !homelab !monitor !monitors !distro !os rwxrob.tv
 
 💻 I have three computers that I use every day (in addition to my home lab rack, which contains 36 computers including one 56 core VM server): MSI "Gaming" tower with Windows running Ubuntu Linux in VMware for streaming, two Macbook Pros, one for work, one for personal. IRL streams are from my Belabox running on Jetson Nano 2gb portable rig with three wireless modems.
 
@@ -24,4 +24,13 @@ Here are some other details:
 * Editor: vi/m + filters + Plug
 * CPU: Intel i7-9700 (8) @ 3.000GHz 
 * Memory: 16318MiB 
+
+***Monitors***
+
+💻 I have four monitors and a laptop to my left, 24"-ish and 4k. I use 1080p for streaming. I hate huge monitors, slow as fuck and you cannot reconfigure them. Three of the monitors are in a line across the top of my main monitor with the top of the main at eye level. Others are on my speakers. No fancy, stupid mounting hardware.
+
+***Operating Systems***
+
+💻 I run Ubuntu Server running in VMWare Workstation Pro on both Windows desktop, and Mac laptop. Personally, after running a Linux desktop for more than a decade I want nothing to do with Linux desktops. Most people cannot run Linux desktops at work, and I want to help *them*. Plus, OBS is better on Windows than Linux, which is essential for the BelaBox IRL streaming I do.
+
 
