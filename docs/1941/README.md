@@ -20,4 +20,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!doit !dontwait !ceasetheday !carpediem rwxrob.tv](../1952)
 * [!irc rwxrob.tv](../1953)
 * [!category !cat rwxrob.tv](../1954)
-* [!rig !setup !specs rwxrob.tv](../976)
+* [!rig !setup !specs !homelab !monitor !monitors !distro !os rwxrob.tv](../976)
