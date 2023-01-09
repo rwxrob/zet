@@ -1,8 +1,9 @@
-# 📺 rwxrob.tv is all about HackerBeachYoga vibe for 2023
+# 📺 rwxrob.tv is all about HackerBeachYogaVibe for 2023
 
-> 📺 rwxrob.tv 🍅 !pomo 🎵 HackerBeachYoga !spotify !music !song 🧘 daily !yoga ❓!coworking 🤔 !cmds !dox !learn !novods
+> 📺 rwxrob.tv 🎵 HackerBeachYogaVibe [!coworking !cal !music !song !dox !map !cmds]
 
-Never been happier with Twitch than pretending to be a radio station that focuses on HackerBeachYoga music and vibe. I'm really leaning into this in 2023. Here's the regular stuff that I'm really going to try extremely hard to keep going with in 2023:
+Never been happier with Twitch than pretending to be a radio station that focuses on
+HackerSkateYogaVibe. I'm really leaning into this in 2023. Here's the regular stuff that I'm really going to try extremely hard to keep going with in 2023:
 
 * 10-hour streams minimum, as long as I'm awake, I'm streaming
 * 2-5 minute breaks at the top of the hour
