@@ -13,3 +13,5 @@
 🌴 Served Mormon mission to French West Indies (Martinique, Guadeloupe, St. Martin). I was made Assistant to the President and flew all over (Barbados, etc.) Loved it even though I lost my faith. I read shit in church history about black people that made me vomit. I never got over it. That was the beginning of the end. Lots of stories though, if I'm drunk enough.
 
 🏫 I graduated Brigham Young University (BYU) with Russian Language degree, partial Honors, and just shy of a minor in French and Computers and Linguistics. I was there >6 years, worked 3 jobs concurrently: language lab, French/Russian instructor, bike shop mechanic, language/culture instructor and Resident Assistant at Mormon Missionary Training Center.
+
+"Clearly, you have a talent for educating people in tech. … After [this] success, I suspect the review team will be even more interested in picking up one or two of your students. We've had a lot of very bright interns from some of the top universities in the country and [your community member] was right in the mix with the best of them." (InfluxDB)
