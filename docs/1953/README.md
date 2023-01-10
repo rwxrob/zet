@@ -1,4 +1,4 @@
-# !irc rwxrob.tv
+# rwxrob.tv: !irc
 
 📺💬 No need to for a web browser to see Twitch content. Internet Relay Chat is the first real messaging system that worked across the network. It is still very popular with !hackers and is the basis for all Twitch chat.
 

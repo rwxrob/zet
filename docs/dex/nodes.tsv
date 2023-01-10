@@ -963,7 +963,7 @@
 973	2022-12-04 23:36:24Z	Go 101 Looks Pretty Damn Good, and Free
 974	2022-12-04 23:36:24Z	How Do You Fight Burnout?
 975	2022-12-04 23:36:24Z	Q: Do you hate virtual machines (VMs)?
-976	2023-01-07 17:38:59Z	!rig !setup !specs !homelab !monitor !monitors !distro !os rwxrob.tv
+976	2023-01-10 01:49:24Z	rwxrob.tv: !rig !setup !specs !homelab !monitor !monitors !distro !os
 977	2022-12-06 04:03:51Z	Simple command dependency checking in perl
 978	2022-12-04 23:36:24Z	Greed and Power Have Destroyed Learning
 979	2022-12-04 23:36:24Z	Personal Preference for Go Code Organization
@@ -1009,7 +1009,7 @@
 1021	2022-12-04 23:36:24Z	Call Shell Function Same as Script with `"$@"`
 1022	2022-12-04 23:36:24Z	CN VIPs: Kelsey Hightower, Google
 1023	2022-12-04 23:36:24Z	Amazon East Failure == Centralization Fails
-1024	2023-01-08 10:01:39Z	2021 Yearly Goals, Five Year Plan
+1024	2023-01-08 15:01:39Z	2021 Yearly Goals, Five Year Plan
 1025	2022-12-04 23:36:24Z	KEG Master Node GitHub Conventional Name: `me`
 1026	2022-12-04 23:36:24Z	Potential Bonzai Repo Package Naming Conflict
 1027	2022-12-04 23:36:24Z	Remember the People Who Aren't Shit Stains
@@ -1334,7 +1334,6 @@
 1346	2022-12-04 23:36:24Z	Carnac (Screenkey Replacement) Settings
 1347	2022-12-04 23:36:24Z	Command Composer
 1348	2022-12-04 23:36:24Z	Dota2 is Inspiring OCMS Credentials
-1349	2022-12-04 23:36:24Z	Hi, I'm Rob (rwxrob.tv)
 1350	2022-12-04 23:36:24Z	"Smart" Contracts are Stupid
 1351	2022-12-04 23:36:24Z	True Learning from Master to Apprentice
 1353	2022-12-04 23:36:24Z	Could I Try Zero-Trust Architecture at Home?
@@ -1874,14 +1873,14 @@
 1910	2023-01-05 21:18:18Z	🧘Yoga Log
 1911	2023-01-02 23:16:35Z	Eight limbs of Ashtanga yoga
 1912	2023-01-03 15:33:11Z	Focusing on CKAD, Kubernetes applications development
-1913	2023-01-09 10:34:23Z	📺 rwxrob.tv is all about HackerBeachYogaVibe for 2023
-1914	2023-01-04 14:21:02Z	!novods rwxrob.tv
+1913	2023-01-09 15:34:23Z	📺 rwxrob.tv is all about HackerBeachYogaVibe for 2023
+1914	2023-01-10 01:52:28Z	rwxrob.tv: !novods
 1915	2023-01-03 17:53:11Z	Use of initial exclamation point for Twitch and bot commands
 1916	2023-01-05 20:00:25Z	Creating a minimal Go webhooks server
 1917	2023-01-03 19:35:51Z	Is it worth using google/go-github?
 1918	2023-01-05 17:58:18Z	ngrok.io looks amazing!
 1919	2023-01-04 13:50:46Z	🐧 Homelab `init` on Saturdays
-1920	2023-01-04 14:26:05Z	!tldr rwxrob.tv
+1920	2023-01-10 01:52:28Z	rwxrob.tv: !tldr
 1921	2023-01-04 14:27:31Z	TODO write my own damn Twitch bot
 1922	2023-01-04 16:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
 1923	2023-01-04 16:21:59Z	TODO: Setup LDAP PAM/SSH authentication in homelab
@@ -1895,28 +1894,28 @@
 1931	2023-01-05 15:08:49Z	Should I use copilot?
 1932	2023-01-05 18:38:12Z	Generics could be used to do generic JSON unmarshaling
 1934	2023-01-05 18:46:27Z	There's a GitHub webhook for pretty much everything
-1936	2023-01-06 16:28:36Z	!go !golang rwxrob.tv
+1936	2023-01-10 01:52:28Z	rwxrob.tv: !go !golang
 1937	2023-01-06 15:39:33Z	Twitch (chat bot) commands as zettels
 1938	2023-01-06 15:21:12Z	Optimized personal search parameters for KEG and zettelkasten
 1939	2023-01-06 15:12:05Z	Length of KEG URL needs to be under 100
-1940	2023-01-06 16:37:35Z	!legal !onair !recording !rights rwxrob.tv
-1941	2023-01-09 20:46:16Z	rwxrob.tv: !command !commands !cmds !cmd
-1942	2023-01-06 16:56:33Z	!support !sponsor rwxrob.tv
-1943	2023-01-06 18:30:56Z	!jobs rwxrob.tv
-1944	2023-01-06 19:47:06Z	!dobetter rwxrob.tv
-1945	2023-01-06 21:02:50Z	!rust rwxrob.tv
-1946	2023-01-06 20:34:34Z	!beginner !noob rwxrob.tv
+1940	2023-01-10 01:52:28Z	rwxrob.tv: !legal !onair !recording !rights
+1941	2023-01-10 01:46:16Z	rwxrob.tv: !command !commands !cmds !cmd
+1942	2023-01-10 01:52:28Z	rwxrob.tv: !support !sponsor
+1943	2023-01-10 01:52:28Z	rwxrob.tv: !jobs
+1944	2023-01-10 01:52:28Z	rwxrob.tv: !dobetter
+1945	2023-01-10 01:52:28Z	rwxrob.tv: !rust
+1946	2023-01-10 01:52:28Z	rwxrob.tv: !beginner !noob
 1947	2023-01-06 20:58:04Z	Strager concludes not to proceed with Rust, for now
 1948	2023-01-07 13:18:14Z	Beard product reviews
-1949	2023-01-07 13:30:10Z	!rep rwxrob.tv
-1951	2023-01-07 14:14:58Z	!help !questions !question !qca !faq rwxrob.tv
-1952	2023-01-07 15:19:55Z	!doit !dontwait !ceasetheday !carpediem !carpe rwxrob.tv
-1953	2023-01-07 15:30:49Z	!irc rwxrob.tv
-1954	2023-01-07 15:49:59Z	!category !cat rwxrob.tv
+1949	2023-01-10 01:57:30Z	rwxrob.tv: !rep
+1951	2023-01-10 01:52:28Z	rwxrob.tv: !help !questions !question !qca !faq
+1952	2023-01-10 01:52:28Z	rwxrob.tv: !doit !dontwait !ceasetheday !carpediem !carpe
+1953	2023-01-10 01:58:57Z	rwxrob.tv: !irc
+1954	2023-01-10 01:58:57Z	rwxrob.tv: !category !cat
 1955	2023-01-08 14:56:47Z	Creating `mim` as my bot to ask questions of from anywhere
-1956	2023-01-08 10:04:40Z	Realizing `rat` is in critical path of `keg` and `mim`
-1957	2023-01-09 09:49:56Z	Favorite Twitch clips
-1958	2023-01-09 19:47:53Z	!coworking !cowork !co-work !co-working rwxrob.tv
-1959	2023-01-09 19:56:22Z	!cal !sched !calendar !schedule !week !today !day rwxrob.tv
-1960	2023-01-09 20:52:57Z	rwxrob.tv: !music !song !spotify
-1961	2023-01-09 20:44:03Z	rwxrob.tv: !dox !info !bio !about !map !job !work !remote !school !irl
+1956	2023-01-08 15:04:40Z	Realizing `rat` is in critical path of `keg` and `mim`
+1957	2023-01-09 14:49:56Z	Favorite Twitch clips
+1958	2023-01-10 01:46:29Z	rwxrob.tv: !coworking !cowork !co-work !co-working
+1959	2023-01-10 01:58:57Z	rwxrob.tv: !cal !sched !calendar !schedule !week !today !day
+1960	2023-01-10 01:52:57Z	rwxrob.tv: !music !song !spotify
+1961	2023-01-10 01:44:03Z	rwxrob.tv: !dox !info !bio !about !map !job !work !remote !school !irl
