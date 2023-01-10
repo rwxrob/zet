@@ -563,7 +563,7 @@
 570	2022-12-04 23:36:24Z	Use `kubectl get ns -l '!name'` to Select No Label
 571	2022-12-04 23:36:24Z	Kubernetes kubeconfig grant_type=password Deprecated?
 572	2022-12-04 23:36:24Z	Polyglot Programming: JavaScript, C, Go, Bash, Python
-573	2022-12-04 23:36:24Z	Set Volume to 40% in Linux
+573	2023-01-10 12:12:26Z	Set Volume to 40% in Linux
 574	2022-12-04 23:36:24Z	Kubernetes Colearning (bare-metal and more)
 575	2022-12-04 23:36:24Z	Slack Got Better
 576	2022-12-04 23:36:24Z	Kubernetes Efficiencies Lost to Putty on Windows
