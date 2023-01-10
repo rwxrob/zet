@@ -1,4 +1,4 @@
-# Kubernetes Applications Development (CKAD) Colearning (rwxrob.tv)
+# Kubernetes Applications Development (CKAD) Colearning
 
 📺 <https://youtu.be/w9IpcnBhjiQ>
 
