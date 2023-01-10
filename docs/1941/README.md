@@ -23,3 +23,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!rig !setup !specs !homelab !monitor !monitors !distro !os rwxrob.tv](../976)
 * [!coworking !cowork !co-work !co-working rwxrob.tv](../1958)
 * [!cal !sched !calendar !schedule !week !day !today rwxrob.tv](../1959)
+* [!music !song !spotify rwxrob.tv](../1960)
