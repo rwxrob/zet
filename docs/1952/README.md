@@ -1,4 +1,4 @@
-# !doit !dontwait !ceasetheday !carpediem !carpe rwxrob.tv
+# rwxrob.tv: !doit !dontwait !ceasetheday !carpediem !carpe
 
 ⚡ (Picture was me at 42.) I've been and done many things in the many years here on Earth. All I can say is DON'T WAIT! You don't need permission. Cease the day. Take risks. Live your best life, while you can.
 

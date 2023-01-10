@@ -1,4 +1,4 @@
-# !rust rwxrob.tv
+# rwxrob.tv: !rust
 
 💢 I hate Rust: the syntax is uglier than Java/C++; it takes *forever* to write anything in it; compilation takes forever; the mod team resigned in disgust over "hypocrisy" of governance board; dissertations have been written about the "lie" of Rust "safety"; CTOs regret it destroying their IT projects; and virtually *no* jobs exist for it. !Go blows Rust away for the things which matter most.
 

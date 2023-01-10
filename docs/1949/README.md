@@ -1,4 +1,4 @@
-# !rep rwxrob.tv
+# rwxrob.tv: !rep
 
 🌟 {target.name} has {target.rep} rep.
 

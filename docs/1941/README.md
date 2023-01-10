@@ -1,4 +1,4 @@
-# !command !commands !cmds !cmd rwxrob.tv
+# rwxrob.tv: !command !commands !cmds !cmd
 
 🤔💭 Here's a list of all commands.
 

@@ -1,4 +1,4 @@
-# !rig !setup !specs !homelab !monitor !monitors !distro !os rwxrob.tv
+# rwxrob.tv: !rig !setup !specs !homelab !monitor !monitors !distro !os
 
 💻 I have three computers that I use every day (in addition to my home lab rack, which contains 36 computers including one 56 core VM server): MSI "Gaming" tower with Windows running Ubuntu Linux in VMware for streaming, two Macbook Pros, one for work, one for personal. IRL streams are from my Belabox running on Jetson Nano 2gb portable rig with three wireless modems.
 

@@ -1,4 +1,4 @@
-# !legal !onair !recording !rights rwxrob.tv
+# rwxrob.tv: !legal !onair !recording !rights
 
 🛑 WARNING: You are being recorded. Anything you say or do while on this stream in chat, or in Discord, in text or voice, in public or in private (as a whisper) becomes the legal intellectual property of Mr. Robert S. Muhlestein. When in doubt, don't say it or write it.
 

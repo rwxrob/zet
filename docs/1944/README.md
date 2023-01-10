@@ -1,4 +1,4 @@
-# !dobetter rwxrob.tv
+# rwxrob.tv: !dobetter
 
 👍 We can all do better. Find your better. We're here to help, whatever it may be. Education, community, and dialog are the best weapons we have against apathy, indifference, ignorance, fear, and *true* hate. The one truth *everyone* can agree on is that -- like it or not -- we are all in this life together so we had better figure it out.
 
