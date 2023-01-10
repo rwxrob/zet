@@ -6,7 +6,7 @@
 
 💻📞 I've been working 100% remote since 2000. I was hired as fully remote by !IBM after I was head-hunted by a recruiter out of !Nike. Working remotely requires strong separation of your work environment from your living space, usually. After 20 years I'm okay mixing the two. Most can't. I plan on !coworking from the road and !IRL !twitch streaming in 2022 at some point.
 
-🌎🥾 https://rtirl.com/twitch:447179030 During IRL streams I publish my location so people can see the places I visit and help me find fun places to explore. If you are nearby and want to join me for a walk please do. I think meeting great people and letting people see exactly what area we have covered is worth the risk (as do many other IRL streamers).
+🌎🥾 <https://rtirl.com/twitch:447179030> During IRL streams I publish my location so people can see the places I visit and help me find fun places to explore. If you are nearby and want to join me for a walk please do. I think meeting great people and letting people see exactly what area we have covered is worth the risk (as do many other IRL streamers).
 
 💚 You have permission to have a life, a real life. You don't need anyone to give that to you. Seize the day. Do something "in real life" that one day you won't be able to. Do one thing every day that scares you. Keep it real. I try to do this myself, to get outside and do more than just sit at my desk.
 
