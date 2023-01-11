@@ -1,5 +1,11 @@
 # Conflicted about `rat/x` result naming in parse tree
 
+***Update: Wednesday, January 11, 2023, 10:33:53AM EST***
+
+Forcing `Name` and `ID` to be explicitly set with the corresponding rules really cleans up certain sections of the code. This also reduces waste when most people really only want a specific part of the results making it *much* easier to do ad hoc rat/x scanning and parsing.
+
+----
+
 I'm wondering if using a unique integer is better than an actual string name. Pandoc has no problem including the full string, even for something like `Space`. This creates incredibly verbose AST results:
 
 ```json
