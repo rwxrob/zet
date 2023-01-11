@@ -1,5 +1,9 @@
 # 🧘Yoga Log
 
+***Wednesday, January 11, 2023, 4:43:48PM EST***
+
+Woah, has it really been a week since I last wrote in the log? That explains a lot. Feeling a lot stronger, but today I had a sudden intense headache. Kinda scared the shit out of me. I mean, I don't think I'm a stroke candidate, but I am 55. I can think of fewer things in life that I would want to endure than losing all my mobility and mental acuity just to become someone's ward to take care of for the rest of their lives. I'm gonna schedule a physical. They say you should "get a physical before doing anything intense" and I do pretty intense yoga, and it has been something like a half a year since I did anything physical at all. If nothing else, need to get the BP checked. Someone made a joke about "big dick energy" but I tell you want, this feels like the opposite of that. But, imma own this one way or another.
+
 ***Thursday, January 5, 2023, 4:13:42PM EST***
 
 Better. Maybe it's the sun outside. Maybe it's not having my wife "assist" me. ;) Managed a back-bend today, not pretty, but strength coming back to do them. Biggest challenge now is my fucking fat in the way.
