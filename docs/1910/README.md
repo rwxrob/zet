@@ -1,5 +1,9 @@
 # 🧘Yoga Log
 
+***Friday, January 13, 2023, 9:13:50PM EST***
+
+Yoga today was pretty fun. I left the TTS on and was able to hear the comments coming in from the stream. Doris was cooking in the other room and we chatted while I did yoga. We had our old playlist from when we were on our honeymoon in Asheville. She even mentioned it reminder her of when she would make salsa while I did yoga in the other room. The music makes all the difference for me. In fact, I know I'm suppose to be all focused and concentrating on the breath, but fuck it. I want to have fun. I prefer the rave-party-yoga vibe with really fun music on while I go through the poses. For some reason it helps me not take it so seriously. I get all serious when I do yoga and sometimes even get more stressed out because I can't hit poses. I know in my mind that this is totally not the way to be, but it's a struggle. The music gives me something to focus on and remember that it's all just fun. It's all good. Then, when my wife says something, or teases me, or interrupts me I don't bark at her. I smile instead.
+
 ***Wednesday, January 11, 2023, 4:43:48PM EST***
 
 Woah, has it really been a week since I last wrote in the log? That explains a lot. Feeling a lot stronger, but today I had a sudden intense headache. Kinda scared the shit out of me. I mean, I don't think I'm a stroke candidate, but I am 55. I can think of fewer things in life that I would want to endure than losing all my mobility and mental acuity just to become someone's ward to take care of for the rest of their lives. I'm gonna schedule a physical. They say you should "get a physical before doing anything intense" and I do pretty intense yoga, and it has been something like a half a year since I did anything physical at all. If nothing else, need to get the BP checked. Someone made a joke about "big dick energy" but I tell you want, this feels like the opposite of that. But, imma own this one way or another.
