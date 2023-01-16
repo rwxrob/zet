@@ -1,0 +1,7 @@
+# Difference between memoized functions and single interpreter function
+
+I'm noticing something significant in the memoized functional approach to the packrat parser over what I did a couple years ago with a single interpreter that has a massive type switch in it. That version had no need whatsoever for memoization because there was a finite number of type expressions that were understood. The branching was all contained in a single loop there. Recursion was avoided by jumping around in the loop, as performant scanners tend to do. It was fast, but it was vary solid even though the entire goal of the types-interpreter approach was to avoid that rigidity.
+
+Now, with memoized functions I realize that *anyone* can add whatever types they wish, the supported types are just created in advance. The `rat.Pack` function simply accepts any version of a `*Rule` that can possibly be created. When such are encountered, they are just memoized as is, with no additions.
+
+I don't think I can overstate the value of this flexibility. This means that entire packages of specific rules can be created and used interchangeably in *any* `rat.Pack` grammar implementation. Not only can developers easily create their own grammars, scanners, and parsers from the `rat/x` expressions, they can create entirely new sets of `Rules` that don't use them at all. For someone like me who creates a grammar or sub-grammar a week, the possibilities of this are phenomenal. I'll never use a regular expression again when it's all done.
