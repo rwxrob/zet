@@ -1932,3 +1932,4 @@
 1973	2023-01-17 04:24:13Z	"Twitch is an audio medium with visual treats." (WhySoDankness)
 1974	2023-01-17 09:29:57Z	Just hearing about Caddy Web server (TLS only)
 1975	2023-01-17 09:56:33Z	Detach from Docker container without closing session
+1976	2023-01-17 15:30:36Z	Get Hugo to see README.md instead of (the stupid) `_index.md`
