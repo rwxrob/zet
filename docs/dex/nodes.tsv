@@ -47,7 +47,7 @@
 49	2022-12-04 23:36:24Z	Implied KEG Node Types
 50	2022-12-04 23:36:24Z	Have Someone Experienced Review Your Code
 51	2022-12-04 23:36:24Z	TIL `paste` Command Exists and OMG
-52	2022-12-04 18:36:24Z	Pointer for `MarshalJSON()`, None for `String()`
+52	2022-12-04 23:36:24Z	Pointer for `MarshalJSON()`, None for `String()`
 53	2022-12-04 23:36:24Z	Aren't you afraid someone will see what you type?
 54	2022-12-04 23:36:24Z	Concurrency Download More Than One File with `curl`
 55	2022-12-04 23:36:24Z	I need to stream Systems Approach book
@@ -271,7 +271,7 @@
 276	2022-12-04 23:36:24Z	Vim is a Text Editor. Emacs and VSCode are IDEs
 277	2022-12-04 23:36:24Z	I Created the TOML Logo
 278	2022-12-04 23:36:24Z	Q: What do you think of Vim9's new Vimscript?
-279	2022-12-04 18:36:24Z	Call Anonymous Function for Go `var` Assignment
+279	2022-12-04 23:36:24Z	Call Anonymous Function for Go `var` Assignment
 280	2022-12-04 23:36:24Z	Always Return Errors in Go
 281	2022-12-04 23:36:24Z	No `kubeadm`? You're Probably Doing it Wrong
 282	2022-12-04 23:36:24Z	Filter Unwanted Labels in Node Feature Discovery
@@ -419,7 +419,7 @@
 424	2022-12-04 23:36:24Z	Creativity is Beaten Out of Us
 425	2022-12-04 23:36:24Z	Using `replace` in `go.mod` Will Blow Up Your Module
 426	2022-12-04 23:36:24Z	Looks Like ss Replaced netstat
-427	2022-12-04 18:36:24Z	Apparently `strings.Fields()` Exists in Go
+427	2022-12-04 23:36:24Z	Apparently `strings.Fields()` Exists in Go
 428	2022-12-04 23:36:24Z	Determine the Default IP, Interface, and Route
 429	2022-12-11 16:15:43Z	Still conflicted about remapping CapsLock to ESC
 431	2022-12-04 23:36:24Z	Only Certain Kubernetes Resources Create from CLI
@@ -511,7 +511,7 @@
 517	2022-12-04 23:36:24Z	Wish: List Orphan Kubernetes PVC Blocks
 518	2022-12-04 23:36:24Z	Boost Badges: Level One, Basics
 519	2022-12-04 23:36:24Z	Synchronize TMUX Panes
-520	2023-01-09 21:10:14Z	Kubernetes Applications Development (CKAD) Colearning
+520	2023-01-10 02:10:14Z	Kubernetes Applications Development (CKAD) Colearning
 521	2022-12-04 23:36:24Z	Make Sure to Use SHA-512 for Passwords
 522	2022-12-04 23:36:24Z	Going to Create John the Distributed Ripper
 523	2022-12-04 23:36:24Z	Hold Up: Minikube Requires Driver, Go VirtualBox
@@ -563,7 +563,7 @@
 570	2022-12-04 23:36:24Z	Use `kubectl get ns -l '!name'` to Select No Label
 571	2022-12-04 23:36:24Z	Kubernetes kubeconfig grant_type=password Deprecated?
 572	2022-12-04 23:36:24Z	Polyglot Programming: JavaScript, C, Go, Bash, Python
-573	2023-01-10 12:12:26Z	Set Volume to 40% in Linux
+573	2023-01-10 17:12:26Z	Set Volume to 40% in Linux
 574	2022-12-04 23:36:24Z	Kubernetes Colearning (bare-metal and more)
 575	2022-12-04 23:36:24Z	Slack Got Better
 576	2022-12-04 23:36:24Z	Kubernetes Efficiencies Lost to Putty on Windows
@@ -1601,7 +1601,7 @@
 1616	2022-12-04 23:36:24Z	Get Used to Reading Docs Like on Kubernetes Exam
 1617	2022-12-04 23:36:24Z	"Do you stand when you stream?"
 1618	2022-12-04 23:36:24Z	Distributed Consensus Algorithm etcd Limitations
-1619	2022-12-04 18:36:24Z	Bash `while read` from String
+1619	2022-12-04 23:36:24Z	Bash `while read` from String
 1620	2022-12-04 23:36:24Z	Current AMA Questions
 1621	2022-12-04 23:36:24Z	Lost Art of Rapid Prototyping
 1622	2022-12-04 23:36:24Z	Conventional Bonzai Branch Releases
@@ -1755,7 +1755,7 @@
 1784	2022-12-10 15:43:29Z	Matthew 7:21-23 should be required for every Christian to memorize
 1785	2022-12-11 05:30:08Z	⚡ Secure shell (ssh) client in 80 lines of Go code
 1786	2022-12-11 05:32:28Z	Secure shell (ssh) servers already in Go
-1787	2022-12-11 10:00:10Z	Use `strings.Builder` and not `bytes.Buffer`
+1787	2022-12-11 15:00:10Z	Use `strings.Builder` and not `bytes.Buffer`
 1788	2022-12-11 17:33:30Z	📞 Do you still do 1-1 mentoring?
 1790	2022-12-13 12:30:05Z	People who have been coding for *decades* prefer Go
 1791	2022-12-14 06:20:28Z	💀 Hack secure shell (`ssh`) with shell injection
@@ -1870,7 +1870,7 @@
 1907	2023-01-01 21:53:33Z	💩 dev.events was developed by fucking morons
 1908	2023-01-02 14:17:35Z	The clig.dev means well, but still misses the most important point
 1909	2023-01-02 16:49:03Z	Damn, are all these commit going to annoy everyone?
-1910	2023-01-14 12:59:28Z	🧘Yoga Log
+1910	2023-01-17 09:15:41Z	🧘Yoga Log
 1911	2023-01-02 23:16:35Z	Eight limbs of Ashtanga yoga
 1912	2023-01-03 15:33:11Z	Focusing on CKAD, Kubernetes applications development
 1913	2023-01-09 15:34:23Z	📺 rwxrob.tv is all about HackerBeachYogaVibe for 2023
@@ -1880,7 +1880,7 @@
 1917	2023-01-03 19:35:51Z	Is it worth using google/go-github?
 1918	2023-01-05 17:58:18Z	ngrok.io looks amazing!
 1919	2023-01-04 13:50:46Z	🐧 Homelab `init` on Saturdays
-1920	2023-01-09 21:23:38Z	rwxrob.tv: !tldr
+1920	2023-01-10 02:23:38Z	rwxrob.tv: !tldr
 1921	2023-01-04 14:27:31Z	TODO write my own damn Twitch bot
 1922	2023-01-04 16:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
 1923	2023-01-04 16:21:59Z	TODO: Setup LDAP PAM/SSH authentication in homelab
@@ -1899,8 +1899,8 @@
 1938	2023-01-06 15:21:12Z	Optimized personal search parameters for KEG and zettelkasten
 1939	2023-01-06 15:12:05Z	Length of KEG URL needs to be under 100
 1940	2023-01-10 01:52:28Z	rwxrob.tv: !legal !onair !recording !rights
-1941	2023-01-14 15:32:00Z	rwxrob.tv: !command !commands !cmds !cmd
-1942	2023-01-09 21:21:23Z	rwxrob.tv: !support !sponsor !tip
+1941	2023-01-14 20:32:00Z	rwxrob.tv: !command !commands !cmds !cmd
+1942	2023-01-10 02:21:23Z	rwxrob.tv: !support !sponsor !tip
 1943	2023-01-10 01:52:28Z	rwxrob.tv: !jobs
 1944	2023-01-10 01:52:28Z	rwxrob.tv: !dobetter
 1945	2023-01-10 01:52:28Z	rwxrob.tv: !rust
@@ -1917,16 +1917,17 @@
 1957	2023-01-09 14:49:56Z	Favorite Twitch clips
 1958	2023-01-10 01:46:29Z	rwxrob.tv: !coworking !cowork !co-work !co-working
 1959	2023-01-10 01:58:57Z	rwxrob.tv: !cal !sched !calendar !schedule !week !today !day
-1960	2023-01-14 15:35:55Z	rwxrob.tv: !music !song !spotify !playlist
-1961	2023-01-09 21:09:12Z	rwxrob.tv: !dox !info !bio !about !map !job !work !remote !school !irl
-1963	2023-01-10 12:14:41Z	Optimal streaming music volume is between -15 and -10
-1964	2023-01-10 12:17:29Z	Max system and application volumes with analog out
-1965	2023-01-11 10:35:49Z	Conflicted about `rat/x` result naming in parse tree
-1966	2023-01-11 15:56:29Z	Use `slices.Contains` in Go 1.18 or later
-1967	2023-01-14 12:55:46Z	"Golden hour" Best time to photograph or stream outside sunrise/sunset
-1968	2023-01-16 13:42:39Z	Russian phonetic keyboard
-1969	2023-01-15 19:39:00Z	Newly learning Russian words (and old words remembered)
-1970	2023-01-15 16:22:39Z	"Silicon Valley" writers plagiarized www.scala-lang.org for opener
-1971	2023-01-15 16:22:29Z	You "don't want to have revenue"
-1972	2023-01-16 18:37:02Z	Difference between memoized functions and single interpreter function
-1973	2023-01-16 23:24:13Z	"Twitch is an audio medium with visual treats." (WhySoDankness)
+1960	2023-01-14 20:35:55Z	rwxrob.tv: !music !song !spotify !playlist
+1961	2023-01-10 02:09:12Z	rwxrob.tv: !dox !info !bio !about !map !job !work !remote !school !irl
+1963	2023-01-10 17:14:41Z	Optimal streaming music volume is between -15 and -10
+1964	2023-01-10 17:17:29Z	Max system and application volumes with analog out
+1965	2023-01-11 15:35:49Z	Conflicted about `rat/x` result naming in parse tree
+1966	2023-01-11 20:56:29Z	Use `slices.Contains` in Go 1.18 or later
+1967	2023-01-14 17:55:46Z	"Golden hour" Best time to photograph or stream outside sunrise/sunset
+1968	2023-01-16 18:42:39Z	Russian phonetic keyboard
+1969	2023-01-16 00:39:00Z	Newly learning Russian words (and old words remembered)
+1970	2023-01-15 21:22:39Z	"Silicon Valley" writers plagiarized www.scala-lang.org for opener
+1971	2023-01-15 21:22:29Z	You "don't want to have revenue"
+1972	2023-01-16 23:37:02Z	Difference between memoized functions and single interpreter function
+1973	2023-01-17 04:24:13Z	"Twitch is an audio medium with visual treats." (WhySoDankness)
+1974	2023-01-17 09:11:59Z	Just hearing about Caddy Web server (TLS only)
