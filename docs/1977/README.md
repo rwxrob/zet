@@ -17,17 +17,17 @@ Blocks    <- TitleB (IncListB / Separator / BulListB / NumListB / FigureB /
 
 TitleB    <- '#' SP  Title EndB
 Title     <- uprint{1,70}
-IncListB  <- ('*' / '+' / '-') '[' ..EndB
-BulListB  <- ('*' / '+' / '-') SP ..EndB
-NumListB  <- digit{1,8} '.' SP ..EndB
-FigureB   <- '![' ..EndB
-QuoteB    <- '>' SP ..EndB
-NoteB     <- '[^' SP ..EndB
-LatexB    <- '$$' NL ..(NL '$$' EndB)
+IncListB  <- ('*' / '+' / '-') '[' .. EndB
+BulListB  <- ('*' / '+' / '-') SP .. EndB
+NumListB  <- digit{1,8} '.' SP .. EndB
+FigureB   <- '![' .. EndB
+QuoteB    <- '>' SP .. EndB
+NoteB     <- '[^' SP .. EndB
+LatexB    <- '$$' NL .. (NL '$$' EndB)
 Separator <- '----'
-FencedB   <- =FenceTok ..(>FenceTok EndB)
-FenceTok  <- ('~' / BQ){3,8}
-DivB      <- =DivTok ..(>DivTok EndB)
+FencedB   <- =FenceTok .. ($FenceTok EndB)
+FenceTok  <- '~'{3,8} / BQ{3,8}
+DivB      <- =DivTok .. ($DivTok EndB)
 FenceTok  <- ':'{3,8}
 ParaB     <- !SP ..EndB
 EndB      <- !. / (NL / !. ) / NL{2}
@@ -43,7 +43,7 @@ Note that there are no longer any long arrows (`<--`). In fact, there are nothin
 
 I've learned a lot more about the *right* way to approach data with PEG using "packrat" approach and pointers into that data enabling any possible collection of "parsed" spans that simply point to the beginning and ending (unlike traditional scanners). This has opened my eyes to the foolishness of forcing any hint of AST significance into any grammar captured in PEGN itself. It's been a painful reminder that parse trees and ASTs are two completely different things. Generating an AST from a parse tree is the better approach (than trying to define the AST in the specification itself) since it is far more flexible and allows shaking the tree of anything unwanted while keeping the original document. Besides, people want different parts of the parse tree at different times (Markdown blocks versus the spans that make them up, for example) so "significance" varies dramatically for each use of the grammar. So no more AST *in* PEGN.
 
-Note the `=FenceTok` and `>FenceTok`. This is a new addition to PEGN syntax that indicates the specific match for `FenceTok` must be saved to memory and that specific matched version used at the `>FenceTok` location. The `=` and `>` modifiers are only supported within a single rule. This is far cleaner than all of the other tagging and capture options I have seen in other PEG extension grammars.
+Note the `=FenceTok` and `$FenceTok`. This is a new addition to PEGN syntax that indicates the specific match for `FenceTok` must be saved to memory and that specific matched version used at the `$FenceTok` location. This is far cleaner than all of the other tagging and capture options I have seen in other PEG extension grammars.
 
 Note the following predefined tokens: `NL`, `SP`, `BQ`. This token set has been added directly to PEGN itself (no longer a separate import). All redundancies in the tokens have been removed in favor or a single, short alternative. These are not just literals and strings any longer. `NL`, for example, means `CR? LF`.
 
