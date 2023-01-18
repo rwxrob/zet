@@ -17,19 +17,19 @@ Blocks    <- TitleB (IncListB / Separator / BulListB / NumListB / FigureB /
 
 TitleB    <- '#' SP  Title EndB
 Title     <- uprint{1,70}
-IncListB  <- ('*' / '+' / '-') '[' .. EndB
-BulListB  <- ('*' / '+' / '-') SP .. EndB
-NumListB  <- digit{1,8} '.' SP .. EndB
-FigureB   <- '![' .. EndB
-QuoteB    <- '>' SP .. EndB
-NoteB     <- '[^' SP .. EndB
-LatexB    <- '$$' NL .. (NL '$$' EndB)
+IncListB  <- ('*' / '+' / '-') '[' ..EndB
+BulListB  <- ('*' / '+' / '-') SP ..EndB
+NumListB  <- digit{1,8} '.' SP ..EndB
+FigureB   <- '![' ..EndB
+QuoteB    <- '>' SP ..EndB
+NoteB     <- '[^' SP ..EndB
+LatexB    <- '$$' NL ..(NL '$$' EndB)
 Separator <- '----'
-FencedB   <- =FenceTok .. (>FenceTok EndB)
+FencedB   <- =FenceTok ..(>FenceTok EndB)
 FenceTok  <- ('~' / BQ){3,8}
-DivB      <- =DivTok .. (>DivTok EndB)
+DivB      <- =DivTok ..(>DivTok EndB)
 FenceTok  <- ':'{3,8}
-ParaB     <- !SP .. EndB
+ParaB     <- !SP ..EndB
 EndB      <- !. / (NL / !. ) / NL{2}
 .         <- rune
 
