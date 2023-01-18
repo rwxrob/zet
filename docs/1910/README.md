@@ -1,5 +1,9 @@
 # 🧘Yoga Log
 
+***Wednesday, January 18, 2023, 1:21:38AM EST***
+
+Today was a disaster. My health is completely crashing. I've definitely over-trained. I fucking hate being 55 (with regard to my health). I have to take it slower, but I'm not going to stop, damn it!
+
 ***Tuesday, January 17, 2023, 9:15:05AM EST***
 
 Yesterday I did only one sun A. But I biked a ton the day before, which was my "yoga" for that day. Could hardly walk after. It was glorious.
