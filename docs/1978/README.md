@@ -26,5 +26,3 @@ Things I *do* know:
 
 * Medical News Today  
   <https://www.medicalnewstoday.com/articles/best-medication-for-dog-allergies>
-* Mooresville Asthma & Allergy Clinic \| CAAC  
-  <https://www.carolinaasthma.com/location/mooresville/>
