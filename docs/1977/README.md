@@ -29,7 +29,7 @@ FencedB   <- =FenceTok .. ($FenceTok EndB)
 FenceTok  <- '~'{3,8} / BQ{3,8}
 DivB      <- =DivTok .. ($DivTok EndB)
 FenceTok  <- ':'{3,8}
-ParaB     <- !SP ..EndB
+ParaB     <- !SP .. EndB
 EndB      <- !. / (NL / !. ) / NL{2}
 .         <- rune
 
