@@ -1897,7 +1897,7 @@
 1936	2023-01-10 01:52:28Z	rwxrob.tv: !go !golang
 1937	2023-01-06 15:39:33Z	Twitch (chat bot) commands as zettels
 1938	2023-01-06 15:21:12Z	Optimized personal search parameters for KEG and zettelkasten
-1939	2023-01-06 15:12:05Z	Length of KEG URL needs to be under 100
+1939	2023-01-06 10:12:05Z	Length of KEG URL needs to be under 100
 1940	2023-01-10 01:52:28Z	rwxrob.tv: !legal !onair !recording !rights
 1941	2023-01-14 15:32:00Z	rwxrob.tv: !command !commands !cmds !cmd
 1942	2023-01-10 02:21:23Z	rwxrob.tv: !support !sponsor !tip
@@ -1937,3 +1937,4 @@
 1978	2023-01-18 16:06:56Z	Dealing with dog and seasonal allergies
 1979	2023-01-18 22:05:47Z	Film: Vengeance
 1980	2023-01-19 16:30:54Z	Use of emojis as categorizations in zet doesn't work without help
+1981	2023-01-19 16:35:21Z	100 is the new 72 (maximum terminal columns to assume)
