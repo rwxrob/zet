@@ -6,7 +6,7 @@ Chat commands are the new "command line interface" that all humans (not just eng
 
 If you see a command I'm missing (or a typo) go ahead and make a PR (if you like). Eventually, I hope to render this file as a single, relative-hyperlinked web page so people can navigate it without Twitch.
 
-* [!chill !chat](../1985)
+* [!chill](../1985)
 * [!help !questions !qca !faq](../1951)
 * [!dox !info !bio !about !map !job !work !remote !school !irl](../1961)
 * [!legal !onair !recording !rights](../1940)
