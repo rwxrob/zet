@@ -6,7 +6,7 @@ Chat commands are the new "command line interface" that all humans (not just eng
 
 If you see a command I'm missing (or a typo) go ahead and make a PR (if you like). Eventually, I hope to render this file as a single, relative-hyperlinked web page so people can navigate it without Twitch.
 
-* [!asmr !chill](../1985)
+* [!chill !chat](../1985)
 * [!help !questions !qca !faq](../1951)
 * [!dox !info !bio !about !map !job !work !remote !school !irl](../1961)
 * [!legal !onair !recording !rights](../1940)
@@ -23,6 +23,6 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!irc](../1953)
 * [!category !cat](../1954)
 * [!rig !setup !specs !homelab !monitor !monitors !distro !os](../976)
-* [!coworking !cowork !co-work !co-working rwxrob.tv](../1958)
-* [!cal !sched !calendar !schedule !week !day !today rwxrob.tv](../1959)
+* [!coworking !cowork !co-work !co-working](../1958)
+* [!cal !sched !calendar !schedule !week !day !today](../1959)
 * [!music !song !spotify !playlist](../1960)
