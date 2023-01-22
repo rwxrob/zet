@@ -1,5 +1,11 @@
 # PEGN scanner interface and functions
 
+***Sunday, January 22, 2023, 12:53:24PM EST***
+
+The PEGN and ratex languages are now closely related (but not co-dependent). Every PEGN rule can be expressed as a ratex type directly. This means that "compiling" ratex is a matter of converting PEGN into ratex types and then passing those types to `rat.Pack`. There are some optimizations that I can do before passing though, like joining unnamed runes and strings.
+
+----
+
 ***Update:*** No longer calling them `Parsers` because they aren't parsing anything. Using the words `Rule` and `Check` and `Results` now. Also distinguishing between AST and tree of results. Adding capture syntax to PEGN and dropping the `<--` operator. Every rule defined in an PEGN specification is significant. An AST should always be created from a results (parse) tree.
 
 ***Update:*** Dropping the `pegn.Scanner` interface approach in favor of providing tools to produce specialized scanners instead. Also calling them `Parsers` now that AST is included and referential rather than redundant copies of values.
