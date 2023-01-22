@@ -27,3 +27,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!cal !sched !calendar !schedule !week !day !today](../1959)
 * [!music !song !spotify !playlist](../1960)
 * [!pegn !peg](../1987)
+* [!rat !ratx !ratex](../1989)
