@@ -6,4 +6,5 @@ PEGN is strongly inspired by Bryan Ford's paper and PEG example.
 
 PEGN can be transcribed to Go Ratex directly, and vice-versa.
 
+* <https://github.com/rwxrob/pegn-spec>
 * <https://pegn.dev>
