@@ -26,3 +26,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!coworking !cowork !co-work !co-working](../1958)
 * [!cal !sched !calendar !schedule !week !day !today](../1959)
 * [!music !song !spotify !playlist](../1960)
+* [!pegn !peg](../1987)
