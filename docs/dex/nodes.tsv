@@ -1947,3 +1947,4 @@
 1989	2023-01-22 13:18:42Z	rwxrob.tv: !rat !ratx !ratex
 1990	2023-01-24 12:33:45Z	github.com/go-git/go-git pure Go Git implementation
 1991	2023-01-24 13:04:15Z	Server-side includes and templates are the wrong fix to problem
+1993	2023-01-24 13:23:38Z	Use G navigation in lynx to jump to bottom of long (dumb) sites
