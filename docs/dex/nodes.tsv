@@ -1948,4 +1948,5 @@
 1990	2023-01-24 12:33:45Z	github.com/go-git/go-git pure Go Git implementation
 1991	2023-01-24 13:04:15Z	Server-side includes and templates are the wrong fix to problem
 1993	2023-01-24 13:24:06Z	Use G navigation in lynx to jump to bottom of long (dumb) sites
+1994	2023-01-24 16:40:33Z	MkDocs seems best for most work documentation
 1995	2023-01-24 16:21:16Z	Hugo Go source code is an example of everything *not* to do in Go
