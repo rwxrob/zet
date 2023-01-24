@@ -1,12 +1,11 @@
-# CaddyServer.com, Web Server in Go
+# Caddy web server in Go
 
-Super excited to look into the Caddy web server developed entirely in
-Go. (Thanks to zshbunni for sharing on Twitch about it.)
+Caddy has replace nginx in popularity because of its simplicity and the fact that it is written entirely in Go.
 
-Relates:
+* Serves content from `/usr/share/caddy` directory by default (container image)
 
 * <https://caddyserver.com>
-
-Tags:
-
-    #golang #http #web #servers
+* Caddy Web Server  
+  <https://www.howtogeek.com/devops/how-to-deploy-a-caddy-web-server-with-docker/>
+* Deploying a website with Caddy, Git and Kubernetes - Fabrice Aneche  
+  <https://blog.nobugware.com/post/2019/deploying-a-website-with-caddy-git-and-kubernetes/>
