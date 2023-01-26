@@ -12,7 +12,6 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!legal !onair !recording !rights](../1940)
 * [!go !golang](../1936)
 * [!tldr](../1920)
-* [!novods rwxrob.tv](../1914)
 * [!support !sponsor !tip](../1942)
 * [!jobs](../1943)
 * [!dobetter](../1944)
@@ -28,3 +27,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!music !song !spotify !playlist](../1960)
 * [!pegn !peg](../1987)
 * [!rat !ratx !ratex](../1989)
+* [!irl !belabox](../1996)
