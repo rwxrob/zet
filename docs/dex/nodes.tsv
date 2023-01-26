@@ -1454,7 +1454,7 @@
 1468	2022-12-04 23:36:24Z	News for 2021, Week 45
 1469	2022-12-04 23:36:24Z	Mac Minis Support Netboot, Thank God
 1470	2022-12-04 23:36:24Z	Change Terminal to 95 x 26 (Font Size 30)
-1471	2022-12-04 23:36:24Z	Get Latest Released Version from GitHub with Bash
+1471	2022-12-04 18:36:24Z	Get Latest Released Version from GitHub with Bash
 1472	2022-12-04 23:36:24Z	CGO Cross Compilation with `xgo`
 1473	2022-12-04 23:36:24Z	Colearning Cloud-Native and Kubernetes (Fridays 12-3pm)
 1474	2022-12-04 23:36:24Z	Use `cat /etc/issue` to Check Linux Distro
@@ -1952,3 +1952,4 @@
 1995	2023-01-24 16:21:16Z	Hugo Go source code is an example of everything *not* to do in Go
 1996	2023-01-26 00:24:38Z	rwxrob.tv: !irl !belabox
 1997	2023-01-26 14:06:40Z	Download zip or tar of source from GitHub
+1998	2023-01-26 14:49:42Z	Kubernetes CronJob considerations
