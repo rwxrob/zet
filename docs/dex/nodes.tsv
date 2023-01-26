@@ -1643,7 +1643,7 @@
 1660	2022-12-04 23:36:24Z	Super Impressed with Github Dependabot
 1661	2022-12-04 23:36:24Z	Avoid Twitch CLI (`twitch`) Configuration Gotchas
 1662	2022-12-04 23:36:24Z	ZettelMark: ZettelCast Video Link 
-1663	2022-12-04 23:36:24Z	Check for Latest GitHub Release with Go
+1663	2022-12-04 18:36:24Z	Check for Latest GitHub Release with Go
 1664	2022-12-04 23:36:24Z	Always Create Aliases with Single Quotes
 1665	2022-12-04 23:36:24Z	Going to Make `live` Streamer Tool
 1666	2022-12-04 23:36:24Z	Figure: Sir Ken Robinson PhD (1950-2020)
@@ -1951,3 +1951,4 @@
 1994	2023-01-26 13:34:03Z	MkDocs seems best for most work documentation
 1995	2023-01-24 16:21:16Z	Hugo Go source code is an example of everything *not* to do in Go
 1996	2023-01-26 00:24:38Z	rwxrob.tv: !irl !belabox
+1997	2023-01-26 14:04:27Z	Download zip of source from GitHub
