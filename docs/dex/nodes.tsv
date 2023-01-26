@@ -192,7 +192,7 @@
 195	2022-12-04 23:36:24Z	Good Morning: Thursday, December  2, 2021
 196	2022-12-04 23:36:24Z	Kubernetes Learning Resources
 197	2022-12-04 23:36:24Z	Should I Do 2020 Boost First or Just 2021?
-198	2022-12-04 23:36:24Z	Use Assignment to Clone in Go
+198	2022-12-04 18:36:24Z	Use Assignment to Clone in Go
 199	2022-12-04 23:36:24Z	Learn Using Real Tech, Not Emulations
 200	2022-12-04 23:36:24Z	Wish: `kubectl explain` with Tab Completion
 201	2022-12-04 23:36:24Z	Is it Hard to Design Large Projects with More Experience?
@@ -1953,3 +1953,5 @@
 1996	2023-01-26 00:24:38Z	rwxrob.tv: !irl !belabox
 1997	2023-01-26 14:06:40Z	Download zip or tar of source from GitHub
 1998	2023-01-26 14:49:42Z	Kubernetes CronJob considerations
+1999	2023-01-26 15:08:06Z	Git cloning from within a K8S Pod
+2000	2023-01-26 15:25:20Z	Mounting PVC into a K8S CronJob
