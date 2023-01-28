@@ -1958,3 +1958,4 @@
 2001	2023-01-26 16:03:19Z	Check content of a Kubernetes PVC PersistentVolumeClaim
 2002	2023-01-26 16:51:20Z	Share K8S PVC between Deployment and CronJob
 2003	2023-01-27 13:47:03Z	rwxrob.tv log: Thursday, January 26, 2023
+2004	2023-01-28 11:02:51Z	Update annotation to trigger rolling restart synced to configmap
