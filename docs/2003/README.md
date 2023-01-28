@@ -6,7 +6,7 @@ TODO: more to finish about this night, and decide how much to publish to the Int
 * Near head-on collision
 * Amazing NC BBQ brisket
 * Making amends with wine bar was banned from 10 years ago
-* Cashing out lotto with Eric
+* Cashing out lotto (for crack) with Eric
 * Harry "the butcher"
 * Should I post this VOD?
 
