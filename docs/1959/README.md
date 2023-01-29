@@ -15,6 +15,7 @@ These days I'm mixing up streaming into the following activities:
 * Coding/Homelab/Tech - anything tech that I can do live
 * Gaming/Hacking - music and chat while gaming and hacking
 * Culture Journalism - interviewing and exploring culture of North Carolina, USA
+* Doggie Play Time - take Sam for walks and Frisbee and (mock) hunting
 
 Even though I rarely stick to the schedule, I find having one at least gives me something to at least structure what I *want* to do. I gotta get better at following one if I ever want to do anything significant, like cross USA on bike, travel abroad, get those books done, and regain some level of will-power. Like a lot of people, I'm still fighting "goblin-mode" that started from Covid (even though I have yet to catch it).
 
