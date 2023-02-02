@@ -1,5 +1,29 @@
 # IRL Streaming Kit Conclusions
 
+***Thursday, February 2, 2023, 11:28:35AM EST***
+
+Looking back over two full years of IRL streaming I realize these earlier conclusions led to my current IRL rig, which is by far the most stable, cost-effective, versatile, and small:
+
+* Two TOPK 20w batteries are all you need (but carry two more anyway)
+* TOPK 20w batteries USB3 ports *will* die, but it has four total
+* Sony AS300 is best IRL streaming camera (cost, etc.)
+* Gaffer tape is all I need to protect and cover the AS300
+* Tape *everything* to create smooth surfaces that won't catch on anything in bag
+* Use a metal piece of tin or something to cover Jetson Nano SD card port (tape it)
+* Attach a big-ass USB fan the size of the entire Nano
+* Heat issues manifest as other completely unrelated problems
+* Over-shoulder (bike messenger) bags are best since can get into them easily
+* GoPro mounts are cheaper and more supported than special ones (easily replaced when break)
+* Strapping a battery to *front* strap of messenger bad allows lights and charging phone
+* Rotating upper arm band best for phone, always with you and TTS hearable
+* No need for second "chat" phone
+* Mount cam on head support in passenger-seat of car for first-person passenger feel
+* People prefer POV in general over "vlogging face"
+* Biking is best IRL outdoor activity possible, versatile, but stable and faster than walking
+* Walking is fine for shopping and art walks
+
+----
+
 > 💡
 > Lock your phone in 4G! Disable Wifi and Bluetooth.
 
