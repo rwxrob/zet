@@ -25,7 +25,7 @@
 25	2022-12-04 23:36:24Z	Today I Learned About `crictl` and OMG
 26	2022-12-04 23:36:24Z	MUDL Pedagogy + 3D Graphics
 27	2022-12-04 23:36:24Z	Pure Go SQLite3 Module
-28	2022-12-04 23:36:24Z	SKILSTAK Beginner Boost Moved to Sundays
+28	2023-02-02 15:30:48Z	SKILSTAK Beginner Boost Moved to Sundays
 29	2022-12-04 23:36:24Z	Add sadservers.com to List of Practice Sites
 30	2022-12-04 23:36:24Z	Use Bash instead of `realpath` to get real path
 31	2022-12-04 23:36:24Z	Zsh is Shit: Unnecessary Zsh Completion Complexity
@@ -439,7 +439,7 @@
 445	2022-12-04 23:36:24Z	Zettel Category: Boost
 446	2022-12-04 23:36:24Z	Working with Logical Volumes (LVM) in 2022
 447	2022-12-04 23:36:24Z	Adjust Offset Date/Time Easily
-448	2022-12-04 23:36:24Z	Considering Phd in Information Systems
+448	2022-12-04 18:36:24Z	Considering Phd in Information Systems
 449	2022-12-04 23:36:24Z	Importance of CGO_ENABLED=0 for Go Devs
 450	2022-12-04 23:36:24Z	Monorepos Do Make a Lot of Sense for Enterprise
 451	2022-12-04 23:36:24Z	Similarities to and Influence of Scouting Program
@@ -1409,7 +1409,7 @@
 1423	2022-12-04 23:36:24Z	Filtering All Containers on Given Network
 1424	2022-12-04 23:36:24Z	Keep a Log in Git (Especially Contractors at Work)
 1425	2022-12-04 23:36:24Z	Node and GPU Feature Discovery Namespaces Combined
-1426	2022-12-04 23:36:24Z	Can We Please Use Another Word Besides "Awesome"
+1426	2022-12-04 18:36:24Z	Can We Please Use Another Word Besides "Awesome"
 1427	2022-12-04 23:36:24Z	The (Actual) UNIX Philosophy
 1428	2022-12-04 23:36:24Z	More Vim Learning Resources
 1429	2022-12-04 23:36:24Z	Go http.ReponseRecorder is So Amazing
