@@ -21,6 +21,7 @@ Looking back over two full years of IRL streaming I realize these earlier conclu
 * People prefer POV in general over "vlogging face"
 * Biking is best IRL outdoor activity possible, versatile, but stable and faster than walking
 * Walking is fine for shopping and art walks
+* Driving is a good time to talk about rig setup and such
 
 ----
 
