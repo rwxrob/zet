@@ -2,8 +2,14 @@
 
 This is an old collection of QCA questions and the video that contains the answer.
 
-Q: Should I use Control-C for ESC in Vim?
-Q: What is PEGN and why use it?
+***Sunday, February 5, 2023, 2:07:22PM EST***
+
+Q: How can I get started on the tech scene?
+Q: What do you think of learning from tech books?
+Q: What do you think of tech training courses?
+Q: What is wrong with Packt Publishing?
+Q: What do you think of ChatGPT and Copilot?
+Q: Will ML take over developer jobs?
 
 ***Sunday, October 30, 2022, 12:23:14PM EDT***
 
