@@ -701,7 +701,7 @@
 708	2022-12-04 23:36:24Z	Strong Opinions, Weakly (or Weekly) Held
 709	2022-12-04 23:36:24Z	Yet Another Dumb-Ass Compares Zsh to Bash
 710	2022-12-04 23:36:24Z	Adding Closed Captioning to Twitch
-711	2022-12-04 23:36:24Z	Back to simple integers and isosec identifiers
+711	2022-12-04 18:36:24Z	Back to simple integers and isosec identifiers
 712	2022-12-04 23:36:24Z	Watching Stuff Together on https://kosmi.io/
 713	2022-12-04 23:36:24Z	Actually, `podman` Might Be Better Than `docker`
 714	2022-12-04 23:36:24Z	Casting Go Slice to Interface Requires Loop
@@ -902,7 +902,7 @@
 912	2022-12-04 23:36:24Z	Using Twitch Commands During Boost Presentations
 913	2022-12-04 23:36:24Z	Use `sshpass` When You Must Use `ssh` Passwords
 914	2022-12-04 23:36:24Z	Figure: Sample Mr. Rob
-915	2022-12-04 23:36:24Z	YouTube Description Footer
+915	2022-12-04 18:36:24Z	YouTube Description Footer
 916	2022-12-04 23:36:24Z	Surprise, Docker Desktop is Proprietary (Not FOSS)
 917	2022-12-04 23:36:24Z	Tempted to Do All the KodeKloud Stuff
 918	2022-12-04 23:36:24Z	How to Install `kind` to Learn Kubernetes
@@ -1795,7 +1795,7 @@
 1830	2022-12-20 14:45:12Z	And Go Glamour doesn't know about generics either
 1831	2022-12-20 15:21:45Z	When a CEO has a soul, it shows
 1832	2022-12-21 15:27:31Z	Creating `scanner` as new home for `scan` (not `pegn`)
-1833	2022-12-22 07:36:57Z	🤬 Microsoft documentation web site requires JavaScript
+1833	2022-12-22 02:36:57Z	🤬 Microsoft documentation web site requires JavaScript
 1834	2022-12-22 07:57:39Z	Glamour (goldmark) considers blockquotes big, long sentences
 1836	2022-12-22 13:09:25Z	Review of Goldmark source code reconfirmed need for PEGN (end of 2024)
 1837	2022-12-22 09:33:31Z	Don't link, include dependent keg content
@@ -1962,3 +1962,4 @@
 2005	2023-01-31 12:27:13Z	Safe IRL camping
 2006	2023-02-01 12:25:04Z	Streaming: breaking the "fourth wall" all the time
 2007	2023-02-02 11:51:12Z	What should IRL streamer call oneself to avoid confusion?
+2009	2023-02-08 03:48:07Z	Get to 150 lbs by mid-June
