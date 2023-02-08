@@ -1854,7 +1854,7 @@
 1892	2022-12-31 15:23:55Z	Go `unicode.RangeTables` maps are fast/safe for concurrent reads
 1893	2022-12-31 15:17:46Z	Go maps are safe for concurrent reads (as best we can tell)
 1894	2022-12-31 16:18:29Z	Pass Go maps as-is (`mymap`), slices by pointer (`&myslice`)
-1895	2023-01-04 14:24:20Z	2023 New Year Resolutions and Goals
+1895	2023-02-08 04:07:35Z	2023 New Year Resolutions and Goals
 1896	2023-01-01 19:32:23Z	Return to daily Ashtanga yoga practice
 1897	2023-01-01 19:35:33Z	Prepare for move to Greensboro
 1898	2023-01-01 19:39:20Z	Complete major version of enterprise REST API in Go at work
