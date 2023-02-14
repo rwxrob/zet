@@ -1,5 +1,11 @@
 # IRL Streaming Lessons Learned
 
+***Monday, February 13, 2023, 9:46:15PM EST***
+
+* Make a backup SD card for belabox (Jetson Nano) and carry with you.
+
+----
+
 Here's a summary of the considerations and limitations that you should
 keep in mind when preparing your streaming workflow if you want to
 incorporate IRL streams significantly into your regular (desktop)
