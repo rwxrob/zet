@@ -28,3 +28,4 @@ If you see a command I'm missing (or a typo) go ahead and make a PR (if you like
 * [!pegn !peg](../1987)
 * [!rat !ratx !ratex](../1989)
 * [!irl !belabox](../1996)
+* [!bike](../2016)
