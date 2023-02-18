@@ -1976,3 +1976,4 @@
 2019	2023-02-17 12:04:23Z	QCA takes to much energy
 2021	2023-02-18 10:33:09Z	WebSocket server plugin included in OBS 28+!
 2022	2023-02-18 11:59:12Z	Hashicorp go-plugin has one show-stopping flaw
+2023	2023-02-18 12:05:52Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
