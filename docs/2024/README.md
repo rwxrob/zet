@@ -1,0 +1,11 @@
+# Proposed "telemetry" in Go will force a fork if approved
+
+I'm not really worried about all the "telemetry" talk surrounding Go right now. Yes, it is true that Google has more control of Go that I would have imagined. I've seen them force through stuff that was just really bad (like contexts into everything, or the original screwed up modules design). But that doesn't mean that they are immune from industry influence.
+
+So many major cloud native projects, and enterprises that depend on those projects, exist that if Google (or anyone) tries to do something as fucking stupid as to put *anything* that phones home and attempt to dismiss the naysayers are "privacy zealots" they will quickly learn the value of open source and the Go community would immediately see itself facing an io.js event.[^1]
+
+I wouldn't be surprised if there are not already software development organizations and leadership looking at the Go code base and preparing contingency plans that involve forking the entire thing if they force telemetry into the Go tool chain. In other words, greed will win. These companies have too much riding on Go at this point to allow some Google-motivated invasion of all those companies' users and customers and developers to *ever* accept that. The idiot proposing this is simply showing how fucking naive he is.
+
+* <https://www.theregister.com/2023/02/10/googles_go_programming_language_telemetry_debate/>
+
+[^1]: When the node.js governing board could not come to agreement about their code of conduct for the project a group of completely short-sighted, ethically challenged, narcissists forked the entire node.js project to create io.js *for no other reason than they did not like a clause in the project code of conduct*. This is the kind of idiocy that reveals just how easily FOSS can be ruined by a few power-hungry, philosophically motivated people. The entire industry gasped and re-evaluated their use of node.js. In fact, the project never actually recovered from it and node.js is now is *massive* decline, being replaced by Go back end code in almost every case. People are even writing JavaScript transpilers and linters in Go and C and Rust rather than use node.js at all. Plus after the biggest vulnerabilities and worms in history, node.js has just proven how bad it is, and always ways, even the creator says so.
