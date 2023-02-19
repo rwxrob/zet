@@ -1,5 +1,11 @@
 # Books to complete by end of 2023
 
+***Saturday, February 18, 2023, 9:30:05PM EST***
+
+Not gonna happen 2023. This is a good goal for the year *after* we get settled down in our new place where we will be for at least two years. Need to focus on health and other stuff first.
+
+----
+
 I *must* finish at least the first drafts of the following books by the end of 2023, the sooner the better (some of them are waiting on the software to be finished first):
 
 1.  Tap That KEG, Manage Knowledge Like Software with Knowledge Exchange Graphs
