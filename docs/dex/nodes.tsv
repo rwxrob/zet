@@ -1978,3 +1978,4 @@
 2022	2023-02-18 11:59:12Z	Hashicorp go-plugin has one show-stopping flaw
 2023	2023-02-18 12:05:52Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
 2024	2023-02-19 12:44:09Z	Proposed "telemetry" in Go will force a fork if approved
+2025	2023-02-20 21:41:21Z	No more notifications to anything but Discord
