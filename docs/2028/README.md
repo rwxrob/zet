@@ -9,4 +9,5 @@ The cycling will still be there, daily, but will be ultra-low intensity as a way
 I also don't plan on streaming any of my P90x stuff. It's just too much of a distraction.
 
 * <http://davidandkristenatkinsfitness.com/p90x-doubles/>
+* <http://davidandkristenatkinsfitness.com/p90x-classic-schedule/>
 
