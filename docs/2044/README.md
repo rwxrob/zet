@@ -1,0 +1,3 @@
+# Sterzo Elite Smart block/steering makes me nauseous
+
+I haven't figured out why, but something about steering makes me want to vomit even though just cycling in a straight line doesn't do anything. In fact, having a riser block is good to keep the pressure off your palms like by forcing you to lean forward, and the steering looseness is nice of the Elite Sterzo, but I'd get the cheap one knowing this now. The steering is going to be banned in almost every event anyway. I'd rather focus on the ride and the pace and let it autodraft more than having to steer into a draft. You also can't go through people with it on.
