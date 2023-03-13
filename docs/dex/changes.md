@@ -1,5 +1,5 @@
+* 2023-03-13 18:20:58Z [Fitness goals](../2046)
 * 2023-03-10 20:45:12Z [Don't bother with the Zwift Hub cassette, it's trash](../2047)
-* 2023-03-10 01:43:53Z [Fitness goals](../2046)
 * 2023-03-06 22:12:18Z [Sterzo Elite Smart block/steering makes me nauseous](../2044)
 * 2023-03-06 09:52:36Z [Bike usage and repair plans](../2043)
 * 2023-03-06 09:09:16Z [Changes to streaming and publishing](../2041)
