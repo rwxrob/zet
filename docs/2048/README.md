@@ -1,5 +1,7 @@
 # Zwift categories
 
+Cat B forever! (once I get there)
+
 ZwiftPower
 
 * A+: 4.6w/kg and 300w FTP
