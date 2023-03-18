@@ -1846,7 +1846,7 @@
 1884	2022-12-28 09:01:01Z	PEGs are greedy and blind by default, don't use negative lookaheads
 1885	2022-12-31 15:26:04Z	PEG packrat parsing requires memoization with `map` in Go
 1886	2022-12-29 11:37:33Z	Almost dropped `rat.Result.R` because annoying, but we need it
-1887	2022-12-29 12:36:25Z	Use structs for type switching in Go
+1887	2023-03-18 11:22:18Z	Use structs for type switching in Go
 1888	2022-12-30 15:54:40Z	I just (re)discovered anonymous/nameless fields in Go, and OMFG!
 1889	2022-12-29 14:37:19Z	Better to do type assertions in central `Pack` function
 1890	2022-12-30 12:13:25Z	Use Twitter/Mastodon profile to bookmark tags
