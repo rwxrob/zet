@@ -6,4 +6,6 @@
 * Section about "community" in Sapiens really hit me hard.
 * Twitch provides instant community membership to those seeking it.
 * Streaming studio morphed into virtual gym with streaming.
-* What's up with the Boost?
+* What's up with the Boost? Still on. Two hours on Saturdays.
+* Most streaming will be IRL in Travel & Outdoor category.
+* Want to encourage people to get out and meet people outside of Twitch.
