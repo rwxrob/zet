@@ -26,7 +26,7 @@
 26	2022-12-04 23:36:24Z	MUDL Pedagogy + 3D Graphics
 27	2022-12-04 23:36:24Z	Pure Go SQLite3 Module
 28	2023-03-21 12:30:48Z	SKILSTAK Beginner Boost Moved to Saturdays
-29	2022-12-04 23:36:24Z	Add sadservers.com to List of Practice Sites
+29	2023-03-21 12:30:48Z	Add sadservers.com to List of Practice Sites
 30	2022-12-04 23:36:24Z	Use Bash instead of `realpath` to get real path
 31	2022-12-04 23:36:24Z	Zsh is Shit: Unnecessary Zsh Completion Complexity
 32	2022-12-04 23:36:24Z	Use `if has("eval")` for `vim-tiny` Detection
@@ -2011,3 +2011,4 @@
 2056	2023-03-21 15:59:17Z	Spring cleaning my life and beliefs
 2058	2023-03-25 21:10:07Z	The RWX community
 2059	2023-03-25 21:07:01Z	The RWX community code
+2060	2023-03-26 15:10:05Z	Streaming studio morphs into virtual gym
