@@ -1,5 +1,5 @@
-* 2023-03-26 17:41:15Z [Revisiting streaming and community building](../2061)
-* 2023-03-26 17:24:29Z [The RWX community values](../2059)
+* 2023-03-27 02:54:20Z [Personal commitments](../2059)
+* 2023-03-27 01:56:54Z [Revisiting streaming and community building](../2061)
 * 2023-03-26 15:10:05Z [Streaming studio morphs into virtual gym](../2060)
 * 2023-03-25 21:10:07Z [The RWX community](../2058)
 * 2023-03-21 15:59:17Z [Spring cleaning my life and beliefs](../2056)
