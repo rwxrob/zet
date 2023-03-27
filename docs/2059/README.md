@@ -29,4 +29,3 @@ Here are some things I would like to remember on a daily basis. People who share
 ***Connect.*** I will actively seek to meet and understand people from all walks of life and genuinely listen to them. I believe civil dialog between each of us is the best path to peace.
 
 ***Engage.*** I will remain actively engaged in *real* life and seek others who do the same. I will avoid excessive escapism in all its forms and remain engaged in activities I can be proud of looking back on my life later as if asking, "So, what did you do with your years on Earth?"
-🤔💭 Here's what's up ...
