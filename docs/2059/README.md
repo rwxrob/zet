@@ -12,7 +12,7 @@ Here are some things I would like to remember on a daily basis. People who share
 
 ***Protect.*** I will actively fight to protect the freedom all people *must* have to live as they see fit provided their lives do not restrict that same freedom for others.
 
-***Share.*** I will share my skills, knowledge, and abilities without fear of hording and pay forward that which others have done for me. 
+***Share.*** I will share my skills, knowledge, and abilities without fear or hording and pay forward that which others have done for me. 
 
 ***Lift.*** I will seek daily opportunities to lift up those in need around me, to find ways to help lessen their load without condition or credit.
 
