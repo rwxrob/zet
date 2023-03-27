@@ -22,7 +22,7 @@ Here are some things I would like to remember on a daily basis. People who share
 
 ***Dance.*** I will celebrate life until the last day on Earth through music and dance, even if no one else can see. There is a time to be serious, to grieve, and there is a time to dance, sing, and be silly.
 
-***Take only what you need.*** I will take only that which I need and leave the rest for others recognizing a power greater than myself will provide when needed. I will agressive fight against greed and gluttony.
+***Take only what you need.*** I will take only that which I need and leave the rest for others recognizing a power greater than myself will provide when needed. I will aggressively fight against greed and gluttony.
 
 ***Learn.*** I will take responsibility for my own learning through regular research, writing, and exploration. I recognize the scientific method (done properly) is the greatest source of truth.
 
