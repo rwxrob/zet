@@ -1,0 +1,3 @@
+# kubectl get and describe don't show secrets
+
+There are at least three open issues about `kubectl get all` (and the `describe` equivalent) not working as expected. The documentation has been updated to make it seem like this is "expected behavior" to "protect the Secret from being exposed accidentally, or from being stored in terminal logs" but this is just a fundamental misunderstanding of how terminals work and an absolutely silly measure to take to preserve the security of Secrets. All it does is confuse beginners and annoy vetrans who might forget. Add it to the growing list of absolutely stupid design decisions made by the Kubernetes team.
