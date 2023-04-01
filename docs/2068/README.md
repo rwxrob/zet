@@ -1,6 +1,6 @@
 # Best airflow fan setup for indoor (Zwift) cycling with table
 
-25 kph produces roughly 7000 cfm. That's why you build up salt on your t-shirt instead of sweat when cycling outside. I had my Prana yoga pants, DZR leather shoes, a t-shirt, and a short-sleeve Dickies shirt with a Patagonia messenger bake and streaming rig and I hardly had any sweat built up on the Critical Mass ride and the urban, crit-like loops I did after that. I was blown away by how wonderful the wind felt on the descents evaporating all my sweat in one small descent. That just does *not* happen indoors with Zwift.
+25 kph produces roughly 7000 cfm. That's why you build up salt on your t-shirt instead of sweat when cycling outside. I had my Prana yoga pants, DZR leather shoes, a t-shirt, and a short-sleeve Dickies shirt with a Patagonia messenger bag and streaming rig and I hardly had any sweat built up on the Critical Mass ride and the urban, crit-like loops I did after that. I was blown away by how wonderful the wind felt on the descents evaporating all my sweat in one small descent. That just does *not* happen indoors with Zwift.
 
 Then I read about "cardiac drift" and how your body freaks out when it cannot cool you off producing more and more sweat until you are completely dehydrated. I did not realize it, but this is exactly what has been happening on my Zwift rides with a cheap 20 cfm desk fan and t-shirt. Even without the t-shirt, that fan still cannot keep up with the sweat I am putting out, pruning my hands and soaking every towel I have. But towels are *not* the answer.
 
