@@ -6,7 +6,7 @@ I randomly ran across Taren's MoTTIV Method (I really don't like that name at al
 
 [video]: <https://youtu.be/b594HpcnZqY>
 
-I'm just going to say it. Taren has no fucking idea how to train, he's yet another rich guy with a YouTube channel and tons of disposable time, and people who are influeced by him. He's methods have been completely unscientific for the last few years and this is his video stating the result: *severe* overtraining to the point nearly needing hospitalization, the kind from which you *never* fully recover.
+I'm just going to say it. Taren has no *real* idea how to train, he's yet another rich guy with a YouTube channel and tons of disposable time, and people who are influeced by him. He's methods have been completely unscientific for the last few years and this is his video stating the result: *severe* overtraining to the point nearly needing hospitalization, the kind from which you *never* fully recover. His documented recovery effort in the video has all the supplements and man-made pills he's taking to do what a solid diet of *real* food would do instead (with minor multi-vitamin and non-casein protein supplementation).
 
 All you need to read to understand the problem are these words in the description of the video:
 
