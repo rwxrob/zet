@@ -1,0 +1,7 @@
+# OMG the POLLEN!
+
+I'm paying the price for my glorious gravel ride through the trees yesterday, on a "pollen allergy warning" day no less. Every inch of my body still itches and I'm sneezing like crazy. I suffer through Spring every year. It seems the older I get the more my allergies from my youth get. Crate Myrtle, for example, will practically close my windpipe if I get a good wiff of it. The weather alert actually suggested not going outside or wearing a mask. I ignored it and loaded my bike up on my rack and car caked with yellow pollen just from our little location here in the apartments. Nothing affected me really yesterday. I did get a mild sniffly nose during the ride, but I was having so much fun I didn't let it get to me. This morning, however, is different.
+
+The bad thing about pollen and these allergies is that they shut down my body completely. They inhibit any kind of productive brain function making knowledge work practically impossible. And they shut down fitness recovery as well, not to mention the ability to digest food. If you take a Benedryl it knocks you out. But even sleep isn't an escape because you deeply breath in whatever allergen is still around.
+
+One of the things I did wrong yesterday is that I did not *immediately* rinse my bike and walk directly into the shower. Instead, I walked around the kitchen to make food and talk. Who knows how much pollen I spread all over the house that will now have to eventually be air filtered out. Lesson learned: treat pollen like Covid-19.
