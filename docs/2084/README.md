@@ -1,0 +1,3 @@
+# Don't use Garmin Connect web site to create routes
+
+Made the mistake of using the extremely buggy Garmin Connect web site route creator and lost several hours on all its bugs. While it does allow the creation of points of interest on the paths, it is not worth having the entire route fail to download. By exporting the broken route to GPX and then importing into Strava it saved it, and with the Strava widget automatically updated my routes on my Edge 530. After reading the support forums it seems that Garmin has a very poor track record for reliability in many of its services on the web. Best to just avoid them.
