@@ -1,3 +1,0 @@
-# The RWX community mission
-
-
