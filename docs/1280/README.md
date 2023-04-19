@@ -24,7 +24,3 @@ maintaining software packages that are composed into a full application.
 
 Once again I'm reminded that coding people is much like coding programs.
 Their method of storage is just different.
-
-Tags
-
-    #planning #skilstak
