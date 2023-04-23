@@ -1,5 +1,7 @@
 # Dropping zettelkasten, zet composition, and zet name, back to kn
 
+***Update: MkDocs is unsustainable shit. Do NOT use it!***
+
 Originally, my `zet` command was `kn` and stood for "knowledge" or "knowledge node" or "knowledge network." At the time I had never heard of zettelkasten method. I remember bawking at all the people suggesting I just use Obsidian and follow zettelkasten. Then I researched it extensively and noticed a lot of good in what Luhmann did. Now, after using that method for over two years, I can safely conclude that the zettelkasten method is too significantly flawed to be of value in 2023. Don't misunderstand, there are plenty of valuable insights provided, but they need to be incorporated into a modern world, with modern assumptions. Here's a summary:
 
 * Document paradigm is superior to zettel (slip) paradigm
@@ -8,7 +10,7 @@ Originally, my `zet` command was `kn` and stood for "knowledge" or "knowledge no
 * Computers are not going away
 * Composition doesn't work with documents like software
 * Hyperlinking is *still* (and always was) broken
-* Knowledge source in MkDocs Markdown is best
+* ~~Knowledge source in MkDocs Markdown is best~~ (discovered *major* MkDocs flaws)
 * Searchability is top priority
 * Search engines and AI are the new normal
 
