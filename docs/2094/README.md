@@ -1,6 +1,6 @@
 # Dropping zettelkasten, zet composition, and zet name, back to kn
 
-***Update: MkDocs is unsustainable shit. Do NOT use it!***
+***Update: [MkDocs is unsustainable shit](../2100). Do NOT use it!***
 
 Originally, my `zet` command was `kn` and stood for "knowledge" or "knowledge node" or "knowledge network." At the time I had never heard of zettelkasten method. I remember bawking at all the people suggesting I just use Obsidian and follow zettelkasten. Then I researched it extensively and noticed a lot of good in what Luhmann did. Now, after using that method for over two years, I can safely conclude that the zettelkasten method is too significantly flawed to be of value in 2023. Don't misunderstand, there are plenty of valuable insights provided, but they need to be incorporated into a modern world, with modern assumptions. Here's a summary:
 
@@ -18,7 +18,7 @@ These conclusions are fundamentally at odds with beliefs I had about these thing
 
 ## Document paradigm is superior to zettel (slip) paradigm
 
-HTML adopted the idea of a document being the fundamental unit of the WorldWideWeb, and for good reason. The world of information continues to be dominated by documentation in document formats. There's no better evidence of this than the hugely popular and successful readthedocs and MkDocs projects. These projects have very successfully demonstated that when people want something to read, they want it in a consistent, document-oriented, searchable format. In fact, I consider MkDocs with Material to be the defacto standard for all content that has as its priority readable consumption. It is far superior to any wiki content organization, and much more digestable than zettelkasten's disjointed approach to content.
+HTML adopted the idea of a document being the fundamental unit of the WorldWideWeb, and for good reason. The world of information continues to be dominated by documentation in document formats. There's no better evidence of this than the hugely popular and successful readthedocs and MkDocs projects. These projects have very successfully demonstrated that when people want something to read, they want it in a consistent, document-oriented, searchable format. In fact, I consider MkDocs with Material to be the defacto standard for all content that has as its priority readable consumption. It is far superior to any wiki content organization, and much more digestible than zettelkasten's disjointed approach to content.
 
 This is no surprise to most rational people. It's how we have been writing school papers, journalism articles, and non-fiction books since the beginning of history. For some reason, I felt the need to overcomplicate the process by breaking them all out and then pasting them back together.
 
