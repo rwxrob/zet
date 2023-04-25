@@ -50,4 +50,4 @@ Climbers in the pro camps are separated out into groups and work on threshold in
 
 ### Get light
 
-Climbing is all about weight so that means that I need to set my goal around 61 kg (instead of 67) even though I've normally maintained about 70 kg most of my life. It also means that if and when I invest in a road bike that I'll be targeting the Trek Edmonda or something like it.
+Climbing is all about weight so that means that I need to set my goal around 60 kg (instead of 67) even though I've normally maintained about 70 kg most of my life. It also means that if and when I invest in a road bike that I'll be targeting the Trek Edmonda or something like it. I've not been that light since my high-school cycling days so this will be interesting.
