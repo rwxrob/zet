@@ -25,8 +25,8 @@
 25	2022-12-04 23:36:24Z	Today I Learned About `crictl` and OMG
 26	2022-12-04 23:36:24Z	MUDL Pedagogy + 3D Graphics
 27	2022-12-04 23:36:24Z	Pure Go SQLite3 Module
-28	2023-03-21 12:30:48Z	SKILSTAK Beginner Boost Moved to Saturdays
-29	2023-03-21 12:30:48Z	Add sadservers.com to List of Practice Sites
+28	2023-02-05 18:16:53Z	SKILSTAK Beginner Boost Moved to Saturdays
+29	2022-12-04 23:36:24Z	Add sadservers.com to List of Practice Sites
 30	2022-12-04 23:36:24Z	Use Bash instead of `realpath` to get real path
 31	2022-12-04 23:36:24Z	Zsh is Shit: Unnecessary Zsh Completion Complexity
 32	2022-12-04 23:36:24Z	Use `if has("eval")` for `vim-tiny` Detection
@@ -192,7 +192,7 @@
 195	2022-12-04 23:36:24Z	Good Morning: Thursday, December  2, 2021
 196	2022-12-04 23:36:24Z	Kubernetes Learning Resources
 197	2022-12-04 23:36:24Z	Should I Do 2020 Boost First or Just 2021?
-198	2022-12-04 18:36:24Z	Use Assignment to Clone in Go
+198	2022-12-04 23:36:24Z	Use Assignment to Clone in Go
 199	2022-12-04 23:36:24Z	Learn Using Real Tech, Not Emulations
 200	2022-12-04 23:36:24Z	Wish: `kubectl explain` with Tab Completion
 201	2022-12-04 23:36:24Z	Is it Hard to Design Large Projects with More Experience?
@@ -278,7 +278,7 @@
 283	2022-12-04 23:36:24Z	Interactive JSON with `ijq` for Learning
 284	2022-12-04 23:36:24Z	What do you think about microk8s vs minikube?
 285	2022-12-04 23:36:24Z	Spotify Command Line Tool in Go
-286	2022-12-04 18:36:24Z	Use `netshoot` to Peek Inside Your K8S App
+286	2022-12-04 23:36:24Z	Use `netshoot` to Peek Inside Your K8S App
 287	2022-12-04 23:36:24Z	Markdown Reference Links
 288	2022-12-04 23:36:24Z	Valid Hashtag Characters (in PEGN)
 289	2022-12-04 23:36:24Z	Zettel Category: Site
@@ -367,7 +367,7 @@
 372	2022-12-04 23:36:24Z	Open Policy Agent (OPA) Policy Library
 373	2022-12-04 23:36:24Z	Use `jo` with `curl --json` and `jq` for JSON
 374	2022-12-04 23:36:24Z	Knowledge Repos
-375	2023-01-06 14:32:36Z	Twitch stream titles
+375	2023-01-06 19:32:36Z	Twitch stream titles
 376	2022-12-04 23:36:24Z	Personal Go Project Testing Conventions
 377	2022-12-04 23:36:24Z	The Go YAML Package Discards String Quotes
 378	2022-12-04 23:36:24Z	Mimir™ Personal Knowledge Management Assistant
@@ -439,7 +439,7 @@
 445	2022-12-04 23:36:24Z	Zettel Category: Boost
 446	2022-12-04 23:36:24Z	Working with Logical Volumes (LVM) in 2022
 447	2022-12-04 23:36:24Z	Adjust Offset Date/Time Easily
-448	2022-12-04 18:36:24Z	Considering Phd in Information Systems
+448	2022-12-04 23:36:24Z	Considering Phd in Information Systems
 449	2022-12-04 23:36:24Z	Importance of CGO_ENABLED=0 for Go Devs
 450	2022-12-04 23:36:24Z	Monorepos Do Make a Lot of Sense for Enterprise
 451	2022-12-04 23:36:24Z	Similarities to and Influence of Scouting Program
@@ -521,7 +521,7 @@
 527	2022-12-04 23:36:24Z	Power Searching with Zettelkasten and GitHub
 528	2022-12-04 23:36:24Z	Add a Test HTTP Server to Kubernetes from Command Line
 529	2022-12-04 23:36:24Z	Tools You Get on Exam
-530	2022-12-04 23:36:24Z	CaddyServer.com, Web Server in Go
+530	2023-01-24 17:44:34Z	Caddy web server in Go
 531	2022-12-04 23:36:24Z	Containerd vs CRI-O
 533	2022-12-04 23:36:24Z	Learning is Non-Linear
 534	2022-12-04 23:36:24Z	Annoyed at How Wrong the Kubectl Cheat Sheet Is
@@ -606,7 +606,7 @@
 613	2022-12-04 23:36:24Z	Favorite Rob Pike Video "Why Learn Go?"
 614	2022-12-04 23:36:24Z	Why don't you like OOP/Java/C++/C#/SmallTalk?
 615	2022-12-04 23:36:24Z	Stuff to Remember About Kubernetes Storage
-616	2023-02-13 21:46:50Z	IRL Streaming Lessons Learned
+616	2023-02-14 02:46:50Z	IRL Streaming Lessons Learned
 617	2022-12-04 23:36:24Z	Get the BEST Job, Not Just *Any* Job
 618	2022-12-04 23:36:24Z	English is a Fundamental Tech Requirement
 619	2022-12-04 23:36:24Z	Do You Have a Favorite OS?
@@ -674,7 +674,7 @@
 681	2022-12-04 23:36:24Z	Check Args with `[[ -n "$1" ]]` Not `(( $# > 0 ))`
 682	2022-12-04 23:36:24Z	Workstation Docker Images FTW!
 683	2022-12-04 23:36:24Z	Unique Lines Without Sorting with Awk
-684	2022-12-04 18:36:24Z	Need Twitch/Live/YouTube Bot with CI/CD
+684	2022-12-04 23:36:24Z	Need Twitch/Live/YouTube Bot with CI/CD
 685	2022-12-05 00:12:47Z	Arch safer than i thought, still not for beginners
 686	2022-12-04 23:36:24Z	What is your display resolution?
 687	2022-12-04 23:36:24Z	Twitch Emotes to Be Made
@@ -701,7 +701,7 @@
 708	2022-12-04 23:36:24Z	Strong Opinions, Weakly (or Weekly) Held
 709	2022-12-04 23:36:24Z	Yet Another Dumb-Ass Compares Zsh to Bash
 710	2022-12-04 23:36:24Z	Adding Closed Captioning to Twitch
-711	2022-12-04 18:36:24Z	Back to simple integers and isosec identifiers
+711	2022-12-04 23:36:24Z	Back to simple integers and isosec identifiers
 712	2022-12-04 23:36:24Z	Watching Stuff Together on https://kosmi.io/
 713	2022-12-04 23:36:24Z	Actually, `podman` Might Be Better Than `docker`
 714	2022-12-04 23:36:24Z	Casting Go Slice to Interface Requires Loop
@@ -762,7 +762,7 @@
 769	2022-12-04 23:36:24Z	RedHat's Undeniable 'Control Points' in Linux
 770	2022-12-04 23:36:24Z	Get `kind` to Start Exploring Kubernetes
 771	2022-12-04 23:36:24Z	Zettelkasten Static Site Generator for Web
-772	2022-12-04 18:36:24Z	Need to switch everything to YubiKey
+772	2022-12-04 23:36:24Z	Need to switch everything to YubiKey
 773	2022-12-04 23:36:24Z	Inferred Completion from Usage is Idiotic
 774	2022-12-04 23:36:24Z	KEGML -> KEG Mark (meh, same diff)
 775	2022-12-04 23:36:24Z	Actual Issue Opened for `rm -rf /usr` on Install
@@ -780,7 +780,7 @@
 787	2022-12-04 23:36:24Z	April Fools Day is One of My Favorites
 788	2022-12-04 23:36:24Z	News for 2021, Week 44
 789	2022-12-04 23:36:24Z	Control-Plane Components are Executables in Pods
-790	2023-02-02 11:54:12Z	IRL Streaming Kit Conclusions
+790	2023-02-02 16:54:12Z	IRL Streaming Kit Conclusions
 791	2022-12-04 23:36:24Z	Shell `printf` is Not Same as Other Languages
 792	2022-12-04 23:36:24Z	Power of the Bash Null Command (:)
 794	2022-12-04 23:36:24Z	OIDC Setup for Kubernetes klogin
@@ -788,7 +788,7 @@
 796	2022-12-04 23:36:24Z	GitHub Projects Not as Good as Issues
 797	2022-12-04 23:36:24Z	Scanning and Parsing Dilemma
 798	2022-12-04 23:36:24Z	Kind Service Mapping Sucks Compared to Minikube
-799	2022-12-04 18:36:24Z	Ideas for SKILSTAK Books to Write
+799	2022-12-04 23:36:24Z	Ideas for SKILSTAK Books to Write
 800	2022-12-04 23:36:24Z	JSON Path and Go Templates Mandatory Learning
 801	2022-12-04 23:36:24Z	"But Microsoft Windows Telemetry?" I *Choose* Public
 802	2022-12-04 23:36:24Z	Ubuntu/PopOS Fix for `libvirt` and `virt-manager`
@@ -902,7 +902,7 @@
 912	2022-12-04 23:36:24Z	Using Twitch Commands During Boost Presentations
 913	2022-12-04 23:36:24Z	Use `sshpass` When You Must Use `ssh` Passwords
 914	2022-12-04 23:36:24Z	Figure: Sample Mr. Rob
-915	2022-12-04 18:36:24Z	YouTube Description Footer
+915	2022-12-04 23:36:24Z	YouTube Description Footer
 916	2022-12-04 23:36:24Z	Surprise, Docker Desktop is Proprietary (Not FOSS)
 917	2022-12-04 23:36:24Z	Tempted to Do All the KodeKloud Stuff
 918	2022-12-04 23:36:24Z	How to Install `kind` to Learn Kubernetes
@@ -963,10 +963,10 @@
 973	2022-12-04 23:36:24Z	Go 101 Looks Pretty Damn Good, and Free
 974	2022-12-04 23:36:24Z	How Do You Fight Burnout?
 975	2022-12-04 23:36:24Z	Q: Do you hate virtual machines (VMs)?
-976	2023-01-26 00:29:24Z	rwxrob.tv: !rig !setup !specs !homelab !monitor !monitors !distro !os
+976	2023-01-26 05:29:24Z	rwxrob.tv: !rig !setup !specs !homelab !monitor !monitors !distro !os
 977	2022-12-06 04:03:51Z	Simple command dependency checking in perl
 978	2022-12-04 23:36:24Z	Greed and Power Have Destroyed Learning
-979	2022-12-04 18:36:24Z	Personal Preference for Go Code Organization
+979	2022-12-04 23:36:24Z	Personal Preference for Go Code Organization
 982	2022-12-04 23:36:24Z	Just Getting Into Buildah
 983	2022-12-05 11:32:21Z	Do not write Go malware from GitHub
 984	2022-12-04 23:36:24Z	Know How Bash Regex and Patterns Differ
@@ -1003,7 +1003,7 @@
 1016	2022-12-04 23:36:24Z	Content Organization and Locations
 1017	2022-12-04 23:36:24Z	First Go Bonzai Project Actually Paid to Do
 1018	2022-12-04 23:36:24Z	One Possible Future
-1019	2022-12-19 14:26:19Z	Books I want to write
+1019	2022-12-19 19:26:19Z	Books I want to write
 1020	2022-12-04 23:36:24Z	Determine Best First Language for *You*
 1021	2022-12-04 23:36:24Z	Call Shell Function Same as Script with `"$@"`
 1022	2022-12-04 23:36:24Z	CN VIPs: Kelsey Hightower, Google
@@ -1016,7 +1016,7 @@
 1029	2022-12-04 23:36:24Z	"Personal Knowledge Grids" *Yawn*
 1030	2022-12-04 23:36:24Z	Learning Lab: Setup Qemu Virtual Machine on Linux
 1031	2022-12-04 23:36:24Z	Set `PATH` to Nothing to Distinguish Builtins
-1032	2022-12-04 18:36:24Z	My Top Priorities for Boost
+1032	2022-12-04 23:36:24Z	My Top Priorities for Boost
 1033	2022-12-04 23:36:24Z	BonzaiMark in PEGN and/or `goyacc`?
 1034	2022-12-04 23:36:24Z	Setup KVM Virtualisation
 1035	2022-12-04 23:36:24Z	Flat-Files are Fine
@@ -1209,7 +1209,7 @@
 1222	2022-12-04 23:36:24Z	Go 1.16 `go get` Effectively Deprecated
 1223	2022-12-04 23:36:24Z	Bash Creator: Brian J Fox
 1224	2022-12-04 23:36:24Z	Quote: "C/C++ is good way to say ..."
-1225	2022-12-04 18:36:24Z	SKILSTAK Beginner Boost 2022
+1225	2022-12-04 23:36:24Z	SKILSTAK Beginner Boost 2022
 1226	2022-12-04 23:36:24Z	How stupid is NeoVim for removing `view`
 1227	2022-12-04 23:36:24Z	K8SAPP Metadata
 1228	2022-12-04 23:36:24Z	Learn InfiniBand For High Performance Network Work
@@ -1264,7 +1264,7 @@
 1277	2022-12-04 23:36:24Z	Explore, Experiment, and Exercise
 1278	2022-12-04 23:36:24Z	Istio Fucks Up `kubectl run`, Forever
 1279	2022-12-04 23:36:24Z	Boost: Doors, Next and Previous
-1280	2023-04-19 07:34:00Z	Rebooting SKILSTAK Learning Community
+1280	2023-04-19 11:34:00Z	Rebooting SKILSTAK Learning Community
 1281	2022-12-04 23:36:24Z	Hey CNCF, Trolled Us Hard with "Open Curriculum"
 1282	2022-12-04 23:36:24Z	Vagrant 3.0 Ported to Go, But ...
 1283	2022-12-04 23:36:24Z	Neo Looks Like `tmatrix` But is Better
@@ -1302,7 +1302,7 @@
 1315	2022-12-04 23:36:24Z	What do you think of blockchain?
 1316	2022-12-04 23:36:24Z	Multi-Language Support Dilemmas
 1317	2022-12-04 23:36:24Z	Distinguish Yourself by Learning Shell Coding
-1318	2022-12-04 18:36:24Z	Pixel Fitness App Counts Heart Rate with Camera
+1318	2022-12-04 23:36:24Z	Pixel Fitness App Counts Heart Rate with Camera
 1319	2022-12-04 23:36:24Z	Bonzai, Vertex (Branch) and Edge (Leaf) Commands
 1320	2022-12-04 23:36:24Z	KeyCloak is an Opensource IAM Tool (OpenID, Oauth)
 1321	2022-12-04 23:36:24Z	SKILSTAK Preparing Stage
@@ -1408,7 +1408,7 @@
 1423	2022-12-04 23:36:24Z	Filtering All Containers on Given Network
 1424	2022-12-04 23:36:24Z	Keep a Log in Git (Especially Contractors at Work)
 1425	2022-12-04 23:36:24Z	Node and GPU Feature Discovery Namespaces Combined
-1426	2022-12-04 18:36:24Z	Can We Please Use Another Word Besides "Awesome"
+1426	2022-12-04 23:36:24Z	Can We Please Use Another Word Besides "Awesome"
 1427	2022-12-04 23:36:24Z	The (Actual) UNIX Philosophy
 1428	2022-12-04 23:36:24Z	More Vim Learning Resources
 1429	2022-12-04 23:36:24Z	Go http.ReponseRecorder is So Amazing
@@ -1453,7 +1453,7 @@
 1468	2022-12-04 23:36:24Z	News for 2021, Week 45
 1469	2022-12-04 23:36:24Z	Mac Minis Support Netboot, Thank God
 1470	2022-12-04 23:36:24Z	Change Terminal to 95 x 26 (Font Size 30)
-1471	2022-12-04 18:36:24Z	Get Latest Released Version from GitHub with Bash
+1471	2022-12-04 23:36:24Z	Get Latest Released Version from GitHub with Bash
 1472	2022-12-04 23:36:24Z	CGO Cross Compilation with `xgo`
 1473	2022-12-04 23:36:24Z	Colearning Cloud-Native and Kubernetes (Fridays 12-3pm)
 1474	2022-12-04 23:36:24Z	Use `cat /etc/issue` to Check Linux Distro
@@ -1642,7 +1642,7 @@
 1660	2022-12-04 23:36:24Z	Super Impressed with Github Dependabot
 1661	2022-12-04 23:36:24Z	Avoid Twitch CLI (`twitch`) Configuration Gotchas
 1662	2022-12-04 23:36:24Z	ZettelMark: ZettelCast Video Link 
-1663	2022-12-04 18:36:24Z	Check for Latest GitHub Release with Go
+1663	2022-12-04 23:36:24Z	Check for Latest GitHub Release with Go
 1664	2022-12-04 23:36:24Z	Always Create Aliases with Single Quotes
 1665	2022-12-04 23:36:24Z	Going to Make `live` Streamer Tool
 1666	2022-12-04 23:36:24Z	Figure: Sir Ken Robinson PhD (1950-2020)
@@ -1794,14 +1794,14 @@
 1830	2022-12-20 14:45:12Z	And Go Glamour doesn't know about generics either
 1831	2022-12-20 15:21:45Z	When a CEO has a soul, it shows
 1832	2022-12-21 15:27:31Z	Creating `scanner` as new home for `scan` (not `pegn`)
-1833	2022-12-22 02:36:57Z	🤬 Microsoft documentation web site requires JavaScript
+1833	2022-12-22 07:36:57Z	🤬 Microsoft documentation web site requires JavaScript
 1834	2022-12-22 07:57:39Z	Glamour (goldmark) considers blockquotes big, long sentences
 1836	2022-12-22 13:09:25Z	Review of Goldmark source code reconfirmed need for PEGN (end of 2024)
 1837	2022-12-22 09:33:31Z	Don't link, include dependent keg content
 1838	2022-12-22 12:32:17Z	Resolving grounding loop buzz and sound board artifacts
 1839	2022-12-22 13:27:40Z	Bonzai best practice: high-level API and `Cmd` get separate repos
 1840	2022-12-22 15:43:52Z	📞 Are there Linux "front-end" CLI dev jobs?
-1841	2023-02-05 15:08:35Z	📞 QCA archived questions, conversations, advice
+1841	2023-02-05 20:08:35Z	📞 QCA archived questions, conversations, advice
 1842	2022-12-22 14:40:15Z	Remember, remember the fifth of November
 1843	2022-12-22 15:44:08Z	The YAML "Norway" Problem
 1844	2022-12-22 15:44:20Z	📞 What are "stateful command trees"?
@@ -1816,7 +1816,7 @@
 1854	2022-12-22 15:45:36Z	📞 How does KEG compare to Wikipedia?
 1855	2022-12-22 15:40:13Z	KEGML initial docs
 1856	2022-11-11 02:31:31Z	Overview of functional scanning and parsing with PEGN
-1857	2023-01-22 12:59:29Z	PEGN scanner interface and functions
+1857	2023-01-22 17:59:29Z	PEGN scanner interface and functions
 1858	2022-12-22 15:45:46Z	Wondering if Go templates would be best for filters and snippets
 1859	2022-12-22 15:45:49Z	Footnotes *require* surrounding blank lines
 1860	2022-12-22 15:35:33Z	Watch out when copying Glamour output for bullets, etc.
@@ -1845,7 +1845,7 @@
 1884	2022-12-28 09:01:01Z	PEGs are greedy and blind by default, don't use negative lookaheads
 1885	2022-12-31 15:26:04Z	PEG packrat parsing requires memoization with `map` in Go
 1886	2022-12-29 11:37:33Z	Almost dropped `rat.Result.R` because annoying, but we need it
-1887	2023-03-18 11:22:18Z	Use structs for type switching in Go
+1887	2023-03-18 15:22:18Z	Use structs for type switching in Go
 1888	2022-12-30 15:54:40Z	I just (re)discovered anonymous/nameless fields in Go, and OMFG!
 1889	2022-12-29 14:37:19Z	Better to do type assertions in central `Pack` function
 1890	2022-12-30 12:13:25Z	Use Twitter/Mastodon profile to bookmark tags
@@ -1853,32 +1853,32 @@
 1892	2022-12-31 15:23:55Z	Go `unicode.RangeTables` maps are fast/safe for concurrent reads
 1893	2022-12-31 15:17:46Z	Go maps are safe for concurrent reads (as best we can tell)
 1894	2022-12-31 16:18:29Z	Pass Go maps as-is (`mymap`), slices by pointer (`&myslice`)
-1895	2023-02-08 04:11:51Z	2023 New Year Resolutions and Goals
+1895	2023-02-08 09:11:51Z	2023 New Year Resolutions and Goals
 1896	2023-01-01 19:32:23Z	Return to daily Ashtanga yoga practice
 1897	2023-01-01 19:35:33Z	Prepare for move to Greensboro
 1898	2023-01-01 19:39:20Z	Complete major version of enterprise REST API in Go at work
 1899	2023-01-01 19:44:16Z	Maybe no Beginner Boost for 2023
 1900	2023-01-03 19:51:51Z	Kubernetes *administration* is not a top priority in 2023
-1901	2023-02-19 12:26:23Z	Books to complete by end of 2023
+1901	2023-02-19 17:26:23Z	Books to complete by end of 2023
 1902	2023-01-01 20:56:10Z	Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`
 1903	2023-01-08 14:51:03Z	Personal publishing platform (`pub`)
 1904	2023-01-01 21:58:48Z	No conference presentations in 2023 (but definitely in 2024)
-1905	2023-01-20 10:19:16Z	Twitch no-VOD, pomo-radio format and multiple categories for 2023
+1905	2023-01-20 15:19:16Z	Twitch no-VOD, pomo-radio format and multiple categories for 2023
 1906	2023-01-01 21:54:42Z	💩 confs.tech was developed by fucking morons
 1907	2023-01-01 21:53:33Z	💩 dev.events was developed by fucking morons
 1908	2023-01-02 14:17:35Z	The clig.dev means well, but still misses the most important point
 1909	2023-01-02 16:49:03Z	Damn, are all these commit going to annoy everyone?
-1910	2023-01-18 01:23:08Z	🧘Yoga Log
+1910	2023-01-18 06:23:08Z	🧘Yoga Log
 1911	2023-01-02 23:16:35Z	Eight limbs of Ashtanga yoga
 1912	2023-01-03 15:33:11Z	Focusing on CKAD, Kubernetes applications development
 1913	2023-01-09 15:34:23Z	📺 rwxrob.tv is all about HackerBeachYogaVibe for 2023
-1914	2023-01-26 00:33:25Z	rwxrob.tv: !novods
+1914	2023-01-26 05:33:25Z	rwxrob.tv: !novods
 1915	2023-01-03 17:53:11Z	Use of initial exclamation point for Twitch and bot commands
 1916	2023-01-05 20:00:25Z	Creating a minimal Go webhooks server
 1917	2023-01-03 19:35:51Z	Is it worth using google/go-github?
 1918	2023-01-05 17:58:18Z	ngrok.io looks amazing!
 1919	2023-01-04 13:50:46Z	🐧 Homelab `init` on Saturdays
-1920	2023-01-20 12:02:00Z	rwxrob.tv: !tldr
+1920	2023-01-20 17:02:00Z	rwxrob.tv: !tldr
 1921	2023-01-04 14:27:31Z	TODO write my own damn Twitch bot
 1922	2023-01-04 16:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
 1923	2023-01-04 16:21:59Z	TODO: Setup LDAP PAM/SSH authentication in homelab
@@ -1889,15 +1889,15 @@
 1928	2023-01-05 12:19:58Z	Forward x11 display through ssh
 1929	2023-01-05 13:21:34Z	GitHub decided to stop giving search results
 1930	2023-01-05 14:25:01Z	Loopback mount an ISO image in Linux
-1931	2023-02-19 12:32:17Z	Should I use copilot?
+1931	2023-02-19 17:32:17Z	Should I use copilot?
 1932	2023-01-05 18:38:12Z	Generics could be used to do generic JSON unmarshaling
 1934	2023-01-05 18:46:27Z	There's a GitHub webhook for pretty much everything
 1936	2023-01-10 01:52:28Z	rwxrob.tv: !go !golang
 1937	2023-01-06 15:39:33Z	Twitch (chat bot) commands as zettels
 1938	2023-01-06 15:21:12Z	Optimized personal search parameters for KEG and zettelkasten
-1939	2023-01-06 10:12:05Z	Length of KEG URL needs to be under 100
+1939	2023-01-06 15:12:05Z	Length of KEG URL needs to be under 100
 1940	2023-01-10 01:52:28Z	rwxrob.tv: !legal !onair !recording !rights
-1941	2023-02-16 10:20:05Z	rwxrob.tv: !command !commands !cmds !cmd
+1941	2023-02-16 15:20:05Z	rwxrob.tv: !command !commands !cmds !cmd
 1942	2023-01-10 02:21:23Z	rwxrob.tv: !support !sponsor !tip
 1943	2023-01-10 01:52:28Z	rwxrob.tv: !jobs
 1944	2023-01-10 01:52:28Z	rwxrob.tv: !dobetter
@@ -1913,9 +1913,9 @@
 1955	2023-01-08 14:56:47Z	Creating `mim` as my bot to ask questions of from anywhere
 1956	2023-01-08 15:04:40Z	Realizing `rat` is in critical path of `keg` and `mim`
 1957	2023-01-09 14:49:56Z	Favorite Twitch clips
-1958	2023-01-09 20:46:29Z	rwxrob.tv: !coworking !cowork !co-work !co-working
-1959	2023-01-29 12:52:27Z	rwxrob.tv: !cal !sched !calendar !schedule !week !today !day
-1960	2023-01-14 15:35:55Z	rwxrob.tv: !music !song !spotify !playlist
+1958	2023-01-10 01:46:29Z	rwxrob.tv: !coworking !cowork !co-work !co-working
+1959	2023-01-29 17:52:27Z	rwxrob.tv: !cal !sched !calendar !schedule !week !today !day
+1960	2023-01-14 20:35:55Z	rwxrob.tv: !music !song !spotify !playlist
 1961	2023-01-10 02:09:12Z	rwxrob.tv: !dox !info !bio !about !map !job !work !remote !school !irl
 1963	2023-01-10 17:14:41Z	Optimal streaming music volume is between -15 and -10
 1964	2023-01-10 17:17:29Z	Max system and application volumes with analog out
@@ -1923,131 +1923,134 @@
 1966	2023-01-11 20:56:29Z	Use `slices.Contains` in Go 1.18 or later
 1967	2023-01-14 17:55:46Z	"Golden hour" Best time to photograph or stream outside sunrise/sunset
 1968	2023-01-16 18:42:39Z	Russian phonetic keyboard
-1969	2023-01-23 12:44:07Z	Newly learning Russian words (and old words remembered)
+1969	2023-01-23 17:44:07Z	Newly learning Russian words (and old words remembered)
 1970	2023-01-15 21:22:39Z	"Silicon Valley" writers plagiarized www.scala-lang.org for opener
 1971	2023-01-15 21:22:29Z	You "don't want to have revenue"
 1972	2023-01-16 23:37:02Z	Difference between memoized functions and single interpreter function
 1973	2023-01-17 04:24:13Z	"Twitch is an audio medium with visual treats." (WhySoDankness)
-1974	2023-01-17 09:29:57Z	Just hearing about Caddy Web server (TLS only)
-1975	2023-01-17 09:56:33Z	Detach from Docker container without closing session
-1976	2023-01-17 15:30:36Z	Get Hugo to see README.md instead of (the stupid) `_index.md`
-1977	2023-01-19 00:29:07Z	PEGN 2023 is amazing, I'm so pleased, soon no more regex for me
-1978	2023-01-18 16:06:56Z	Dealing with dog and seasonal allergies
-1979	2023-01-18 22:05:47Z	Film: Vengeance
-1980	2023-01-19 16:30:54Z	Use of emojis as categorizations in zet doesn't work without help
-1981	2023-01-19 16:35:21Z	100 is the new 72 (maximum terminal columns to assume)
-1982	2023-01-20 08:29:56Z	No more swearing for me, well, mostly
-1983	2023-01-20 08:41:48Z	Going for "lofi" girl feel, but old yoga dude, and live (on Twitch)
-1984	2023-01-20 09:07:54Z	Vendoring Go mods that depend on C
-1985	2023-01-20 14:56:43Z	rwxrob.tv: !chill
-1986	2023-01-21 14:54:53Z	PEGN 2023 is so much better than previous version
-1987	2023-01-22 13:24:25Z	rwxrob.tv: !pegn !peg
-1988	2023-01-22 13:08:09Z	How to get emojis from a Mac
-1989	2023-01-22 13:18:42Z	rwxrob.tv: !rat !ratx !ratex
-1990	2023-01-24 12:33:45Z	github.com/go-git/go-git pure Go Git implementation
-1991	2023-01-24 13:04:15Z	Server-side includes and templates are the wrong fix to problem
-1993	2023-01-24 13:24:06Z	Use G navigation in lynx to jump to bottom of long (dumb) sites
-1994	2023-01-26 13:34:03Z	MkDocs seems best for most work documentation
-1995	2023-01-24 16:21:16Z	Hugo Go source code is an example of everything *not* to do in Go
-1996	2023-02-02 11:26:56Z	rwxrob.tv: !irl !belabox
-1997	2023-01-26 14:06:40Z	Download zip or tar of source from GitHub
-1998	2023-01-26 14:49:42Z	Kubernetes CronJob considerations
-1999	2023-01-26 15:25:37Z	Git cloning from within a K8S Pod
-2000	2023-01-26 15:25:20Z	Mounting PVC into a K8S CronJob
-2001	2023-01-26 16:03:19Z	Check content of a Kubernetes PVC PersistentVolumeClaim
-2002	2023-01-26 16:51:20Z	Share K8S PVC between Deployment and CronJob
-2003	2023-01-27 13:47:03Z	rwxrob.tv log: Thursday, January 26, 2023
-2004	2023-01-28 11:02:51Z	Update annotation to trigger rolling restart synced to configmap
-2005	2023-01-31 12:27:13Z	Safe IRL camping
-2006	2023-02-01 12:25:04Z	Streaming: breaking the "fourth wall" all the time
-2007	2023-02-02 11:51:12Z	What should IRL streamer call oneself to avoid confusion?
-2008	2023-02-06 01:04:29Z	Heart rate zones and "the talk test"
-2009	2023-02-08 03:48:07Z	Get to 150 lbs by mid-June
-2010	2023-02-09 04:12:54Z	Knowing when to disengage, and how to find *good* people
-2011	2023-02-12 10:42:36Z	Simulcasting live to Twitch and YouTube still banned
-2012	2023-02-12 12:06:38Z	Being mobile and going outside makes me love GUI and CUI again
-2013	2023-02-13 10:47:24Z	Twitch subs down to 109 from 138 in under 30 days
-2014	2023-02-13 11:15:19Z	Committed to being outside from 4:30-7:30pm every single day
-2015	2023-02-15 11:23:03Z	Belabox BEE is not really that great, honest
-2016	2023-02-16 11:19:47Z	rwxrob.tv: !bike
-2017	2023-02-16 12:35:07Z	Zen of knowledge-worker desk job health
-2018	2023-02-17 11:54:05Z	Using DankChat over IRL Chat
-2019	2023-02-17 12:04:23Z	QCA takes to much energy
-2021	2023-02-18 10:33:09Z	WebSocket server plugin included in OBS 28+!
-2022	2023-02-18 11:59:12Z	Hashicorp go-plugin has one show-stopping flaw
-2023	2023-02-18 12:05:52Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
-2024	2023-02-19 12:44:09Z	Proposed "telemetry" in Go will force a fork if approved
-2025	2023-02-20 21:41:21Z	No more notifications to anything but Discord
-2026	2023-02-20 22:56:50Z	Make sure to set Sony AS300 HDMI resolution to 1080p (not auto)
-2027	2023-02-23 10:51:14Z	Automatic invitation to rwxrob-starting
-2028	2023-02-23 12:41:46Z	Yoga isn't cutting it, back to P90x (LIIFT4)
-2029	2023-02-23 22:01:48Z	Twitch partner application
-2030	2023-02-24 01:44:44Z	Fixie gear ratio 2.75 (44-16) on Ghoul
-2031	2023-02-24 02:06:56Z	Decided never getting a fixie, too damn stupid
-2032	2023-02-24 14:09:51Z	Istio and internal DNS mandatory for Kubernetes homelab
-2033	2023-02-24 19:43:01Z	Society doesn't give a shit about human decency
-2034	2023-02-25 18:07:56Z	Live stream to Twitch, put VODs on YouTube
-2035	2023-02-26 09:51:47Z	Tony's yoga morning routine
-2036	2023-03-04 10:27:22Z	Leave Zwift FTP blank to get HR zones instead
-2037	2023-03-04 10:29:06Z	Use metric units in Zwift to get more XP
-2038	2023-03-04 10:29:49Z	Use the track bike to get more XP
-2039	2023-03-05 02:34:08Z	Random thoughts on Zwift streaming
-2040	2023-03-05 02:40:30Z	Aerobars for Zwift
-2041	2023-03-06 09:09:16Z	Changes to streaming and publishing
-2042	2023-03-06 09:08:43Z	Why most cycling indoors on Zwift?
-2043	2023-03-06 09:52:36Z	Bike usage and repair plans
-2044	2023-03-06 22:12:18Z	Sterzo Elite Smart block/steering makes me nauseous
-2046	2023-03-13 18:20:58Z	Fitness goals
-2047	2023-03-10 20:45:12Z	Don't bother with the Zwift Hub cassette, it's trash
-2048	2023-03-13 18:21:36Z	Zwift categories
-2049	2023-03-14 01:00:06Z	Simplifying Twitch streaming schedule
-2050	2023-03-13 21:05:36Z	SKILSTAK mentoring is back
-2051	2023-03-14 13:39:01Z	Training at night easier than morning (for me)
-2052	2023-03-16 07:15:04Z	Shimano SPDs for the urban and touring cycling win
-2053	2023-03-19 00:30:09Z	Group rides with "pace robot" are most fun in Zwift
-2054	2023-03-21 12:30:48Z	Why do humans squander everything?
-2055	2023-03-21 13:29:08Z	Bike + yoga + swim + good food + nature = joy over 50
-2056	2023-03-21 15:59:17Z	Spring cleaning my life and beliefs
-2059	2023-04-01 13:10:37Z	Personal commitments
-2060	2023-03-26 15:10:05Z	Streaming studio morphs into virtual gym
-2061	2023-03-27 01:56:54Z	Revisiting streaming and community building
-2062	2023-03-27 13:15:03Z	Stanford economics professor says work from home is good
-2063	2023-03-29 06:04:26Z	Don't overthink how to stay fit, your body already knows how
-2064	2023-03-29 05:48:41Z	Getting the best possible sleep (and recovery)
-2065	2023-03-29 05:08:23Z	Knowledge work from a Macbook Pro, FTW
-2066	2023-03-29 23:17:01Z	Fit is better than not-fat
-2067	2023-03-30 07:25:29Z	kubectl get and describe don't show secrets
-2068	2023-04-01 11:38:30Z	Best airflow fan setup for indoor (Zwift) cycling with table
-2069	2023-04-01 14:39:10Z	Options for MkDocs
-2070	2023-04-03 10:10:09Z	Don't be this guy, overtrained to the point of no return 
-2071	2023-04-03 04:24:24Z	Salsa is my favorite bike brand, just love them
-2072	2023-04-03 10:26:39Z	OMG the POLLEN!
-2073	2023-04-04 07:14:39Z	I like bike handling, climbing, occasional speed, and bike-packing
-2074	2023-04-05 10:03:40Z	KEG searchcentricity & just-in-time content creation
-2075	2023-04-05 10:37:26Z	KEG expanding to allow any content, not just KEGML, not Zettelkasten
-2076	2023-04-07 10:47:58Z	Freedom from live-streaming while cycling
-2077	2023-04-07 12:29:55Z	I'm a road cyclist who likes to explore and adventure
-2078	2023-04-08 10:37:50Z	Best way to listen to music while cycling
-2079	2023-04-08 12:05:53Z	Carbon frame? No, thank you.
-2080	2023-04-11 11:31:48Z	I'm an explorer, map-maker, and guide at heart
-2081	2023-04-13 09:15:39Z	Exploring is better than racing
-2082	2023-04-12 11:20:28Z	Steel for the win, with two wheelsets
-2083	2023-04-12 21:08:30Z	Prepping for long-distance, multi-day trips
-2084	2023-04-13 09:33:59Z	Don't use Garmin Connect web site to create routes
-2085	2023-04-13 09:45:00Z	MDHC 100k Rolling Hills Tour
-2086	2023-04-17 02:28:34Z	Hills, one versus many
-2087	2023-04-17 10:09:55Z	How to get requirements.txt PIP Python
-2088	2023-04-17 10:52:59Z	Back to being vegan, I refuse to be a part of the problem any more
-2089	2023-04-18 10:40:17Z	Wearing headphones can actually make you safer while cycling
-2090	2023-04-19 05:46:14Z	Stung by bee on 50 kph descent in traffic
-2091	2023-04-19 05:50:05Z	Giro Vanquish bike helmet better than Aether
-2092	2023-04-19 08:08:32Z	My pronouns are we/us/they/them 😏
-2093	2023-04-20 12:15:58Z	Okay, Python is back
-2094	2023-04-23 11:43:27Z	Dropping zettelkasten, zet composition, and zet name, back to kn
-2095	2023-04-20 13:23:31Z	I'm not a triathlete any longer, I have a life
-2096	2023-04-21 00:00:42Z	Kennedy Center Honors Led Zeppelin (and I cried my eyes out)
-2097	2023-04-21 20:07:03Z	Giro Vanquish (with visor) review
-2098	2023-04-22 08:23:44Z	What does success look like?
-2099	2023-04-23 10:38:38Z	Weight: 86.1 kilos (down from 93.3 Feb/3), goal still 67 kilos
-2100	2023-04-23 11:52:19Z	Python fails again, this time MkDocs
-2101	2023-04-25 14:11:47Z	I'm genetically built to be a climber (cyclist)
+1974	2023-01-17 14:29:57Z	Just hearing about Caddy Web server (TLS only)
+1975	2023-01-17 14:56:33Z	Detach from Docker container without closing session
+1976	2023-01-17 20:30:36Z	Get Hugo to see README.md instead of (the stupid) `_index.md`
+1977	2023-01-19 05:29:07Z	PEGN 2023 is amazing, I'm so pleased, soon no more regex for me
+1978	2023-01-18 21:06:56Z	Dealing with dog and seasonal allergies
+1979	2023-01-19 03:05:47Z	Film: Vengeance
+1980	2023-01-19 21:30:54Z	Use of emojis as categorizations in zet doesn't work without help
+1981	2023-01-19 21:35:21Z	100 is the new 72 (maximum terminal columns to assume)
+1982	2023-01-20 13:29:56Z	No more swearing for me, well, mostly
+1983	2023-01-20 13:41:48Z	Going for "lofi" girl feel, but old yoga dude, and live (on Twitch)
+1984	2023-01-20 14:07:54Z	Vendoring Go mods that depend on C
+1985	2023-01-20 19:56:43Z	rwxrob.tv: !chill
+1986	2023-01-21 19:54:53Z	PEGN 2023 is so much better than previous version
+1987	2023-01-22 18:24:25Z	rwxrob.tv: !pegn !peg
+1988	2023-01-22 18:08:09Z	How to get emojis from a Mac
+1989	2023-01-22 18:18:42Z	rwxrob.tv: !rat !ratx !ratex
+1990	2023-01-24 17:33:45Z	github.com/go-git/go-git pure Go Git implementation
+1991	2023-01-24 18:04:15Z	Server-side includes and templates are the wrong fix to problem
+1992	2023-01-24 21:08:18Z	Create a new k8s deployment
+1993	2023-01-24 18:24:06Z	Use G navigation in lynx to jump to bottom of long (dumb) sites
+1994	2023-01-26 18:34:03Z	MkDocs seems best for most work documentation
+1995	2023-01-24 21:21:16Z	Hugo Go source code is an example of everything *not* to do in Go
+1996	2023-02-02 16:26:56Z	rwxrob.tv: !irl !belabox
+1997	2023-01-26 19:06:40Z	Download zip or tar of source from GitHub
+1998	2023-01-26 19:49:42Z	Kubernetes CronJob considerations
+1999	2023-01-26 20:25:37Z	Git cloning from within a K8S Pod
+2000	2023-01-26 20:25:20Z	Mounting PVC into a K8S CronJob
+2001	2023-01-26 21:03:19Z	Check content of a Kubernetes PVC PersistentVolumeClaim
+2002	2023-01-26 21:51:20Z	Share K8S PVC between Deployment and CronJob
+2003	2023-01-27 18:47:03Z	rwxrob.tv log: Thursday, January 26, 2023
+2004	2023-01-28 16:02:51Z	Update annotation to trigger rolling restart synced to configmap
+2005	2023-01-31 17:27:13Z	Safe IRL camping
+2006	2023-02-01 17:25:04Z	Streaming: breaking the "fourth wall" all the time
+2007	2023-02-02 16:51:12Z	What should IRL streamer call oneself to avoid confusion?
+2008	2023-02-06 06:04:29Z	Heart rate zones and "the talk test"
+2009	2023-02-08 08:48:07Z	Get to 150 lbs by mid-June
+2010	2023-02-09 09:12:54Z	Knowing when to disengage, and how to find *good* people
+2011	2023-02-12 15:42:36Z	Simulcasting live to Twitch and YouTube still banned
+2012	2023-02-12 17:06:38Z	Being mobile and going outside makes me love GUI and CUI again
+2013	2023-02-13 15:47:24Z	Twitch subs down to 109 from 138 in under 30 days
+2014	2023-02-13 16:15:19Z	Committed to being outside from 4:30-7:30pm every single day
+2015	2023-02-15 16:23:03Z	Belabox BEE is not really that great, honest
+2016	2023-02-16 16:19:47Z	rwxrob.tv: !bike
+2017	2023-02-16 17:35:07Z	Zen of knowledge-worker desk job health
+2018	2023-02-17 16:54:05Z	Using DankChat over IRL Chat
+2019	2023-02-17 17:04:23Z	QCA takes to much energy
+2021	2023-02-18 15:33:09Z	WebSocket server plugin included in OBS 28+!
+2022	2023-02-18 16:59:12Z	Hashicorp go-plugin has one show-stopping flaw
+2023	2023-02-18 17:05:52Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
+2024	2023-02-19 17:44:09Z	Proposed "telemetry" in Go will force a fork if approved
+2025	2023-02-21 02:41:21Z	No more notifications to anything but Discord
+2026	2023-02-21 03:56:50Z	Make sure to set Sony AS300 HDMI resolution to 1080p (not auto)
+2027	2023-02-23 15:51:14Z	Automatic invitation to rwxrob-starting
+2028	2023-02-23 17:41:46Z	Yoga isn't cutting it, back to P90x (LIIFT4)
+2029	2023-02-24 03:01:48Z	Twitch partner application
+2030	2023-02-24 06:44:44Z	Fixie gear ratio 2.75 (44-16) on Ghoul
+2031	2023-02-24 07:06:56Z	Decided never getting a fixie, too damn stupid
+2032	2023-02-24 19:09:51Z	Istio and internal DNS mandatory for Kubernetes homelab
+2033	2023-02-25 00:43:01Z	Society doesn't give a shit about human decency
+2034	2023-02-25 23:07:56Z	Live stream to Twitch, put VODs on YouTube
+2035	2023-02-26 14:51:47Z	Tony's yoga morning routine
+2036	2023-03-04 15:27:22Z	Leave Zwift FTP blank to get HR zones instead
+2037	2023-03-04 15:29:06Z	Use metric units in Zwift to get more XP
+2038	2023-03-04 15:29:49Z	Use the track bike to get more XP
+2039	2023-03-05 07:34:08Z	Random thoughts on Zwift streaming
+2040	2023-03-05 07:40:30Z	Aerobars for Zwift
+2041	2023-03-06 14:09:16Z	Changes to streaming and publishing
+2042	2023-03-06 14:08:43Z	Why most cycling indoors on Zwift?
+2043	2023-03-06 14:52:36Z	Bike usage and repair plans
+2044	2023-03-07 03:12:18Z	Sterzo Elite Smart block/steering makes me nauseous
+2045	2023-03-08 16:05:51Z	
+2046	2023-03-13 22:20:58Z	Fitness goals
+2047	2023-03-11 01:45:12Z	Don't bother with the Zwift Hub cassette, it's trash
+2048	2023-03-13 22:21:36Z	Zwift categories
+2049	2023-03-14 05:00:06Z	Simplifying Twitch streaming schedule
+2050	2023-03-14 01:05:36Z	SKILSTAK mentoring is back
+2051	2023-03-14 17:39:01Z	Training at night easier than morning (for me)
+2052	2023-03-16 11:15:04Z	Shimano SPDs for the urban and touring cycling win
+2053	2023-03-19 04:30:09Z	Group rides with "pace robot" are most fun in Zwift
+2054	2023-03-19 16:21:21Z	Why do humans squander everything?
+2055	2023-03-26 19:54:18Z	Bike + yoga + swim + good food + nature = joy over 50
+2056	2023-03-26 19:54:18Z	Spring cleaning my life and beliefs
+2059	2023-04-01 17:10:37Z	Personal commitments
+2060	2023-03-26 19:54:18Z	Streaming studio morphs into virtual gym
+2061	2023-03-26 21:41:15Z	Revisiting streaming and community building
+2062	2023-04-01 17:10:37Z	Stanford economics professor says work from home is good
+2063	2023-04-01 17:10:37Z	Don't overthink how to stay fit, your body already knows how
+2064	2023-04-01 17:10:37Z	Getting the best possible sleep (and recovery)
+2065	2023-04-01 17:10:37Z	Knowledge work from a Macbook Pro, FTW
+2066	2023-04-01 17:10:37Z	Fit is better than not-fat
+2067	2023-04-01 17:10:37Z	kubectl get and describe don't show secrets
+2068	2023-04-01 17:10:37Z	Best airflow fan setup for indoor (Zwift) cycling with table
+2069	2023-04-01 18:39:10Z	Options for MkDocs
+2070	2023-04-08 00:10:40Z	Don't be this guy, overtrained to the point of no return 
+2071	2023-04-08 00:10:40Z	Salsa is my favorite bike brand, just love them
+2072	2023-04-08 00:10:40Z	OMG the POLLEN!
+2073	2023-04-08 00:10:40Z	I like bike handling, climbing, occasional speed, and bike-packing
+2074	2023-04-08 00:10:40Z	KEG searchcentricity & just-in-time content creation
+2075	2023-04-08 00:10:40Z	KEG expanding to allow any content, not just KEGML, not Zettelkasten
+2076	2023-04-08 00:10:40Z	Freedom from live-streaming while cycling
+2077	2023-04-08 00:10:40Z	I'm a road cyclist who likes to explore and adventure
+2078	2023-04-08 00:14:43Z	Best way to listen to music while cycling
+2079	2023-04-08 16:05:53Z	Carbon frame? No, thank you.
+2080	2023-04-17 14:08:43Z	I'm an explorer, map-maker, and guide at heart
+2081	2023-04-17 14:08:43Z	Exploring is better than racing
+2082	2023-04-17 14:08:43Z	Steel for the win, with two wheelsets
+2083	2023-04-17 14:08:43Z	Prepping for long-distance, multi-day trips
+2084	2023-04-17 14:08:43Z	Don't use Garmin Connect web site to create routes
+2085	2023-04-17 14:08:43Z	MDHC 100k Rolling Hills Tour
+2086	2023-04-17 14:08:43Z	Hills, one versus many
+2087	2023-04-17 14:09:55Z	How to get requirements.txt PIP Python
+2088	2023-04-17 14:52:59Z	Back to being vegan, I refuse to be a part of the problem any more
+2089	2023-04-18 14:40:17Z	Wearing headphones can actually make you safer while cycling
+2090	2023-04-19 09:46:14Z	Stung by bee on 50 kph descent in traffic
+2091	2023-04-19 09:50:05Z	Giro Vanquish bike helmet better than Aether
+2092	2023-04-19 12:08:32Z	My pronouns are we/us/they/them 😏
+2093	2023-04-20 17:01:16Z	Okay, Python is back
+2094	2023-04-23 15:43:27Z	Dropping zettelkasten, zet composition, and zet name, back to kn
+2095	2023-04-20 17:23:31Z	I'm not a triathlete any longer, I have a life
+2096	2023-04-21 04:00:42Z	Kennedy Center Honors Led Zeppelin (and I cried my eyes out)
+2097	2023-04-22 00:07:03Z	Giro Vanquish (with visor) review
+2098	2023-04-22 12:23:44Z	What does success look like?
+2099	2023-04-23 14:38:38Z	Weight: 86.1 kilos (down from 93.3 Feb/3), goal still 67 kilos
+2100	2023-04-23 15:52:19Z	Python fails again, this time MkDocs
+2101	2023-04-26 09:46:34Z	I'm genetically built to be a climber (cyclist)
+2102	2023-04-26 09:44:27Z	We won, but took the higher ground
