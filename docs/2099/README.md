@@ -1,4 +1,4 @@
-# Weight: 86.1 kilos (down from 93.3 Feb/3), goal still 67 kilos
+# Weight: 86.1 kilos (down from 93.3 Feb/3), goal still 60-62 kilos
 
 Even though I weighed 83.5 kilos after my long ride four days ago, my rested and fully recovered morning (post void) weight today is the real one: 86.1 kilos.
 
