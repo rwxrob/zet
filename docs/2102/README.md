@@ -1,4 +1,4 @@
-# We won, but took the higher ground
+# We won counter-suit, but took the higher ground
 
 "Are you sure!?" said the judge with that wonderful NC accent. He sounded surprised that I didn't want summary judgement awarding me 75 thousand dollars owed to us because Alicia (my ex) sought to defraud me and the government by not declaring those payments I made to her as "alimony" even though the definition of alimony is *any* money paid for spousal support no matter what it is called. The IRS law says that the *only* exception is that the contract must specifically state that such support is *not* considered alimony. I'll be forever grateful to Doris (my wife) for figuring this out.
 
