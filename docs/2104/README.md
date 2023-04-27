@@ -33,13 +33,7 @@ Pro cyclists sleep a minimum of nine hours a day, which means they are either cy
 
 The single biggest limiter for an older person is dramatic drop in ability to recover from training. So if a pro needs nine hours of sleep, a 55-year-old is going to need 12-15 hours for the same load. Reducing the load by 1/3 and you land at around 10 hours a day of sleep to maintain a semi-pro, masters 55+ age-group status.
 
-I've found that I *require* 1-2 hours of sleep within an hour of any daily workout if I want to recover at all. That's what being 55 means. Therefore, to be an older weekend-warrior I *must* sacrifice time doing other things in order to sleep enough. What have I sacrificed:
-
-* I do no more than three hours of live-streaming from my desk.
-* No more video gaming *at all* (which I don't miss whatsoever after two months).
-* Zero marathon coding and hacking sessions.
-
-Anything that produces stress produces bad-fat-making cortisol *destroys* fitness gains and doubles the time to recover from fitness. It's no surprise the stuff I'm cutting *all* produces stress.
+I've found that I *require* 1-2 hours of sleep within an hour of any daily workout if I want to recover at all. That's what being 55 means. Therefore, to be an older weekend-warrior I *must* sacrifice time doing other things in order to sleep enough (see **Don'ts**).
 
 Sleep is my new hobby. Sleep after training is *glorious*! I almost look forward to it as much as the training. I have such vivid dreams, and just the feel of a cushy, cozy bed after a good recovery meal, nice warm shower, and that wonderful post-training pain and feeling of accomplishment is better and more addicting than anything I can do in front of a computer---especially getting drunk.
 
@@ -153,3 +147,5 @@ I've had enough time now to realize many of the extremely bad habits I had locke
 * Don't forget to spend time reading and learning.
 
 I'm sure this list will grow as I remember things.
+
+Anything that produces stress produces bad-fat-making cortisol *destroys* fitness gains and doubles the time to recover from fitness. It's no surprise the stuff I'm cutting *all* produces stress.
