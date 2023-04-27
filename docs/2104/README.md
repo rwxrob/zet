@@ -59,12 +59,12 @@ I do two weeks on, one week off. (When I was young I would do three weeks on and
 Day | Focus | Activities
 -|-|-
 Monday    | RECOVERY  | Z1(60m)
-Tuesday   | STRENGTH  | yoga(20m), weights(40m) and/or Z4(60m)
+Tuesday   | POWER     | yoga(20m), weights(40m) and/or Z4(60m)
 Wednesday | BASE      | yoga(20m), Z2(120m)
 Thursday  | BASE      | yoga(20m), Z2(120m)
 Friday    | RECOVERY  | Z1(60m)
 Saturday  | PREPARE   | recon or sim (40m)
-Sunday    | EVENT     | race or mixed(90m+)
+Sunday    | EVENT     | race or mixed (1-6h)
 
 ### Off week
 
@@ -72,11 +72,11 @@ Every day is yoga(20m) and Z1(40-60m) with fun activities like a super slow and 
 
 ## Diet
 
-The single worst thing anyone can do trying to lose weight is fast while training. It stops the ability to produce more intense training that burns more calories than just not eating.
+After a lot of research about what the pros eat and watching I've arrived at a pretty good diet for myself. Plus my body has adapted to a better diet and certain foods don't even appeal to me anymore.
+
+The single worst thing anyone can do trying to lose weight is stop eating while training. It stops the ability to produce more intense training that burns more calories than just not eating.
 
 The single best thing anyone can do to lose weight is *not* overeat on the recovery and off days. Make sure protein is covered, then veggies, then the carbs and fats minimally.
-
-After a lot of research about what the pros eat and watching I've arrived at a pretty good diet for myself. Plus my body has adapted to a better diet and certain foods don't even appeal to me anymore.
 
 ### Only social alcohol
 
