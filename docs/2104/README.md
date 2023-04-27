@@ -44,7 +44,7 @@ There are 160 hours in a week.
 * 70 sleep
 * 20 training
 * 40 work
-* 20 remaining
+* 30 remaining
 
 Obviously, if I had a two hour car commute (like some have) I couldn't do this.
 
