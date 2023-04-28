@@ -6,7 +6,49 @@ Here are a few ideas to minimize and simply that have occurred to me. I might pu
 
 ## Boring is bliss when it comes to daily scheduling
 
-The biggest example of this is my daily schedule these days. I sleep, eat, work, ride, read, write,chat, and watch videos. I have a pattern that requires very little thought, like being on a cruise and picking from the choices for that day that someone else has spent all the energy to organize in advance. Some might find the regularity of it all rather boring. I don't. I find it wildly liberating. My mental space isn't clogged with a bunch of unknowns that have to be worked out. But I can *choose* to take something that requires mental energy if I want, in a controlled way.
+The biggest example of this is my daily schedule these days. I sleep, eat, work, ride, read, write,chat, and watch videos. I have a pattern that requires very little thought, like being on a cruise and picking from the choices for that day that someone else has spent all the energy to organize in advance.
+
+Some might find the regularity of a schedule (or daily outline) rather boring. I don't. I find it wildly liberating. My mental space isn't clogged with a bunch of unknowns that have to be worked out. But I can *choose* to take something that requires mental energy if I want, in a controlled way.
+
+### The big rocks
+
+I remember a person in church once giving a lesson on priorities that had an object lesson involving rocks and a Mason jar and sand (or was it salt). They first put a bunch of medium and small rocks into the jar only to realize the big ones would not fit. Then they emptied the jar and put the big ones in followed by the small ones and---surprise---they all fit. It's a pretty cliche example, but it is relevant.
+
+Rather than stressing myself over the exact time something is going to happen during my day, I usually just have a few big rocks that I need to make sure fit into my day jar: sleep (9 hours), work (8 hours), and training (1-3 hours). These can be broken up into smaller ones but usually it makes sense to keep them together. That way I can focus 100% on that specific thing without distraction.
+
+Work and training sometimes have specific time constraints. Training outside on a good day must happen during sunlight and when traffic is safest but Zwift training indoors can happen anytime.
+
+Work has meetings that have to happen at certain times even though my job really has no 9-5 constraint so long as the work gets done (which is great because I can be sure I do the work when my brain is most active).
+
+I have some medium-sized rocks in cleaning and eating.
+
+The entertainment, reading, writing, chatting with family can fill in all the jar after the other stuff has found room.
+
+## Being mindful
+
+> Mindfulness means maintaining a moment-by-moment awareness of our thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.
+
+Mindfulness is more than focus. In includes acceptance and observation. At the core, mindfulness is about being aware of what I am doing and focused on it without distraction. The Pomodoro technique is a way of manufacturing mindfulness in 25-minute segments. For some that works. The principle is the same no matter how you accomplish this.
+
+What doesn't work, however, is attempting to be mindful while in an environment that demands constant distractions. Being mindful requires blocking out distractions, even good ones, such as these:
+
+* Being up when everyone else is asleep just to be at peace outside and think
+* Wearing headphones and locking the door between me and my family while writing
+* Putting in earplugs to block the deafening wind noise on a long training rides
+* Disabling chat notifications in Slack while at work
+* Reducing live-streaming to times when I can respond and interacting
+
+I am more mindful now that ever and it shows. I feel like my psyche is so much cleaner.
+
+## Being clean and organized
+
+Ever watch one of those spy movies where the spy has all their spy stuff super well organized usually in some soft of foam suitcase or false wall storage unit? It appeals to everyone because it is almost a fictional level of cleanliness and organization. They never show the amount of work to keep all that stuff organized or to get it that organized in the first place.
+
+What is not fictional, however, is the objective result of such time investment to get organized and clean. In Ashtanga yoga they call is Sauca ("cleanliness") and the idea is that you cannot "remove the fluctuations of the mind" (first yoga sutra) without it. This idea is ancient. It doesn't even need scientific confirmation. We all know that being clean and organized fosters a sense of peace and happiness. So just do it. Even Jordan Peterson agrees.
+
+Cleaning and organization doesn't seem to happen because these rocks never make it into the jar. We don't tend to plan for them. One of the best things my Mother ever did was have all eight of us children doing our cleaning chores before we went to school on Monday morning. She preferred Mondays because that meant the entire house was clean for that first day after the crazy activities of the weekend and she could have some peace. I hated it, but I realize now what a great thing it was. Later, Sunday became the day I would clean my room, usually after getting back from church and feeling all motivated to make my life better.
+
+These days I do cleaning and chores on my training recovery days. The moving around is enough to get me to sweat a bit without overdoing it. I've found a key part of recovery is ensuring that your heart does some good pumping during that recovery to flush out all the waste products and get the good stuff to the cells.
 
 ## Writing over streaming
 
