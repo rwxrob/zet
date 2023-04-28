@@ -6,12 +6,11 @@ Being a full-time employed 55-year-old, my schedule has a lot more recovery and 
 
 * Get the Zwift Tron bike.
 * Get to and maintain 60 kilos (at 174cm that's Mick Jagger skinny, climbing specialist).
-* Reach and maintain 240 FTP (4.00w/kg).
+* Reach and maintain 300 FTP (5.00w/kg).
 * Regularly place top 1% of Zwift Cat Bs for my age group.
 * Bike from Charlotte to Asheville in one day, rest one day, back one day.
-* Complete **The Assault on Marion®** (120k/1530m <https://www.strava.com/segments/632878>).
-* Complete **The Assault on Mt Mitchell®** (165k/3420m <https://www.strava.com/segments/634337>).
-* Do **The Assault on Mt. Mitchel®** every year (eventually).
+* Do **Assault on Mt Mitchell®** every year (165k/3420m <https://www.strava.com/segments/634337>).
+* Save (a lot of) money to get a <=8 kilo aero+climbing bike.
 
 ## Training hours per week
 
@@ -58,17 +57,17 @@ I do two weeks on, one week off. (When I was young I would do three weeks on and
 
 Day | Focus | Activities
 -|-|-
-Monday    | RECOVERY  | Z1(60m)
-Tuesday   | POWER     | yoga(20m), weights(40m) and/or Z4(60m)
-Wednesday | BASE      | yoga(20m), Z2(120m)
-Thursday  | BASE      | yoga(20m), Z2(120m)
-Friday    | RECOVERY  | Z1(60m)
-Saturday  | PREPARE   | recon or sim (40m)
-Sunday    | EVENT     | race or mixed (1-6h)
+Monday    | RECOVERY  | (nap, reduce calories)
+Tuesday   | POWER     | Owl+2 (5x(30s@140%+8m@95%+5m@50%))
+Wednesday | BASE      | 1x3h@55-75%
+Thursday  | BASE      | 1x3h@55-75%
+Friday    | RECOVERY  | (nap, reduce calories)
+Saturday  | BASE      | 1x1-3h@55-75% (depending on adventure)
+Sunday    | ADVENTURE | 2-6h@whatever
 
 ### Off week
 
-Every day is yoga(20m) and Z1(40-60m) with fun activities like a super slow and long coffee ride on Sunday, or camping, or just hikes with family.
+Same as other weeks but with 50% less time and intensity.
 
 ## Diet
 
