@@ -10,7 +10,7 @@ Being a full-time employed 55-year-old, my schedule has a lot more recovery and 
 * Regularly place top 1% of Zwift Cat Bs for my age group.
 * Bike from Charlotte to Asheville in one day, rest one day, back one day.
 * Do **Assault on Mt Mitchell®** every year (165k/3420m <https://www.strava.com/segments/634337>).
-* Save money to get a <9 kilo aero+climbing bike (Marrakesh is 13.27 kilos).
+* Save money to get a <9 kilo aero+climbing bike like Specialized Aethos (Marrakesh is 13.27 kilos).
 
 ## Training hours per week
 
