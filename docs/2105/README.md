@@ -4,41 +4,8 @@ I've been enjoying a level of happiness and balance that I haven't had in my lif
 
 Here are a few ideas to minimize and simply that have occurred to me. I might put these all into a small booklet at some point.
 
-## Boring is bliss when it comes to daily scheduling
-
-The biggest example of this is my daily schedule these days. I sleep, eat, work, ride, read, write,chat, and watch videos. I have a pattern that requires very little thought, like being on a cruise and picking from the choices for that day that someone else has spent all the energy to organize in advance.
-
-Some might find the regularity of a schedule (or daily outline) rather boring. I don't. I find it wildly liberating. My mental space isn't clogged with a bunch of unknowns that have to be worked out. But I can *choose* to take something that requires mental energy if I want, in a controlled way.
-
-### The big rocks
-
-I remember a person in church once giving a lesson on priorities that had an object lesson involving rocks and a Mason jar and sand (or was it salt). They first put a bunch of medium and small rocks into the jar only to realize the big ones would not fit. Then they emptied the jar and put the big ones in followed by the small ones and---surprise---they all fit. It's a pretty cliche example, but it is relevant.
-
-Rather than stressing myself over the exact time something is going to happen during my day, I usually just have a few big rocks that I need to make sure fit into my day jar: sleep (9 hours), work (8 hours), and training (1-3 hours). These can be broken up into smaller ones but usually it makes sense to keep them together. That way I can focus 100% on that specific thing without distraction.
-
-Work and training sometimes have specific time constraints. Training outside on a good day must happen during sunlight and when traffic is safest but Zwift training indoors can happen anytime.
-
-Work has meetings that have to happen at certain times even though my job really has no 9-5 constraint so long as the work gets done (which is great because I can be sure I do the work when my brain is most active).
-
-I have some medium-sized rocks in cleaning and eating.
-
-The entertainment, reading, writing, chatting with family can fill in all the jar after the other stuff has found room.
-
-## Being mindful
-
-> Mindfulness means maintaining a moment-by-moment awareness of our thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.
-
-Mindfulness is more than focus. In includes acceptance and observation. At the core, mindfulness is about being aware of what I am doing and focused on it without distraction. The Pomodoro technique is a way of manufacturing mindfulness in 25-minute segments. For some that works. The principle is the same no matter how you accomplish this.
-
-What doesn't work, however, is attempting to be mindful while in an environment that demands constant distractions. Being mindful requires blocking out distractions, even good ones, such as these:
-
-* Being up when everyone else is asleep just to be at peace outside and think
-* Wearing headphones and locking the door between me and my family while writing
-* Putting in earplugs to block the deafening wind noise on a long training rides
-* Disabling chat notifications in Slack while at work
-* Reducing live-streaming to times when I can respond and interacting
-
-I am more mindful now that ever and it shows. I feel like my psyche is so much cleaner.
+* [Boring is bliss when it comes to daily scheduling](../2106)
+* [Being mindful](../2107)
 
 ## Being clean and organized
 

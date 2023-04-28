@@ -1,0 +1,9 @@
+# Being clean and organized
+
+Ever watch one of those spy movies where the spy has all their spy stuff super well organized usually in some soft of foam suitcase or false wall storage unit? It appeals to everyone because it is almost a fictional level of cleanliness and organization. They never show the amount of work to keep all that stuff organized or to get it that organized in the first place.
+
+What is not fictional, however, is the objective result of such time investment to get organized and clean. In Ashtanga yoga they call is Sauca ("cleanliness") and the idea is that you cannot "remove the fluctuations of the mind" (first yoga sutra) without it. This idea is ancient. It doesn't even need scientific confirmation. We all know that being clean and organized fosters a sense of peace and happiness. So just do it. Even Jordan Peterson agrees.
+
+Cleaning and organization doesn't seem to happen because these rocks never make it into the jar. We don't tend to plan for them. One of the best things my Mother ever did was have all eight of us children doing our cleaning chores before we went to school on Monday morning. She preferred Mondays because that meant the entire house was clean for that first day after the crazy activities of the weekend and she could have some peace. I hated it, but I realize now what a great thing it was. Later, Sunday became the day I would clean my room, usually after getting back from church and feeling all motivated to make my life better.
+
+These days I do cleaning and chores on my training recovery days. The moving around is enough to get me to sweat a bit without overdoing it. I've found a key part of recovery is ensuring that your heart does some good pumping during that recovery to flush out all the waste products and get the good stuff to the cells.
