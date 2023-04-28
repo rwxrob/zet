@@ -10,7 +10,7 @@ Being a full-time employed 55-year-old, my schedule has a lot more recovery and 
 * Regularly place top 1% of Zwift Cat Bs for my age group.
 * Bike from Charlotte to Asheville in one day, rest one day, back one day.
 * Do **Assault on Mt Mitchell®** every year (165k/3420m <https://www.strava.com/segments/634337>).
-* Save (a lot of) money to get a <=8 kilo aero+climbing bike.
+* Save (a lot of) money to get a <9 kilo aero+climbing bike.
 
 ## Training hours per week
 
