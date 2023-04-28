@@ -1,0 +1,5 @@
+# Get Garmin Rally power meter and use same indoors and out
+
+The Garmin Rally 100 is a left-side power meter pedal that has the highest ratings for reliability and works well with the Garmin 830/840 bike computer. By adding a power meter that is the same whether indoors or outdoors the training is consistent, even if there are slight errors in the power meter settings. For example, the Zwift Hub reports a power approximation that will never be the same as the Rally pedal measurement because the Rally completely discounts power losses in the drive train. This makes power numbers higher from the Rally. This has the added benefit of making you faster in Zwift without really cheating at all. After all, a huge percentage of Zwifters are using pedal-based power meters as well.
+
+Later, I plan on paying (another) 700 dollars to get the right leg as well. I absolutely know I have an imbalance, but am okay with it for now. The Rally power meter pedals have the added advantage of being transferable to *any* bike and even changing them from SPD to Look-compatible. None of the other power meters allow for that and all of them start at 1000 dollars and up.
