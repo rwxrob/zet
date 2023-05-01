@@ -29,3 +29,5 @@ Here are some tips that I've started to notice help me to accomplish this lately
 * Eat breakfast about 20 minutes after recovery drink (2 boiled eggs + 1 slice toast + multivitamin)
 
 Eventually, my body has started expecting the same routine, which is good.
+
+I'm also experimenting with the level of intensity allowed during a WFW since the entire idea is burning calories before your blood chemistry changes over. I wonder if going Z4 knocks you out of it or if it takes more advantage of it, or just makes the window shorter. So far I've noticed that the harder the WFW intensity the more I feel hunger pains even after eating breakfast, so my impression is that WFW intensity should be Z2 only, but I'm not convinced yet.
