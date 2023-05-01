@@ -1,14 +1,28 @@
-# Semi-pro, old-timer training plan
+# Assault on Mt. Mitchel personal training plan
+
+I will complete **The Assault on Mt. Mitchel** in under six hours before I turn 60 (even through plenty have after 60). Based on previous results that would put me in the top three for my age group (55-60). I'm planning my first attempt in 2024 and will likely use Keshy, my 27 lbs beast. (For 2025 I'll shoot to buy a climbing bike, Specialized Aethos Comp, if, and only if, I hit all my other weight and fitness goals first.)
+
+I'm not really interested in any other events at my age. I have Zwift for (safe) race competition if I want it. I just want one well-managed Gran Fondo per year to keep me motivated.
 
 Being a full-time employed 55-year-old, my schedule has a lot more recovery and fun than would a pro but I still enjoy the *feel* of pro training and fitness. It's been fun being recently reminded what pro-level fitness feels like. I'm getting hints of it already. It's absolute bliss and very addicting.
 
-## Goals
+## Short-term goals
+
+By end of May 2023:
+
+* Daily 20-minute WFW (wake-fast-workouts)
+* Weekly training: 1 day power, 2 long base days, 1 fondo day, 3 days recovery
+* Drop from 85 to 80 kilos.
+* Earn 60% of Zwift Tron bike.
+
+## Long-term goals
 
 * Get the Zwift Tron bike.
 * Get to and maintain 60 kilos (at 174cm that's Mick Jagger skinny, climbing specialist).
 * Reach and maintain 300 FTP (5.00w/kg).
 * Regularly place top 1% of Zwift Cat Bs for my age group.
 * Bike from Charlotte to Asheville in one day, rest one day, back one day.
+* Do **Zwift - Four Horsemen** (or equiv) every weekend but recovery weeks.
 * Do **Assault on Mt Mitchell®** every year (165k/3420m <https://www.strava.com/segments/634337>).
 * Save money to get a <9 kilo aero+climbing bike like Specialized Aethos (Marrakesh is 13.27 kilos).
 
@@ -18,7 +32,7 @@ I have a lot less demands on my time as I age. My kids are grown, my wife is doi
 
 To maintain that pro feel I have to do more than the minimum to stay in shape. The average sedentary person probably only needs 30 minutes a day to *maintain* good fitness (once they have reduced their weight and adapted). I want more than that (after I've reduced my own weight and adapted).
 
-I figure I'm going to need 1-2 hours a day on weekdays and Saturday and 1-6 hours on Sunday to achieve these goals. That's about 20 hours a week. I would train 25-30 a week back in the triathlon days (but I have zero interest in triathlon at this point, just looks silly to me now).
+I figure I'm going to need 1-2 hours a day on weekdays and Saturday and 4-6 hours on Sunday to achieve these goals. That's about 20 hours a week. I would train 25-30 a week back in the triathlon days (but I have zero interest in triathlon at this point, just looks silly to me now).
 
 ## Sleep hours per week
 
@@ -57,13 +71,13 @@ I do two weeks on, one week off. (When I was young I would do three weeks on and
 
 Day | Focus | Activities
 -|-|-
-Monday    | RECOVERY  | (nap, reduce calories)
-Tuesday   | POWER     | Owl+2 (5x(30s@140%+8m@95%+5m@50%))
-Wednesday | BASE      | 1x3h@55-75%
-Thursday  | BASE      | 1x3h@55-75%
-Friday    | RECOVERY  | (nap, reduce calories)
-Saturday  | BASE      | 1x1-3h@55-75% (depending on adventure)
-Sunday    | ADVENTURE | 2-6h@whatever
+Monday    | BASE     | 20mWFW, 1x3-4h@55-75%
+Tuesday   | RECOVERY | 20mWFW, (nap, reduce calories)
+Wednesday | POWER    | Weights (every 3rd week) + FTP/Hill Intervals
+Thursday  | BASE     | 1x3-4h@55-75%
+Friday    | RECOVERY | 20mWFW, (nap, reduce calories)
+Saturday  | FONDO    | 4-6h @ fondo pace + nutrition training
+Sunday    | RECOVERY | 20mWFW, (nap, reduce calories)
 
 ### Off week
 
