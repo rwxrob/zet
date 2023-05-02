@@ -63,25 +63,19 @@ Obviously, if I had a two hour car commute (like some have) I couldn't do this.
 
 ## Periodization
 
-There's overwhelming sports medical science over the last half-century that confirms rotating in a rest week is the best way to train.
+I've noticed that my recovery cycles don't always match up with a given week. Joel Friel calls this out as well in his latest Triathlon Training Bible. The solution seems to be not focusing on the specific day, but the rotation of types of training no matter what day they may occur and even if the cycle is ten days instead of seven. When it works out to be a week rotation here's what it looks like. 
 
-I do two weeks on, one week off. (When I was young I would do three weeks on and one week off.)
+1. RECOVER: nap, reduce calorie dense foods
+1. POWER: off-bike strength training + FTP/Hill Intervals
+1. BASE: 1 hour Z2 with Z4 refreshers every 10 minutes
+1. BASE: 2 hours Z2 with Z4 refreshers every 10 minutes
+1. RECOVER: nap, reduce calorie dense foods
+1. BASE: 1 hour zone 2 with small sprints at end, fuel for fondo next day
+1. FONDO: 2-4 hours fondo pace, nutrition training
 
-### On weeks
+I've been doing a 20mWFW every single day as well but not sure that counts as training. Usually, I do pullups, pushups, and ab-bikes to failure plus a short Zwift ride with rest of time.
 
-Day | Focus | Activities
--|-|-
-Monday    | BASE     | 20mWFW, 1x3-4h@55-75%
-Tuesday   | RECOVERY | 20mWFW, (nap, reduce calories)
-Wednesday | POWER    | Weights (every 3rd week) + FTP/Hill Intervals
-Thursday  | BASE     | 1x3-4h@55-75%
-Friday    | RECOVERY | 20mWFW, (nap, reduce calories)
-Saturday  | FONDO    | 4-6h @ fondo pace + nutrition training
-Sunday    | RECOVERY | 20mWFW, (nap, reduce calories)
-
-### Off week
-
-Same as other weeks but with 50% less time and intensity.
+Sometimes I have to throw in a recovery day after power workouts, or after the first base. Depending on how long or hard I pushed on the fondo day I might have to take two recovery days instead of one.
 
 ## Diet
 
