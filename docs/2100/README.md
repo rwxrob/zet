@@ -1,5 +1,7 @@
 # Python fails again, this time MkDocs
 
+Update: Python really doesn't deserve the blame here, it's really the horrible MkDocs design (which is abysmally bad). Python is just a contributor.
+
 The selection of Python to implement MkDocs might have made sense at the time. But after attempting to render my 2056 node zettelkasten site and waiting for 260 seconds for it to build I realize that MkDocs is absolute shit simply because it chose to use the ridiculously slow Python language. A similar build in Hugo in Go finishes in 10 seconds. I thought it was broken at first, then I ran `strace` on the process and watching the fucking idiotic way that MkDocs handles parsing and indexing. It's SO FUCKING STUPID! OMG!
 
 This is a devastating discovery. It means that MkDocs is completely and totally unsustainable for large knowledge bases. No one is talking about that because the average knowledge base that uses MkDocs is probably around 100 node tops. This means that MkDocs is *not* suitable for *any* enterprise knowledge base of any considerable size.
