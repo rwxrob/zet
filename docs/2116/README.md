@@ -1,6 +1,6 @@
-# Zwift route achievements are broken in 1.39, beware
+# Zwift routes 11 12 16 24 33 36 74 are broken in 1.39 beware
 
-The following is what I posted to r/Zwift but the moderators haven't accepted it (and probably won't) so I'm capturing it here. I'll keep new developments documented here.
+I still don't know what the names of these routes are but the logs clearly show they are broken in 1.39. The following is what I posted to r/Zwift but the moderators haven't accepted it (and probably won't) so I'm capturing it here. I'll keep new developments documented here.
 
 ----
 
