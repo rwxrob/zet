@@ -10,7 +10,7 @@ Then, after they put on the tubeless tire the next morning they came in and it h
 
 Then, they ordered a new tire and I waited another week.
 
-Then, while trying to put that new tire on they destroyed the carbon rim of a 700 wheel and had to order a replacement. Again, glad they did it and not me. I would have been up shit creek if I had purchased them and needed to repair them later.
+Then, while trying to put that new tire on they destroyed the carbon rim of a 700 dollar wheel and had to order a replacement. Again, glad they did it and not me. I would have been up shit creek if I had purchased them and needed to repair them later.
 
 Now, after yet another week, they still haven't attempted to put the tire on because no one in the shop wants to actually do it. All these "pros" are afraid of my job putting other "work" before my now month-long waiting.
 
