@@ -2,7 +2,7 @@
 
 <https://youtu.be/KYBM-WCAcsE>
 
-So after a full month of waiting my Trek "pro" shop still hasn't delivered the fancy new tubeless Bontrager Aelous wheel set that I bought for 1300 dollars. I'm not going to take them up immediately on their 30-day return policy "no questions asked" and I have had a lot of good, objective evidence to *never* use tubeless for anything.
+So after a full month of waiting my Trek "pro" shop still hasn't delivered the fancy new tubeless Bontrager Aelous wheel set that I bought for 1300 dollars. I'm now going to take them up immediately on their 30-day return policy "no questions asked" and I have had a lot of good, objective evidence to *never* use tubeless for anything.
 
 First, it took them a week to order the wheel that they didn't have.
 
