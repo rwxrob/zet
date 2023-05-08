@@ -1,5 +1,9 @@
 # Assault on Mt. Mitchel personal training plan
 
+**Update:** I've decided against this. Just participating would cost me over 1000 dollars per year in lost wages, entry fees, travel and hotels, and expenses. That's 1000 dollars per year that I could apply to a Wahoo KICKR Bike that would enable regular challenges including virtual racing instead of suffering on one day a year with a bunch of other amateurs who might even crash in front of me. I still plan on finishing the equivalent of the Assault in under six hours, which is trivial to simulate in Zwift (with everything but headwind and traffic).
+
+----
+
 I will complete **The Assault on Mt. Mitchel** in under six hours before I turn 60 (even through plenty have after 60). Based on previous results that would put me in the top three for my age group (55-60). I'm planning my first attempt in 2024 and will likely use Keshy, my 27 lbs beast. (For 2025 I'll shoot to buy a climbing bike, Specialized Aethos Comp, if, and only if, I hit all my other weight and fitness goals first.)
 
 I'm not really interested in any other events at my age. I have Zwift for (safe) race competition if I want it. I just want one well-managed Gran Fondo per year to keep me motivated.
