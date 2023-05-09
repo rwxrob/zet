@@ -1,4 +1,4 @@
-# Assault on Mt. Mitchel personal training plan
+# Assault on Mt. Mitchel personal training plan (canceled)
 
 **Update:** I've decided against this. Just participating would cost me over 1000 dollars per year in lost wages, entry fees, travel and hotels, and expenses. That's 1000 dollars per year that I could apply to a Wahoo KICKR Bike that would enable regular challenges including virtual racing instead of suffering on one day a year with a bunch of other amateurs who might even crash in front of me. I still plan on finishing the equivalent of the Assault in under six hours, which is trivial to simulate in Zwift (with everything but headwind and traffic).
 
