@@ -16,13 +16,13 @@ Dextrose and glucose candies are usually like the following:
 * Bottle Caps
 * Halloween bones (often discounted off season)
 
-Note that nothing chewy
+Note that nothing chewy. Chewy stuff has gelatin and starch in it. They still work just differently.
 
 So to save money, do what endurance athletes have been doing for more than half a century: eat small amounts of pure dextrose/glucose without mixing with fat or protein during a prolonged effort. Combined with a sugar-free electrolyte drink and you can control the amount of fuel in your tank without affecting your hydration.
 
 I've found gummy bears to not digest as nicely (probably because of the 2 grams of protein from the gelatin). Same goes for any candy with fat in it.
 
-Sweet Tarts and Bottlecaps are therefore my favorite direct-to-muscles simple carb source. Plus they taste good, are easy to carry, and can be micro-portioned very easily on a ride in order to not overdo it. It is possible to overload the gut with too much of a specific type of carb, which is why variety is still good.
+Sweet Tarts and Bottlecaps are therefore my favorite direct-to-muscles simple carb source. (Sour Patch Kids and Swedish Fish are my favorite candies.) Plus they taste good, are easy to carry, and can be micro-portioned very easily on a ride in order to not overdo it. It is possible to overload the gut with too much of a specific type of carb, which is why variety is still good.
 
 It's absolutely stupid to pay crazy amounts of money for "healthy" and "recovery" and "fitness" variations of the same thing *provided you know what you are combining and how your body will respond*. Combining different cheaper carb sources like home-made rice cakes for prolonged refueling with oh-shit-i-forgot-to-eat fast-acting dextrose candies with a low-priced electrolyte supplement for the water bottle is really the answer. After a long ride, combining the same things in different proportions (including a good but cheap protein powder, for example) and adding zero calorie electrolyte hydration mix and you save a lot of money that would have spent on exactly the same ingredients in Tailwind "recovery mix" which costs (and I'm not kidding) 10 times more money.
 
