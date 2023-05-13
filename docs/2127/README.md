@@ -1,5 +1,7 @@
 # SKILSTAK Beginner Boost 2023 - Week 1
 
+📺 <https://youtu.be/cE-kkVwz0Xg>
+
 This week we start taking notes in basic Markdown on GitHub and connect with others doing the Boost. Then we go over the core applications that must be installed next week: bash shell, a good terminal, and Podman desktop.
 
 1.  Create a GitHub account
