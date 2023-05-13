@@ -1,6 +1,6 @@
-# Gravel state of mind
+# Gravel gang (even if riding mostly tarmac)
 
-I cannot deny I am absolutely (morbidly) fascinated with the road-racing world of cycling but the more I remember my love for it from my younger years the more I am reminded of all the things that I absolutely despise about it as well. Davis Phinney's story in the "what ever happened to Davis Phinney video" about being called by "his idols" to participate on their cycling team and turning them down and the reasons and disillusionment really reminded me of going through those same realizations. Davis is conflicted because so many of those people were and are his friends. But what he *doesn't* say is as telling as what he does.
+I cannot deny I am absolutely (morbidly) fascinated with the road-racing world of cycling but the more I remember my love for it from my younger years the more I am reminded of all the things that I absolutely despise about the cycling-bro culture. Davis Phinney's story in the "what ever happened to Davis Phinney video" about being called by "his idols" to participate on their cycling team and turning them down and the reasons and disillusionment really reminded me of going through those same realizations. Davis is conflicted because so many of those people were and are his friends. But what he *doesn't* say is as telling as what he does.
 
 It's pretty obvious Davis was just tired of all the I-have-to-be-fast bullshit besides the posturing and doping and all-around cycling-bro toxic culture. It has to be an internal conflict for sure. He loved it but has also become disillusioned by it and never wants to go back. He bikes for fitness now, period. He obsesses over music and art now.
 
