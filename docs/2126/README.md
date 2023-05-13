@@ -1,5 +1,7 @@
 # SKILSTAK Beginner Boost 2023 - Week 2
 
+📺 <https://youtu.be/0gNR6qj87a0>>
+
 This week we learn about terminal and command line interfaces, containers and virtual machines and start using Podman Desktop and podman command for the first time.
 
 1. Use command search to open a bash terminal (in full screen if prefer)
