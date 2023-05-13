@@ -1,5 +1,7 @@
 # SKILSTAK Beginner Boost 2023 - Week 0
 
+📺 <https://youtu.be/b9dHxF5UKzA>
+
 Welcome to the 2023 Beginner Boost! Officially, the first technical content will be Week 1 (next Saturday) but here we go over why you might want to do the Boost, who it is for, the goals and motivation for doing it, the schedule, and what you'll need to begin.
 
 00:00     Start
