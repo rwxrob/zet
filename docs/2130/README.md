@@ -1,5 +1,9 @@
 # MicroVMs (Amazon Firecracker) blows the doors off containers
 
+Some people actually think kube-virt is a good idea. Nothing proves them wrong more than Firecracker.
+
 After spending an evening playing with Amazon Firecracker it's very obvious to me this is where the industry will move en force. MicroVMs provide so many advantages over containers for so many of the things containers are misused for today that it is inevitable. There will need to be some user-land polish and applications that use Firecracker to showcase what it can do enough to get companies to adopt it over (or in addition to Kubernetes) but for provisioning hardware I have never seen anything better in all my days in IT (and that's not hyperbole). Making a REST API call or two and everything needed for newly provisioned and initially configured virtual servers is all that is needed. Who cares how the API call is made. That's the beauty of it. Firecracker applies the UNIX philosophy of modularity and one-thing-well-and-integrate with absolute beauty. It's just a matter of time before everything calls into the Firecracker API for all virtual machine provisioning, period.
 
-And not a moment too soon. Some stupid people actually think kube-virt is a good idea.
+## Firecracker project is non-language specific
+
+One of the most encouraging parts of the Firecracker project is seeing how the project uses the right tool for the job. Rather than being Go versus Rust they use each language for its strengths. The main MicroVM engine (`firecracker`) is in Rust, the obvious choice. The main controller application (`firectl`) and API integration layer is in Go. This coordination and lack of language bigotry is a breath of fresh air in a hyperbolic, uninformed world of lesser engineers fighting over "best" languages. It makes me want to donate all my time and money to the project all by itself. I've actually toyed with the idea of locating a job using Firecracker someplace. But we'll see.
