@@ -30,3 +30,5 @@ Related:
 * <https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing/>
 * firecracker/getting-started.md at main · firecracker-microvm/firecracker · GitHub  
   <https://github.com/firecracker-microvm/firecracker/blob/main/docs/getting-started.md>
+* Firecracker and Go Application --- Quickstart \| by Swarvanu Sengupta \| Medium  
+  <https://s8sg.medium.com/running-your-go-application-in-firecracker-1c8725cb3910>
