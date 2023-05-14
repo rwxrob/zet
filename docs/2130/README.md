@@ -1,0 +1,5 @@
+# MicroVMs (Amazon Firecracker) blows the doors off containers
+
+After spending an evening playing with Amazon Firecracker it's very obvious to me this is where the industry will move en force. MicroVMs provide so many advantages over containers for so many of the things containers are misused for today that it is inevitable. There will need to be some user-land polish and applications that use Firecracker to showcase what it can do enough to get companies to adopt it over (or in addition to Kubernetes) but for provisioning hardware I have never seen anything better in all my days in IT (and that's not hyperbole). Making a REST API call or two and everything needed for newly provisioned and initially configured virtual servers is all that is needed. Who cares how the API call is made. That's the beauty of it. Firecracker applies the UNIX philosophy of modularity and one-thing-well-and-integrate with absolute beauty. It's just a matter of time before everything calls into the Firecracker API for all virtual machine provisioning, period.
+
+And not a moment too soon. Some stupid people actually think kube-virt is a good idea.

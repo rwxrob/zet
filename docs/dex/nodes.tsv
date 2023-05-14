@@ -63,7 +63,7 @@
 65	2022-12-04 23:36:24Z	Legal copyright reminder
 66	2022-12-04 23:36:24Z	Run SSH Server on Windows
 67	2022-12-04 23:36:24Z	TIL Docker Slim is a Thing
-68	2022-12-04 23:36:24Z	Evolution of Privacy
+68	2022-12-04 18:36:24Z	Evolution of Privacy
 69	2022-12-04 23:36:24Z	Must Watch: 13th (on Netflix)
 70	2022-12-04 23:36:24Z	Adding Mode Notifications Via Discord
 71	2022-12-04 23:36:24Z	Be `dap`er About Vim
@@ -590,7 +590,7 @@
 597	2022-12-04 23:36:24Z	"Practical" is an Insult in Academic Circles
 598	2022-12-04 23:36:24Z	Guido Realizes Python Sucks for Most Things
 599	2022-12-04 23:36:24Z	Do Not Depend on `go get` To Install Binaries
-600	2022-12-04 23:36:24Z	A Hacker's Approach to IT Architecture and Homelab
+600	2022-12-04 18:36:24Z	A Hacker's Approach to IT Architecture and Homelab
 601	2022-12-04 23:36:24Z	Zettelkasten Search Approaches
 602	2022-12-04 23:36:24Z	🖼️  Rust crates.io FAIL
 603	2022-12-04 23:36:24Z	Read Interactive Input from User to `stderr`
@@ -963,7 +963,7 @@
 973	2022-12-04 23:36:24Z	Go 101 Looks Pretty Damn Good, and Free
 974	2022-12-04 23:36:24Z	How Do You Fight Burnout?
 975	2022-12-04 23:36:24Z	Q: Do you hate virtual machines (VMs)?
-976	2023-01-26 05:29:24Z	rwxrob.tv: !rig !setup !specs !homelab !monitor !monitors !distro !os
+976	2023-01-26 00:29:24Z	rwxrob.tv: !rig !setup !specs !homelab !monitor !monitors !distro !os
 977	2022-12-06 04:03:51Z	Simple command dependency checking in perl
 978	2022-12-04 23:36:24Z	Greed and Power Have Destroyed Learning
 979	2022-12-04 23:36:24Z	Personal Preference for Go Code Organization
@@ -1877,7 +1877,7 @@
 1916	2023-01-05 20:00:25Z	Creating a minimal Go webhooks server
 1917	2023-01-03 19:35:51Z	Is it worth using google/go-github?
 1918	2023-01-05 17:58:18Z	ngrok.io looks amazing!
-1919	2023-01-04 13:50:46Z	🐧 Homelab `init` on Saturdays
+1919	2023-01-04 08:50:46Z	🐧 Homelab `init` on Saturdays
 1920	2023-01-20 17:02:00Z	rwxrob.tv: !tldr
 1921	2023-01-04 14:27:31Z	TODO write my own damn Twitch bot
 1922	2023-01-04 16:17:19Z	Use `io.Copy` to "print" debug HTTP requests with Go
@@ -2080,3 +2080,4 @@
 2126	2023-05-13 19:02:39Z	SKILSTAK Beginner Boost 2023 - Week 2
 2127	2023-05-13 19:02:02Z	SKILSTAK Beginner Boost 2023 - Week 1
 2128	2023-05-13 19:25:38Z	SKILSTAK Beginner Boost 2023 - Week 0
+2130	2023-05-13 22:53:10Z	MicroVMs (Amazon Firecracker) blows the doors off containers
