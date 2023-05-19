@@ -20,13 +20,15 @@ So I'm going to just keep doing "sweet spot" training with adequate rest in betw
 
 Day | Hours | Total TSS | Intensity | Low | High | Workout
 -|-
-Mon | 1   | 10-30   | ALT    | 20  | 60  | Yoga, core strength, recover from weekend
-Tue | 1-2 | 120-160 | Hard   | 183 | 213 | Sweet spot intervals, spikes of strength (>300)
-Wed | 1-2 | 100-140 | Medium | 167 | 198 | Tempo intervals
-Thu | 1-2 | 40-80   | Easy   | 123 | 165 | Zone 2 and recovery depending on feel
-Fri | 0   | 10-30   | OFF    | -   |  -  | Keep all activity low (no other stressors either)
-Sat | 3-5 | 200-500 | Hard   | 183 | 213 | Sweet spot intervals, spikes of strength (>300)
-Sun | 2-5 | 80-100  | Easy   | 123 | 165 | Zone 2 and recovery, cut hours based on feel
+Mon | 0   | 10-30   | OFF    | -   | -   | rest, restorative yoga, recovery ride
+Tue | 1-2 | 120-300 | Hard   | 183 | 213 | short SST intervals, race, sprints (>300)
+Wed | 1-2 | 100-140 | Medium | 167 | 198 | short tempo intervals
+Thu | 1-2 | 40-100  | Easy   | 123 | 165 | short zone 2
+Fri | 0   | 10-30   | OFF    | -   | -   | rest, restorative yoga, recovery ride
+Sat | 3-5 | 400-500 | Hard   | 183 | 213 | long SST intervals, race, sprints (>300)
+Sun | 2-5 | 100-200 | Easy   | 123 | 165 | long zone 2
+
+During consecutive training days (TWT, SS) the total ***TSS should not exceed 600*** to allow full recovery before the next one. This can be split in different ways across those days with the first day in each being the hardest with the most TSS since body is the most fresh on that day. It is better to do something on each consecutive training day than everything on one of them and nothing on the others.
 
 Total hours: 8-16
 
