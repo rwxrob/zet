@@ -19,7 +19,7 @@ One year as a triathlete I wanted to focus on power so I upped the time in the g
 So I'm going to just keep doing "sweet spot" training with adequate rest in between. Here's what a week looks like (based on my 220 FTP currently):
 
 Day | Hours | Total TSS | Intensity | Low | High | Workout
--|-
+-|-|-|-|-|-|-
 Mon | 0   | 10-30   | OFF    | -   | -   | rest, restorative yoga, recovery ride
 Tue | 1-2 | 120-300 | Hard   | 183 | 213 | short SST intervals, race, sprints (>300)
 Wed | 1-2 | 100-140 | Medium | 167 | 198 | short tempo intervals
