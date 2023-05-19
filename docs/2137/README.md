@@ -20,11 +20,11 @@ So I'm going to just keep doing "sweet spot" training with adequate rest in betw
 
 Day | Hours | Total TSS | Intensity | Low | High | Workout
 -|-|-|-|-|-|-
-Mon | 0   | 10-30   | OFF    | -   | -   | rest, restorative yoga, recovery ride
+Mon | 0   | -       | OFF    | -   | -   | rest, yoga, recovery ride
 Tue | 1-2 | 120-300 | Hard   | 183 | 213 | short SST intervals, race, sprints (>300)
 Wed | 1-2 | 100-140 | Medium | 167 | 198 | short tempo intervals
 Thu | 1-2 | 40-100  | Easy   | 123 | 165 | short zone 2
-Fri | 0   | 10-30   | OFF    | -   | -   | rest, restorative yoga, recovery ride
+Fri | 0   | -       | OFF    | -   | -   | rest, yoga, recovery ride
 Sat | 3-5 | 400-500 | Hard   | 183 | 213 | long SST intervals, race, sprints (>300)
 Sun | 2-5 | 100-200 | Easy   | 123 | 165 | long zone 2
 
