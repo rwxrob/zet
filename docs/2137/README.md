@@ -20,7 +20,7 @@ So I'm going to just keep doing "sweet spot" training with adequate rest in betw
 
 Day | Hours | Total TSS | Intensity | Low | High | Workout
 -|-
-Mon | 0   | 10-30   | OFF    | -   |  -  | Yoga, core strength, recover from weekend
+Mon | 1   | 10-30   | ALT    | 20  | 60  | Yoga, core strength, recover from weekend
 Tue | 1-2 | 120-160 | Hard   | 183 | 213 | Sweet spot intervals, spikes of strength (>300)
 Wed | 1-2 | 100-140 | Medium | 167 | 198 | Tempo intervals
 Thu | 1-2 | 40-80   | Easy   | 123 | 165 | Zone 2 and recovery depending on feel
