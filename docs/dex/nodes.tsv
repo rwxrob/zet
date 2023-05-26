@@ -902,7 +902,7 @@
 912	2022-12-04 23:36:24Z	Using Twitch Commands During Boost Presentations
 913	2022-12-04 23:36:24Z	Use `sshpass` When You Must Use `ssh` Passwords
 914	2022-12-04 23:36:24Z	Figure: Sample Mr. Rob
-915	2023-05-21 01:28:01Z	YouTube Description Footer
+915	2023-05-20 21:28:01Z	YouTube Description Footer
 916	2022-12-04 23:36:24Z	Surprise, Docker Desktop is Proprietary (Not FOSS)
 917	2022-12-04 23:36:24Z	Tempted to Do All the KodeKloud Stuff
 918	2022-12-04 23:36:24Z	How to Install `kind` to Learn Kubernetes
@@ -2097,3 +2097,4 @@
 2143	2023-05-25 21:32:10Z	SKILSTAK Beginner Boost 2023 Quick Start
 2144	2023-05-26 00:29:30Z	"I don't wanna be too healthy" (Barak Obama)
 2145	2023-05-26 02:09:29Z	Don't get mad, get busy. Be the change.
+2146	2023-05-26 04:09:08Z	Stop saying GNU/Linux ("GNU slash Linux")
