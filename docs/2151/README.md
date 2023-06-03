@@ -4,7 +4,7 @@
 
 > "We are shipping our first racks by the end of the year." (LinkedIn in 2023)
 
-I've been watching 0xide like a hawk (even if I cannot stand to listen to even a single full podcast of them stroking each other) because Brian Cantrill has basically been given a "blank check" to make whatever he wants and so he created 0xide. I'm like, "Let's see what this amazing dude can do with ulimited VS power mixed with a cautious love of Rust?" The premise of 0xide is great and the choice of Rust for most things bold---especially given the absolute lunacy exhibited by the Rust governance board of late. So 0xide's success is fundamentally linked to the success of Rust (assuming they kept Rust and didn't move to C, which Brian loves). The fate of 0xide itself will be a *huge* commentary on the Rust language itself.
+I've been watching 0xide like a hawk (even if I cannot stand to listen to even a single full podcast of them stroking each other) because Brian Cantrill has basically been given a "blank check" to make whatever he wants and so he created 0xide. I'm like, "Let's see what this amazing dude can do with ulimited VC power mixed with a cautious love of Rust?" The premise of 0xide is great and the choice of Rust for most things bold---especially given the absolute lunacy exhibited by the Rust governance board of late. So 0xide's success is fundamentally linked to the success of Rust (assuming they kept Rust and didn't move to C, which Brian loves). The fate of 0xide itself will be a *huge* commentary on the Rust language itself.
 
 Here are the facts:
 
