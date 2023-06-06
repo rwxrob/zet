@@ -2106,3 +2106,5 @@
 2156	2023-06-04 21:16:12Z	Use "platform engineer" instead of "devops"
 2157	2023-06-05 02:39:50Z	Watch the development of Mojo language
 2159	2023-06-05 14:09:37Z	Kubernetes dashboard considerations and alternatives
+2160	2023-06-06 13:52:55Z	Use podman inspect to see how container created
+2161	2023-06-06 14:54:38Z	Authentik does not support grant_type=password
