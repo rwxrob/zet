@@ -2,6 +2,8 @@
 
 Keep in mind these are American, Canadian, and British preferences.
 
+> Recently someone else had the same idea. <https://www.linkedin.com/posts/petecheslock_another-friday-another-episode-of-how-activity-7065372491879178240-Ufr8?utm_source=share&utm_medium=member_desktop>
+
 Thing|How to Say It
 |:-:|-|
 `bash`|"bash"
@@ -55,3 +57,4 @@ Thing|How to Say It
 `kubectl` | "cube c-t-l"
 `IOPS` | "eye ops"
 `etcd` | "etsy dee"
+`toml` | "TOM-el" (Tom made it)
