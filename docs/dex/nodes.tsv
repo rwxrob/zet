@@ -2110,3 +2110,4 @@
 2161	2023-06-06 14:54:38Z	Authentik does not support grant_type=password
 2162	2023-06-07 23:21:32Z	Preferred multi-cluster developer workflow
 2163	2023-06-07 23:21:26Z	Look into asdf for managing multiple versions of CLI
+2164	2023-06-07 23:53:01Z	Keycloak can be skinned with keywind
