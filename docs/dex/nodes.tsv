@@ -2108,3 +2108,4 @@
 2159	2023-06-05 14:09:37Z	Kubernetes dashboard considerations and alternatives
 2160	2023-06-06 13:52:55Z	Use podman inspect to see how container created
 2161	2023-06-06 14:54:38Z	Authentik does not support grant_type=password
+2163	2023-06-07 23:21:26Z	Look into asdf for managing multiple versions of CLI
