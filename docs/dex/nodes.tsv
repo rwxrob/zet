@@ -2116,3 +2116,4 @@
 2169	2023-06-09 13:04:23Z	Ideas for rwxrob.tv merch
 2170	2023-06-09 15:05:09Z	Use openssl rand to generate random text data
 2171	2023-06-12 14:39:57Z	Make sure to use full paths for `-v` volume mounts
+2172	2023-06-12 15:53:35Z	Use `set -o noclobber` at beginning of bash scripts
