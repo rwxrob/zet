@@ -210,7 +210,7 @@
 213	2022-12-04 23:36:24Z	Check for Newer Version
 214	2022-12-04 23:36:24Z	Source Code for Google Calendar Extension
 215	2022-12-04 23:36:24Z	I Hate How Red Hat Hides
-216	2022-12-04 23:36:24Z	What is your opinion of NFTs?
+216	2023-05-20 21:28:00Z	What is your opinion of NFTs?
 217	2022-12-04 23:36:24Z	Go So Popular with Hackers, Go Itself Getting Flagged
 218	2022-12-04 23:36:24Z	How to tell if WSL1 or WSL2 Linux Windows?
 219	2022-12-04 23:36:24Z	SKILSTAK Projects Stage
@@ -782,7 +782,7 @@
 790	2023-02-02 16:54:12Z	IRL Streaming Kit Conclusions
 791	2022-12-04 23:36:24Z	Shell `printf` is Not Same as Other Languages
 792	2022-12-04 23:36:24Z	Power of the Bash Null Command (:)
-794	2022-12-04 23:36:24Z	OIDC Setup for Kubernetes klogin
+794	2023-06-08 13:07:06Z	OIDC Setup for Kubernetes klogin
 795	2022-12-04 23:36:24Z	Use buildah from Within K8S Pod
 796	2022-12-04 23:36:24Z	GitHub Projects Not as Good as Issues
 797	2022-12-04 23:36:24Z	Scanning and Parsing Dilemma
@@ -1721,7 +1721,7 @@
 1750	2022-12-04 23:36:24Z	Wahooo, got a raid from *the* Kris Nova ❤
 1751	2022-12-05 03:30:09Z	Q: What are you doing for advent of code this year?
 1752	2022-12-04 23:36:24Z	What does the stream community want?
-1753	2022-12-04 23:36:24Z	Square merchant tap-to-pay to your phone
+1753	2023-05-20 21:28:00Z	Square merchant tap-to-pay to your phone
 1754	2022-12-05 03:23:37Z	Q: What can I do for my 9-year-old child to start coding?
 1755	2022-12-04 23:36:24Z	Q: How are you testing Go when files change?
 1756	2022-12-04 23:36:24Z	Twitch supports better music options
@@ -2108,6 +2108,11 @@
 2159	2023-06-05 14:09:37Z	Kubernetes dashboard considerations and alternatives
 2160	2023-06-06 13:52:55Z	Use podman inspect to see how container created
 2161	2023-06-06 14:54:38Z	Authentik does not support grant_type=password
-2162	2023-06-07 23:21:32Z	Preferred multi-cluster developer workflow
+2162	2023-06-08 11:21:48Z	Preferred multi-cluster Kubernetes developer workflows
 2163	2023-06-07 23:21:26Z	Look into asdf for managing multiple versions of CLI
 2164	2023-06-07 23:53:01Z	Keycloak can be skinned with keywind
+2166	2023-06-08 13:46:54Z	Yes, PINP (Podman in Podman) is a thing
+2167	2023-06-09 11:34:18Z	Difference between traceroute and tracepath
+2169	2023-06-09 13:04:23Z	Ideas for rwxrob.tv merch
+2170	2023-06-09 15:05:09Z	Use openssl rand to generate random text data
+2171	2023-06-12 14:39:57Z	Make sure to use full paths for `-v` volume mounts
