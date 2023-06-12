@@ -2119,3 +2119,4 @@
 2172	2023-06-12 16:10:06Z	Use `set -C` at beginning of bash scripts
 2173	2023-06-12 16:50:19Z	Don't create open `openssl.cnf` files, use one in `/etc/ssl`
 2174	2023-06-12 18:25:01Z	Add trusted CA to web browser
+2175	2023-06-12 18:28:26Z	Keycloak OIDC provider joins CNCF
