@@ -2117,3 +2117,4 @@
 2170	2023-06-09 15:05:09Z	Use openssl rand to generate random text data
 2171	2023-06-12 14:39:57Z	Make sure to use full paths for `-v` volume mounts
 2172	2023-06-12 16:10:06Z	Use `set -C` at beginning of bash scripts
+2173	2023-06-12 16:50:19Z	Don't create open `openssl.cnf` files, use one in `/etc/ssl`
