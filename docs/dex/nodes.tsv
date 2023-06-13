@@ -2121,3 +2121,4 @@
 2174	2023-06-12 18:25:01Z	Add trusted CA to web browser
 2175	2023-06-12 18:28:26Z	Keycloak OIDC provider joins CNCF
 2176	2023-06-13 12:50:34Z	Learn QEMU, KVM, libvirt, virsh before any other VM tools
+2177	2023-06-13 13:17:23Z	Think of Keycloak "realm" as sort-of private Keycloak instance
