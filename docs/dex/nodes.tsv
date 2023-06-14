@@ -2126,5 +2126,5 @@
 2179	2023-06-14 11:22:11Z	Need to look at source of bounca.org to learn certs
 2180	2023-06-14 11:30:13Z	Using `openssl` conf files might actually be less secure
 2181	2023-06-14 14:16:30Z	🤔💭 coworking video disclaimer
-2182	2023-06-14 15:23:29Z	Many tmpfs files are reset when `start -a` to existing container
+2182	2023-06-14 15:25:47Z	Many tmpfs files are reset when `start -a` to existing container
 2183	2023-06-14 15:17:46Z	Bind mounts are glorified hard links that work with files

@@ -1,6 +1,6 @@
 # Many tmpfs files are reset when `start -a` to existing container
 
-Update: turns out this is because `/etc/hosts` is a **bind mount** (which I created another zet about). 
+Update: turns out this is because `/etc/hosts` is a **bind mount** (which I created another zet about).
 
 I was shocked to learn that local modifications to `/etc/hosts` were lost after exiting and later `podman start -a ws` to reconnect. I had added them so that `ssh` would do tab completion (which can also be accomplished in other ways). I discovered (after a friend told me) that `/etc/hosts` is actually a `tmpfs` type that is reset upon ever `start` (restart) of the container. In other words, changes are not persisted.
 
