@@ -11,4 +11,6 @@ Coworking videos are captured from live streams that are casual, messy, disorgan
 * Anything created during the session is in <https://github.com/rwxrob/lab>.
 * Often notes and discoveries are written in <https://rwxrob.github.io/zet>.
 * Join the Discord <https://discord.gg/9wydZXY> for questions and feedback.
+* My home lab is documented graphically at <https://app.excalidraw.com/l/6rjSvoGlOkc/1njNB1sKmj8>.
+* Specs of my home lab machines are at <https://github.com/rwxrob/homelab>.
 * I don't normally read YouTube video comments (although I probably should).
