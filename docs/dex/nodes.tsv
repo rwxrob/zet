@@ -2124,3 +2124,4 @@
 2177	2023-06-13 13:17:23Z	Think of Keycloak "realm" as sort-of private Keycloak instance
 2178	2023-06-13 15:25:22Z	Use `read -rs -p 'Password: '` to read password from shell
 2179	2023-06-14 11:22:11Z	Need to look at source of bounca.org to learn certs
+2180	2023-06-14 11:30:13Z	Using `openssl` conf files might actually be less secure
