@@ -110,7 +110,7 @@
 113	2022-12-04 23:36:24Z	MimWorks `mim` Umbrella for `zet`, `yt`, etc.
 114	2022-12-04 23:36:24Z	Optimal Sound Levels for Streaming
 115	2022-12-04 23:36:24Z	🖼️ Associate Credential Dependency Tree
-116	2022-12-04 23:36:24Z	Use Go `internal` to Not Export Symbols
+116	2023-06-16 16:45:14Z	Use Go `internal` to not export symbols
 117	2022-12-04 23:36:24Z	Modal Living FTW!
 118	2022-12-04 23:36:24Z	Announcement: Bonzai™ v0.1.1 is Released
 119	2022-12-04 23:36:24Z	Book: Out of Their Minds (Sir Ken Robinson)
@@ -2128,3 +2128,10 @@
 2181	2023-06-14 14:16:30Z	🤔💭 coworking video disclaimer
 2182	2023-06-14 15:25:47Z	Many tmpfs files are reset when `start -a` to existing container
 2183	2023-06-14 15:17:46Z	Bind mounts are glorified hard links that work with files
+2184	2023-06-14 17:18:09Z	Term nonce: n - number, once - only used once
+2185	2023-06-14 17:46:06Z	The magical OAuth2 scope: openid
+2186	2023-06-15 15:14:57Z	When using minikube on LAN copying .kube/config enables any host
+2187	2023-06-16 12:56:23Z	Remove line wrapping from .kube/config in .vimrc
+2188	2023-06-16 13:35:54Z	You cannot change stop and start to get minikube --extra-args
+2189	2023-06-16 13:45:01Z	Minikube uses files instead of inline certs if .minikube/certs
+2190	2023-06-16 15:14:09Z	idp-certificate-authority ~= curl --cacert
