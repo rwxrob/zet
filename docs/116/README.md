@@ -1,4 +1,4 @@
-# Use Go `internal` to not export symbols
+# Use Go internal package to not export symbols
 
 > Go's package system makes it easy to structure programs into components with clean boundaries, but there are only two forms of access: local (unexported) and global (exported). Sometimes one wishes to have components that are not exported, for instance to avoid acquiring clients of interfaces to code that is part of a public repository but not intended for use outside the program to which it belongs.
 >
