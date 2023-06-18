@@ -8,3 +8,9 @@ executable.
 ```
 entr bash -c 'clear; go run main.go' <<< main.go
 ```
+
+Or 
+
+```sh
+entr bash -c "clear; go test" < <(ls -1 **/*.go)
+```

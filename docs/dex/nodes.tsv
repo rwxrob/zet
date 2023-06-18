@@ -334,7 +334,7 @@
 339	2022-12-04 23:36:24Z	Install Tekton
 340	2022-12-04 23:36:24Z	One-Liner to Install Kubernetes NGINX Ingress Controller
 341	2022-12-04 23:36:24Z	Frequently Asked Questions (FAQ)
-342	2022-12-04 23:36:24Z	Use `entr` to Do Things When Files Change
+342	2023-05-20 21:28:00Z	Use `entr` to Do Things When Files Change
 343	2022-12-04 23:36:24Z	Unix Hints and Hacks, an Old But Great Book
 344	2022-12-04 23:36:24Z	/etc/hosts add tab completion to ssh command
 345	2022-12-04 23:36:24Z	Learning Isn't Complicated
@@ -805,7 +805,7 @@
 814	2022-12-04 23:36:24Z	"If not, that would be a waste of space."
 815	2022-12-04 23:36:24Z	dnf is the new yum
 816	2022-12-04 23:36:24Z	Learn Mac, Windows, and Linux for Best Results
-817	2022-12-05 03:25:52Z	Execute Commands When File Changes with `entr`
+817	2023-06-18 15:51:08Z	Execute Commands When File Changes with `entr`
 818	2022-12-24 07:16:25Z	Read `kubeadm` source to learn
 819	2022-12-12 04:35:28Z	Kubernetes certification seems worth it
 820	2022-12-04 23:36:24Z	"Dedicated Kubernetes Clusters" are a Thing
