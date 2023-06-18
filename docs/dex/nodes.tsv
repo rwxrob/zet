@@ -2135,3 +2135,4 @@
 2188	2023-06-16 13:35:54Z	You cannot change stop and start to get minikube --extra-args
 2189	2023-06-16 13:45:01Z	Minikube uses files instead of inline certs if .minikube/certs
 2190	2023-06-16 15:14:09Z	idp-certificate-authority ~= curl --cacert
+2191	2023-06-18 14:27:16Z	OIDC Resource Owner Password Flow (`grant_type=password`)
