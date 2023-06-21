@@ -1,5 +1,8 @@
 # Git commit conventions: https://www.conventioncommits.org
 
+* Conventional Commits  
+  <https://www.conventionalcommits.org/en/v1.0.0/>
+
 Update: Wednesday, June 21, 2023, 2:02:44PM EDT
 
 I've been swooned into using the <https://www.conventionalcommits.org> practices because the ArgoCD and other projects use them to great effect when preparing automated release notes from the messages. This trumps the simpler conventions used up to now.
