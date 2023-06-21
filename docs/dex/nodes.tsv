@@ -104,7 +104,7 @@
 107	2022-12-06 02:58:41Z	Using ProtoBuf for Twitch bot message persistence
 108	2022-12-04 23:36:24Z	Use `go work ...` for Concurrent Go Package Dev
 109	2022-12-04 23:36:24Z	ZettelMark: References List
-110	2022-12-04 23:36:24Z	Git Commit Conventions
+110	2023-06-21 14:06:55Z	Git commit conventions: https://www.conventioncommits.org
 111	2022-12-04 23:36:24Z	Use `test` Instead of `[ ]` in Shell Scripts
 112	2022-12-04 23:36:24Z	Great Age of the Monolith/Multicall Binary
 113	2022-12-04 23:36:24Z	MimWorks `mim` Umbrella for `zet`, `yt`, etc.
@@ -2136,3 +2136,6 @@
 2189	2023-06-16 13:45:01Z	Minikube uses files instead of inline certs if .minikube/certs
 2190	2023-06-16 15:14:09Z	idp-certificate-authority ~= curl --cacert
 2191	2023-06-18 14:27:16Z	OIDC Resource Owner Password Flow (`grant_type=password`)
+2192	2023-06-19 15:19:51Z	Invalid certificate DNS/IP errors from Kubernetes
+2193	2023-06-19 13:53:33Z	Error when minikube doesn't have CA matching OIDC provider
+2194	2023-06-19 17:12:14Z	minikube used boot2docker as base Linux image
