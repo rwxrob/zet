@@ -2139,3 +2139,4 @@
 2192	2023-06-19 15:19:51Z	Invalid certificate DNS/IP errors from Kubernetes
 2193	2023-06-19 13:53:33Z	Error when minikube doesn't have CA matching OIDC provider
 2194	2023-06-19 17:12:14Z	minikube used boot2docker as base Linux image
+2196	2023-06-22 13:29:47Z	Only safe way to get "script root" directory
