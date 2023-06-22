@@ -1,0 +1,3 @@
+# Create multiple minikube Kubernetes clusters to validate
+
+I cannot overstate how valuable being able to have minikube to spin up multiple clusters to test OIDC authentication using the bearer tokens provided. For example, most would expect the `access_token` returned to be the bearer token to use to authenticate to Kubernetes, but Kubernetes officially uses the `id_token` instead when calling `--token <token>` for anything. I simply could not have proven that without having my own multi-cluster env with a working, multi-realm Keycloak server issuing OIDC as well. So that was time *very well spent*.
