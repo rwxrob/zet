@@ -9,7 +9,6 @@
 9	2022-12-04 23:36:24Z	GitHub API versus CLI `gh` Tool?
 10	2022-12-04 23:36:24Z	Can I Run Linux Desktop in Containers?
 11	2022-12-04 23:36:24Z	Is the Future About Code Generation?
-12	2022-12-04 23:36:24Z	Good Morning: Wednesday, December  1, 2021
 13	2022-12-04 23:36:24Z	Key Command Line Utilities for Streaming Community
 14	2022-12-04 23:36:24Z	I am a Fan of Chocolatey
 15	2022-12-04 23:36:24Z	What Do You Think of The Social Dilemma?
@@ -115,10 +114,7 @@
 118	2022-12-04 23:36:24Z	Announcement: Bonzai™ v0.1.1 is Released
 119	2022-12-04 23:36:24Z	Book: Out of Their Minds (Sir Ken Robinson)
 120	2022-12-04 23:36:24Z	Holiday Coffee in Bed Ends Horribly
-121	2022-12-04 23:36:24Z	Start Thinking Multi-Cluster from the Outset
-122	2022-12-04 23:36:24Z	Dandified Yum is New Yum
 123	2022-12-04 23:36:24Z	Zettelkasten Feeling of Freedom
-124	2022-12-04 23:36:24Z	Never Use `foo == nil` Checks in Go for Interfaces
 125	2022-12-04 23:36:24Z	Back to Kind for Everything Kubernetes
 126	2022-12-04 23:36:24Z	Please Initial Cap Kubernetes Object Names
 127	2022-12-04 23:36:24Z	Windows Docker Desktop is Torture, Gimme Linux
@@ -138,10 +134,7 @@
 141	2022-12-04 23:36:24Z	Get Around Zero Value Problem with Go Generics
 142	2022-12-04 23:36:24Z	GitHub Personal Access Tokens, Better Than Oauth
 143	2022-12-04 23:36:24Z	Use `cloc` to Count Lines of Code
-144	2022-12-04 23:36:24Z	Stop Saying Python FastAPI is Fast
 145	2022-12-04 23:36:24Z	Extended ZettelMark, for Academia and More
-146	2022-12-04 23:36:24Z	LMAO at This Meme of an Anti-Go Blog Post
-147	2022-12-04 23:36:24Z	Refresh Gnome Desktop without Reboot
 148	2022-12-04 23:36:24Z	Don't Get Mad, Get Busy ...
 149	2022-12-04 23:36:24Z	Linux on VirtualBox, Best First Linux Experience
 150	2022-12-04 23:36:24Z	Need TFTP Linux Server at Home
@@ -363,7 +356,6 @@
 368	2022-12-04 23:36:24Z	Should I do a github Bonzai Branch?
 369	2022-12-04 23:36:24Z	Use Gox and Ghr to Release Go Binaries
 370	2022-12-04 23:36:24Z	Returning to Double-Sleep Schedule
-371	2022-12-04 23:36:24Z	Don't Let Floor Division Ruin Your Day
 372	2022-12-04 23:36:24Z	Open Policy Agent (OPA) Policy Library
 373	2022-12-04 23:36:24Z	Use `jo` with `curl --json` and `jq` for JSON
 374	2022-12-04 23:36:24Z	Knowledge Repos
@@ -947,7 +939,6 @@
 958	2022-12-04 23:36:24Z	Glad New 'Software and Game Programming' on Twitch
 959	2022-12-04 23:36:24Z	Dropping Related Section from Learning Labs
 960	2022-12-04 23:36:24Z	Use Hyperfine for Best Benchmarking
-961	2022-12-04 23:36:24Z	Q: What do you think about CodeAcademy and DataCamp?
 962	2022-12-04 23:36:24Z	Optimal Streaming and Recording Workflow
 963	2022-12-04 23:36:24Z	Rancher Desktop Alternative to Docker Desktop
 964	2022-12-04 23:36:24Z	Markdown Reference Links Do Not Need to Be Last
@@ -1174,44 +1165,19 @@
 1188	2022-12-04 23:36:24Z	Problem with Perl, It's Too Damn Good
 1189	2022-12-04 23:36:24Z	The Hacker Combat Organization
 1190	2022-12-04 23:36:24Z	Learning Go Generics
-1191	2022-12-04 23:36:24Z	Backup and Restore etcd
 1192	2022-12-04 23:36:24Z	Terminal Skills Boost "Data Wrangling"
-1193	2022-12-04 23:36:24Z	Scripting Your GUI Desktop from Bash Shell
-1194	2022-12-04 23:36:24Z	Use `mkpasswd --method=SHA-256` for `cloud-init`
 1195	2022-12-04 23:36:24Z	What Programming Languages Do You Use?
 1196	2022-12-04 23:36:24Z	How are you doing Go automated terminal testing?
-1197	2022-12-04 23:36:24Z	Robert Sapolsky, I Wanna Read Everything from Him
 1198	2022-12-04 23:36:24Z	Q: Should I use a monorepo for Kubernetes apps?
-1199	2022-12-04 23:36:24Z	I Like the Word Scenario
-1200	2022-12-04 23:36:24Z	Using `go get -u` is Usually Bad, Beware
-1201	2022-12-04 23:36:24Z	Containers Leave No Trace
 1202	2022-12-12 12:59:49Z	Use `lockedfile` to properly lock file in Go
 1203	2022-12-04 23:36:24Z	How do you get large color font title on terminal?
-1204	2022-12-04 23:36:24Z	Press K in Vi/m to Get `man` Page in C
-1205	2022-12-04 23:36:24Z	"NeoVim makes other editors look like Stoneedge"
-1206	2022-12-04 23:36:24Z	Veritical Pod Autoscaling
-1207	2022-12-04 23:36:24Z	Show Everything with `helm get manifest`
-1208	2022-12-04 23:36:24Z	Changed Default YAML Indent to Four Spaces
-1209	2022-12-04 23:36:24Z	We All Have Different Abilities and Opportunities
-1210	2022-12-04 23:36:24Z	Docker in Docker Socket Perms Problem
-1211	2022-12-04 23:36:24Z	Do you do code reviews?
-1212	2022-12-04 23:36:24Z	Kubernetes Has Forever Forked YAML Keeping v2
-1213	2022-12-04 23:36:24Z	Learning Nodes are Knowledge Nodes
-1214	2022-12-04 23:36:24Z	Choose the Right Desktop Tools for *Real* Jobs
 1215	2022-12-04 23:36:24Z	Absolutely Essential Cloud-Native Tech to Learn
 1216	2022-12-04 23:36:24Z	So Many "Educational Review" Articles Lie to You
-1217	2022-12-04 23:36:24Z	I was So Wrong About Twitch Commands
-1218	2022-12-04 23:36:24Z	No Globbing in Bonzai, Just Functional Pipes
-1219	2022-12-04 23:36:24Z	Use the SPDX License Tags
-1220	2022-12-04 23:36:24Z	MultiTwitch Allows Watching Multiple Streams
 1221	2022-12-04 23:36:24Z	Q: What app do you use to take notes?
 1222	2022-12-04 23:36:24Z	Go 1.16 `go get` Effectively Deprecated
-1223	2022-12-04 23:36:24Z	Bash Creator: Brian J Fox
 1224	2022-12-04 23:36:24Z	Quote: "C/C++ is good way to say ..."
-1225	2022-12-04 23:36:24Z	SKILSTAK Beginner Boost 2022
 1226	2022-12-04 23:36:24Z	How stupid is NeoVim for removing `view`
 1227	2022-12-04 23:36:24Z	K8SAPP Metadata
-1228	2022-12-04 23:36:24Z	Learn InfiniBand For High Performance Network Work
 1229	2022-12-04 23:36:24Z	Istio VirtualService `host` Actually Means Service
 1230	2022-12-04 23:36:24Z	More Evidence Go is a Favorite for Hackers
 1231	2022-12-04 23:36:24Z	Test Exec and Executables from Golang
@@ -1420,15 +1386,9 @@
 1436	2022-12-04 23:36:24Z	Web Developers are Not Fucking Software Engineers
 1437	2022-12-04 23:36:24Z	`*(foo+2)` is same as `foo[2]` in C
 1438	2022-12-04 23:36:24Z	Mim KEG Publisher Will Use Go `rsync`
-1439	2022-12-04 23:36:24Z	Just Write It in Bash
 1440	2022-12-04 23:36:24Z	RT-Thread Smart, Embedded OS
 1441	2022-12-04 23:36:24Z	Be Careful of Packt Publishing
-1442	2022-12-04 23:36:24Z	Kubernetes Has No Way to Check Disk Usage
-1443	2022-12-04 23:36:24Z	Discovered Better `os/exec` from Kubernetes Project
-1444	2022-12-04 23:36:24Z	Use `x.` Instead of `command_` in bash Template
-1445	2022-12-04 23:36:24Z	Help Others Learn, A Social Responsibility
 1446	2022-12-04 23:36:24Z	No Way to Stop YouTube Livestream from Saving
-1447	2022-12-04 23:36:24Z	Kubernetes Endpoint Object Like Round-Robin?
 1448	2022-12-04 23:36:24Z	Dismiss Apache Syncope Just for Being Java
 1449	2022-12-04 23:36:24Z	Restarting Windows Pauses VirtualBox VMs
 1450	2022-12-04 23:36:24Z	Resources for Learning TMUX
@@ -1442,16 +1402,10 @@
 1458	2022-12-04 23:36:24Z	🖼️  Kubernetes ClusterIP Services
 1459	2022-12-04 23:36:24Z	Gamified GitHub
 1460	2022-12-04 23:36:24Z	Use `RVAL` to Return Strings from Shell Functions
-1461	2022-12-04 23:36:24Z	TMUX Columns and Windows Terminal Font
 1462	2022-12-04 23:36:24Z	Look Into `newlib` for Embedded
 1463	2022-12-04 23:36:24Z	Learn netplan for Linux Networking
 1464	2022-12-04 23:36:24Z	DCO CLI is Enough for Contributions
-1465	2022-12-04 23:36:24Z	Change is Coming
-1466	2022-12-04 23:36:24Z	Today I learned that GitHub supports Pandoc references
-1467	2022-12-04 23:36:24Z	Google Pixel Note Dictation Much Better
 1468	2022-12-04 23:36:24Z	News for 2021, Week 45
-1469	2022-12-04 23:36:24Z	Mac Minis Support Netboot, Thank God
-1470	2022-12-04 23:36:24Z	Change Terminal to 95 x 26 (Font Size 30)
 1471	2022-12-04 23:36:24Z	Get Latest Released Version from GitHub with Bash
 1472	2022-12-04 23:36:24Z	CGO Cross Compilation with `xgo`
 1473	2022-12-04 23:36:24Z	Colearning Cloud-Native and Kubernetes (Fridays 12-3pm)
@@ -1814,7 +1768,6 @@
 1853	2022-12-22 15:45:32Z	📞 How do you find motivation?
 1854	2022-12-22 15:45:36Z	📞 How does KEG compare to Wikipedia?
 1855	2022-12-22 15:40:13Z	KEGML initial docs
-1856	2022-11-11 02:31:31Z	Overview of functional scanning and parsing with PEGN
 1857	2023-01-22 17:59:29Z	PEGN scanner interface and functions
 1858	2022-12-22 15:45:46Z	Wondering if Go templates would be best for filters and snippets
 1859	2022-12-22 15:45:49Z	Footnotes *require* surrounding blank lines
@@ -2126,7 +2079,7 @@
 2179	2023-06-14 11:22:11Z	Need to look at source of bounca.org to learn certs
 2180	2023-06-14 11:30:13Z	Using `openssl` conf files might actually be less secure
 2181	2023-06-14 14:16:30Z	🤔💭 coworking video disclaimer
-2182	2023-06-14 15:25:47Z	Many tmpfs files are reset when `start -a` to existing container
+2182	2023-06-14 15:25:47Z	Many tmpfs files are reset when start -a to existing container
 2183	2023-06-14 15:17:46Z	Bind mounts are glorified hard links that work with files
 2184	2023-06-14 17:18:09Z	Term nonce: n - number, once - only used once
 2185	2023-06-14 17:46:06Z	The magical OAuth2 scope: openid
@@ -2146,6 +2099,7 @@
 2200	2023-06-24 10:55:37Z	Use GitHub Actions to build and release golang projects
 2201	2023-06-24 17:03:14Z	Nice Mormon sister missionaries knocked on my door
 2202	2023-06-24 23:03:44Z	Golang project started adding PATENTS file to releases
-2203	2023-06-24 23:06:50Z	Just discovered the golang `time/rate` package for rate limiting
+2203	2023-06-24 23:06:50Z	Just discovered the golang time/rate package for rate limiting
 2204	2023-06-25 00:11:40Z	Difference between git switch and checkout -b
 2205	2023-06-25 14:28:36Z	Considering return to document-oriented content organization
+2207	2023-06-26 14:29:46Z	Read before making a kubectl plugin
