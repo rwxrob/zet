@@ -1,5 +1,7 @@
 # Use Go internal package to not export symbols
 
+Note: `internal` must be one parent dir away, not the entire module.
+
 > Go's package system makes it easy to structure programs into components with clean boundaries, but there are only two forms of access: local (unexported) and global (exported). Sometimes one wishes to have components that are not exported, for instance to avoid acquiring clients of interfaces to code that is part of a public repository but not intended for use outside the program to which it belongs.
 >
 > The Go language does not have the power to enforce this distinction, but as of Go 1.4 the go command introduces a mechanism to define "internal" packages that may not be imported by packages outside the source subtree in which they reside.
