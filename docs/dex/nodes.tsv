@@ -2106,3 +2106,4 @@
 2208	2023-06-27 12:40:12Z	Using Cobra in Golang
 2209	2023-06-27 13:51:54Z	Goreleaser will add main.version to golang commands from tags
 2210	2023-06-30 16:09:06Z	Use colon operator in shell/bash to set defaults
+2211	2023-06-30 16:46:02Z	Extending Golang templates with FuncMap
