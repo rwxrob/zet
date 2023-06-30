@@ -109,7 +109,7 @@
 113	2022-12-04 23:36:24Z	MimWorks `mim` Umbrella for `zet`, `yt`, etc.
 114	2022-12-04 23:36:24Z	Optimal Sound Levels for Streaming
 115	2022-12-04 23:36:24Z	🖼️ Associate Credential Dependency Tree
-116	2023-06-27 15:01:47Z	Use Go internal package to not export symbols
+116	2023-06-30 14:49:04Z	Use Go internal package to not export symbols
 117	2022-12-04 23:36:24Z	Modal Living FTW!
 118	2022-12-04 23:36:24Z	Announcement: Bonzai™ v0.1.1 is Released
 119	2022-12-04 23:36:24Z	Book: Out of Their Minds (Sir Ken Robinson)
@@ -375,7 +375,7 @@
 388	2022-12-04 23:36:24Z	JupyterHub Kubernetes Officially Launches Helm
 389	2022-12-04 23:36:24Z	Use `kind load` Instead of Private Repo
 390	2022-12-04 23:36:24Z	Why No zet SSG Actions to Render?
-391	2022-12-04 23:36:24Z	Go Template FuncMap Pipe to Functions Goes to Args
+391	2023-06-30 15:06:06Z	Go template FuncMap pipe to functions goes to args
 392	2022-12-04 23:36:24Z	Just RTFM as Major Method to Learn Kubernetes
 393	2022-12-04 23:36:24Z	TODO: Forums Application Threaded by Linux Commands
 394	2022-12-04 23:36:24Z	Install Vim Plug Plugin Manager in Vimrc
