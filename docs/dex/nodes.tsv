@@ -1490,7 +1490,7 @@
 1553	2022-12-04 23:36:24Z	Perl Fucking Rocks for Hacking
 1554	2022-12-04 23:36:24Z	Use `watch k get po` to Watch New Deployments
 1555	2022-12-04 23:36:24Z	Use `id`, Not `$USER` and `$UID`
-1556	2022-12-04 23:36:24Z	Use `exec bash -l` to Load `~/.bashrc` Changes
+1556	2023-06-30 22:40:13Z	Use `exec bash -l` to Load `~/.bashrc` Changes
 1557	2022-12-04 23:36:24Z	Deleting Kubernetes Namespace Deletes Everything
 1558	2022-12-04 23:36:24Z	Netbooting with PXE
 1559	2022-12-04 23:36:24Z	Hey Look, Adam Mentioned Me, First ;)
@@ -1769,7 +1769,7 @@
 1854	2022-12-22 15:45:36Z	📞 How does KEG compare to Wikipedia?
 1855	2022-12-22 15:40:13Z	KEGML initial docs
 1857	2023-01-22 17:59:29Z	PEGN scanner interface and functions
-1858	2022-12-22 15:45:46Z	Wondering if Go templates would be best for filters and snippets
+1858	2023-06-30 14:49:04Z	Wondering if Go templates would be best for filters and snippets
 1859	2022-12-22 15:45:49Z	Footnotes *require* surrounding blank lines
 1860	2022-12-22 15:35:33Z	Watch out when copying Glamour output for bullets, etc.
 1861	2022-12-22 18:41:52Z	When it comes time to learn Rust, here's what looks best (to me)
