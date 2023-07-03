@@ -8,7 +8,7 @@ This is actually documented under `--bind` in the `mount` command man page:
 >
 >    `mount --bind foo foo`
 
-I tried the example of bind mouting `/etc/passwd`. First, I had to create a file (not a directory) at the target:
+I tried the example of bind mounting `/etc/passwd`. First, I had to create a file (not a directory) at the target:
 
 ```sh
 touch /mnt/mypasswd
@@ -48,4 +48,4 @@ The `findmnt` command will show which mounts are files.
 ├─/mnt/mypasswd                               /dev/sda2[/etc/passwd] ext4        rw,relatime
 ```
 
-So bind mounting is like filtering out specific directories---or a single file---from a base, existing filesystem and only making it available as a mountable filesystem itself.
+So bind mounting is like filtering out specific directories---or a single file---from a base, existing file system and only making it available as a mountable file system itself.

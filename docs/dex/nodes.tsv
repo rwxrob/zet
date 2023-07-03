@@ -988,7 +988,7 @@
 1011	2022-12-04 23:36:24Z	Origin of `/var/lock` Locking Standards
 1012	2022-12-04 23:36:24Z	Go Anonymous Struct Gotchas
 1013	2022-12-04 23:36:24Z	Insane Amount of Hand-Holding for Most to Learn
-1014	2022-12-04 23:36:24Z	Back to Bi-Modal Sleep Schedule
+1014	2023-06-30 14:49:04Z	Back to Bi-Modal Sleep Schedule
 1015	2022-12-04 23:36:24Z	Use `let mapleader=","` in Vim
 1016	2022-12-04 23:36:24Z	Content Organization and Locations
 1017	2022-12-04 23:36:24Z	First Go Bonzai Project Actually Paid to Do
@@ -2080,7 +2080,7 @@
 2180	2023-06-14 11:30:13Z	Using `openssl` conf files might actually be less secure
 2181	2023-06-14 14:16:30Z	🤔💭 coworking video disclaimer
 2182	2023-06-14 15:25:47Z	Many tmpfs files are reset when start -a to existing container
-2183	2023-06-14 15:17:46Z	Bind mounts are glorified hard links that work with files
+2183	2023-07-03 01:01:09Z	Bind mounts are glorified hard links that work with files
 2184	2023-06-14 17:18:09Z	Term nonce: n - number, once - only used once
 2185	2023-06-14 17:46:06Z	The magical OAuth2 scope: openid
 2186	2023-06-15 15:14:57Z	When using minikube on LAN copying .kube/config enables any host
