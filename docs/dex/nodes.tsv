@@ -2112,3 +2112,4 @@
 2214	2023-07-04 12:36:47Z	Use curly brackets in POSIX shell to group lines of code
 2215	2023-07-04 12:38:40Z	Using tabs for indent in shell/bash
 2216	2023-07-04 12:45:27Z	Clean up shell artifacts on exit with trap
+2217	2023-07-04 13:31:58Z	Use act to run/debug GitHub actions locally.
