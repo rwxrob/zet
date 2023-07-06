@@ -2103,7 +2103,7 @@
 2204	2023-06-25 00:11:40Z	Difference between git switch and checkout -b
 2205	2023-06-25 14:28:36Z	Considering return to document-oriented content organization
 2207	2023-06-27 14:23:11Z	Read before making a kubectl plugin
-2208	2023-06-27 12:40:12Z	Using Cobra in Golang
+2208	2023-06-30 14:49:04Z	Using Cobra in Golang
 2209	2023-06-27 13:51:54Z	Goreleaser will add main.version to golang commands from tags
 2210	2023-06-30 16:09:06Z	Use colon operator in shell/bash to set defaults
 2211	2023-06-30 16:46:02Z	Extending Golang templates with FuncMap
@@ -2115,3 +2115,4 @@
 2217	2023-07-04 13:33:12Z	Use act to run/debug GitHub actions locally.
 2220	2023-07-04 14:20:01Z	Provide own customized schemas to vim
 2221	2023-07-04 15:37:06Z	Forgetting that you cannot commit to main
+2222	2023-07-06 02:33:22Z	Fuck it, I'm setting 20% trainer difficulty for races
