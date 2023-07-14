@@ -454,7 +454,7 @@
 468	2022-12-04 23:36:24Z	Cloud-Native and Kubernetes Colearning, Oct 15, 2021
 469	2022-12-04 23:36:24Z	Disable IPV6 on Specific Linux Machine
 470	2022-12-04 23:36:24Z	TODO: Need to Try `kubebuilder`
-471	2022-12-04 23:36:24Z	gRPC is the Present and Future
+471	2023-06-30 14:49:04Z	gRPC is the Present and Future
 472	2022-12-04 23:36:24Z	K8SAPP Embraces Git Instead of Shunning It
 473	2022-12-04 23:36:24Z	Boost Approaches
 474	2022-12-04 23:36:24Z	Fuchsia OS is Making Headlines
@@ -1928,7 +1928,7 @@
 2019	2023-02-17 17:04:23Z	QCA takes to much energy
 2021	2023-02-18 15:33:09Z	WebSocket server plugin included in OBS 28+!
 2022	2023-02-18 16:59:12Z	Hashicorp go-plugin has one show-stopping flaw
-2023	2023-02-18 17:05:52Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
+2023	2023-06-30 14:49:04Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
 2024	2023-02-19 17:44:09Z	Proposed "telemetry" in Go will force a fork if approved
 2025	2023-02-21 02:41:21Z	No more notifications to anything but Discord
 2026	2023-02-21 03:56:50Z	Make sure to set Sony AS300 HDMI resolution to 1080p (not auto)
@@ -2122,3 +2122,5 @@
 2226	2023-07-12 14:03:21Z	Reuse SSH connections from bash using ssh command
 2227	2023-07-12 22:30:59Z	Config maps are better than functional options in Go coding
 2228	2023-07-13 16:35:56Z	OpenAPI + Zalando API guidelines FTW!
+2230	2023-07-14 09:47:31Z	Moving to combined exercise (not training) in the evening
+2231	2023-07-14 11:39:25Z	Could the epidemic of PHONY Makefiles simply be tab completion?
