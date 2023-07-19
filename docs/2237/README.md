@@ -5,6 +5,7 @@ I'm giving Linux desktop yet another chance. While I do think the Boost should f
 Mint has never done me wrong, in 20 years. I'm hoping that QEMU/KVM have come along enough to do all the emulation I could ever need, and I have a VMware Workstation Pro license if needed. It's just a matter of time before I hit things that are buggy, I've already lost four hours over night just futzing with a bunch of small stuff to get it to where Windows is by default. But I have remembered some very important things that it brings back:
 
 * Overall, everything is a *lot* faster
+* Identical web cam is *much* clearer and has less lag
 * Open web browser directly from Lynx when needed
 * Full YouTube clips library (great for streaming)
 * Can use `mvlast` and all my utilities that integrate with GUI browser
