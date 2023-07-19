@@ -1,6 +1,6 @@
-# Zwift and NOALBS holding me hostage to Windows
+# Zwift and NOALBS holding me hostage to Windows?
 
-Update: NOALBS can run anywhere, even another server since it uses Websockets client to OBS. Zwift looks like it will run in a KVM virtual machine, and since I don't care about performance of Zwift that should be okay. I've decided I really can live without the games that won't run on Linux (easily).
+Update: NOALBS can run anywhere, even another server since it uses Websockets client to OBS. Zwift looks like it will run in a docker container or KVM virtual machine, and since I don't care about performance of Zwift that should be okay. I've decided I really can live without the games that won't run on Linux (easily).
 
 ----
 
