@@ -893,7 +893,7 @@
 912	2022-12-04 23:36:24Z	Using Twitch Commands During Boost Presentations
 913	2022-12-04 23:36:24Z	Use `sshpass` When You Must Use `ssh` Passwords
 914	2022-12-04 23:36:24Z	Figure: Sample Mr. Rob
-915	2023-06-30 14:49:04Z	YouTube Description Footer
+915	2023-07-19 08:34:51Z	YouTube Description Footer
 916	2022-12-04 23:36:24Z	Surprise, Docker Desktop is Proprietary (Not FOSS)
 917	2022-12-04 23:36:24Z	Tempted to Do All the KodeKloud Stuff
 918	2022-12-04 23:36:24Z	How to Install `kind` to Learn Kubernetes
@@ -2136,3 +2136,4 @@
 2240	2023-07-19 19:56:16Z	Discovered newgrp opens new login shell with that group
 2241	2023-07-19 21:02:39Z	Windows 10 on Linux Ubuntu Mint Cinnamon
 2242	2023-07-20 16:55:29Z	Go to a source code definition (and back) in vim
+2243	2023-07-23 14:35:17Z	Brilliant BSD developers understand the Rust "safety" lie
