@@ -1,4 +1,8 @@
-# Twitch no-VOD, pomo-radio format and multiple categories for 2023
+# Twitch pomo-radio format and multiple categories for 2023
+
+Back to pomo streaming during the day with very little (if any) voice. It helps me get stuff done. It also preserves my voice. People like it when I talk through my thought process when coding, but I just cannot do that every day. I have too much to get done at work that I cannot even talk through. I am still figuring out how to handle it when I *do* have stuff to talk through that would benefit from feedback from others. I suppose I can keep that in chat (and return to IRC for that). I've been meaning to return to that now that I'm on Linux on the desktop again (god I love Mint). Another reason is that I will be as limited as everyone else in communicating so we are equal. I noticed last time I did this that chat participation went up a lot, like a big chat room full of coworking nerds.
+
+----
 
 ***Update: Friday, January 20, 2023, 10:13:06AM EST***
 
