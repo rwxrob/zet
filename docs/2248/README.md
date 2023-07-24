@@ -6,8 +6,6 @@ By the way, this isn't the first time people have done this. UNIX started it wit
 
 Obviously this has me thinking of what a modern version of such an service would look like. Clearly no one is going to share the same system, but the world of micro services and APIs has gotten so large that it is time to rethink what such a collection of services would look like and how to deploy it.
 
-My first thought is that we could define a main server API implemented in REST to enable the most integration possibilities. Protobuf and gRPC would be nice, but overkill for this. Keeping things as simple as possible would allow scripts to be thrown together with `curl` that provide the POC work for other, larger applications to follow. Server maintainers could decide which services they wish to provide. In fact, stuff like Mastodon would just be another service and not the entire focus of the server. Micro-blogging has always just been a tiny part of the original coworking UNIX framework. Here are some other services that would be needed:
-
 * `ping` - get a real-time status about a person, their mood, are they online, busy, etc.
 * `todo` - public todo list with progress and percentages
 * `pomo` - where a person (or community) is in current focus and upcoming break
@@ -19,7 +17,19 @@ My first thought is that we could define a main server API implemented in REST t
 * `time` - start one of several personal timers
 * `poke` - setup an alert for oneself sort of like an alarm at a given time, possibly recurring
 
+## How could be implement this?
+
+My first thought is that we could define a main server API implemented in REST to enable the most integration possibilities. Protobuf and gRPC would be nice, but overkill for this. Keeping things as simple as possible would allow scripts to be thrown together with `curl` that provide the POC work for other, larger applications to follow. Server maintainers could decide which services they wish to provide. In fact, stuff like Mastodon would just be another service and not the entire focus of the server. Micro-blogging has always just been a tiny part of the original coworking UNIX framework. Here are some other services that would be needed:
+
+## Post could cover git commits
+
+The `post` command would be to post everything and support tagging (like any other) and people following others could filter the posts that they only want to see. The person doing the posting should be free to post as much as they want without fear of overwhelming those following them. This is a very big flaw in Twitter, Mastodon and any other micro-blogging platform that has no consumer/follower filter capability (and it is really such a no-brainer to add). We don't need "classes of notifications" just the ability to reliably filter by regular expression and a social contract to use certain community hashtags for whatever.
+
+## What about blogging or Zettelkasten?
+
 There wouldn't be a need for a `blog` service because there are so many different ways that people want to host their blog. The `post` would be enough to inform everyone that you have something to look like elsewhere. The `post` message size would be finite and the message itself guaranteed to self-destruct within a given time period to avoid the horrible problem of content rot on Twitter or any other platform. This creates a finite amount of data stored on the system for any specific user that could even be easily managed with a simple flat-file database. In fact, the database backing the service would itself be an API to which people could attach different storage methods.
+
+## Doesn't Discord do this?
 
 People try to use Discord for this stuff, but let's face it, Discord has all the control and isn't giving any of it up. It is much more powerful to integrate an open system with Discord than build the entire thing upon a very closed system. Discord is there to make money, not promote actual value between people. The people and communities *are* the product on Discord and that is where their legitimate connection to human beings ends: profit.
 
