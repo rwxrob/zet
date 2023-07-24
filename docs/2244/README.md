@@ -1,5 +1,9 @@
 # Absolutely, no more shitty GPLv3 for me (including bash)?
 
+Update: I simply cannot avoid GPLv3, but I can definitely try to help others avoid using it. ShellCheck uses it, for example. And I simply cannot encourage people to install an additional shell just to avoid GPLv3.
+
+----
+
 I am adding FreeBSD installation to the Beginner Boost, which has always been about UNIX (not just Linux). While I was preparing I started reading the mission of BSD and was reminded of the soul I once had, the one that would never allow anything with GPLv3 into my core toolkit. This was the very motivation for giving `zsh` a try two years ago but it was so inferior to---and more dangerous than---bash it just didn't make any sense.
 
 I've long been a POSIX advocate. In fact, it wasn't until 2020 when I started streaming that I questioned my obsessive commitment to POSIX. POSIX shell compliance is actually a very *bad* thing having glaring, horrible security problems dating back decades involving shell expansion. Bash addresses these with `if [[ ]]` (instead of `if [ ]`). I'm completely torn on this point.
