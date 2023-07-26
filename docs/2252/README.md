@@ -21,7 +21,9 @@ That's right, not only do you have to have Python installed for this to work, bu
 
 I replied:
 
-> !!uuidgen
+```vim
+!!uuidgen
+```
 
 I'm quite certain this person---who maintains an account labeled for their Vim expertise---has no fucking clue what I'm talking about. (And I'm sorry, I just have to say *fuck* in this rant. I can't not.)
 
