@@ -35,5 +35,5 @@ The level of no-clue-at-all in that tweet is completely astounding. Using a text
 
 In a way I'm glad. I haven't read more than a single tweet in the last two months and my life has been so much better because of it. People who religiously post shit to Twitter in the hope of drumming up "community involvement" are going about it entirely wrong.
 
-Last night someone I newly followed on Twitch posted this, "The smarter you are, the less you talk." I couldn't agree more. But I wonder where all this self-soothing writing falls into all that. One thing is for sure, the people who are *way* smarter than me say very little and wouldn't be caught dead streaming on Twitch, so what does that say about me. \*sigh\*
+Last night someone I newly followed on Twitch posted this, "The smarter you are, the less you talk." I couldn't agree more. But I wonder where all this self-soothing writing falls into all that. One thing is for sure, the people who are *way* smarter than me say very little and wouldn't be caught dead streaming on Twitch, so what does that say about me? \*sigh\*
 
