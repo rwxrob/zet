@@ -1,5 +1,9 @@
 # Could the epidemic of PHONY Makefiles simply be tab completion?
 
+Update: I'm now shamelessly hooked on PHONY Makefiles now just because of the completion. It's just so simple. The drug of tab completion makes the reality of unnecessary complexity in a Makefile somehow palatable. The addiction is real.
+
+----
+
 SuperTorpedo suggested that the reason for unnecessary Makefiles that could more sustainably, safely, and easily be written as shell scripts are so prevalent: `make <TAB>` completes the different possibilities (for people who don't know about `complete -C`). I could almost be convinced that is enough reason if the project *may* someday have something that actually warrants the use of `make` (build chain dependencies like with C dynamically linked libraries, which is why `make` was created).
 
 Here's a sample of what I mean by "unnecessary":
