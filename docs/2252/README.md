@@ -2,7 +2,7 @@
 
 Was reminded after losing 20 minutes of my life following rabbit holes posted by clueless people that there is nothing I want to read (mostly because of complete and total lack of any basic relevant experience). Here's an example:
 
-```vimscript
+```vim
 if has('python3')
   function! Guid()
     let l:guid = ''
