@@ -771,7 +771,7 @@
 787	2022-12-04 23:36:24Z	April Fools Day is One of My Favorites
 788	2022-12-04 23:36:24Z	News for 2021, Week 44
 789	2022-12-04 23:36:24Z	Control-Plane Components are Executables in Pods
-790	2023-02-02 16:54:12Z	IRL Streaming Kit Conclusions
+790	2023-07-19 08:34:51Z	IRL Streaming Kit Conclusions
 791	2022-12-04 23:36:24Z	Shell `printf` is Not Same as Other Languages
 792	2022-12-04 23:36:24Z	Power of the Bash Null Command (:)
 794	2023-06-08 13:07:06Z	OIDC Setup for Kubernetes klogin
@@ -2147,3 +2147,4 @@
 2251	2023-07-25 18:52:45Z	Use `gd`/`C-o` in Vim to read source code
 2252	2023-07-26 12:56:18Z	Do not use Twitter! (Don't even open it)
 2253	2023-07-26 15:47:17Z	Caching ssh connections is 68 times faster than not
+2254	2023-07-26 16:24:55Z	How much IRL streaming can I actually do?
