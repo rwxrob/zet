@@ -2,6 +2,26 @@
 
 I love when people attempt to help others. But so often the content is so wrong (or old) that it does more harm than good. For the most part <https://www.shellscript.sh> gets most things right, but here are some very glaring omissions, enough omissions, in fact, to make it something I would strongly discourage anyone from looking at *at all* because of the bad habits it might instill.
 
+## But first, what does ChatGPT have to say?
+
+(surprised no mention of <https://linuxcommand.org>)
+
+There are several excellent resources available for learning POSIX shell scripting:
+
+1. Bash Guide for Beginners: This comprehensive guide provides a solid foundation in POSIX shell
+  scripting, covering a wide range of topics from basic commands to advanced scripting techniques.
+  It offers clear explanations and practical examples to help you master shell scripting. You can
+  find it here http://tldp.org/LDP/Bash-Beginners-Guide/html/.
+
+2. Advanced Bash-Scripting Guide: Building upon the fundamentals, this guide delves into more advanced concepts and techniques, making it an excellent resource for experienced shell scripters. It covers topics such as process management, debugging, and error handling. You can access it here http://tldp.org/LDP/abs/html/.
+
+3. The Linux Documentation Project: This project hosts a vast collection of guides and how-tos, including various tutorials and examples on POSIX shell scripting. You can explore their extensive documentation here http://tldp.org/.
+
+4. ShellCheck: While not a comprehensive learning resource, ShellCheck is an essential tool for any shell scripter. It identifies and suggests improvements for common issues and pitfalls in shell scripts. You can use it interactively on their website here https://www.shellcheck.net/ or install it locally on your system.
+
+These resources should provide you with ample material to get started with POSIX shell scripting and improve your skills over time. Happy scripting!
+
+
 ## Never, ever add suffixes to your shell scripts
 
 This prevents them from being replaced with other code later. Besides, it is definitely *not* following the UNIX philosophy (which the author makes a rather big deal about at the beginning.
