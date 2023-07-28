@@ -913,7 +913,7 @@
 932	2022-12-04 23:36:24Z	IBM GPFS is Absolute Shit
 933	2022-12-04 23:36:24Z	Why Does Partitioning Start at 2048s?
 934	2022-12-04 23:36:24Z	Lurkers Turning My Words Into Their Profit
-935	2022-12-04 23:36:24Z	PostgreSQL Database is "so good, it's boring"
+935	2023-07-19 08:34:51Z	PostgreSQL Database is "so good, it's boring"
 936	2022-12-04 23:36:24Z	Use example/ for Example/Lab Go Modules
 937	2022-12-04 23:36:24Z	OPA Gatekeeper Fails Over to "Open"
 938	2022-12-04 23:36:24Z	You Don't *Have* to Partition Volumes
@@ -2157,3 +2157,4 @@
 2261	2023-07-28 02:01:31Z	Facebook fails again: yarn is far inferior to npm in 2023
 2263	2023-07-28 11:34:58Z	Enterprise laptop/workstation gatekeeping
 2264	2023-07-28 12:03:27Z	TODO: Research Tilt and consider for cloud app dev
+2265	2023-07-28 12:37:13Z	PostgreSQL adds JSON support
