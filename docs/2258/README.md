@@ -1,0 +1,9 @@
+# Internet coworking might just break the employment barrier
+
+I got my job from someone I met on Twitch (even though that person no longer works for the same company, neither does the person who interviewed me, nor even my manager for a year at that time). The point is that employment doesn't happen from cold-calling and spamming resumes. It comes from networking, in the most unexpected places.
+
+I started out making `cowork` just as a way to make my Twitch community more engaging. But there is something lurking behind it all: the facilitation of work connections outside of the current place of employment. In fact, if one has a goal of encouraging gainful employment (as I do) then cultivating an environment where these relationships take seed and grow is absolutely critical. In other words, "yak shaving" this little coworking has uncovered a bigger idea about creating as many systems and commands that I can to promote these connections and help them mature into gainful, authentic employment. Could a Twitch DJ actually be better than a recruiter at promoting gainful employment? Perhaps. (Even though I will let others do that.)
+
+Another non-trivial part of this is that technical people are particularly challenged when it comes to fostering healthy social relationships. So anything I can do to help that along is just as important toward these goals as the instruction itself about the skills involved. Authentic networking with no agenda that leads to gainful employment is a real skill. (I've always happened playing these down as "soft skills". They are *very* important.)
+
+So the question is, how do we turn healthy coworking relationships into opportunities for people to find actual jobs? That should be the guiding design principle behind ever single thing that gets added to the `cowork` framework/app.
