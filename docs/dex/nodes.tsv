@@ -2158,4 +2158,5 @@
 2263	2023-07-28 11:34:58Z	Enterprise laptop/workstation gatekeeping
 2264	2023-07-28 12:03:27Z	TODO: Research Tilt and consider for cloud app dev
 2265	2023-07-28 12:37:13Z	PostgreSQL adds JSON support
+2266	2023-07-28 13:28:54Z	Prefer migrations over monolith DDL for database design
 2267	2023-07-28 14:08:09Z	Looks like golang-migrate/migrate for SQL DB migrations
