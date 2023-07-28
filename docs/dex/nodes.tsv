@@ -354,7 +354,7 @@
 366	2022-12-04 23:36:24Z	Don't Pretend You Know Just to Save Face
 367	2022-12-04 23:36:24Z	KEG Considerations Combined with Zettelkasten
 368	2022-12-04 23:36:24Z	Should I do a github Bonzai Branch?
-369	2022-12-04 23:36:24Z	Use Gox and Ghr to Release Go Binaries
+369	2023-07-28 10:50:25Z	Use goreleaser and gh release upload to create releases
 370	2022-12-04 23:36:24Z	Returning to Double-Sleep Schedule
 372	2022-12-04 23:36:24Z	Open Policy Agent (OPA) Policy Library
 373	2022-12-04 23:36:24Z	Use `jo` with `curl --json` and `jq` for JSON
