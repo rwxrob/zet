@@ -767,7 +767,7 @@
 783	2022-12-04 23:36:24Z	Use `yaml:",inline"` as Catch All
 784	2022-12-04 23:36:24Z	I Was Wrong. Docker Compose Rocks!
 785	2022-12-04 23:36:24Z	NeoVim v0.5.0 Comes Out, Further Destroying Skills
-786	2022-12-04 23:36:24Z	Helm 2 to 3 Migration Considerations
+786	2023-07-19 08:34:51Z	Helm 2 to 3 Migration Considerations
 787	2022-12-04 23:36:24Z	April Fools Day is One of My Favorites
 788	2022-12-04 23:36:24Z	News for 2021, Week 44
 789	2022-12-04 23:36:24Z	Control-Plane Components are Executables in Pods
@@ -2158,3 +2158,4 @@
 2263	2023-07-28 11:34:58Z	Enterprise laptop/workstation gatekeeping
 2264	2023-07-28 12:03:27Z	TODO: Research Tilt and consider for cloud app dev
 2265	2023-07-28 12:37:13Z	PostgreSQL adds JSON support
+2267	2023-07-28 14:08:09Z	Looks like golang-migrate/migrate for SQL DB migrations
