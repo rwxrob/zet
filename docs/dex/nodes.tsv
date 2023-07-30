@@ -2161,3 +2161,4 @@
 2266	2023-07-28 13:28:54Z	Prefer migrations over monolith DDL for database design
 2267	2023-07-28 14:08:09Z	Looks like golang-migrate/migrate for SQL DB migrations
 2269	2023-07-30 09:26:47Z	Moving live into cozy community tool
+2270	2023-07-30 10:58:03Z	Common interface or messaging bus, or both?
