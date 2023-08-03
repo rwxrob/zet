@@ -1,6 +1,29 @@
 # IRL Streaming Kit Conclusions
 
-***Thursday, February 2, 2023, 11:28:35AM EST***
+## Thursday, August 3, 2023, 3:03:45PM EDT
+
+Yesterday I fell on the bike and the shock knocked my SD hard enough that I had to reseat it even though it didn't come disconnected. I've come to know that I just have to pop out the SD card, put it back in, then start the Jetson Nano again to correct the problem. I've heard RationalIRL say that the reason for this is because the extension that my Waveshare case provides just moves around too much to be reliable. I have to agree at this point. Yesterday was at least the 10th time I have had to do that very thing. Sometimes all I do is set the bag down slightly too hard. In fact, if I were not immobile on the bike I'm quite sure this would not be sustainable long-term. I need something better, but there are almost no cases on the market, except for those custom rigs ordered from RationalIRL himself, the one-man company keeping all of OutdoorIRL alive (and out of the hands of LiveU).
+
+* Waveshare case (with wonky extension)  
+  <https://a.co/d/idhk4a0>
+
+I just learned (while writing this) that there is a new effort to enable the Orange Pi and it looks very promising <https://belabox.net/rk3588/>. This will completely revolutionize OutdoorIRL if it works.
+
+* No more expensive capture card connection.
+* Less power consumption all around.
+* Onboard wifi that will receive RTMP (from GoPro and DJI).
+* Two ethernet ports so no need for USB dongles at all.
+* eMMc memory if SDcard jarring becomes issue.
+* Much smaller form factor.
+
+This will allow me to remove the battery from another Verizon modem so I can power it from USB preventing it from ever overheating. The wifi will still allow reusing local wifi when available.
+
+This particular rig will probably allow me to use my GoPro as intended to stream RTMP from the paddleboard without any issues. If and when the GoPro gets too hot I just put it into the water to cool off.
+
+I could even dual stream from two different sources.
+
+
+## Thursday, February 2, 2023, 11:28:35AM EST
 
 Looking back over two full years of IRL streaming I realize these earlier conclusions led to my current IRL rig, which is by far the most stable, cost-effective, versatile, and small:
 
