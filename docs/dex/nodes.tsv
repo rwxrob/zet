@@ -2177,3 +2177,4 @@
 2285	2023-08-08 16:35:50Z	Type in all tmux panes at same time
 2286	2023-08-08 16:18:01Z	Configuring and debugging Calico BGP in Kubernetes
 2287	2023-08-09 13:17:51Z	Fix "cannot evict pod as it would violate pod disruption budget"
+2288	2023-08-10 04:29:26Z	Standard argument signature for new Go constructor
