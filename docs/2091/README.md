@@ -1,3 +1,10 @@
-# Giro Vanquish bike helmet better than Aether
+# Giro Vanquish bike helmet *NOT* better than Aether
 
-As soon as I learned about the Giro Vanquish aero helmet with a full, replaceable visor that can be worn with prescription glasses under it I wanted one. I first saw it after already buying the popular and stylish Giro Aether and didn't think just the aero was enough to return it. But now I have solid proof that the Vanquish is an all-around better pick for anyone who wears glasses and bikes at high velocity in the elements and with bugs around because of the increased protection (yeah, getting stung between the eyes was the final straw). And, oh yeah, it happens to be significantly "faster" than the others. Is it worth mentioning that my bald head doesn't get sunburned as easily on long rides? I'm super happy that I barely had time enough to return the Aether that I bought if from Amazon where returns are super easy. The only thing to remember is to put some tape to hold on the magnetic visors so they don't fall off and hit the ground at high speed (as so many have reported).
+As soon as I learned about the Giro Vanquish aero helmet with a full, replaceable visor that can be worn with prescription glasses under it I wanted one but ended up returning it immediately. 
+
+* The visor easily falls off and doesn't stow well.
+* It doesn't deal with sweat nearly as well.
+* It looks really stupid, like that Malcolm in the Middle episode.
+* Doesn't work well with sunglasses (visor is required).
+
+The Aether is so much better, when a helmet is required.
