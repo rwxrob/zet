@@ -173,7 +173,7 @@
 183	2022-12-04 23:36:24Z	Can I run Active Directory on homelab?
 184	2022-12-04 23:36:24Z	Silicon Valley Opening Line Scala Reference
 185	2022-12-04 23:36:24Z	Identify and Remediate Rather Than Gatekeep
-186	2022-12-04 23:36:24Z	No More Music on Live Streams
+186	2023-08-15 13:05:06Z	Copyrighted music is fine on Twitch if no VODs
 187	2022-12-04 23:36:24Z	Does bash do function 🏗 hoisting?
 188	2022-12-04 23:36:24Z	PersistentVolumeClaims *Not* in `k get all`
 189	2022-12-04 23:36:24Z	Problems with `sed`
@@ -1869,7 +1869,7 @@
 1959	2023-01-29 17:52:27Z	rwxrob.tv: !cal !sched !calendar !schedule !week !today !day
 1960	2023-01-14 20:35:55Z	rwxrob.tv: !music !song !spotify !playlist
 1961	2023-01-10 02:09:12Z	rwxrob.tv: !dox !info !bio !about !map !job !work !remote !school !irl
-1963	2023-01-10 17:14:41Z	Optimal streaming music volume is between -15 and -10
+1963	2023-07-19 08:34:51Z	Optimal streaming music volume is between -15 and -10
 1964	2023-01-10 17:17:29Z	Max system and application volumes with analog out
 1965	2023-01-11 15:35:49Z	Conflicted about `rat/x` result naming in parse tree
 1966	2023-01-11 20:56:29Z	Use `slices.Contains` in Go 1.18 or later
