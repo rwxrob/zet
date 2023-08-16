@@ -1,12 +1,12 @@
 # Getting my teeth knocked out and nose broken woke me up
 
-I've been fighting for the last year---but especially the last week---with a frustration and depression about the human condition: the lack of charity, of *real* love and lives filled with dedication to improving and lifting all of us; obsession with riches and gain, the "I got mine" mentality and the "look at me" focus. If you think to hard about it it is very depressing.
+I've been fighting for the last few years---but especially the last week---with a frustration and deep depression about the monstrous human condition: the lack of charity, of *real* love and lives filled with dedication to improving and lifting all of us; the obsession with riches and gain; the "I got mine" mentality and "look at me" focus; the end of informed dialog and debate; the race to destroy Mother Earth as fast as we can; the demonization of education and extreme, dogmatic fundamentalism; the cults, gangs, religions, and political parties that prey on sincere, simple people turning them into human carcass batteries powering their mechanized, stinking bowels to produce the mind-worm larvae these viral parasites require to paralyze and consume others becoming hosts whose guts eventually explode infecting all around them. If I think about it at all I get very depressed. It's terrifying. Most of humanity is absolute shit, operating at a base level barely above pond scum, and we all let it get this way.
 
-Then Friday I literally got some sense knocked into my head (and four front teeth knocked out of it).
+Then Friday I literally got some sense knocked into my head (and four front teeth knocked out of it). God had a painful message for me. [Disclaimer: I don't really believe in some narcissistic white-bearded dick in the sky who promises multiple wives if I do what he says (although once upon a time I did). It's a metaphor.]
 
 Thursday night I had an amazing ride around Jetton Park and met some amazing people along the way. I sat on the point watching the sunset with my Twitch friends just realizing the contrast from the day before (at Trump golf course). It was overwhelming. I felt like it was a turning point, but the Universe apparently had even more in store for me.
 
-Friday night I covered the interactive art where we had our feet washed by the artist, then ate a meal where each of us had to feed the other across the table. We were bound and our primary hand made useless. I joked and laughed with Nicole, one of my wife Doris' new BFFLs. Nicole's an artist and a teacher and just as demented and fun as Doris. I felt very fortunate to be paired with her.
+Friday night I covered the interactive art where we had our feet washed by the artist, then ate a meal where each of us had to feed the person across the table. We were bound and our primary hand made useless. I joked and laughed with Nicole, one of my wife Doris' new BFFLs. Nicole's an artist and a teacher and just as demented and fun as Doris. I felt very fortunate to be paired with her.
 
 Of course, I streamed the whole thing.
 
