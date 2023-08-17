@@ -2197,3 +2197,4 @@
 2306	2023-08-17 08:52:33Z	Learned that `scp://` is a thing (like `ssh://`)
 2307	2023-08-17 09:03:22Z	Function declarations without bodies in Golang
 2308	2023-08-17 10:14:08Z	ChatGPT fails again, another reason never to trust it
+2309	2023-08-17 10:25:04Z	Check length in Go for empty strings, it's fastest
