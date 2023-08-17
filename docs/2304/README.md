@@ -18,7 +18,7 @@ It'll have to be carbon fiber. I just cannot do even casual geometry bike with t
 
 ## Temperature control
 
-Vents.
+Vents should cover it. When (and if) I'm busting the FTP stuff and really going hard I'll just wear my other helmet (and leave the IRL rig ag home). I need the helmet when I'm around lots of cars and people and not really pushing it hard physically so sweating isn't as big an issue. I also usually wear casual clothes so I don't stand out going into a bar or something. In those cases, a full-face helmet doesn't present a temperature problem, and since I don't have hair to mess up, that problem is covered as well.
 
 ## Audio
 
