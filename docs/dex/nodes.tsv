@@ -1849,7 +1849,7 @@
 1938	2023-01-06 15:21:12Z	Optimized personal search parameters for KEG and zettelkasten
 1939	2023-01-06 15:12:05Z	Length of KEG URL needs to be under 100
 1940	2023-01-10 01:52:28Z	rwxrob.tv: !legal !onair !recording !rights
-1941	2023-02-16 15:20:05Z	rwxrob.tv: !command !commands !cmds !cmd
+1941	2023-07-19 08:34:51Z	rwxrob.tv: !command !commands !cmds !cmd
 1942	2023-01-10 02:21:23Z	rwxrob.tv: !support !sponsor !tip
 1943	2023-01-10 01:52:28Z	rwxrob.tv: !jobs
 1944	2023-01-10 01:52:28Z	rwxrob.tv: !dobetter
@@ -1868,7 +1868,7 @@
 1958	2023-01-10 01:46:29Z	rwxrob.tv: !coworking !cowork !co-work !co-working
 1959	2023-01-29 17:52:27Z	rwxrob.tv: !cal !sched !calendar !schedule !week !today !day
 1960	2023-01-14 20:35:55Z	rwxrob.tv: !music !song !spotify !playlist
-1961	2023-01-10 02:09:12Z	rwxrob.tv: !dox !info !bio !about !map !job !work !remote !school !irl
+1961	2023-08-18 05:20:53Z	rwxrob.tv: !dox !info !bio !about  !job !work !remote !school !irl
 1963	2023-07-19 08:34:51Z	Optimal streaming music volume is between -15 and -10
 1964	2023-01-10 17:17:29Z	Max system and application volumes with analog out
 1965	2023-01-11 15:35:49Z	Conflicted about `rat/x` result naming in parse tree
