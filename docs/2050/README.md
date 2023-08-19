@@ -1,4 +1,4 @@
-# SKILSTAK mentoring is back
+# SKILSTAK in-person mentoring is discontinued
 
 Update: Had to discontinue IRL mentoring because it just takes too much time away from producing content that helps more people. It's always hard to balance this. There are some things that cannot be covered easily online, but the reach for people online is always significantly better. So all the new content, including installing Linux onto hardware and how to program in Go is always going to be better online.
 
