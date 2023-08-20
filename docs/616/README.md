@@ -1,5 +1,9 @@
 # IRL Streaming Lessons Learned
 
+Got hit with 348 dollar charge *for a single ATT modem month* because of 10 dollar/2GB overage. It was a mistake to think that I could regulate it and keep it at 40GB/month because often ATT is the strongest signal and therefore burns more bandwidth. I upped it to 100 for an extra 15/month (which is the cost of two beers from pubs). The ATT account is the one to watch because of the overage charges, Verizon doesn't have that for the other two accounts.
+
+----
+
 ***Monday, February 13, 2023, 9:46:15PM EST***
 
 * Make a backup SD card for belabox (Jetson Nano) and carry with you.
