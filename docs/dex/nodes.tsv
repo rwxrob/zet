@@ -1925,7 +1925,7 @@
 2019	2023-02-17 17:04:23Z	QCA takes to much energy
 2021	2023-02-18 15:33:09Z	WebSocket server plugin included in OBS 28+!
 2022	2023-02-18 16:59:12Z	Hashicorp go-plugin has one show-stopping flaw
-2023	2023-06-30 14:49:04Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
+2023	2023-07-19 08:34:51Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
 2024	2023-02-19 17:44:09Z	Proposed "telemetry" in Go will force a fork if approved
 2025	2023-02-21 02:41:21Z	No more notifications to anything but Discord
 2026	2023-02-21 03:56:50Z	Make sure to set Sony AS300 HDMI resolution to 1080p (not auto)
@@ -2194,3 +2194,4 @@
 2311	2023-08-19 09:48:13Z	IRL streaming *is* an art form
 2312	2023-08-19 17:52:01Z	Joining video files with `ffmpeg`
 2313	2023-08-20 23:50:33Z	Tragic death of KrisNova has me reeling
+2314	2023-08-21 00:23:38Z	Controlling OBS with Websockets
