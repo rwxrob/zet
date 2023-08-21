@@ -1,0 +1,7 @@
+# Tragic death of Kris_Nova has me reeling
+
+Today I planned on the Pride parade for reasons I have written about elsewhere. As I prepared for the stream creating OBS scenes and stuff I found myself breaking down randomly emotionally. It's been such a journey. Then today just as I exited my car to go cover the Pride celebration parade I got the news that Kris_Nova died in a climbing accident. I'd been wondering where she had gone.
+
+The news overwhelmed me. She's fought for so much her life to have lost it so suddenly and tragically. I was already dealing with people I love struggling to stay alive wanting to kill themselves trying to deal with LGBTQIA+ issues in 2023. Walking around the parade I mostly just let the Parade sound fill my head. It was hard to talk anyway. It took everything to keep from smiling ear to ear sometimes with my toothless grin. (I didn't want to scare the children.)
+
+I realized that I could not have been at a better place to remember Kris. I won't be able to do much more to remember her. But, like so many things, her unfortunate passing lights a fucking fire under my ass to make the most of every single second of this life, and to do things that she would want. Goodbye, Kris. Rust never really was *that* bad, lol. (I hope that made you laugh, wherever you are. And I hope you got to float around the 800 floats celebrating so much of what your life stood far.)
