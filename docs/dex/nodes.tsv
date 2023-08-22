@@ -260,7 +260,7 @@
 273	2022-12-04 23:36:24Z	Call `apt-get clean` from End of Dockerfile
 274	2022-12-04 23:36:24Z	Promoting Attribution by Saying "Fuck"
 275	2022-12-04 23:36:24Z	Gaming Success is Meth Compared to the Real Thing
-276	2022-12-04 23:36:24Z	Vim is a Text Editor. Emacs and VSCode are IDEs
+276	2023-07-19 08:34:51Z	Vim is a Text Editor. Emacs and VSCode are IDEs
 277	2022-12-04 23:36:24Z	I Created the TOML Logo
 278	2022-12-04 23:36:24Z	Q: What do you think of Vim9's new Vimscript?
 279	2022-12-04 23:36:24Z	Call Anonymous Function for Go `var` Assignment
@@ -2197,3 +2197,4 @@
 2314	2023-08-21 02:50:59Z	Controlling OBS with Websockets
 2315	2023-08-22 04:51:01Z	Fix rootless error with podman
 2316	2023-08-22 06:03:57Z	Test for existence of a named, running container
+2317	2023-08-22 07:07:02Z	Adding automatic bash completion for functions in build
