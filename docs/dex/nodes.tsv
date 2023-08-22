@@ -693,7 +693,7 @@
 710	2022-12-04 23:36:24Z	Adding Closed Captioning to Twitch
 711	2022-12-04 23:36:24Z	Back to simple integers and isosec identifiers
 712	2022-12-04 23:36:24Z	Watching Stuff Together on https://kosmi.io/
-713	2022-12-04 23:36:24Z	Actually, `podman` Might Be Better Than `docker`
+713	2023-08-22 04:38:26Z	Actually, podman is way better than docker
 714	2022-12-04 23:36:24Z	Casting Go Slice to Interface Requires Loop
 715	2022-12-04 23:36:24Z	Fix WSL2 Cisco AnyConnect VPN Failures
 716	2022-12-04 23:36:24Z	Backup Solutions for Kubernetes
@@ -1298,7 +1298,7 @@
 1350	2022-12-04 23:36:24Z	"Smart" Contracts are Stupid
 1351	2022-12-04 23:36:24Z	True Learning from Master to Apprentice
 1353	2022-12-04 23:36:24Z	Could I Try Zero-Trust Architecture at Home?
-1354	2022-12-04 23:36:24Z	Kind and Minikube Effectively Do NOT Support Podman
+1354	2023-07-19 08:34:50Z	Kind and Minikube Effectively Do NOT Support Podman
 1355	2022-12-04 23:36:24Z	Big Compatibility Problem with yaml.v2
 1356	2022-12-04 23:36:24Z	Freeing My Evenings Completely
 1357	2022-12-04 23:36:24Z	Use `nproc` for Number of CPUs
