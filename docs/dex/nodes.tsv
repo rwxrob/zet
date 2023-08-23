@@ -2199,3 +2199,4 @@
 2316	2023-08-22 06:03:57Z	Test for existence of a named, running container
 2317	2023-08-22 07:07:02Z	Adding automatic bash completion for functions in build
 2318	2023-08-23 02:17:39Z	Fat pants falling off of me
+2319	2023-08-23 03:48:57Z	The reason to use non-pointer receivers when possible
