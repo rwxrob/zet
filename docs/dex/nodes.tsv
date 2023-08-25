@@ -1016,7 +1016,7 @@
 1040	2022-12-04 23:36:24Z	REST is Alive and Well, Despite GraphQL
 1041	2022-12-04 23:36:24Z	Learning is the Reason for Living
 1042	2022-12-04 23:36:24Z	Use `ix` Instead of Pastebin
-1043	2022-12-04 23:36:24Z	Do Not Commit to `main`/`master` Without Telling
+1043	2023-07-19 08:34:50Z	Do Not Commit to `main`/`master` Without Telling
 1044	2022-12-04 23:36:24Z	Bullshit Career Sites Fuck You Up
 1045	2022-12-04 23:36:24Z	Unexpected Benefit of Beat Studio Headphones
 1046	2022-12-04 23:36:24Z	Use These Command to See Real CPU Information
@@ -2201,3 +2201,4 @@
 2318	2023-08-23 02:17:39Z	Fat pants falling off of me
 2319	2023-08-23 03:48:57Z	The reason to use non-pointer receivers when possible
 2320	2023-08-23 07:00:15Z	CT accident results
+2321	2023-08-25 11:58:27Z	First impressions of log/slog in Go
