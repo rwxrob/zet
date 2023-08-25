@@ -1,6 +1,6 @@
-# Config maps are better than functional options in Go coding
+# Config maps are (usually) better than functional options in Go coding
 
-Functional options are confusing and provide less value than a simple configuration map, which is why Kubernetes makes such extensive use of them. I don't care if Rob Pike and most professional training outfits push functional options. They suck. Use a simple, persist-able, configuration map like the following instead. You know, like Python.
+It depends. But usually functional options are confusing and provide less value than a simple configuration map, which is why Kubernetes makes such extensive use of them. I know that Rob Pike and most professional training outfits push functional options. But I mostly hate them. They suck. Use a simple, persist-able, configuration map like the following instead. You know, like Python.
 
 ```golang
 package C
@@ -10,7 +10,9 @@ type Map map[string]any
 // ... marshaling and unmarshaling here
 ```
 
-Functional operations claim they are more "sustainable" and "expandable", but at what cost? Functional options are ridiculously hard to follow for most developers, a perfect example of unnecessary obfuscation for no reason. They also require ungodly function argument signatures that span multiple lines forcing them to be put into a slice where a configuration map would have been smaller and simpler to understand.
+Functional options claim they are more "sustainable" and "expandable", but at what cost? Functional options are ridiculously hard to follow for most developers, a perfect example of unnecessary obfuscation for no reason. They also require ungodly function argument signatures that span multiple lines forcing them to be put into a slice where a configuration map would have been smaller and simpler to understand.
+
+Functional options also can cause unnecessary performance hits because they must be evaluated to produce a value. Config maps (and the like) are *already* values that don't need any evaluation. There are some isolated cases where functional options are actually faster (such as in the `log/slog` package) but this is usually because these designs *also* accept some other form of argument that has to be coerced into something else before it is used (and functional options always return a value of a specific type already).
 
 People hating on configuration maps always use the example of variadic argument signatures stating that forcing passing an empty map is dubious, then they try to sell you on the exact same thing with a variadic argument slice of functional options. They don't even see that the solution they used with functional options obviously also applies to a configuration map.
 
