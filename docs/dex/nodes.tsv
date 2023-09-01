@@ -2207,3 +2207,4 @@
 2324	2023-08-28 12:29:58Z	Zero-value-safe structs are always better than constructors
 2325	2023-08-29 14:20:56Z	Use dpkg -S to find package owner of a file
 2326	2023-08-30 18:30:47Z	Metal Jetson Nano case sucks
+2327	2023-09-01 15:29:37Z	Use "preferred" Dockerfile ENTRYPOINT format
