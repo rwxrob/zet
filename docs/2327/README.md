@@ -7,3 +7,6 @@ ENTRYPOINT ["/entrypoint"]
 ```
 
 (The one that works has the square brackets.)
+
+* docs  
+  <https://docs.docker.com/engine/reference/builder/#entrypoint>
