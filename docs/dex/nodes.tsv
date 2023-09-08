@@ -885,7 +885,7 @@
 905	2022-12-04 23:36:24Z	TODO: Read Designing Data Intensive Applications
 906	2022-12-04 23:36:24Z	Using Discord for Live Talk Shows and Podcasts
 907	2022-12-04 23:36:24Z	Are Functional Parsers Really That Much Slower?
-908	2022-12-04 23:36:24Z	Niklas Luhmann, Father of Zettelkasten
+908	2023-07-19 08:34:51Z	Niklas Luhmann, Father of Zettelkasten
 909	2022-12-04 23:36:24Z	Containerized (Kubernetes) Achievement Server (skilstak.sh)
 910	2022-12-04 23:36:24Z	Concerned About Bloat from Figures and Files
 911	2022-12-04 23:36:24Z	Customizing Your Terminal Makes You Want It
@@ -1808,7 +1808,7 @@
 1898	2023-01-01 19:39:20Z	Complete major version of enterprise REST API in Go at work
 1899	2023-01-01 19:44:16Z	Maybe no Beginner Boost for 2023
 1900	2023-01-03 19:51:51Z	Kubernetes *administration* is not a top priority in 2023
-1901	2023-02-19 17:26:23Z	Books to complete by end of 2023
+1901	2023-07-19 08:34:51Z	Books to complete by end of 2023
 1902	2023-01-01 20:56:10Z	Go projects in 2023: `bonzai` -> `rat` -> `keg` -> `pegn`
 1903	2023-01-08 14:51:03Z	Personal publishing platform (`pub`)
 1904	2023-01-01 21:58:48Z	No conference presentations in 2023 (but definitely in 2024)
@@ -2210,3 +2210,4 @@
 2327	2023-09-01 15:30:00Z	Use "preferred" Dockerfile ENTRYPOINT format
 2329	2023-09-05 14:27:24Z	Going all-in on IRL streaming (touring, journalism, writing)
 2330	2023-09-08 08:26:30Z	OutdoorIRL falls on its face, thank God
+2331	2023-09-08 14:17:43Z	Zettlr 3.0 Review - COMPLETELY BROKEN! Stay away (for now)
