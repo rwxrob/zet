@@ -15,6 +15,7 @@ Fall seems to be the season for broad changes to everything I have been doing si
 * Weekend organization
 * 2-hour blocks for structured content
 * Seeking a return to traditional sleep schedule, 10:30-6:00
+* Adding "build tech lab" (SKILSTAK homelab init) with Boost
 
 ## Change "beginner boost" to "start tech job"
 
@@ -120,7 +121,8 @@ Since I do so much coworking where I don't say anything and just DJ the music I 
 
 The most significant streams I do will be on Saturdays and Sundays when the most people will be able to join in. I'll keep the beginner stuff grouped together on Saturday, and the other stuff on Sunday. Sometimes I'll have to cancel because of life conflicts, but the cycle will be pretty much the same. Considering I once dedicated 10 hours a day on both of those days to do one-on-one mentoring for SKILSTAK this is not that big of a sacrifice. Plus, this way I can cancel if I need to. I wasn't really free to do that before.
 
-* 🔰 Start Tech Job (SKILSTAK Beginner Boost)
+* 🔰 Get Tech Job (SKILSTAK Beginner Boost) (alternates with Lab)
+* 🔰 Build Tech Lab (SKILSTAK homelab init) (alternates with Boost)
 * 🔰 Learn Go/Python/C (rotating)
 * 📚 Read Outlive
 * 💻 Code Comments
@@ -136,3 +138,18 @@ I learned at SKILSTAK that the most time anyone should ever be expected to pay a
 I fall asleep almost instantly after I get done showering and eating after a long Outdoor IRL stream. I've been waking up at 4AM because my body is still used to a dual cycle sleep schedule, but I want that to change. I want the Outdoor IRL streaming stuff at the end of the day to wake me up instead. I've noticed that when I am waning and wanting a nap that pushing through and getting on the bike really wakes me up. This is something that happened all the time when commuting from Nike 23 miles in the 90s. I was practically asleep getting on the bike for that slog and by the time I got home I was awake and able to do things with the family, sleep isn't always needed when I'm tired.
 
 I do have to be careful to get enough sleep to recover from whatever type of ride it was, which is another reason I'll only be doing long and slow rides most of the time rather than strength, "sweet spot", or interval training.
+
+## Adding "build tech lab" (SKILSTAK homelab init) with Boost
+
+The SKILSTAK Beginner Boost might focus on stills all technologists need to get started with a tech career, whether it be a somewhat non-technical AI professional who mostly uses Python and Jupyter Lab to the highly technical platform engineers and hackers. But after the Boost I want to continue the learning for those who want to go deeper into the operations-focused careers (like mine) by going over how to create and maintain a home lab for learning and experimenting with operational tasks. I'll call this "homelab init" but the marketing with be "build a tech lab" and will include a bunch of things that Boost will never cover:
+
+* Creating container images and containerized applications
+* Virtualization options and approaches (VMware, KVM, QEMU, Firecracker)
+* Home networking including VLAN setup
+* Podman container engine (and why not Docker)
+* Kubernetes from `kubeadm` and everything involved (CNI, storage class, ingress, etc.)
+* Infrastructure hardening and security concerns
+* Cloud service provider integration (DNS, DO, GCP, TerraForm)
+* Configuration management (Ansible, TerraForm)
+
+Since we are moving a bunch of stuff to other place the Boost should be freed up enough to be completed in under 32 weeks of 2-hour blocks. This leaves a lot of time for the other stuff. Both will be fresh every year since the landscape is constantly changing for this stuff.
