@@ -8,4 +8,6 @@ The route is designed to be a consistent daily ride, but can also be ridden as a
 
 Remember not to park at Jetton Park so you don't risk getting locked in if you miss the sunset park closure time. You can always make your way out by bike if you still want to risk it.
 
+The two most dangerous parts of this route are very short (but very dangerous). One is from the intersection on Sam Furr to the left-turn onto Black Farms road---particularly before the traffic has the turn lane to use to pass you.The other is crossing the highway on Gilead and then the shopping mall traffic immediately after that. Watch out for people not watching for you. It isn't as bad as it looks, however, because there are bike lanes leading up to it and traffic speed is kept low from all the lights. This crossing is undergoing construction and is rumored to be the safest highway crossing of them all (much like Cornelius) when completed. That will (eventually) make this route the only one that uses the safest possible high-way crossing bridges.
+
 https://www.strava.com/routes/3134239608622191168
