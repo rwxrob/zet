@@ -2214,3 +2214,4 @@
 2332	2023-09-12 15:50:36Z	Streaming changes on rwxrob.tv: multistreaming, more coding
 2333	2023-09-11 15:30:31Z	42 Crunch (JSON-Schema) `maxlength` is Unicode not bytes
 2334	2023-09-14 11:22:56Z	18 reasons outdoor IRL adventures are best from home
+2335	2023-09-14 15:09:56Z	Allow access to group of users with Istio OAuth2
