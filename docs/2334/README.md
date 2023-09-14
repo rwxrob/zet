@@ -1,6 +1,6 @@
 # 18 reasons outdoor IRL adventures are best from home
 
-I'm an explorer. I love venturing to places I have never been and taking friends along with me, either as a tour guide or live streamer. It's the reason I learned French and Russian in college. But lately I've been reminded that distant adventures to far off exotic lands are not only excessive, they are just not necessary, perhaps even stupid.
+I'm an explorer. I love venturing to places I have never been and taking friends along with me. It's the reason I learned French and Russian in college and worked as a water-water river guide, bike shop mechanic, travel agent, and cruise director. It's the reason I learned French and Russian in college. But lately I've been reminded that distant adventures to far off exotic lands are not only excessive, they are just not necessary, perhaps even stupid.
 
 1.  There is plenty to discover right where you are
 2.  Adventure includes the mundane
