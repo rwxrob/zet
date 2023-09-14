@@ -1,6 +1,6 @@
 # 18 reasons outdoor IRL adventures are best from home
 
-I'm an explorer. I love venturing to places I have never been and taking friends along with me. It's the reason I learned French and Russian in college and worked as a water-water river guide, bike shop mechanic, travel agent, and cruise director. It's the reason I learned French and Russian in college. But lately I've been reminded that distant adventures to far off exotic lands are not only excessive, they are just not necessary, perhaps even stupid.
+I'm an explorer. I love venturing to places I have never been and taking friends along with me. It's the reason I learned French and Russian in college and worked as a water-water river guide, bike shop mechanic, travel agent, and cruise director. But lately I've been reminded that distant adventures to far off exotic lands are not only excessive, they are just not necessary, perhaps even stupid.
 
 1.  There is plenty to discover right where you are
 2.  Adventure includes the mundane
@@ -104,7 +104,6 @@ Spontaneity is the opposite of safe when streaming from a distance, unknown loca
 ## Family and friends can save you in an emergency
 
 I left my teeth in the street on a live stream and was rushed to the ER. My stream literally kept me from going into shock while at the hospital. My wife was able to come get me. The hospital admitted me because I have insurance that is recognized locally. Consider for a moment that none of that would happen had I been traveling abroad. No thank you, I'll say right here near my home.
-
 
 ## You can leverage your "locals only" knowledge
 
