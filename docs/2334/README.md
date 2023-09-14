@@ -1,25 +1,25 @@
-# 16 reasons home-based outdoor IRL adventures are best for most
+# 18 reasons outdoor IRL adventures are best from home
 
 I'm an explorer. I love venturing to places I have never been and taking friends along with me, either as a tour guide or live streamer. It's the reason I learned French and Russian in college. But lately I've been reminded that distant adventures to far off exotic lands are not only excessive, they are just not necessary, perhaps even stupid.
 
-* There is plenty to discover right where you are
-* Adventure includes the mundane
-* Overnight camps and trips enable longer range from home
-* New adventures happen in the same area
-* Distant adventures are *really* expensive
-* You can keep your day job, even stream it
-* People like watching driving streams
-* Adventuring abroad requires more prep and travel time
-* You can depend on Amazon locally
-* You have your entire streaming setup at home
-* You can combine outdoor IRL streams with other content
-* Local adventures are easily adaptable to weather conditions
-* It's okay to take more risks
-* Local streaming is safer than remote
-* Family and friends can save you in an emergency
-* You can leverage your "locals only" knowledge
-* People want to watch streams of their own local areas
-* Nothing beats a nice hot bath and deep sleep in your own bed
+1.  There is plenty to discover right where you are
+2.  Adventure includes the mundane
+3.  Overnight camps and trips enable longer range from home
+4.  New adventures happen in the same area
+5.  Distant adventures are really expensive
+6.  You can keep your day job, even stream it
+7.  People like watching driving streams
+8.  Adventuring abroad requires more prep and travel time
+9.  You can depend on Amazon locally
+10. You have your entire streaming setup at home
+11. You can combine outdoor IRL streams with other content
+12. Local adventures are easily adaptable to weather conditions
+13. It’s okay to take more risks
+14. Local streaming is safer than remote
+15. Family and friends can save you in an emergency
+16. You can leverage your “locals only” knowledge
+17. People want to watch streams of their own local areas
+18. Nothing beats a nice hot bath and deep sleep in your own bed
 
 ## There is plenty to discover right where you are
 
