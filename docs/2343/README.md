@@ -6,7 +6,7 @@ I already know that I'm prone to converting sugar into fat pretty easily. My fam
 
 ## Humans exist because of how they process fructose
 
-One of the most eye-opening scientific medical facts that Peter Attia's Outlive explains is how the human animal, probably through genetic mutation, has adapted to *not* produce a specific enzyme related to converting fructose into blood sugar instead of fat. Evolutionary biologists attribute this weird genetic train of humans (which other primates don't have) to the reason the human species dominated the planet. We could live anywhere and build up fat stores to survive the winter specifically from the number one sugar source nature provides: fructose. Now we face obesity epidemics in proportions the world has never seen for exactly the same reason. **Human bodies are exceptionally efficient and prone to storing fructose as fat.** All those Internet scams about eating bananas are absolutely true and based on observable medical facts. Fructose converts to fat faster than any other sugar type on the planet (in humans).
+One of the most eye-opening scientific medical facts that Peter Attia's Outlive explains is how the human animal, probably through genetic mutation, has adapted to *not* produce a specific enzyme related to converting fructose into blood sugar instead of fat. Evolutionary biologists attribute this weird genetic trait of humans (which other primates don't have) to the reason the human species dominated the planet. We could live anywhere and build up fat stores to survive the winter specifically from the number one sugar source nature provides: fructose. Now we face obesity epidemics in proportions the world has never seen for exactly the same reason. **Human bodies are exceptionally efficient and prone to storing fructose as fat.** All those Internet scams about eating bananas are absolutely true and based on observable medical facts. Fructose converts to fat faster than any other sugar type on the planet (in humans).
 
 ## How do gorillas get so ripped?
 
@@ -24,5 +24,5 @@ I also eat a lot of simple cereals that have been fortified. For some reason I c
 
 ## What is keto diet's main effect is simply from removing fructose?
 
-I have a theory that the reason all the ketogenic diets work for so many is quite simply because they stop eating fructose, period. Wouldn't that be a strange coincidence. This is particularly possible since so many foods have high-fructose corn syrup in them---the single deadliest sugar on the planet responsible for more deaths indirectly than any other food ingredient.
+I have a theory that the reason all the ketogenic diets work for so many is quite simply because they stop eating fructose, period. Wouldn't that be a strange coincidence? This is particularly possible since so many foods have high-fructose corn syrup in them---the single deadliest sugar on the planet responsible for more deaths indirectly than any other food ingredient.
 
