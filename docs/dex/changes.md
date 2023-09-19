@@ -1,3 +1,4 @@
+* 2023-09-19 14:44:46Z [IRL Streaming Lessons Learned](../616)
 * 2023-09-19 13:48:48Z [Use `ssh-keygen` to create generic key pairs without user info](../2349)
 * 2023-09-19 13:34:15Z [Bike across America trip is back on?](../2348)
 * 2023-09-18 10:06:47Z [Restore hung Linux Mint Cinnamon desktop and mouse](../2346)
@@ -38,7 +39,6 @@
 * 2023-08-22 04:38:26Z [Actually, podman is way better than docker](../713)
 * 2023-08-21 02:50:59Z [Controlling OBS with Websockets](../2314)
 * 2023-08-20 23:50:33Z [Tragic death of KrisNova has me reeling](../2313)
-* 2023-08-19 23:31:59Z [IRL Streaming Lessons Learned](../616)
 * 2023-08-19 17:58:20Z [YouTube Description Footer](../915)
 * 2023-08-19 17:52:01Z [Joining video files with `ffmpeg`](../2312)
 * 2023-08-19 10:01:44Z [Eventual SKILSTAK courses (book + video)](../799)
