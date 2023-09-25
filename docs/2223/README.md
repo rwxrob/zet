@@ -1,6 +1,13 @@
 # TT/Sprinter's life for me (in Zwift)
 
-I would never consider being a sprinter in real-life cycling. It's way too fucking dangerous. I do wish I had done velodrome racing as a kid, but didn't have nearly the money for such things. But now that I have a top-of-the-line (if not THE top of the line) indoor racing trainer I don't have to be afraid of anything but a cardiac arrest from pushing too hard.
+***Update: Monday, September 25, 2023, 10:42:34AM EDT***
+
+Revised my cycling goals from focusing on sprinting to focusing on endurance cycling (100km per day). It's healthier in the long run and enables more fun things outdoors. Also, Zwift is just for days that I absolutely cannot go outside because it is pouring rain and I would be miserable the whole time. New goal is to get used to riding outside every single day that I wouldn't be stuck in a hotel or the tent on a cycling trip. Aversion for the rain is mostly because of the electronics that I normally bike with, but if I can waterproof the rig I would even ride in the rain. I want cycling to be a daily thing for the rest of my life (combined with occasional yoga for strength and flexibility).
+
+
+----
+
+I would never consider being a sprinter in real-life cycling. It's way too dangerous. I do wish I had done velodrome racing as a kid, but didn't have nearly the money for such things. But now that I have a top-of-the-line (if not THE top of the line) indoor racing trainer I don't have to be afraid of anything but a cardiac arrest from pushing too hard.
 
 Sprinter bodies are more normal than other toothpick cyclists. They are more well-balanced, like triathletes. This is why I was attracted to triathlon even though I don't have a natural triathlete body (I'm way too short). Having a normal body means that I have more muscle mass going into my 50s and 60s, a major health concern.
 
