@@ -1,0 +1,3 @@
+# Should MkDocs be included in SKILSTAK Boost?
+
+Just having another run into today at work with a group setting up MkDocs to use for all their departmental documentation. At this point that is three or four major groups within the company that are all standardizing on it. When combined with the official projects that also use MkDocs it looks like it has become the de facto industry standard (despite it's limitations). So should we be covering it in the Boost? Creating solid documentation is a universal standard tech skill and MkDocs leverages Python to do it making it the most approachable for anyone, from a serious kernel developer, to a focused machine learning professional who has learning nothing but Jupyter, Python, and barely knows the Linux terminal.
