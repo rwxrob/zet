@@ -11,6 +11,9 @@ Being a variety streamer means you have a lot of different ways of streaming. To
 * Mobile Cinematic Posing
 * Mobile Point-of-View (POV)
 * Mobile Selfie
+* Mobile Selfie - Distant
+* Mobile Selfie - Drone
+* Mobile Drone
 * Mobile Cycling - Urban
 * Mobile Cycling - Remote
 * Mobile Strolling
@@ -19,6 +22,7 @@ Being a variety streamer means you have a lot of different ways of streaming. To
 * Mobile Hiking
 
 ## Home
+
 
 ### Home Desktop
 
