@@ -1,0 +1,3 @@
+# Verizon Inseego modems DO NOT ALLOW 4g only!
+
+The official Verizon Inseego modems (two of which I'm still paying for) do not allow locking to 4g only. This *requires* a modem like the m5. This one fact alone is perhaps the most crucial fact an IRL streamer needs to know in America given that Verizon is the largest provider of mobile services in the country. There are so many outdoor IRL streamers who don't have a clue about this and make a bunch of really horrible suggestions (like "don't buy a nighthawk" even though it is hands down the best hotspot on the American market and works perfectly fine on Verizon if you know what you are doing).
