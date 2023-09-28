@@ -1,5 +1,7 @@
 # Getting my teeth knocked out and nose broken woke me up
 
+*The following happened on August 11, 2023.*
+
 I've been fighting for the last few years---but especially the last week---with a frustration and deep depression about the monstrous human condition: the lack of charity, of *real* love and lives filled with dedication to improving and lifting all of us; the obsession with riches and gain; the "I got mine" mentality and "look at me" focus; the end of informed dialog and debate; the race to destroy Mother Earth as fast as we can; the demonization of education and extreme, dogmatic fundamentalism; the cults, gangs, religions, and political parties that prey on sincere, simple people turning them into human carcass batteries powering their mechanized, stinking bowels to produce the mind-worm larvae these viral parasites require to paralyze and consume others becoming hosts whose guts eventually explode infecting all around them. If I think about it at all I get very depressed. It's terrifying. Most of humanity is absolute shit, operating at a base level barely above pond scum, and we all let it get this way.
 
 Then Friday I literally got some sense knocked into my head (and four front teeth knocked out of it). God had a painful message for me. [Disclaimer: I don't really believe in some narcissistic white-bearded dick in the sky who promises multiple wives if I do what he says (although once upon a time I did). It's a metaphor.]
