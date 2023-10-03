@@ -1,4 +1,4 @@
-# News for 2023/10/02
+# rwxrob.tv: News for 2023/10/02
 
 Hey @everyone, managing the music and fishies 24x7 is just not going to work out. I'll still do it from time to time, but it will not be a regular thing. The coworking streams (with music) will be far less frequent and never on a regular schedule because of AI lip reading and intellectual property considerations (absolutely no code that I write while streaming can ever be used in any work projects). I've had to error on the side of caution. 
 
