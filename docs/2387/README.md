@@ -46,5 +46,5 @@ That last one is hard to write, but it's true. I am tired of always being someon
 * I want to bike and paddleboard and hike and skate
 * I want to live in places I have never been
 * I want to experience great art
-* I want to take luxurious baths and read great books in them
+* I want to take luxurious baths (soft water) and read great books in them
 
