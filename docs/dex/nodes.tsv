@@ -1286,7 +1286,7 @@
 1338	2022-12-04 23:36:24Z	Story: The Snarky Kid Who Googled the Answer and Won
 1339	2022-12-04 23:36:24Z	`isonan` When Your Need More Than `isosec`
 1340	2022-12-04 23:36:24Z	Sort Spotify Playlists by Date Added to Monitor
-1341	2022-12-04 23:36:24Z	Logs Should Be Terse and Time Based, No Details
+1341	2023-03-21 12:30:48Z	Logs Should Be Terse and Time Based, No Details
 1342	2022-12-04 23:36:24Z	Use `lsblk -f /dev/sdb2` to List Label
 1343	2023-05-21 01:28:00Z	100% Viewer Sponsored and Supported
 1344	2022-12-04 23:36:24Z	Having "Back to School" Fall Angst
@@ -1905,7 +1905,7 @@
 2000	2023-01-26 20:25:20Z	Mounting PVC into a K8S CronJob
 2001	2023-01-26 21:03:19Z	Check content of a Kubernetes PVC PersistentVolumeClaim
 2002	2023-01-26 21:51:20Z	Share K8S PVC between Deployment and CronJob
-2003	2023-01-27 18:47:03Z	rwxrob.tv log: Thursday, January 26, 2023
+2003	2023-03-21 12:30:48Z	rwxrob.tv log: Thursday, January 26, 2023
 2004	2023-01-28 16:02:51Z	Update annotation to trigger rolling restart synced to configmap
 2005	2023-01-31 17:27:13Z	Safe IRL camping
 2006	2023-02-01 17:25:04Z	Streaming: breaking the "fourth wall" all the time
@@ -2243,7 +2243,7 @@
 2365	2023-09-27 09:54:07Z	Don't tether Netgear Nighthawk hotspot modems
 2366	2023-10-02 09:16:47Z	DJI Action 4 Camera Review
 2367	2023-10-03 08:24:41Z	rwxrob.tv: News for 2023/10/02
-2370	2023-10-03 08:23:52Z	Personal logging in KEG/zet with hlog
+2370	2023-10-05 10:17:57Z	Personal logging in KEG/zet with hlog
 2371	2023-10-03 08:46:22Z	Keyboard for writing, camera for vlogging
 2373	2023-10-05 10:17:57Z	Evolution of IRL streaming rigs
 2374	2023-10-05 11:41:01Z	My bike is really just a camera rig that I pedal around
@@ -2258,3 +2258,4 @@
 2384	2023-10-19 08:34:45Z	Powering a professional digital nomadic life
 2385	2023-10-18 08:49:05Z	Absolute musts for professional digital nomads with vehicle
 2386	2023-10-18 10:40:12Z	Validate a TLS certificate (`.crt`) was created with same `.key`
+2387	2023-10-19 09:25:02Z	"What do you want, Rob?"
