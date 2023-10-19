@@ -40,27 +40,51 @@ That last one is hard to write, but it's true. I am tired of always being someon
 
 ## What I do want
 
-* I want to be with Doris and share a home with her
-* I want to be outside for most of the day whenever the weather allows it
-* I want to write
-* I want to play guitar and sing
-* I want to dance
-* I want to bike and paddleboard and hike and skate and swim
-* I want to drink great coffee and beer
-* I want to eat great food occasionally
-* I want to live in places I have never been
-* I want to experience great art
-* I want to take luxurious baths (soft water) and read great books in them
+* I want to be with Doris and share a home with her in my latter years.
+* I want to be outside for most of the day whenever the weather allows it.
+* I want to write.
+* I want to play guitar and sing.
+* I want to dance.
+* I want to bike and paddleboard and hike and skate and swim.
+* I want to drink great coffee and beer.
+* I want to eat great food occasionally.
+* I want to experience great art.
+* I want to take luxurious baths (soft water) and read great books in them.
+* I want to live wherever I want, whenever I want.
 
-## Conclusions
+I'm an explorer. I've always been. It's not my fault. "God" made me this way. It means I get very wrestless being in one place for too long. I do value a good routine, but that doesn't necessarily have to be in the same place every day. If I die without getting to live in Europe again I will be very sad indeed. But then again, when I think of living out every last day in Moab, Utah I get very happy. In fact, that thought makes me happier than the same thought of living in Ashville. And to pick up and move to Europe or New Zealand or France or England or Thailand I have to have the money and means to get there.
 
-*I'm still not sure about these, but oh well.*
+## Am I tired of America?
 
-As much as I don't like admitting some of these, they are becoming obvious now that I really honestly think about what I want.
+Sometimes I think I'm just tired of the United States. I love this country, but I'm just tired of it. So far here are my favorite places in America:
 
-**I'm not going to permanently live in my car,** at least, not for prolonged times. Car camping will do nicely and allow me to save money taking road trips with a destination in mind, like going back to Utah to visit with family and friends.
+* The lonely beaches of Outer Banks in North Carolina
+* The lake and forests of Lake Norman, North Carolina
+* The hills and culture of Asheville, North Carolina
+* The bustle and art scene of the lower west side of New York
+* The energy of Southern California coast
+* The majesty of Northern California and Eastern Oregon coast
+* The saw tooth mountains of Idaho and Montana
+* The Rockies as only Utah provides
+* The red rocks of Southern Utah, Moab, etc.
+* The strange landscapes of Tucson, Arizona
 
-**I'll need a room where I can Zwift, stream, sleep, and game at home.** This means Doris and I will have to pay in together on something. Prices are crazy for rentals of all kinds. Sleeping in the same room with Doris just isn't an option, I truly wish it were. I simply cannot get any sleep at all if she is anywhere near me.
+I have no desire to see the Great Lakes or live anywhere around there.
 
-**If and when I ever travel I'll have to save up a lot of money for the trip.** I'm just not going to have that extra money to spend because I'll be essentially renting a room in Doris' place. That means the only option for travel is saving up enough money to pay for essentially double rent. This is the reason I was thinking about moving out entirely in the first place.
+I hate everything about Texas except Austin. It's butt ugly---especially the cities but the entire landscape is potmarked with industrial failures. The people are horrible with politics and infrastructure that is fucking brain dead stupid. Southern Utah and New Mexico are *way* better than Texas.
+
+I also really don't like Florida as much as I thought I would.
+
+Colorado is just a less-amazing version of Utah (yes, including Boulder).
+
+Nevada is gorgeous, but Las Vegas is a shit show.
+
+The only place I wanted to visit was Lousiana, but it has been destroyed so many times not sure there is much left to see there.
+
+The more I think about it, the more I realize that *only* places I would want to live in America (right now) are rather limited:
+
+* Huntersville, North Carolina near the lake
+* Outer Banks, North Carolina on the beach
+* Asheville, North Carolina
+* Moab, Utah
 
