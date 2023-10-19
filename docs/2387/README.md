@@ -1,6 +1,6 @@
 # "What do you want, Rob?"
 
-A lot of stuff has happened recently leading me (and Doris) to wonder just what I want out of the next few years. We focused on me a lot when Doris sacrified a lot for be to build and run SKILSTAK all those years, then we shifted to getting her up and running for several years. Now (in terms of our marriage) it seems the focus is back on me. I've given up a lot to live in this horrible apartment and tried to make the best of it while Doris built up her career. Now she has it. So she and I are asking a very annoying question: "What do you want, Rob?"
+A lot of stuff has happened recently leading me (and Doris) to wonder just what I want out of the next few years.
 
 ## Can I answer honestly?
 
@@ -18,23 +18,25 @@ Before now, I've never been able to actually do what I *really* want. I've alway
 
 Honestly, I have no idea what I *really* want.
 
-"Go figure it out," Doris said, prompting me to remind her that there was a very real time she had no idea what she wanted to do either (when she was working at Target and coming home exhausted every day doing things she really hated inside).
+"Go figure it out," Doris said, prompting me to remind her that there was a very real time she had no idea what she wanted to do either.
 
 ## What I *don't* want
 
 Sometimes it is easier to find the opposite, in this case, the things I *don't* want.
 
-* I never want to get fat again, *ever*
-* I don't want to suffer from crippling allergies
-* I don't want to pee in a bottle every day
-* I don't want to waste the precious time I have left
-* I don't want to be unnecessarily uncomfortable
-* I don't want to be stuck in a tiny space every day
-* I don't want to feel negative stress of any kind from work
-* I don't want to fight with family over what food I'm allowed to eat
-* I don't want to support anyone, just myself
+* I never want to get fat again, *ever*.
+* I don't want to suffer from crippling allergies.
+* I don't want to pee in a bottle every day.
+* I don't want to be dirty for long periods of time.
+* I don't want to waste the precious time I have left.
+* I don't want to be unnecessarily uncomfortable.
+* I don't want to always be around other people.
+* I don't want to be stuck in a tiny space every day.
+* I don't want to feel negative stress of any kind from work.
+* I don't want to fight with family over what food I'm allowed to eat.
+* I don't want to support anyone, just myself.
 
-That last one is hard to write, but it's true. I am tired of always being someone's lifeline, of having a constant fear that if I died people would be left without the means to live on their own and prosper. It's fucking exhausting being that financial rock for everyone. I realize that I very likely will become dependent on others in that way in my older years, and I hate it, but it doesn't change the fact that I just want a break from that feeling. I want to be truly and completely financially independent from every other human being, only responsible for my own livelihood. It sounds selfish to so many, but at this point I don't care. There are heavenly points for how much you paid everyone to enable their lives on Earth. In fact, Doris and I made a "contract" when we were dating about the goals and guidelines for our relationship and maintaining separate financial independence was always top of the list because that meant that our being together was never forced, always voluntary. We are finally getting back to that state.
+That last one is hard to write, but it's true. I am tired of always being someone's lifeline, of having a constant fear that if I died people would be left without the means to live on their own and prosper. It's fucking exhausting being that financial rock for everyone. I realize that I very likely will become dependent on others in that way in my older years, and I hate it, but it doesn't change the fact that I just want a break from that feeling. I want to be truly and completely financially independent from every other human being, only responsible for my own livelihood. It sounds selfish to so many, but at this point I don't care. There may be heavenly points for how much you paid everyone to enable their lives on Earth and if so I've earned my share. In fact, Doris and I made a "contract" when we were dating about the goals and guidelines for our relationship and maintaining separate financial independence was always top of the list because that meant that our being together was never forced, always voluntary. We are finally getting back to that state.
 
 ## What I do want
 
@@ -43,8 +45,22 @@ That last one is hard to write, but it's true. I am tired of always being someon
 * I want to write
 * I want to play guitar and sing
 * I want to dance
-* I want to bike and paddleboard and hike and skate
+* I want to bike and paddleboard and hike and skate and swim
+* I want to drink great coffee and beer
+* I want to eat great food occasionally
 * I want to live in places I have never been
 * I want to experience great art
 * I want to take luxurious baths (soft water) and read great books in them
+
+## Conclusions
+
+*I'm still not sure about these, but oh well.*
+
+As much as I don't like admitting some of these, they are becoming obvious now that I really honestly think about what I want.
+
+**I'm not going to permanently live in my car,** at least, not for prolonged times. Car camping will do nicely and allow me to save money taking road trips with a destination in mind, like going back to Utah to visit with family and friends.
+
+**I'll need a room where I can Zwift, stream, sleep, and game at home.** This means Doris and I will have to pay in together on something. Prices are crazy for rentals of all kinds. Sleeping in the same room with Doris just isn't an option, I truly wish it were. I simply cannot get any sleep at all if she is anywhere near me.
+
+**If and when I ever travel I'll have to save up a lot of money for the trip.** I'm just not going to have that extra money to spend because I'll be essentially renting a room in Doris' place. That means the only option for travel is saving up enough money to pay for essentially double rent. This is the reason I was thinking about moving out entirely in the first place.
 
