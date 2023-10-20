@@ -1,4 +1,4 @@
-# Beauty of `gh issue develop -c`
+# Beauty of GitHub CLI tool (gh) workflow
 
 Since discovering `gh issue develop -c` I never do anything else when working on a PR. The workflow is just so wonderful:
 
