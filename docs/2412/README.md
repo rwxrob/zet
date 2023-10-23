@@ -1,6 +1,6 @@
 # Subaru Outback 2017 no-build digital nomad setup
 
-*This is a living document of my current and future plans.*
+*If* I were to fully live out of my Outback this is how I'd do it.
 
 * Remove the front passenger seat completely (storage)
 * Jackery Explorer 3000 Pro ($4000) in front seat with small table over it (hiding it)
