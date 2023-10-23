@@ -46,11 +46,13 @@ That last one is hard to write, but it's true. I am tired of always being someon
 * I want to play guitar and sing.
 * I want to dance.
 * I want to bike and paddleboard and hike and skate and swim.
+* I mostly want to just bike.
 * I want to drink great coffee and beer.
 * I want to eat great food occasionally.
 * I want to experience great art.
 * I want to take luxurious baths (soft water) and read great books in them.
 * I want to live wherever I want, whenever I want.
+* I want to see the rest of the world outside of America.
 
 I'm an explorer. I've always been. It's not my fault. "God" made me this way. It means I get very wrestless being in one place for too long. I do value a good routine, but that doesn't necessarily have to be in the same place every day. If I die without getting to live in Europe again I will be very sad indeed. But then again, when I think of living out every last day in Moab, Utah I get very happy. In fact, that thought makes me happier than the same thought of living in Ashville. And to pick up and move to Europe or New Zealand or France or England or Thailand I have to have the money and means to get there.
 
@@ -88,3 +90,9 @@ The more I think about it, the more I realize that *only* places I would want to
 * Asheville, North Carolina
 * Moab, Utah
 
+## Living in the Carribean and Europe
+
+I've lived abroad for years, but somehow I have a block when it comes to allowing myself the option of living abroad again. My wife reminds me that it is all in my head. If I have the money to live out of my car, then I *definitely* would have the money to fly someplace rural in Europe that live there for a while instead. Also, I wouldn't need the car *at all*. I could invest all that money into really great bike touring stuff and maintenance tools and take them with me everywhere. Doing that in a car really isn't sustainable for me since I cannot to the maintenance myself.
+
+* [Subaru Outback 2017 no-build digital nomad setup](../2412)
+* [Is living out of car (Subaru Outback) sustainable?](../2390)
