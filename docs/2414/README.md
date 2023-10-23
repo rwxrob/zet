@@ -1,0 +1,11 @@
+# It's about the bike, stupid (rob to rob)
+
+Yesterday after getting the laptop stream to work with the Jackery and talking to my wife about it I realized that what I *really* want is to stay active on the bicycle for the rest of my days. The more I have been focusing on the Outback the more I realized how ridiculously expensive my plans are to live and work out of it comfortably. I also kept finding myself thinking I might even need to sell the bike and just stay around the car because the car will have a lot of expensive equipment in it that I need. I've also recently seen a lot of videos of crimes happening against people "car camping" and other stuff nomads don't talk about. Most of that community thrives on very little income and likes it that way. While I appreciate that they do these things I also realize that making what I make from my car would make me a very big outlier to that community. I'm sure there is a tiny subset of that community who have tech jobs, but not many (but I really don't know).
+
+My wife keeps saying, "Why are you limiting yourself to America?" because she knows about Europe. She's not wrong. I keep thinking I can leverage the fact that I have a vehicle here and already know the country pretty well. But both of those things actually count against staying in America. Why not go to countries that have far greater appreciation for bicycles (and other things that I personally value) and are much more livable without a car at all. In fact, most major European places that I would want to live don't require a vehicle at all.
+
+I realize that the focus should be on getting absolutely independent with my bike. I have been that before, even professionally paid to support very remote bike trips as a tour guide and bike mechanic. I need to really catch up on the modern bike tech of my specific bicycle instead of speccing out changes to my Outback. Getting the right tools and transportation luggage to take it with me whereever I go. The good news is that I've already started this.
+
+Bike focus is also so much cheaper. Just the rack system for the Outback is over 3000 dollars. Hell, I could buy a brand new steel Salsa adventure bike for that.
+
+* ["What do you want, Rob?"](../2387)
