@@ -8,3 +8,4 @@ Working remotely allows communiting to any location within range of home. This d
 
 Once the shift in daily routine has happened adding in a method of sleeping in the vehicle or in a tent can be layered on. This is nice to take a short nap during the work day (which everyone does according to recent research). But it is also nice to convert weekends where returning home isn't necessary into three day spans, or more. This can be expanded to week-long trips to different target locations that can be driven to during the weekend before and after that time. Add a fitness membership and a loction near that gym and it can be the new "lodging" replacement for the daily commute to someplace close to it.
 
+* [What is the daily routine of digital nomad commuter?](../2418)
