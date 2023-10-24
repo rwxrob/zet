@@ -1,9 +1,10 @@
-# New daily routine, nomadic-ish
+# Can you be a "digital nomad" living at home?
 
-1. Get up relatively early
-1. Wait for traffic to die down
-1. Drive to the day's "office" location (outdoors, coffee shops, etc.)
-1. Test the wifi signal (6k bitrate minimum)
-1. Work for most of day
-1. Take off on bike for ride (but only record in 4k, don't stream)
-1. Return and stream the sunset from laptop
+The answer is yes, absolutely. All they need is a portable computer (usually a laptop), reliable mobile Internet access, and solid power supply.  All of this can be had pretty much anywhere in the world thanks to Starlink these days. But there are more affordable options for anyone willing to setup their daily office closer to a cellular service tower. People living in their RVs have been doing this for a very long time. Most RVers, however, have much lower requirements for reliable Internet connections that allow remote streaming without hiccups for voice and video streams.
+
+It's fair to say many tech professionals would never have pursued a career that locks them into a torturous cubic every day looking forward to nothing but unnecesarry interruptions from less autodidactic coworkers and endless meetings to "synergize solutions." Combine that with the usual horrendeous car commute and you have what feels like that scene in Joe v.s. The Volano combined with One Flew Over the Cuckoo's Nest (both old references, look them up). Brain fog is bound to infect anyone forced to spend more than a third of their life living that way.
+
+Working remotely allows communiting to any location within range of home. This doesn't cost any more than others who commute daily and is similar to expenses required for many nomads who have to burn gas money to get supplies and find a place to camp. Plus it leverages the availability of a reliable location to sleep and resupply and shower. It requires a mental transition to begin to regard the place that you are sleeping not as "home" but more "lodging" for the night.
+
+Once the shift in daily routine has happened adding in a method of sleeping in the vehicle or in a tent can be layered on. This is nice to take a short nap during the work day (which everyone does according to recent research). But it is also nice to convert weekends where returning home isn't necessary into three day spans, or more. This can be expanded to week-long trips to different target locations that can be driven to during the weekend before and after that time. Add a fitness membership and a loction near that gym and it can be the new "lodging" replacement for the daily commute to someplace close to it.
+
