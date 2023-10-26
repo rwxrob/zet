@@ -22,5 +22,4 @@ Returning to fitness has almost accidentally included a slap-in-the-face reminde
 
 Yesterday I spent the entire work day from the beach at the lake. It was glorious. Last night I slept in my car in the parking lot without any issues. Today I cancelled my Zwift account (which I can always start back up at any time and not lose any progress). And just a few minutes ago, I posted my first 4k bike route video blog. This is the new normal for rwxrob.
 
-My top priority now, therefore, has become getting very good at working and playing from the road.
-
+My top priority now, therefore, has become getting very good at working from anywhere and playing outside. How could I have forgotten?
