@@ -1,0 +1,3 @@
+# 4K bike video blogging is safer
+
+Not only am I not distracted by the live streaming chat, but the camera and audio would continue to record in the event of an accident. If I had not been live streaming when I was hit recently (knocking out my front teeth) my camera and rig would have continued to capture and I would know exactly what happened in that time between the end of the clip and the rest. Plus, always having my camera on, even when it is raining outside, something I would never do when live streaming because some of the places I now ride are completely impossible to stream, means that I'm more likely to capture incidents worthy of the bike version of a dash cam. So no more bike live streaming *at all*. Nothing but 4K videos from now on.
