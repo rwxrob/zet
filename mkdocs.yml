@@ -1,0 +1,75 @@
+site_name: SKILSTAK.IO
+site_url: https://skilstak.io
+repo_url: https://github.com/rwxrob/skilstak
+edit_uri: blob/main/docs/
+repo_name: rwxrob/skilstak
+copyright: Copyright &copy; 2013 - 2023 Robert S. Muhlestein
+
+dev_addr: '0.0.0.0:8000'
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date-localized:
+      type: timeago
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.saneheaders
+  - pymdownx.betterem
+  - mdx_emdash
+  - footnotes
+  - toc:
+      permalink: "#"
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rwxrob/skilstak
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/rwxrob
+    - icon: fontawesome/brands/twitch
+      link: https://twitch.tv/rwxrob/about
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/mhpPfs69Ev
+
+
+theme:
+  name: material
+  logo:  assets/logo.png
+  features:
+    - navigation.sections
+    - navigation.footer
+    - navigation.instant
+      #    - navigation.expand
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+  search:
+    lang:
+      - en
+      - ru
+  font:
+    text: Work Sans
+
+
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
