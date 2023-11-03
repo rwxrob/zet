@@ -4,7 +4,10 @@ Primary use case: One editor with knowledge of MkDocs markdown edits the documen
 
 Requirements:
 
-* Must be secure from snooping (no `mkdocs serve`)
-* Must be relatively performant at 500+ pages (no `mkdocs serve`)
+* Must be secure from snooping (no `mkdocs serve`, or with a tls proxy)
+* Must be relatively performant at 500+ pages (`mkdocs serve --dirty`)
 * Centralized vetting and control of container images used
 
+Optional:
+
+* TLS authenticated proxy main entry point
