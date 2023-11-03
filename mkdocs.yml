@@ -1,8 +1,8 @@
-site_name: SKILSTAK.IO
-site_url: https://skilstak.io
-repo_url: https://github.com/rwxrob/skilstak
+site_name: Zettelkasten of Rob Muhlestein
+site_url: https://rwxrob.github.io
+repo_url: https://github.com/rwxrob/zet
 edit_uri: blob/main/docs/
-repo_name: rwxrob/skilstak
+repo_name: rwxrob/zert
 copyright: Copyright &copy; 2013 - 2023 Robert S. Muhlestein
 
 dev_addr: '0.0.0.0:8000'
@@ -32,7 +32,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/rwxrob/skilstak
+      link: https://github.com/rwxrob/zet
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/rwxrob
     - icon: fontawesome/brands/twitch
