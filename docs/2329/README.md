@@ -1,5 +1,15 @@
 # Going all-in on IRL streaming (touring, journalism, writing)
 
+Update: I gave up IRL streaming completely and have no intention of ever doing it again. I'm selling all my IRL streaming gear and canceling all my accounts including the Belabox sponsorship. It was an expensive lesson to learn, but I'm glad I finally learned it.
+
+* [No really, no more outdoor IRL live streaming, it's just stupid](../2440)
+* [Outdoor IRL livestreaming is seriously bad for your health](../2435)
+* [Quitting remote outdoor IRL streaming away from car](../2395)
+* [18 reasons outdoor IRL adventures are best from home](../2334)
+* [OutdoorIRL falls on its face, thank God](../2330)
+
+----
+
 Two things happened this week that catalyzed a bunch of changes to my streaming stuff:
 
 1. I bought a 600 signal booster specifically for outdoor adventures.
