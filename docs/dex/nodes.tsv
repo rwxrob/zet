@@ -4,7 +4,7 @@
 4	2023-03-21 16:30:48Z	Get Witcher3 on Linux with Steam Proton
 5	2023-03-21 16:30:48Z	Google Bash Style Guidelines are Shit
 6	2023-03-21 16:30:48Z	Need Two Utility Rune Scanners
-7	2023-03-21 16:30:48Z	Don't Depend on `jq`, Learn Builtin Alternatives
+7	2023-10-15 08:06:52Z	Don't Depend on `jq`, Learn Builtin Alternatives
 8	2023-03-21 16:30:49Z	Use `jq .[] | select` and `test` to Filter
 9	2023-03-21 16:30:49Z	GitHub API versus CLI `gh` Tool?
 10	2023-03-21 16:30:48Z	Can I Run Linux Desktop in Containers?
@@ -2067,7 +2067,7 @@
 2119	2023-05-18 15:14:54Z	Decided I don't need a new bike, getting Wahoo KICKR Bike instead
 2120	2023-05-11 23:28:49Z	Dextrose candy: cheap, fast glucose for recovery and fueling
 2121	2023-05-11 00:32:28Z	Be gone lycra and take your mindset with you
-2122	2023-05-12 15:20:53Z	Updating schedule: two hours max per training session
+2122	2023-11-10 11:30:39Z	Updating schedule: two hours max per training session + long Sunday
 2123	2023-05-18 15:14:54Z	Gravel gang (even if riding mostly tarmac)
 2124	2023-05-18 15:14:54Z	Tech work requires concentration, not daylight
 2125	2023-05-18 15:14:54Z	Podman Desktop chooses kind for Kubernetes

@@ -1,4 +1,8 @@
-# Updating schedule: two hours max per training session
+# Updating schedule: two hours max per training session + long Sunday
+
+Update: allowing myself longer (century) rides on Sundays to prepare for multi-day endurance rides.
+
+----
 
 Recently a new friend in Twitch mentioned that they have a hard time doing more than two hours at a time in Zwift while I was doing a five-hour grind but now that I've dropped 10 kilos I'm not feeling the need to drop the next 10 kilos as quickly. There are a number of other reasons that a normal person like me should probably stick with 1-2 hours per workout:
 
