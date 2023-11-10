@@ -1,5 +1,9 @@
 # Flats for most bike riding, clipless for indoor training
 
+Update: I put the Garmin Rally back on once I discovered the Shimano SPD sandals. It also means that I don't have to wear that oppresive HR chest strap. (How the hello to women wear bras all the time?)
+
+----
+
 I got rid of my Garmin Rally pedals today. I'll be selling them really cheaply. I also took my cleats off my DZRs and put the rubber inset back. No more sounding like a tap dancer on the concrete. But there are other important reasons that I've recently remembered or learned
 
 * Clipless allow bunny hopping
