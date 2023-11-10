@@ -1,4 +1,10 @@
-# Assault on Mt. Mitchel personal training plan (canceled)
+# Goal: Assault on Mt. Mitchell in 2024
+
+**Update: Friday, November 10, 2023, 11:40:27AM EST**
+
+I'm back to setting this as a goal for 2024. In fact, I paid the 300 dollars for registration and another 300 for a 2-night hotel stay. It does make me a little sick to think I could buy a fixie for that, but Doris actually talked me into it. She seems how much I want to do it.  This isn't the sort of thing that I do a lot so splurging on the expense is worth it to me. Having a personal performance goal has always helped me even if it isn't always so expensive. The return on investment to my health has already easily paid for the cost in saved medical bills later in life.  I'm well on my way to shaving 30 kilos by end of 2023 and I'm totally okay (now) with using my heavy steal dad bike to do the Assault. Hell, it even has a granny gear to make it super easy (relatively). I'm starting to do Sunday century rides to go with my 50k daily rides. As long as I just to essentially the same thing on the Assault I should be fine---especially since I can spin at all the same power levels and will have an entire pack to draft off of for most of the Assault. Honestly, at my current level the Assault should actually be relatively easy so long as I just want to finish in under nine hours. I do plan on doing it with my signature black t-shirt and plaid Club Ride shorts. If it were not for the Spring temperatures I'd even do it in my sandals.
+
+----
 
 **Update:** I've decided against this. Just participating would cost me over 1000 dollars per year in lost wages, entry fees, travel and hotels, and expenses. That's 1000 dollars per year that I could apply to a Wahoo KICKR Bike that would enable regular challenges including virtual racing instead of suffering on one day a year with a bunch of other amateurs who might even crash in front of me. I still plan on finishing the equivalent of the Assault in under six hours, which is trivial to simulate in Zwift (with everything but headwind and traffic).
 
