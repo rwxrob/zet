@@ -18,6 +18,9 @@ I have a [40-oz Simply Modern Tumbler](https://amzn.to/3SBJ4Sg) made of stainles
 
 ***Do not use BPA plastic containers for anything---especially a citrus smoothie with natural acids that will leech the BPA.*** 
 
+* What is BPA? Should I be worried about it? - Mayo Clinic  
+  <https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/bpa/faq-20058331>
+
 * Human exposure to Bisphenol A in Europe --- European Environment Agency  
   <https://www.eea.europa.eu/publications/peoples-exposure-to-bisphenol-a>
 
