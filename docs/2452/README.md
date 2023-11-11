@@ -4,9 +4,10 @@
 * 2 peeled mandarin oranges
 * 1 apple with skin
 * 1 cup frozen spinach
-* 1 cup frozen strawberries
+* 1/2 cup frozen strawberries
 * 1/2 cup frozen blueberries
 * 1/2 regular size cucumber with skin
+* 1/2 cup chopped celery
 * 3 baby carrots
 * 2 limes with pulp (reamed)
 
