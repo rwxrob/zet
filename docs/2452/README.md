@@ -14,7 +14,12 @@
 
 Cut up everything so it will fit in your Blendtec blender (don't even try this in anything less than a Blendtec). Run it through the "smoothie" setting *twice* (otherwise you will get little bits of annoying carrot, trust me).
 
-I have a [40-oz Simply Modern Tumbler](https://amzn.to/3SBJ4Sg) that can always take the 32+ ounces that this usually turns out to be. I dump it in and immediately rinse off the Blendtec stuff which easily washes away (no sticky stuff). Then I suck on it while catching up with lunch-time news, social media and stuff.
+I have a [40-oz Simply Modern Tumbler](https://amzn.to/3SBJ4Sg) made of stainless steal that can always take the 32+ ounces that this usually turns out to be. I dump the smoothie in the tumbler and immediately rinse off the Blendtec stuff which easily washes away (no sticky stuff). Then I suck on it while catching up with lunch-time news, social media and stuff.
+
+***Do not use BPA plastic containers for anything---especially a citrus smoothie with natural acids that will leech the BPA.*** 
+
+* Human exposure to Bisphenol A in Europe --- European Environment Agency  
+  <https://www.eea.europa.eu/publications/peoples-exposure-to-bisphenol-a>
 
 Note that the frozen stuff will be bulky because of the frozen water around it. It's hard to measure so just estimate.
 
