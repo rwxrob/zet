@@ -4,6 +4,8 @@
 
 Started my daily Ashtanga practice again. It's heavily modified half with some bicycle crunches and pushups added for now. Since that last entry a month ago I had not done much at all but the darkness and cold outside has been the boost I needed to get me back into a daily practice since I have been motivated to shave about an hour from my bike rides in the evening before it gets too dark. It just worked out that I went to bed really early yesterday and got up at 3:45 as if the Universe was reminding me about the most sacred time of the day (again). There is nothing like the hours between 3:00 and sunrise. In fact, I've made watching the sunrise my new normal in addition to sunset, so sunrise walk, sunset bike.
 
+* [Om Sum Suryaya Namaha (I'm a sun worshiper)](../2451)
+
 ----
 
 Saturday, October 7, 2023**
