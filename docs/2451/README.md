@@ -1,0 +1,6 @@
+# Om Sum Suryaya Namaha (I'm a sun worshiper)
+
+I have always gained all my energy from the sun, figuratively and literally. For years I've been repeating the mantra of sun adoration like millions of others have done since way before religions like Christianity were even invented. I'm not the only one. As I gather daily almost like Catholic mass at the sites where the sunset and sunrise can most peacefully be observed I have met other sun worshipers, many of whom may not even realize they are. One woman showed me all the sunset photos she had on her phone that she had not been able to figure out how to share with others but didn't feel a particular need to do so, she just wanted them for herself. I get it. I really do.
+
+In fact, during the cold weather months the first year after my divorce I wanted to recreate the sun energy in my lonely apartment. I painted my walls saffron and added a space heater to do my own hot yoga in the morning. These days I lower the lights in my apartment room and put on the sunrise on my big screen to watch while doing morning yoga. My room is already hot enough to qualify as hot yoga so that worked out. (Perhaps the *only* good thing about this apartment.)
+
