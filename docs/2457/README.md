@@ -24,3 +24,17 @@ I love cheese, but it *really* doesn't love me. I try to avoid it as much as pos
 ## Order?
 
 I generally eat dense carbs in the morning and lighter carbs (fruit and veggies) throughout the day with the exception of Kaffee (coffee) & Kachen (cake) about an hour before working out in the late afternoon. The egg burrito bowl is one of my favorite big meals that I know is going to trigger my body moving digestive focus on rebuilding (and knocking me out usually for the rest of the night). I used to eat eggs in the morning to curb appetite and it works. But I was seriously carb deficient as I continued to train more than two hours a day (making me tired all freaking day). The [Racing Weight book](https://amzn.to/47quAJg) convinced me to pack almost all my protein into the end of the day. It really seems to work. Except for the regular immediate drowsiness after any meal I genuinely have more energy for everything during the day by reordering my macro-nutrients.
+
+## BPA?
+
+Avoid anything in a can. All cans are currently lined with BPA.
+
+Also avoid anything made of plastic even if it says no BPA. There's a reason bottled water has an "expiration" because the plastic will eventually break down into the water. (They've known about this for years and didn't care.) Better to stick with glass (if you can) or stainless steel containers.
+
+## Teflon?
+
+Throw every single thing you have with Teflon in it in the trash today. The levels of contamination have reached such epidemic levels that they cannot even find enough people to serve as the "control group" when testing for Teflon exposure and effects.
+
+## Aluminum?
+
+Another bad one. Don't use Aluminum deodorant. Also, avoid pans and other stuff that has prolonged exposure to aluminum. Canned beverages are particularly bad because they have both Aluminum and BPA coating on the inside. Best to drink your beverages from glass bottles any time you can. Or just don't drink them at all. There aren't many *good* things you can drink from a can at all.
