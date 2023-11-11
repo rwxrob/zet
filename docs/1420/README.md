@@ -1,4 +1,27 @@
-# Weekly Physical Training Schedule
+# Weekly physical training schedule
+
+**Saturday, November 11, 2023, 4:55:17AM EST**
+
+2023 has been the year of physical recovery. I let my obsession with code in 2022 destroy my health and it has been a *very* rough road back. I've lost 21 kilos since February but have another 10 to go before 2024---especially since I've registered for [Assault on Mt. Mitchell on May 20, 2024.](../2104)
+
+Since the day light at the end of the day is gone, I've added daily yoga back to the mornings. Every day from 4-5am with pushups and bicycle situps added to the half-primary routine with a shorter Savasana at the end. I'll slowly build up to doing jump throughs, but the goal is flexibility, organ health through compression and inversion, and some core and upper body strength (which the bike does not do).
+
+Riding bike daily from 4-5:30 outdoors doing an adaptation of my normal DCH 52k Loop.
+
+The long, early bike rides on Sunday should condition me for doing exactly the same thing on May 20th. I have to adapt to the cold (and potentially rain) and prepare the right things to wear at that time of day. I'm thankful to be in North Carolina where the weather actual allows riding all year. Sunday rides are all Zone 2 with an occasional hill push but the goal is easy miles.
+
+|: Day :|: Description :|
+|  Mon  | Run, Slow, Base Endurance, 1m/30s (~60m) |
+|  Tue  | Strength, Upper Body 3m between sets (~60m) |
+|  Wed  | Walk, Recovery (~60m) |
+|  Thu  | Run, Fast, 5K Tempo Glides 2m/1m (~30m), Race Day |
+|  Fri  | Strength, Upper Body 3m between sets (~60m) |
+|  Sat  | Run, Slow, Base Endurance, 1m/30s (~60m) |
+|  Sun  | Walk, Recovery, Someplace Fun (~60m) |
+
+----
+
+**This was in 2021 or so**
 
 This is my current schedule. I've adjusted it over the last few weeks as
 my strength and stamina has improved. I'm hoping to get around 27m in
