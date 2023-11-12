@@ -1,4 +1,12 @@
-# Weight: 86.1 kilos (down from 93.3 Feb/3), goal 66 kilos
+# Weight: 77.4 kilos (down from 93.3 Feb/3), goal 66 kilos
+
+**Saturday, November 11, 2023, 6:48:46PM EST**
+
+I'm down to 77 kilos. Still 11 more to go before end of 2023. I will have lost 27 kilos by 2024. That's 17% of my original weight, 1/6th of me. My current body fat is 14% still (ugh) but I have packed a lot more muscle on in the last few months. Getting harder to *not* put on good weight. I'm really improving the quality of my diet these last two months. I added smoothies back. Dropped all alcohol except really special social occasions. I'm eating more regularly so not in starvation. Adding morning yoga back. And still riding for about two hours a day with an extremely long ride on Sundays. I'm calling it "Century Sundays." It's important I start doing these longer rides not in November since I'll be climbing 3354 meters and covering 102.7 miles assaulting Mt. Mitchell on May 20, 2023. Every kilo lost will help.
+
+----
+
+**April 3, 2023**
 
 Even though I weighed 83.5 kilos after my long ride four days ago, my rested and fully recovered morning (post void) weight today is the real one: 86.1 kilos.
 
