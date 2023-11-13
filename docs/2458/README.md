@@ -30,7 +30,7 @@ So yeah, I cancelled my subscription to Zwift, again. Honestly, I *hate* riding 
 
 I do like an occasional race, but I've never enjoyed that more than being outside. The *only* time I ever want to ride indoors is if there is ice and snow on more than 50% of the roads and trails. That is less than 10% of the year (if that) in North Carolina. I might as well take advantage of that wonderful fact about this state since I'm going to be here a very long time.
 
-## "Single white-male" seeks bike-packing friends
+## "Married white-male" seeks bike-packing friends
 
 It might sound obvious, but what the fuck. I want (mostly) friends with the same core interests and obsessions as me. I would rather be close friends with a few people I deeply respect (people like Terry, Lael, and Dustin) than most other human beings. Watching the camaraderie and respect they Lael and her co-riders had for one another during that Tour Divide video was something I immediately wanted. These people are bonded in a way that transcends geographical boundaries and requires almost no relationship building because they already *are* kindred spirits. Such is not required from a spouse (obviously, as also came out in that film) but I desperately want to meet and be around more people who have the grit and obsession to brave extreme discomfort to have the experiences that they do. There are a lot of people who have this same obsession, but they are very hard to find.
 
