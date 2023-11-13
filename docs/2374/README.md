@@ -1,5 +1,11 @@
 # My bike is really just a camera rig that I pedal around
 
+**Update: Monday, November 13, 2023, 7:39:10AM EST**
+
+For about two weeks now I've moved to priority to experiencing the ride and not on capturing everything. My bike just has an action cam on it that I only use when I need to capture something.
+
+----
+
 Since returning to cycling again in February 2023 (and losing 20 kilos) I've realized that my cycling goals are really just to get outside, stay healthy, and share adventures with my friends online. I honestly don't care about the bike as long as it's comfortable and works well for live streaming. In fact, the more gear I move from my body to the bike, the more I want to ride and stream.
 
 And what better bike to capture adventures than an "adventure" bike? Turns out my tanky Salsa Marrakesch with relaxed geometry, rack mounts, and lots of places to attach stuff is perfect for using my bike a fast-moving camera rig. Even the kickstand turns it into a mobile tripod. I never want my bike falling over even when carrying "cheap" streaming gear.
