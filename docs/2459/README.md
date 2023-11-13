@@ -1,0 +1,8 @@
+# Ultra-endurance racing (Tour Divide). Future obsession?
+
+While grabbing a bit of lunch I watched more of the [Tour Divide video](https://youtu.be/AEEGIt6FC34?si=yWaNoYa2OitbfHlf). I just cannot get enough of it. The idea of going from Canada to Mexico and all the different climates in between just appeals to me more than anything else I could possibly do on a bicycle at the moment. I *will* do the Tour Divide, perhaps in 2025. If I keep my habit of Sunday Solo Centuries and mix them up to include more off-road terrain around if (if I can find some) then I think I would be easily ready for it in 2025.
+
+The great thing about the Tour Divide is that although unsupported it is a great way to complete that route while having people aware that you are out there so if something happens they at least know about it. Plus you get all the company from all the others doing it as well. The record is 15 days. Advanced riders do it in 20-30. Someone like me would probably take more like 40. People *average* 100 miles a day on this thing with steep climbs and descents on unstable surfaces. As luck found have it, NC suburbs with their short but steep hills are way better training than a lot of flat road riding. Riding in this style requires full body strength, not just a big, light engine like most pro cyclists. You have to have all-around health and strength to do this stuff.
+
+Bikes specifically created for Tour Divide also happen to be my all-time favorites. They are the perfect combination of offroad stability under load without sacrificing speed, on road or off. The Salsa Cutthroat is a perfect example and even cites the Tour Divide in its design inspiration. I could even use it on the Assault on Mt. Mitchell without a problem.
+
