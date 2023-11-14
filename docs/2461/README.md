@@ -6,7 +6,7 @@ Looking back on 2021 5-year plan been amazed at how much of it we accomplished. 
 
 ## I just want to ride
 
-I'm happiest when I'm riding my bike safely in places that are visually interesting and provide a challenge. Now that I've remembered this fact about myself, after forgetting and floundering around until I rediscovered it, the rest of my life goals are pretty much based around it. It's not even people, travel, culture, and art that interest me. It biking in the open air.
+I'm happiest when I'm riding my bike safely in places that are visually interesting and provide a challenge. Now that I've remembered this fact about myself, after forgetting and floundering around until I rediscovered it, the rest of my life goals are pretty much based around it. It's not even people, travel, culture, and art that interest me. It's biking in the open air.
 
 ## I actually hate people
 
@@ -20,6 +20,10 @@ If I'm *brutality* honest, I actually *hate* people. People *mostly* suck. Peopl
 * Daily ride(s).
 * Daily reading.
 
+## 2023
+
+* Sell or donate everything I won't be needing in the next five years.
+
 ## 2024
 
 * Maintain current job skills.
@@ -30,7 +34,6 @@ If I'm *brutality* honest, I actually *hate* people. People *mostly* suck. Peopl
 * Plan and prepare for Tour Divide (minimal bike packing practice, etc.).
 * Do several 3-day, minimal bikepacking trips (leave Friday, home late Sunday).
 * Slowly buy minimal bikepacking gear.
-* Purge anything not needed in 5-year plan.
 * Eliminate remaining debt.
 * Get minimum down payment saved by September 1st.
 * Buy home and move in by October 1st.
