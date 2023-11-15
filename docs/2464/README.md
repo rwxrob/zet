@@ -1,0 +1,13 @@
+# I can use flat and aerobars on Assault on Mt. Mitchell? Cool!
+
+The more focused on bikepacking and the Tour Divide I am the more interested I am in completing the Assault on Mt. Mitchell completely self-sufficiently and without drafting off of anyone for any great amount of time. I've always hated drafting, if I'm honest. That's why I got into Triathlon. So what if I look at the Assault on Mt. Mitchell as one big time trial, and not a "race"? The thought makes my heart race with anticipation.
+
+I already know I can make it under the cutoff time. I've done that math. I've [seen the people](https://www.richardrowephotography.com/f779750549) who have completed it. So that's not a concern. The challenge then becomes much more fun when I'm pitting myself against myself.
+
+I first had the thought about aerobars when I was thinking about changing mine on my Marrakesh out immediately so that I can start practicing the positions needed for the Tour Divide eventually. Then I paused because I wasn't sure if I made the swap before May if that meant I could still ride the Assault. Turns out I can.
+
+There is a small but important number of people riding the Assault with flat and aerobars. Here's [one](https://www.richardrowephotography.com/p216559103). And [another](https://www.richardrowephotography.com/p149045178). Here's [a guy with flat bars](https://www.richardrowephotography.com/p216559103). And, here's a [guy with a triathlon bike](https://www.richardrowephotography.com/p149045178). And [another one](https://www.richardrowephotography.com/p149045178). There are a ton of gravel and all-road bikes with 42mm tires on the Assault as well, even a few recumbents and tandems.
+
+In fact, going through the photos makes me feel *very* confident I'll have no problem with this ride. That it will be just like any other solo century Sunday in the past months that I've done. It's just going to be one big party climbing up the mountain. So many fat, old, sight-seeing, loud geezers just having a fun time and pushing themselves (like me).
+
+By the way, all that concern about needing to get into some group rides before the Assault to get better at drafting with absolute amateurs is unwarranted. In fact, I don't want to be *anywhere near* all those (mostly) noobs trying to draft. All it takes it [one dog](https://youtu.be/de6F47oeenI?si=ddo4wBggCayh81JE) to knock them all over. I've already knocked my teeth out. Don't want to knock out any more. I'm good just taking in all the beauty Mt. Mitchell has to offer. At the end of the day, this ride---despite all the hype---is just one big supported group (party) ride like any other.
