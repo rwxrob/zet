@@ -8,7 +8,7 @@ Perhaps the biggest upset is *sleep*. Morton slept *way* more than anyone else w
 
 ## Tailfin rack is better than handlebar pack
 
-Morton sported a fancy Tailfin rack that must have made his logistics way easier to handle. His handlebar cockpit is absolutely minimal. The entire bike is way more aerodynamic this way because all that bulk in the front isn't acting like a huge parachute. When he's tucked into his aeroposition, from those amazing time-trial aero bars, he cuts the air so that by the time the air flows over his body and gets to the pack behind him he's more like a boat traveling through the water. Absolutely brilliant, and franly, obvious way to go. Morton had no fucks to give about everyone else who has ever done TD and what they might think about not having a proper handlebar bag.
+Morton sported a fancy [Tailfin rack](https://www.tailfin.cc/product/seat-packs/aeropack-alloy/?v=7516fd43adaa) that must have made his logistics way easier to handle. His handlebar cockpit is absolutely minimal. The entire bike is way more aerodynamic this way because all that bulk in the front isn't acting like a huge parachute. When he's tucked into his aeroposition, from those amazing time-trial aero bars, he cuts the air so that by the time the air flows over his body and gets to the pack behind him he's more like a boat traveling through the water. Absolutely brilliant, and franly, obvious way to go. Morton had no fucks to give about everyone else who has ever done TD and what they might think about not having a proper handlebar bag.
 
 ## Flat + aero bars
 
