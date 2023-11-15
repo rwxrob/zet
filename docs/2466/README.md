@@ -1,4 +1,4 @@
-# Morton smashed Tour Divide record on flat-bar XC hardtail with rack
+# Morton smashed TD record on flat-bar XC hardtail with rack
 
 So good to see a pro bring the well established endurance riding techniques of the classic tours to the Tour Divide.
 
