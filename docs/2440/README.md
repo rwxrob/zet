@@ -1,4 +1,10 @@
-# No really, no more outdoor IRL live streaming, it's just stupid
+# No really, no more outdoor IRL live streaming?
+
+***Update: Thursday, November 23, 2023, 1:23:06PM EST***
+
+As usual, my extreme position on "never" live streaming again was, well, extreme. There is definitely a time and place for outdoor IRL live streaming in my life---especially if I start living more of it entirely on the road bikepacking as an "extreme digital nomad" all over the world (as Bellum called it). In fact, after doing several very long rides (6+ hours) in order to cover the mileage needed for a decent TransAmerica Trail ride I realized having a live stream to keep me company for some of it would be nice, even if the service was horrible and people could only hear sound. Plus I already have all the very expensive hardware for it and having a backup pay-as-you-go ATT account with minimal bandwidth is probably a good thing as a backup for work connectivity as well as dual-modem bonded live streams. So currently the plan is to get the Orange Pi working when it arrives and bringing the NightHawk M5 as well as the M6. I'll add a phone mount between the aero bars as well. I can put all of it in the top-tube frame back and run the wires to my chest-mounted Action 4 in webcam mode. In terms of weight, I already need the redundant NightHawk to ensure I *always* have a working hotspot modem, so the only *actual* additional weight is for the Orange Pi. I won't be able to live stream while riding for hours at a time mostly because of the power required to do that and the cost of the bandwidth. More on this in another zet.
+
+----
 
 My feelings about outdoor IRL live streaming have grown even stronger. At this point I seriously hate the thought and wince at the memory of how things used to be. I don't mean to offend anyone who has enjoyed my IRL streams or other IRL streamers. I do love many of them. This is about the stupidity of the very idea of outdoor IRL streaming itself. Why would I limit my adventures to only places that have a "strong signal"? The entire point of getting outdoors is to escape, to connect with nature and those few intimate people who might be with me.
 
