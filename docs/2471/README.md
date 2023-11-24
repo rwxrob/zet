@@ -31,14 +31,21 @@ These layers can all be combined, even all of them at the same time in an extrem
 
 My Patagonia shell is very brightly colored so often I will tie it around my waste and let some part of it flap in the wind for visibility.
 
+Arm warmers are lame. I prefer to just put my Nano-Air hoody instead, or to just roll down my sleeves of my hiking shirts.
+
 ## Bottom
 
 * 2x BALEAF Men's Cycling Underwear 3D Padded Bike Shorts MTB Liner
 * Meriwool "heavy" thermal underwear bottoms
 * Club ride 12" cycling shorts with belt loops and side pocket
+* Arcade adventure belt
 * Patagonia Dirt Roamer Storm shell pants
 
-The cycling "underwear" double as a modest but tight swim suit or summer cycling shorts. I only where the shell pants when it is really cold wind because they don't ventilate very much at all.
+The cycling "underwear" double as a modest but tight swim suit or summer cycling shorts.
+
+I only where the shell pants when it is really cold wind because they don't ventilate very much at all.
+
+I prefer stopping and putting on the thermal underwear instead of knee warmers and since my underwear look like cycling shorts I can do this pretty much anywhere without getting too many weird looks. Knee warmers get annoying over longer ride periods and don't really do as good a job as merino wool does.
 
 ## Feet
 
