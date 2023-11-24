@@ -1,0 +1,3 @@
+# 13 liter water proof compression handlebar bag protects hands, knees
+
+I'm so happy to have accidentally discovered that strapping a 43cm waterproof compression bag with all my sleep stuff in it (except the poles) to the handlebars actually provides a position on the handlebars where my fingers are protected from the wind, for those times when not quite enough to pull out the gloves. The very aero shape of the bag also blocks out a good portion of wind providing a slip stream for the rest of me behind it, particularly my knees. This protection is *huge* because I also have to stop less being concerned about freezing my knees on windy descents (or stopping to put on my thermals). Can't wait to try it on the longer rides through the windy SouthWest.
