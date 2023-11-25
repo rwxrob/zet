@@ -6,14 +6,13 @@ This works out because the laptop when it's fully charged runs for close to thre
 
 I have noticed that the Baseus do overheat and stop charging completely, which would leave me hanging in middle of a work day if I didn't have a backup. But carrying four of them should have be covered. This redundancy is another reason to drop the Jackery. If it fails for any reason, I'm screwed. I was considering carrying two Jackeries for a while because of that. The Jackery does include an internal fan to keep it from overheating, which is nice. But not worth the bulk.
 
-It says that a Jackery can recharge a laptop three times (roughly). And everyone is reporting a Baseus takes a laptop to 50% in an hour of charging. So roughly six Baseus bricks gets the same power capacity of one Jackery. But the bricks are actually much less weight and bulk.
+It says that a Jackery can recharge a laptop three times (roughly). And everyone is reporting a Baseus takes a laptop to 50% in an hour of charging. So roughly six Baseus bricks gets the same power capacity of one Jackery. But the bricks are actually much less weight and bulk. Plus, I don't really need a full Jackery so long as I am able to recharge from a standard wall outlet every 24 hours for roughly three hours (usually at the same time as working). That means four bricks should do it.
 
 ```
 $ bc <<< 'scale=2; 3922/3'
 1307.33
-╔ rwxrob@hpz640:zet(main)
-╚ $ bc <<< 'scale=2; 541*2'
-1082
-╔
+$ bc <<< 'scale=2; 541*4'
+2164
+```
 
 The best part of this discovery is that these fit in my ultra slim and cool San Util light panniers So I don't have to take the ugly Ortlieb beasts.
