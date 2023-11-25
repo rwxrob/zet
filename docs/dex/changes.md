@@ -1,5 +1,5 @@
+* 2023-11-24 22:15:35Z [No more Jackery, using Baseus 65w chargers instead](../2481)
 * 2023-11-24 20:52:26Z [Glad I found San Util and Rogue Panda (I hate Ortlieb)](../2480)
-* 2023-11-24 20:46:10Z [No more Jackery, using Baseus chargers instead](../2481)
 * 2023-11-24 20:34:44Z [Bike packing minimal layered clothing list](../2471)
 * 2023-11-24 13:26:33Z [13 liter water proof compression handlebar bag protects hands, knees](../2479)
 * 2023-11-24 09:43:44Z [Just discovered TEDN, "The Extreme Digital Nomad"](../2476)
