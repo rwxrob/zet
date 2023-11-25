@@ -35,7 +35,8 @@ Arm warmers are lame. I prefer to just put my Nano-Air hoody instead, or to just
 
 ## Bottom
 
-* 2x BALEAF Men's Cycling Underwear 3D Padded Bike Shorts MTB Liner
+* [ExOfficio Give-n-Go Boxer Brief](https://amzn.to/47Qur27)
+* [BALEAF Men's Cycling Underwear 3D Padded Bike Shorts MTB Liner](https://lite.duckduckgo.com/lite?kd=-1&kp=-1&q=BALEAF%20Men%27s%20Cycling%20Underwear%203D%20Padded%20Bike%20Shorts%20MTB%20Liner)
 * Meriwool "heavy" thermal underwear bottoms
 * Club ride 12" cycling shorts with belt loops and side pocket
 * Arcade adventure belt

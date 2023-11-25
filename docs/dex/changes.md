@@ -1,5 +1,5 @@
+* 2023-11-24 20:34:44Z [Bike packing minimal layered clothing list](../2471)
 * 2023-11-24 13:26:33Z [13 liter water proof compression handlebar bag protects hands, knees](../2479)
-* 2023-11-24 11:50:31Z [Bike packing minimal layered clothing list](../2471)
 * 2023-11-24 09:43:44Z [Just discovered TEDN, "The Extreme Digital Nomad"](../2476)
 * 2023-11-23 19:44:54Z [Assault on Mt. Mitchell with TransAmerica Trail bikepacking rig?](../2473)
 * 2023-11-23 17:04:08Z [LOG20231123134941: Thursday, November 23, 2023, 1:49:41PM EST](../2475)
