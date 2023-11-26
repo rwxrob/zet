@@ -1,0 +1,3 @@
+# Learning the Ukulele while bikepacking
+
+Just cleaning up apartment and noticed the Ukulele I gave Doris when I was courting her (which hasn't been played since) could use a good cover. Then I saw the waterproof covers with arm straps and got to thinking, that thing would actually fit the top of my rear rack bundle if it is the last thing mounted. So I bought a bright orange one. This is a really good Ukulele, professional grade, so this might be the time to start learning it. That way I can take my music with me. I would take a compact guitar, but they are about the same size and not nearly as fun. I won't be taking it with me on any trips this year, but maybe next year. 
