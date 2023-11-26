@@ -1,7 +1,7 @@
+* 2023-11-26 04:18:19Z [Bike packing minimal layered clothing list](../2471)
 * 2023-11-25 20:09:04Z [Full-frame bags are apparently horrible in high cross winds](../2482)
 * 2023-11-24 22:56:21Z [No more Jackery, using Baseus 65w chargers instead](../2481)
 * 2023-11-24 20:52:26Z [Glad I found San Util and Rogue Panda (I hate Ortlieb)](../2480)
-* 2023-11-24 20:34:44Z [Bike packing minimal layered clothing list](../2471)
 * 2023-11-24 13:26:33Z [13 liter water proof compression handlebar bag protects hands, knees](../2479)
 * 2023-11-24 09:43:44Z [Just discovered TEDN, "The Extreme Digital Nomad"](../2476)
 * 2023-11-23 19:44:54Z [Assault on Mt. Mitchell with TransAmerica Trail bikepacking rig?](../2473)
