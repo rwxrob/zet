@@ -59,7 +59,7 @@ Arm warmers are lame. I prefer to just put my Nano-Air hoody instead, or to just
 ## Bottom
 
 * [ExOfficio Give-n-Go Boxer Brief](https://amzn.to/47Qur27)
-* [BALEAF Men's Cycling Underwear 3D Padded Bike Shorts MTB Liner](https://lite.duckduckgo.com/lite?kd=-1&kp=-1&q=BALEAF%20Men%27s%20Cycling%20Underwear%203D%20Padded%20Bike%20Shorts%20MTB%20Liner)
+* 2x [BALEAF Men's Cycling Underwear 3D Padded Bike Shorts MTB Liner](https://lite.duckduckgo.com/lite?kd=-1&kp=-1&q=BALEAF%20Men%27s%20Cycling%20Underwear%203D%20Padded%20Bike%20Shorts%20MTB%20Liner)
 * 2x Meriwool "heavy" thermal underwear bottoms
 * Club ride 12" cycling shorts with belt loops and side pocket
 * Arcade adventure belt
@@ -68,22 +68,24 @@ Arm warmers are lame. I prefer to just put my Nano-Air hoody instead, or to just
 
 The cycling "underwear" double as a modest but tight swim suit or summer cycling shorts.
 
-I only where the shell pants when it is really cold wind because they don't ventilate very much at all.
+I only wear the shell pants when it is really cold wind and I've noticed I don't need my legs to ventilate as much as my torso when heavily exerting. These pants also do not catch on thorns and tear so I can walk through underbrush with them. I have even fallen and slid on them and had them hold up.
 
-I prefer stopping and putting on the thermal underwear instead of knee warmers and since my underwear look like cycling shorts I can do this pretty much anywhere without getting too many weird looks. Knee warmers get annoying over longer ride periods and don't really do as good a job as merino wool does.
+I prefer stopping and putting on the thermal underwear or my shell pants instead of knee warmers. Knee warmers get annoying over longer ride periods and don't really do as good a job as merino wool does.
 
 ## Feet
 
 * SHIMANO SH-SD501 SPD Sandal (cut off about 1" to avoid toe strike)
-* 3x [Hollowsocks Alpaca boot socks](https://hollowsocks.com/products/boot-performance-alpaca-socks)
-* ROCKBROS cycling shoe toe covers
+* 2x [Hollowsocks Alpaca boot socks](https://hollowsocks.com/products/boot-performance-alpaca-socks)
+* 2x Loose merino wool socks (fit over others)
 * ROCKBROS mtb cycling shoe thermal, water resistant, wind-proof covers
 
-Why only sandals? Because sandal layers are a thing. Sandals with nothing are the best Summer option. Sandals with socks cover most edge season weather. Sandals with toe covers breath while handling wind. Sandals with full thermal covers morph into full on boots. Sandals are also easier to clean, maintain, and get into and out of. I can walk through a river with them and not have a problem. I can even swap out the socks and have a new, dry layer immediately. Using sandal layers means I only have one footwear system. Sandals also adapt to different thicknesses of socks and sock layers along with the dreaded feet swelling. Shoes cannot handle this at all. And if something isn't working out, I can always buy new socks. I can't always do that with shoes.
+Why only sandals? Because sandal layers are a thing. Sandals with nothing are the best Summer option. Sandals with socks cover most edge season weather. Sandals with full thermal covers morph into full on boots but are much more comfortable and good at insulating because of the roominess. Sandals are also easier to clean, maintain, and get into and out of. I can walk through a river with them and not have a problem. I can even swap out the socks and have a new, dry layer immediately. Using sandal layers means I only have one footwear system. Sandals also adapt to different thicknesses of socks and sock layers along with the dreaded feet swelling. Shoes cannot handle this at all. And if something isn't working out, I can always buy new socks. I can't do that with SPD shoes.
+
+The wool socks have more loft and allow more air through so they are very cozy at slow speeds and higher temperatures. The Alpaca fit closer to the skin so initially feel cooler, but heat up quickly and don't let much wind through at all. Combining the two acts like a base layer and an insulation later. When the thermal cover shells are on I have a full 3-layer system. There's no possible shoe-based footwear system that can reach that level of comfort and variability, even when running into thick mud that blows out a set of socks since the plastic sandals can easily be washed and dry instantly.
 
 ## Hands
 
 * Meriwool glove liners
 * Patagonia soft shell convertible fingerless gloves/mittens
 
-The glove liners are when things get really cold and for off-bike warmth. They also keep me from burning my fingers on the titanium mug when making hot beverages in the morning. The shell prevents wind and water from entering for setting up and breaking down camp without getting really cold fingers.
+The glove liners are when things get really cold and for off-bike warmth. They also keep me from burning my fingers on the titanium mug when making hot beverages in the morning. The shell prevents wind and water from entering for setting up and breaking down camp without getting really cold fingers. In mitten mode, the soft shell gloves provide an insane amount of warm air build up that can face off against -10deg C with wind without paying a lot in weight for full on ski gloves.
