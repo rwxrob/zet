@@ -13,25 +13,46 @@ This kit assumes that I'm going to be able to wash my clothes every week or two 
 * Meriwool Winter cuff beanie
 * Comfy, casual baseball cap (usually strapped so I can swap helmet for it)
 * EVEN NATURALS Premium Mosquito Head Net (lighter than tent and wearable while riding)
-* Rudy Project Spinshield Air, Smoke Black (11%)
-* Rudy Project Spinshield Air, Multilaser Orange (13%)
-* Rudy Project Rx insert
-* Regular prescription clear glasses with retention
-* All-purpose gater and face mask (for dust protection mostly)
+* Adidas SP 5003 glasses,  Crystal Grey, DigiVue Elite (trifocal), Verithin, Reflective, Transitions
+* All-purpose merino gater and face mask (for cold and dust protection mostly)
 
 ## Top
 
+Variable:
+
+* REI synthetic, plaid, long-sleeve, collared hiker shirt
+
+This shirt takes the place of a jersey and arm warmers since the sleeves can be rolled up and down. It is light enough to be a Summer layer shielding from the sun but also blocks wind so can be an ultra-light wind shell combined with a base layer. Beyond that, I take it off and use something designed for more because its impermeability just gets in the way of moisture escaping.
+
+Base:
+
 * Merino wool short-sleeve tee
-* Meriwool "heavy" thermal long-sleeve top base layer
-* REI nylon, plaid, long-sleeve, collared hiker shirts
-* Patagonia Nano-Air "puffy" vest (grey)
-* Patagonia Nano-Air "puffy" hoody (green)
+* 2x Meriwool "heavy" thermal long-sleeve
+
+Having a dry base layer to change into for bed (after drenching the other) is absolutely essential. I don't care if it is almost half a kilo and very bulky. I refuse to sleep miserably. And yes, I'm lugging both around with me in Summer for Tour Divide given the elevations involved. I've seen too many videos of people being underprepared just to be faster, not me. I'm also not giving up sleep.
+
+Insulation, high exertion:
+
+* Patagonia Nano-Air vest (grey)
+* Patagonia Nano-Air hoody (green)
+
+Insulation, low exertion:
+
 * Mountain Hardware Ghost Whisperer down hoodie
-* 2012 Patagonia Super Alpine Gortex shell
 
-These layers can all be combined, even all of them at the same time in an extreme case. I prefer the Nano-Air stuff most because it breaths the best and is easiest to sleep in as well, very cozy.
+Wind and water shells:
 
-My Patagonia shell is very brightly colored so often I will tie it around my waste and let some part of it flap in the wind for visibility.
+* LZLRUN reflective vest jacket
+* Patagonia Houdini (blue)
+* Patagonia Alpine Houdini hoody (grey, discontinued)
+
+Most of these layers are really light.
+
+The Nano-Airs are for "during" while the down is for "after". Their biggest flaw is how little they compress. They just take up so much damn space.
+
+The water-resistant shell layers are only for medium emergency rain since I have no plans of ever biking in continual rain since I can just wait it out and work or rest (like any other animal would).
+
+The combined weight of the Houdini's is a lot less than my Gortex shell and provide different levels of breathability (Alpine almost none, but better medium rain shell). They also pack down a lot more.
 
 Arm warmers are lame. I prefer to just put my Nano-Air hoody instead, or to just roll down my sleeves of my hiking shirts.
 
@@ -39,7 +60,7 @@ Arm warmers are lame. I prefer to just put my Nano-Air hoody instead, or to just
 
 * [ExOfficio Give-n-Go Boxer Brief](https://amzn.to/47Qur27)
 * [BALEAF Men's Cycling Underwear 3D Padded Bike Shorts MTB Liner](https://lite.duckduckgo.com/lite?kd=-1&kp=-1&q=BALEAF%20Men%27s%20Cycling%20Underwear%203D%20Padded%20Bike%20Shorts%20MTB%20Liner)
-* Meriwool "heavy" thermal underwear bottoms
+* 2x Meriwool "heavy" thermal underwear bottoms
 * Club ride 12" cycling shorts with belt loops and side pocket
 * Arcade adventure belt
 * Mountain Hardware Ghost Whisperer down pants
