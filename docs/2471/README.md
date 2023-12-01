@@ -45,14 +45,13 @@ Wind and water shells:
 * LZLRUN reflective vest jacket
 * Patagonia Houdini (blue)
 * Patagonia Alpine Houdini hoody (grey, discontinued)
+* Patagonia Super Alpine Jacket (yellow, orange)
 
 Most of these layers are really light.
 
-The Nano-Airs are for "during" while the down is for "after". Their biggest flaw is how little they compress. They just take up so much damn space.
+The Nano-Airs and Houdinis are for "during" while the down and Super Alpine are for "after."
 
-The water-resistant shell layers are only for medium emergency rain since I have no plans of ever biking in continual rain since I can just wait it out and work or rest (like any other animal would).
-
-The combined weight of the Houdini's is a lot less than my Gortex shell and provide different levels of breathability (Alpine almost none, but better medium rain shell). They also pack down a lot more.
+The shells are definitely overkill for most of the year, but if there is one thing I do not want to skimp on it's emergency storm-weather preparedness. Hail storms all over the world produce torrential winter conditions instantly and I want to be ready. Just watch anyone on the Atlantic Coast of Ireland, or Monsoon season in Arizona, or the highest peak passes of the Tour Divide where people slog through multiple feet of snow. I never want to fear the weather, ever. After all, most of those who die from this stuff die from traffic or weather. If packing that extra weight buys me the confidence that I'll get through any storm off-the-beaten-path (where traffic is less) then it is worth it to me. Hell, I was lugging around a huge, heavy Kryptonite lock before, I'll be fine with a few grams for a shell that I could mountaineer in without a problem. In fact, I consider myself a mountaineer who happens to be on a bike (in Florida, no less).
 
 Arm warmers are lame. I prefer to just put my Nano-Air hoody instead, or to just roll down my sleeves of my hiking shirts.
 
