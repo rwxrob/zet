@@ -513,7 +513,7 @@
 520	2024-01-03 17:42:28Z	Kubernetes Applications Development (CKAD) Colearning
 521	2024-01-03 17:42:28Z	Make Sure to Use SHA-512 for Passwords
 522	2024-01-03 17:42:28Z	Going to Create John the Distributed Ripper
-523	2024-01-03 17:42:28Z	Hold Up: Minikube Requires Driver, Go VirtualBox
+523	2024-01-03 14:22:41Z	Minikube KVM-QEMU driver seems most stable
 524	2024-01-03 17:42:28Z	Dockerfiles, Fat or Skinny, Maybe Both?
 525	2024-01-03 17:42:28Z	Modern DNS/Host Name Considerations
 526	2024-01-03 17:42:28Z	Count Total Weeks from Vim with Bash Filter Script
