@@ -7,4 +7,3 @@ I've since decided not to attempt life as a digital nomad by bike and instead fo
 One great thing about Wordpress was the automatic ability to embed YouTube content and send notifations automatically to Discord. For no other reason alone that is plenty reason to keep putting daily posts up on the blog that are more polished.
 
 However, I found myself writing a lot of little stuff that clearly belonged here in my zet instead. Not every little thing I realize at that moment needs to turn into a blog post that gets spammed to everyone. That is what a zet is all about.
-
