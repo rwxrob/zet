@@ -1,5 +1,5 @@
+* 2024-01-10 13:46:48Z [Ursacks are idiotic](../2501)
 * 2024-01-10 11:10:49Z [The *only* way to extract multiple YAML documents from a stream](../2502)
-* 2024-01-10 09:45:37Z [Ursacks are idiotic](../2501)
 * 2024-01-10 07:15:35Z [YAML and JSON deal with nil/null differently](../2500)
 * 2024-01-10 05:43:19Z [Go yaml.v3 fails to parse global tags like !!str](../2499)
 * 2024-01-09 15:35:10Z [One adventure per month, one month adventure per year](../2498)
