@@ -1,6 +1,6 @@
+* 2024-01-11 17:13:29Z [My Favorite Live Streamers](../1603)
 * 2024-01-11 12:45:47Z [The *only* way to extract multiple YAML documents from a stream](../2502)
 * 2024-01-11 12:35:56Z [Adventure means greater rewards and risks](../2503)
-* 2024-01-10 20:28:11Z [My Favorite Live Streamers](../1603)
 * 2024-01-10 13:46:48Z [Ursacks are idiotic](../2501)
 * 2024-01-10 07:15:35Z [YAML and JSON deal with nil/null differently](../2500)
 * 2024-01-10 05:43:19Z [Go yaml.v3 fails to parse global tags like !!str](../2499)
