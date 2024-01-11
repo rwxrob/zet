@@ -2,7 +2,7 @@
 
 * <https://twitch.tv/ltn_bob>
 * <https://twitch.tv/het_tanis>
-* <https://twitch.tv/krisnova>
+* <https://twitch.tv/krisnova> (deceased)
 * <https://twitch.tv/strager>
 * <https://twitch.tv/gamozo>
 * <https://twitch.tv/nickwan_datasci>
