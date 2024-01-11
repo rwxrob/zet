@@ -1,5 +1,7 @@
 # Adventure means greater rewards and risks
 
+> Tell me how he died. I will tell you how he lived. (The Last Samurai)
+
 <https://youtu.be/k7fJtk_Rwco?si=3ZKukdcciiDYyePX>
 
 The story of these bright-eyed, amazing human beings being targeted and mowed down by a bunch of angry, evil people after having a singularly fantastic experience with the locals of Tajikistan underscores just how much there is to gain and lose when anyone adds any amount of adventure to their lives.
