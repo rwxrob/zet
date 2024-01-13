@@ -22,4 +22,6 @@ your core dependencies in `go.mod` (which are nicely organized for you
 to review, unlike Node shit). You then `go get -u foo` on each
 individual one instead of all of them.
 
-    #golang #coding #tips
+## Never for installs
+
+Cobra is broken as a project on so many levels. Yet another reason is that they recommend installing `cobra` with `go get -u` which is actively discouraged by the official Go team.

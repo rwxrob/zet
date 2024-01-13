@@ -1181,7 +1181,7 @@
 1197	2024-01-03 17:42:28Z	Robert Sapolsky, I Wanna Read Everything from Him
 1198	2024-01-03 17:42:28Z	Q: Should I use a monorepo for Kubernetes apps?
 1199	2024-01-03 17:42:28Z	I Like the Word Scenario
-1200	2024-01-03 17:42:28Z	Using `go get -u` is Usually Bad, Beware
+1200	2024-01-13 11:11:32Z	Using `go get -u` is Usually Bad, Beware
 1201	2024-01-03 17:42:28Z	Containers Leave No Trace
 1202	2024-01-03 17:42:28Z	Use `lockedfile` to properly lock file in Go
 1203	2024-01-03 17:42:28Z	How do you get large color font title on terminal?
