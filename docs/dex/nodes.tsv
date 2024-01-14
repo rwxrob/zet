@@ -2428,3 +2428,4 @@
 2505	2024-01-12 10:39:24Z	Death of enterprise VPNs
 2506	2024-01-12 14:49:48Z	Slow sudo from missing /etc/hosts hostname
 2507	2024-01-13 11:16:54Z	STOP USING go get -u FOR INSTALLS!
+2508	2024-01-14 01:42:00Z	Go maps.Keys and maps.Values pulled from 1.21
