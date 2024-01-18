@@ -13,9 +13,9 @@ In addition to the following I'll be getting up at 6:30 to do a 20 minute super 
 |  Thu  | Recovery - 2 hours
 |  Fri  | Zone 2 ending with sprint/power intervals - 2 hours
 |  Sat  | Recovery (outdoor bike maintenance and setup)
-|  Sun  | Century at touring pace while livestreaming - 6-9 hours
+|  Sun  | Century - 6-9 hours
 
-Any of the indoor riding could eventually be live streamed, but I'm in no rush. It's much less comfortable when I live stream because I have to wear different clothes that don't ventilate as well. Plus dealing with the tech, wearing headphones, and being able to speak into the mic are all really annoying.
+I'll do as many of the rides as I can outside. The only time I will ever be riding in the rain is for the outdoor century once a week to get used to riding in the elements. Plus, I will just have the waterproof action camera for that stuff. I plan to live stream at least every other day.
 
 **Saturday, November 11, 2023, 4:55:17AM EST**
 
