@@ -34,9 +34,11 @@ I'm not sure that would ever be possible sleeping in nothing but a poncho, even 
 
 The military base layer has thick, raglan sleeves for lots of patches and abrasion. The main chest and back material is the same as most thicker wicking or full-sleeve sun-protection layers like the one I have from Patagonia. I'm not so sure carrying two of them is still worth doing if I'm going to be sleeping in it and working to make sure it either stays dry or gets dry before I sleep. If it is raining it would be impossible to change into it using the poncho technique.
 
-## The puffy
+## The level 7 parka "puffy"
 
-A puffy to a soldier is much more puffy than to a bikepacker. These flimsy, can't get wet, ultra-light, overpriced down gear items are the subject of ridicule from those who have braved the elements while protecting their lives in combat. This is one area where Patagonia synthetic Nano-Air has made huge progress and apparently several very close knock offs are become standard issue in the military as well. I've long said that my Nano-Air hoody is the most versatile piece of cold weather gear I have in my kit. Combining it with a Nano-Air vest that easily pairs with it or works well with just a base later is really a huge win. So glad I made that discovery.
+A puffy to a soldier is much more puffy than to a bikepacker. These flimsy, can't get wet, ultra-light, overpriced down gear items are the subject of ridicule from those who have braved the elements while protecting their lives in combat. The level 7 parka is waterproof and longer so it doubles as a sleeping bag as well. Paired under the pants and a woobie and rain poncho, there really isn't a need to pitch a tent at all even in the coldest conditions. In fact, the tent or bivy is a waste because they only have one use.
+
+This is one area where Patagonia synthetic Nano-Air has made huge progress and apparently several very close knock offs are become standard issue in the military as well. I've long said that my Nano-Air hoody is the most versatile piece of cold weather gear I have in my kit. Combining it with a Nano-Air vest that easily pairs with it or works well with just a base later is really a huge win. So glad I made that discovery.
 
 ## Wearable bug net
 
