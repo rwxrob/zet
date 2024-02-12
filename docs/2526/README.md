@@ -12,4 +12,5 @@ I will still attempt Assault on Mt. Mitchell this year. I did pay 250 dollars or
 
 This also gives me back a bunch of time. I no longer need to plan long-slow, 7-hour centuries on the weekends. Instead, I can just really up the pace and intensity on the metric century rides (about three hours at tempo). Having that time back is good because there are other goals unrelated to training that I want to start addressing.
 
-
+Let's be honest, "ultra" is synonymous with "tolerance for suffering" more than actual endurance ability.
+Anything over three hours becomes more about one's ability to live with saddle-sores, blisters, sunburn, and extreme discomfort, to override and ignore the natural signal to your brain that you are hurting youself.  All that ultra stuff has very real risk of [damaging a person's body beyond repair](https://youtu.be/AY4RN_82TpY?si=BdwVphmS3gc-97UQ&t=538) and has been proven (citing Atia) to reduce overall longevity. No thank you.
