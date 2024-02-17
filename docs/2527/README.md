@@ -1,8 +1,13 @@
 # Streaming plans for 2024
 
 * Didn't you say you weren't streaming any more?
+* Tech Career Beginner Boost on ???
+* Focus on starting career paths for AI, architecture, operations, engineering
 * Linux Beginner Boost on 11:11:11 am May 4th, 2024 (skilstak.io)
 * Go Beginner Boost on ??????
+* Python Beginner Boost on ??????
+* Good to Gig
+* Building my virtual lab with Ansible playbooks
 * Code contributions to Cobra
 * Still messy, disorganized and very live
 * GitHub sponsorships
