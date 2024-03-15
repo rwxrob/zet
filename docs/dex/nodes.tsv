@@ -907,7 +907,7 @@
 920	2023-10-15 12:06:52Z	Everything Uses Kerberos, Learn It
 921	2023-10-15 12:06:52Z	Windows Internals (for to pwn)
 922	2023-10-15 12:06:52Z	Appears `go install` Replaces `go get`
-923	2023-10-15 12:06:52Z	Pronouncing Acronyms, Don't Sound Like a Noob
+923	2023-10-15 08:06:52Z	Pronouncing Acronyms, Don't Sound Like a Noob
 924	2023-10-15 12:06:52Z	TODO: Need to Look at "Block Storage" Classes
 925	2023-10-15 12:06:52Z	Use FreeCAD on Linux
 926	2023-10-15 12:06:52Z	Why do you go running at specific time?
@@ -1381,7 +1381,7 @@
 1401	2023-10-15 12:06:52Z	What's your vim theme/colors?
 1402	2023-10-15 12:06:52Z	Boost Badges: Level Four, Excellence
 1403	2023-10-15 12:06:52Z	Design Flaw in `kubectl` Forces Upgrade
-1404	2023-10-15 12:06:52Z	ZettelMark: Terms
+1404	2023-10-15 08:06:52Z	ZettelMark: Terms
 1405	2023-10-15 12:06:52Z	TMUX Esc Breaks Vim on Windows
 1406	2023-10-15 12:06:52Z	Linux at Work? Windows or Mac, That's All You Get
 1407	2023-10-15 12:06:52Z	Yet Another Reason *Not* to Use Python
@@ -2455,3 +2455,4 @@
 2532	2024-03-08 12:19:26Z	Comparing Go web frameworks and APIs
 2533	2024-03-10 14:13:39Z	How to live stream active outdoor IRL content
 2534	2024-03-12 10:50:40Z	DJI Mic 2 evaluation
+2535	2024-03-15 13:06:56Z	Ben Hoyt recommends using standard lib net/http
