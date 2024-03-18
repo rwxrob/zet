@@ -46,11 +46,32 @@ It's entertaining to realize that speaking these operations to a human or a comp
 
 Another essential element of these interfaces is stateful context. For example, "delete current line" assumes we are talking about "line of text" in the current "Delete text" abstract context. Context is fundamentally critical to sustainable interfaces that will survive progress into natural language input. Humans have used this for communication from the beginning and assistants driven by AI models are now doing the same thing. In fact, some of the most comical AI failures have been when the AI fails to imply the context wanted.
 
-Let's also imaging this procedure is inside a file called `delete-current-line` inside a directory `vim` so that the path to it, when hosted on a unique web site would be something like `https://ocms.rwx.gg/vim/delete-current-line`.
+Let's also imagine this procedure is inside a file called `delete-current-line` inside a directory `vim` so that the path to it, when hosted on a unique web site would be something like `https://ocms.rwx.gg/vim/delete-current-line`.
 
 This begs the question, where do we put the other procedures that fulfill this operation in Vim? In the same file? In a different file with a qualified name?
 
 Another question is how much to put there? What if we don't want simplified documentation that only covers the one-best way? Do we break these out? What happens when we want a more advanced document later to program a human more deeply?
 
-If you haven't notice yet, this is the fundamental problem with all documentation content on the Internet. No one to date has even attempted to organize documentation and human procedural programming in a manner that leverages the lessons learned from computer science itself.
+If you haven't noticed yet, this is the fundamental problem with all documentation content on the Internet. No one to date has even attempted to organize documentation and human procedural programming in a manner that leverages the lessons learned from computer science itself.
+
+## Credential abstraction
+
+No one has addressed the difference between different credential types, be they certificates or degrees. This becomes particularly relevant when evaluating a candidate for employment. An employer may have specific needs for a given method of accomplishing a task (which we'll call a "typed skill"). For example, if a company has heavily invested in React for their web architecture their credential evaluation (if one existed) would focus specifically on "Develop web applications" with the "in React" qualifier.
+
+Another employer might be at a different phase and not have a specific requirement for a given tool or technology (as is best). In those cases the evaluation of the credential would only check for "Develop web applications" without any specificity.
+
+These differences complicate the creation of any credential specification that would cater to both employer requirements. And since the ultimate goal of any credential system is to facilitate solid employment it follows that we cannot ignore this complication. But how do we address it?
+
+As if the problem weren't hard enough, the methods of implementing a specific skill change frequently, even monthly in some emerging tech areas. This is why any tech book is almost immediately not worth the paper it's printed on. Such would be the fate of any credential without a dated version. Not only do technologies and tools change (with their versions changing) but the procedural methods, the "by hand" instructions to do a thing also change over time requiring their own versioning or date stamping. This is why formal procedural documentation in the military and legal realms is so very precise. So, how do we maintain these requirements without overly burdening the system with heavy requirements rendering it impossible to maintain and destroying any motivation do to so. This is why so many tech books are so very incomplete.
+
+A fluid credential creation system seems to be the best solution. Imagine being an employer and being able to select from a database of abstract and specific skills clicking through everything needed and essentially writing the job description in the process. This is something many employers would pay big money to have. Such a system could also be used to measure the current capabilities of existing employees as well as help the employees understand the requirements of the roles they fulfill for the company. Many an HR department has tried to create such a system and failed (I witnessed the one at IBM.)
+
+Additionally, procedural documentation and videos for how to perform a specific task could be specifically associated with each task and skill. In other words, the technical "book" would be created at the same time. The same selection of skills for a given role would automatically compose the knowledge content created for that collection of skills and abilities. Content would be effectively "statically compiled" based on the specific role being fulfilled. The credential or certificate would equate to the header files of a C program containing the outline and abstract of all the skills and how they relate to one another in a drill-down fashion. The "book" is effectively the compiled code that needs to be loaded into the brain of the candidate programming themselves to mastery. (Queue Matrix references.)
+
+This "book" would also serve as an exhaustive resource from which to create evaluations of candidates for that role. By randomly selecting from the skills and their procedures the candidate can be asked to execute as if to "unit test" the candidate to see if he/she/they have been properly "coded" to fulfill that task and role. The similarities between coding humans and computers are exhaustive and profound, only the method of their programming differs (humans requiring repetitive, correct accomplishment of the tasks, not unlike how AI models are trained, after all, the neural nets are not dissimilar).
+
+## Document types
+
+* Procedure - one or more method implementations ("method" is synonym to "procedure")
+* Credential - a collection of demonstrable operation interfaces and/or procedures
 
