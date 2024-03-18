@@ -75,3 +75,7 @@ This "book" would also serve as an exhaustive resource from which to create eval
 * Procedure - one or more method implementations ("method" is synonym to "procedure")
 * Credential - a collection of demonstrable operation interfaces and/or procedures
 
+## Related
+
+* How To Write A Procedure (Ultimate Guide + Examples) - Writing Beginner  
+  <https://www.writingbeginner.com/how-to-write-a-procedure/>
