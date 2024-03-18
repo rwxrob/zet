@@ -46,9 +46,115 @@ It's entertaining to realize that speaking these operations to a human or a comp
 
 Another essential element of these interfaces is stateful context. For example, "delete current line" assumes we are talking about "line of text" in the current "Delete text" abstract context. Context is fundamentally critical to sustainable interfaces that will survive progress into natural language input. Humans have used this for communication from the beginning and assistants driven by AI models are now doing the same thing. In fact, some of the most comical AI failures have been when the AI fails to imply the context wanted.
 
-Let's also imagine this procedure is inside a file called `delete-current-line` inside a directory `vim` so that the path to it, when hosted on a unique web site would be something like `https://ocms.rwx.gg/vim/delete-current-line`.
-
 This begs the question, where do we put the other procedures that fulfill this operation in Vim? In the same file? In a different file with a qualified name?
+
+Let's also imagine this procedure is inside a file called `delete-current-line` inside a directory `vim` so that the path to it, when hosted on a unique web site would be something like `https://ocms.rwx.gg/vim/delete-current-line`. However, since these are not just for Vim perhaps rest of the directory might contain:
+
+```
+vi/delete-current-line
+vi/enter-command-mode
+vi/enter-insert-mode
+```
+
+If we take the example of jumping to the top of a file we see a command/procedure that works in Vim but not Vi:
+
+```yaml
+Procedure:
+  About:
+    Name: Navigate to top
+  Steps:
+    - Enter command mode
+    - Type gg
+```
+
+This would perhaps be in different package/directory but named the same because it fulfills the "Navigate to top" operation:
+
+```
+vi/navigate-to-top
+vim/navigate-to-top
+```
+
+Vi and Vim is very similar but this level of abstraction and specific procedural fulfillment would equally apply to any text editor, even graphical ones.
+
+```
+vi/navigate-to-top
+vim/navigate-to-top
+vscode/navigate-to-top
+```
+
+Now we start to hit the biggest challenge of organizing procedures in this way, the failure of general categorization. We begin to see that each of these `navigate-to-top` procedures might be better references from a top-level interface reference instead pointing to any of the ones that fulfill it. Perhaps the tool-name as a qualifier is a mistake. What if we used *another* operation name as the package name instead?
+
+```
+edit-text/navigate-to-top
+```
+
+This breakdown of the larger task into subtasks is something we already have to do to achieve the granularity needed for uptake of the skill. But how do we now distinguish between the different methods/procedures to accomplish this abstract operation? Maybe, the tool used, like a preposition "with Vim" or "with Vi, Vim, or NeoVim" gives us a hint. Should be be the very last thing?
+
+```
+edit-text/navigate-to-top/vi.yaml
+edit-text/navigate-to-top/vim.yaml
+edit-text/navigate-to-top/vscode.yaml
+```
+
+This feels like we are getting somewhere. But how do we deal with the redundancy of entries in `vim.yaml` with `vi.yaml`. Perhaps we should add an `import` or `includes` equivalent. If we allow our `vim.yaml` file to be a YAML data stream (instead of just a single YAML document) we can use the first document as a sort-of preamble.
+
+```yaml
+Includes: vi.yaml
+---
+Procedure:
+  About:
+    Name: Navigate to top
+  Steps:
+    - Enter command mode
+    - Type gg
+```
+
+One annoyance is the dependency on YAML here. By removing the suffix the format for the structured text can be provided as a query string parameter instead.
+
+```
+edit-text/navigate-to-top/vi?fmt=yaml
+edit-text/navigate-to-top/vim?fmt=yaml
+edit-text/navigate-to-top/vscode?fmt=yaml
+```
+
+The `Includes` line would then become non-specific as to format:
+
+```yaml
+Includes: vi
+```
+
+The default could be JSON since that is what most applications use.
+
+```
+edit-text/navigate-to-top/vi
+edit-text/navigate-to-top/vim
+edit-text/navigate-to-top/vscode
+```
+
+```json
+{"Includes","vi"}
+{"Procedure":{"About":{"Name:"Navigate to top"},"Steps":["Enter command mode","Type gg"]}}
+```
+
+To work with any API framework, however, the structured data needs to represent only a single JSON data entity (map, array, or primitive). So, perhaps multi-document streams is a bad idea and we can learn from Kubernetes:
+
+```yaml
+ocms: v1
+kind: Procedure
+meta:
+  includes: vi
+  name: Navigate to top
+spec:
+  steps:
+    - Enter command mode
+    - Type gg
+```
+
+This buys us the ability to distinguish the version of OCMS specification for that specific `kind` we are using (as Kubernetes does). A `step` could be either a string or another map containing image data, links, etc. In addition, if `spec.steps` is included it can be assumed there is "one and only one" way/method/procedure of accomplishing that procedure. But this allows `spec.methods[].steps` to also be supported for Procedures that have multiple methods supported, the first being the generally preferred method.
+
+This declarative style works well for "programming humans" because it states the intended result and the way to accomplish it generally.
+
+What if we want to refer to another procedure already covered? In this case, "Enter command mode" will be used by many things. Perhaps the resolver should look in the indexed list of Procedure types—including those from `include` directives—and find an exact match for the name. This keeps the one liners readable for those who don't need further instruction on how to do that while allowing first-timers to link to that explanation. This seems to lead to the conclusion that the name of the files really should not matter at all. It's the content that counts.
 
 Another question is how much to put there? What if we don't want simplified documentation that only covers the one-best way? Do we break these out? What happens when we want a more advanced document later to program a human more deeply?
 
