@@ -1,4 +1,10 @@
-# Thinking of asciidoc
+# Moving everything to asciidoc
+
+I first took a serious look at asciidoc when Kris Nova decided to write her book in it. She obviously knew about Markdown but after a lot of research went with asciidoc instead. After reading just a simple overview of how it works I completely understand why.
+
+I've been working with Markdown for KEG and other stuff for over 10 years. I even created my own PEG grammars to isolate the syntax of Markdown to only the stuff I want to allow. But all this time (since 2013) asciidoc has existed. It was born out of the frustration with Markdown being so—umm—stupid. Markdown might be the standard out there, but it has always suffered from being something invented late one Sunday night to help Gruber convert his emails into blog posts. The asciidoc language was conceived primarily as a syntax for formal publishing without getting in the way of writing (like Markdown). All that extensions that Pandoc-Flavored Markdown has added are completely unnecessary. The amazing work JGM did to get CommonMark adopted by even a few companies so there is some agreement simple doesn't matter in the asciidoc world. The community is already centered and focused and committed to never fracturing the syntax. In fact, syntax expansion is a core part of the asciidoc specification itself.
+
+In short, asciidoc is for smart people. Markdown is big ugly boomer tech that needs to just die because it will *never* achieve the level of specificity and sustainability that asciidoc achieved on the first day it was conceived.
 
 * Writing a Book in Markdown with Version Control \| A Mild Voice of Reason  
   <https://www.jegillikin.com/2018/06/writing-a-book-in-asciidoc-with-version-control/>
