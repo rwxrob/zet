@@ -2461,3 +2461,4 @@
 2538	2024-03-17 22:02:33Z	Best way to write eBook/ePub
 2539	2024-03-17 22:12:57Z	Use virtualedit with vim
 2540	2024-03-18 01:59:01Z	Programming Humans: documenting procedures for human consumption
+2541	2024-03-18 14:04:23Z	LDAP broke with Go 1.22 because insecure ciphersuites excluded
