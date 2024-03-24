@@ -6,5 +6,22 @@ I've been working with Markdown for KEG and other stuff for over 10 years. I eve
 
 In short, asciidoc is for smart people. Markdown is big ugly boomer tech that needs to just die because it will *never* achieve the level of specificity and sustainability that asciidoc achieved on the first day it was conceived.
 
+## Pros
+
+* Specific and clear without lots of variations
+* Commonly used to publish books as well as searchable web sites
+* Built-in, first-class support for extensions
+* Strongly specified and governed
+
+## Cons
+
+* Yet another language to learn
+* Relatively new (created in 2013)
+* Less support (although GitHub does support)
+* No GitHub pages automatic rendering (by default, but addable)
+
+## Related
+
 * Writing a Book in Markdown with Version Control \| A Mild Voice of Reason  
   <https://www.jegillikin.com/2018/06/writing-a-book-in-asciidoc-with-version-control/>
+* 
