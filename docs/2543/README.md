@@ -24,4 +24,8 @@ In short, asciidoc is for smart people. Markdown is big ugly boomer tech that ne
 
 * Writing a Book in Markdown with Version Control \| A Mild Voice of Reason  
   <https://www.jegillikin.com/2018/06/writing-a-book-in-asciidoc-with-version-control/>
-* 
+* test-builds - Read the Docs  
+  <https://beta.readthedocs.org/projects/test-builds/builds/21989207/#203831360--7>
+* Main Page :: Antora Demo on ReadTheDocs  
+  <https://example-antora-basic.readthedocs.io/en/latest/main/index.html>
+* <https://docs.readthedocs.io/en/stable/examples.html>
