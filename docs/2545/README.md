@@ -1,0 +1,4 @@
+# Twitch only from now on
+
+Twitch "gets" live-streaming. No one else really does. Twitch has the best community building of any platform (having defined it). Twitch API and chat integration is light-years ahead of anything else. Twitch quality is much higher for their live stream. Twitch does not block or strike for streamed "DJ" content. Twitch does not demonetize for walking into a shopping center with music on speakers. Twitch isn't run by a gambling mafia that forces VODs of every stream. Twitch pays content creators more and makes supporting content creators more entertaining for the community. Just Twitch simplifies the content production process including setting titles, etc. Twitch has support for all emojis and extension libraries. Twitch moderation is easier. Twitch community is usually less lame. No need to pay for Restream.io. No complications with different requirements for bitrate, FPS, etc. between services.
+
