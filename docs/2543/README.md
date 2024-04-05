@@ -22,6 +22,8 @@ In short, asciidoc is for smart people. Markdown is big ugly boomer tech that ne
 
 ## Related
 
+* How to write your book with AsciiDoc --- Liran Tal  
+  <https://lirantal.com/blog/how-to-write-your-book-with-asciidoc/>
 * Writing a Book in Markdown with Version Control \| A Mild Voice of Reason  
   <https://www.jegillikin.com/2018/06/writing-a-book-in-asciidoc-with-version-control/>
 * test-builds - Read the Docs  
