@@ -1,6 +1,12 @@
-# Moving everything to asciidoc
+# Moving everything to AsciiDoc
 
-I first took a serious look at asciidoc when Kris Nova decided to write her book in it. She obviously knew about Markdown but after a lot of research went with asciidoc instead. After reading just a simple overview of how it works I completely understand why.
+Update: Monday, April 8, 2024, 10:07:28AM EDT
+
+As great as AsciiDoc is, most of the writing I do (and everyone else does) is not for publishing. Therefore, it seems to make more sense to continue to do everything in basic, GFM, or PFM and only convert to AsciiDoc when needed for publishing. I discovered this after many of hours researching the options to have a book and website be from the same content in both markdown and AsciiDoc. The single biggest distinguishing factor was lack of searchability with the AsciiDoc website generators. Lara.js is an option, but clunky and problematic compared to the built-in support for what has become the industry standard: MkDocs.
+
+----
+
+I first took a serious look at AsciiDoc when Kris Nova decided to write her book in it. She obviously knew about Markdown but after a lot of research went with AsciiDoc instead. After reading just a simple overview of how it works I completely understand why.
 
 I've been working with Markdown for KEG and other stuff for over 10 years. I even created my own PEG grammars to isolate the syntax of Markdown to only the stuff I want to allow. But all this time (since 2013) asciidoc has existed. It was born out of the frustration with Markdown being so—umm—stupid. Markdown might be the standard out there, but it has always suffered from being something invented late one Sunday night to help Gruber convert his emails into blog posts. The asciidoc language was conceived primarily as a syntax for formal publishing without getting in the way of writing (like Markdown). All that extensions that Pandoc-Flavored Markdown has added are completely unnecessary. The amazing work JGM did to get CommonMark adopted by even a few companies so there is some agreement simple doesn't matter in the asciidoc world. The community is already centered and focused and committed to never fracturing the syntax. In fact, syntax expansion is a core part of the asciidoc specification itself.
 
