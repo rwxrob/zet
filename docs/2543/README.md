@@ -1,4 +1,4 @@
-# Moving everything to AsciiDoc
+# Not moving everything to AsciiDoc (unless publishing)
 
 Update: Monday, April 8, 2024, 10:07:28AM EDT
 
