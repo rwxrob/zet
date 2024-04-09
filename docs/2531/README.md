@@ -2,7 +2,7 @@
 
 Settings:
 
-Exposure -> Auto -> EV -> -1.0
+Exposure -> Auto -> EV -> -0.3
 Exposure -> Auto -> ISO -> 50 - 800
 WB ->  AWB
 Focus Mode -> Single (for car) Continuous (all else)
