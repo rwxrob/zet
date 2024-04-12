@@ -3,7 +3,7 @@
 Settings:
 
 Exposure -> Auto -> EV -> -0.3
-Exposure -> Auto -> ISO -> 50 - 800
+Exposure -> Auto -> ISO -> 50 - 800 (6400 at night)
 WB ->  AWB
 Focus Mode -> Single (for car) Continuous (all else)
 Gimble Startup Direction -> Back
