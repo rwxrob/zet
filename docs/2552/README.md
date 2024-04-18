@@ -18,6 +18,8 @@ om/
 
 ```
 
+But what about limited to `url.ssh`?
+
 * How to use private go module in GitHub Actions  
   <https://blog.fabianmendez.dev/how-to-use-private-go-module-in-github-actions>
 * github actions and go private modules · Aran Wilkinson  
