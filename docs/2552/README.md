@@ -12,11 +12,15 @@ jobs:
       - uses: actions/setup-go@v2
         with:
             go-version: '1.16'
-      - run: git config --global url.https://$GH_ACCESS_TOKEN@github.com/.insteadOf https://github.com
+      - run: git config --global url.https://$GH_ACCESS_TOKEN@github.com/.insteadOf https://github.com/
       - run: go build
 om/
 
 ```
+
+!!! warning
+
+    DO NOT FORGET THE TRAILING SLASHES IN git config --global LINE!
 
 But what about limited to `url.ssh`?
 
