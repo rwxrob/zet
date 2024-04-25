@@ -2472,3 +2472,4 @@
 2550	2024-04-18 11:55:37Z	GHES vs GHEC
 2551	2024-04-18 13:39:10Z	Syncing Cobra Version with GitHub tagged version
 2552	2024-04-23 11:47:25Z	Using PAT in GitHub Action for Go private repo builds
+2553	2024-04-23 13:58:36Z	Best practice for building Go projects from private/innersource repos
