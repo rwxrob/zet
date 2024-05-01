@@ -2478,7 +2478,7 @@
 2556	2024-04-29 13:59:19Z	Using GitHub App to build golang commands from private repos
 2557	2024-04-29 14:15:45Z	Do NOT disable host-checking in ssh unnecessarily
 2558	2024-04-29 14:23:31Z	Sometimes you want to tell git exactly how to use ssh
-2559	2024-04-29 14:40:06Z	Whether to use GitHub PAT or SSH key pair?
+2559	2024-05-01 12:33:42Z	Whether to use GitHub PAT or SSH key pair or deployment key?
 2560	2024-04-30 10:55:03Z	IT tech virtues: laziness, impatience, hubris
 2561	2024-04-30 12:24:24Z	Creating multiple accounts on GitHub
 2562	2024-05-01 09:31:58Z	MountainCreek lessons learned
