@@ -2,7 +2,7 @@
 
 Monday, May 6, 2024, 1:51:30PM EDT
 
-Recent buzz has confirmed what I've felt since I took a job as a Kubernetes Infrastructure Engineer: Kubernetes kinda sucks.
+Recent buzz has confirmed what I've felt since I took a job as a Kubernetes Infrastructure Engineer: Kubernetes kinda sucks. VMs are better.
 
 More importantly, as I've implemented the core building blocks of a business critical API allowing our enterprise applications to submit and manage huge machine learning models and different jobs it has become increasingly obvious that "batch" is where the action is—especially in a post-machine-learning revolution. In fact, OpenPBS is far more important to the future of enterprise computing than Kubernetes ever will be.
 
