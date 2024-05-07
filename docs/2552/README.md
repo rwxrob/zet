@@ -1,5 +1,12 @@
 # Using PAT in GitHub Action for Go private repo builds
 
+
+## PAT points `gh` only at a single account
+
+A PAT has an implied user and the access password and perms built into the token.
+
+----
+
 Update: Decided against PAT for building Go projects with private repo dependencies with GitHub actions because managing ssh keys is just so much more flexible and easy to setup—especially when storing the ssh key in Vault. Using PAT creates an implicit dependency on GitHub that unnecessarily locks the CI/CD to GitHub that need not be. Also, when I first created this zet I mistakenly read that the `GH_ACCESS_TOKEN` was *automatically* created when, in fact, it has to be created using the GH personal access token interface (as outlined in the images that I didn't see when doing the research initially).
 
 ----

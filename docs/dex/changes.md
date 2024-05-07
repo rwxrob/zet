@@ -1,6 +1,6 @@
+* 2024-05-07 00:30:21Z [Using PAT in GitHub Action for Go private repo builds](../2552)
 * 2024-05-06 14:38:02Z [Batch is SO much more important than "cloud native"](../2566)
 * 2024-05-06 12:00:40Z [Use GitHub App tokens for Go private builds?](../2565)
-* 2024-05-06 11:09:04Z [Using PAT in GitHub Action for Go private repo builds](../2552)
 * 2024-05-03 13:53:45Z [InfluxDB goes full-on Rust](../2564)
 * 2024-05-02 10:58:35Z [OBS settings for live streaming](../2563)
 * 2024-05-01 12:33:42Z [Whether to use GitHub PAT or SSH key pair or deployment key?](../2559)
