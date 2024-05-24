@@ -360,7 +360,7 @@
 366	2023-10-15 12:06:52Z	Don't Pretend You Know Just to Save Face
 367	2023-10-15 12:06:52Z	KEG Considerations Combined with Zettelkasten
 368	2023-10-15 12:06:52Z	Should I do a github Bonzai Branch?
-369	2024-04-18 11:21:26Z	Use goreleaser and gh release upload to create releases
+369	2024-05-14 15:24:45Z	Use goreleaser and gh release upload to create releases
 370	2023-10-15 12:06:52Z	Returning to Double-Sleep Schedule
 371	2023-10-15 12:06:52Z	Don't Let Floor Division Ruin Your Day
 372	2023-10-15 12:06:52Z	Open Policy Agent (OPA) Policy Library
@@ -570,7 +570,7 @@
 578	2023-10-15 12:06:52Z	Just Realized Secure Shell Allows Deep/Secure KEG
 579	2023-10-15 12:06:52Z	Get scan.Pos() without Overhead
 580	2023-10-15 12:06:52Z	🖼️  Kubernetes LoadBalancer Service
-581	2023-10-15 12:06:52Z	Use `git branch -M main` to Change Name
+581	2024-04-18 11:21:26Z	Use `git branch -M main` to Change Name
 582	2023-10-15 12:06:52Z	Fuck, Cisco banzaicloud.com Exists
 583	2023-10-15 12:06:52Z	SSH to Local Windows PowerShell Gives Admin
 584	2023-10-15 12:06:52Z	Live Streamer Utility: `live`
@@ -1024,7 +1024,7 @@
 1040	2023-10-15 12:06:52Z	REST is Alive and Well, Despite GraphQL
 1041	2023-10-15 12:06:52Z	Learning is the Reason for Living
 1042	2023-10-15 12:06:52Z	Use `ix` Instead of Pastebin
-1043	2023-10-15 12:06:52Z	Do Not Commit to `main`/`master` Without Telling
+1043	2024-04-18 11:21:26Z	Do Not Commit to `main`/`master` Without Telling
 1044	2023-10-15 12:06:52Z	Bullshit Career Sites Fuck You Up
 1045	2023-10-15 12:06:52Z	Unexpected Benefit of Beat Studio Headphones
 1046	2023-10-15 12:06:52Z	Use These Command to See Real CPU Information
@@ -2135,7 +2135,7 @@
 2197	2023-10-15 12:06:52Z	Create multiple minikube Kubernetes clusters to validate
 2198	2023-10-15 12:06:52Z	CI/CD for golang on GitHub with actions
 2199	2023-10-15 12:06:52Z	After reading about Anki flashcards realize need standard
-2200	2023-10-15 12:06:52Z	Use GitHub Actions to build and release golang projects
+2200	2024-04-18 11:21:26Z	Use GitHub Actions to build and release golang projects
 2201	2023-10-15 12:06:52Z	Nice Mormon sister missionaries knocked on my door
 2202	2023-10-15 12:06:52Z	Golang project started adding PATENTS file to releases
 2203	2023-10-15 12:06:52Z	Just discovered the golang `time/rate` package for rate limiting
@@ -2486,3 +2486,4 @@
 2564	2024-05-03 13:53:45Z	InfluxDB goes full-on Rust
 2565	2024-05-06 12:00:40Z	Use GitHub App tokens for Go private builds?
 2566	2024-05-06 14:38:02Z	Batch is SO much more important than "cloud native"
+2568	2024-05-24 07:42:08Z	Yoga, journaling, and meditation
