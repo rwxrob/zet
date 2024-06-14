@@ -1,6 +1,12 @@
 # Is living out of car (Subaru Outback) sustainable?
 
-**Update: Saturday, October 21, 2023, 7:54:40AM EDT**
+Friday, June 14, 2024, 3:14:26AM EDT
+
+Attempting to live and work from car with Starlink and also do all Beginner Boost live streams as well (good mic and all).
+
+----
+
+Saturday, October 21, 2023, 7:54:40AM EDT
 
 After watching several dozen videos of people who not only live out of their Outback, but some who have even given up "vanlife" for "sublife" since it is cheaper and easier---even as a *couple* living together. I have attempted to address all of these.
 
