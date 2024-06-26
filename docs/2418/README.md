@@ -1,4 +1,4 @@
-# DNB: Typical daily routine of this digital nomad
+# Typical daily routine of this digital nomad
 
 After several months of testing what works (for me) here's a summary of my current daily routine with the reasons I do it. (This stuff changes all the time.)
 
