@@ -1,7 +1,12 @@
+<<<<<<< Updated upstream
 * 2024-06-20 14:36:08Z [Install RedHat Ansible Configuration Manager](../2571)
 * 2024-06-14 03:19:17Z [Car packing list](../2570)
 * 2024-06-14 03:15:22Z [Is living out of car (Subaru Outback) sustainable?](../2390)
 * 2024-06-14 03:07:02Z [Twitch pomo-radio format and multiple categories for 2023](../1905)
+=======
+* 2024-06-26 07:09:01Z [DNB: Typical daily routine of this digital nomad](../2418)
+* 2024-06-26 07:12:15Z [DNB: Digital Nomad by Bike](../2570)
+>>>>>>> Stashed changes
 * 2024-06-03 02:21:37Z [Digital Nomad by Gravel+ Bike](../2510)
 * 2024-05-25 15:30:19Z [📞 What is PEGN and why use it?](../1847)
 * 2024-05-24 08:15:26Z [Must I really eat other animals?](../2569)
@@ -25,16 +30,29 @@
 * 2024-04-28 11:45:42Z [Go Major Version Path Syncing](../839)
 * 2024-04-18 13:39:10Z [Syncing Cobra Version with GitHub tagged version](../2551)
 * 2024-04-18 11:55:37Z [GHES vs GHEC](../2550)
+<<<<<<< Updated upstream
+=======
+* 2024-04-18 11:21:26Z [Do Not Commit to `main`/`master` Without Telling](../1043)
+>>>>>>> Stashed changes
 * 2024-04-18 11:21:26Z [PEGN 2023 is so much better than previous version](../1986)
 * 2024-04-18 11:21:26Z [Use `git branch -M main` to Change Name](../581)
 * 2024-04-18 11:21:26Z [Getting my teeth knocked out and nose broken woke me up](../2297)
+<<<<<<< Updated upstream
+=======
+* 2024-04-18 11:21:26Z [Creating a minimal Go webhooks server](../1916)
+* 2024-04-18 11:21:26Z [Niklas Luhmann, Father of Zettelkasten](../908)
+>>>>>>> Stashed changes
 * 2024-04-18 11:21:26Z [Please don't quote me from my Zettelkasten without asking](../1690)
 * 2024-04-18 11:21:26Z [No really, no more outdoor IRL live streaming?](../2440)
 * 2024-04-18 11:21:26Z [GitHub Zettelkasten Live Commit Notifications](../894)
 * 2024-04-18 11:21:26Z [Use GitHub Actions to build and release golang projects](../2200)
+<<<<<<< Updated upstream
 * 2024-04-18 11:21:26Z [Do Not Commit to `main`/`master` Without Telling](../1043)
 * 2024-04-18 11:21:26Z [Creating a minimal Go webhooks server](../1916)
 * 2024-04-18 11:21:26Z [Niklas Luhmann, Father of Zettelkasten](../908)
+=======
+* 2024-04-18 11:21:26Z [Use `git branch -M main` to Change Name](../581)
+>>>>>>> Stashed changes
 * 2024-04-12 10:11:01Z [DJI Pocket 3 + DJI 2 Mics FTW](../2531)
 * 2024-04-08 10:26:15Z [2024 Boost organized by specific skills, knowledge, abilities](../2548)
 * 2024-04-08 10:12:16Z [Not moving everything to AsciiDoc (unless publishing)](../2543)
@@ -78,6 +96,7 @@
 * 2024-01-16 16:49:56Z [Using `go get -u` is Usually Bad, Beware](../1200)
 * 2024-01-16 16:49:56Z [STOP USING go get -u FOR INSTALLS!](../2507)
 * 2024-01-16 16:49:56Z [Go maps.Keys and maps.Values pulled from 1.21](../2508)
+<<<<<<< Updated upstream
 * 2024-01-12 22:00:09Z [YAML and JSON deal with nil/null differently](../2500)
 * 2024-01-12 22:00:09Z [Go yaml.v3 fails to parse global tags like !!str](../2499)
 * 2024-01-12 22:00:09Z [Personal gateway server](../2496)
@@ -85,6 +104,17 @@
 * 2024-01-12 22:00:09Z [LOG20231123134941: Thursday, November 23, 2023, 1:49:41PM EST](../2475)
 * 2024-01-12 22:00:09Z [Wrong about KEG?](../2489)
 * 2024-01-12 22:00:09Z [TransAmerica Trail on May 21st (after Assault on Mt. Mitchell)](../2472)
+=======
+* 2024-01-12 22:00:09Z [LOG20231123134941: Thursday, November 23, 2023, 1:49:41PM EST](../2475)
+* 2024-01-12 22:00:09Z [Wrong about KEG?](../2489)
+* 2024-01-12 22:00:09Z [TransAmerica Trail on May 21st (after Assault on Mt. Mitchell)](../2472)
+* 2024-01-12 22:00:09Z [Go yaml.v3 fails to parse global tags like !!str](../2499)
+* 2024-01-12 22:00:09Z [Personal gateway server](../2496)
+* 2024-01-12 22:00:09Z [Death of enterprise VPNs](../2505)
+* 2024-01-12 22:00:09Z [Full-frame bags are apparently horrible in high cross winds](../2482)
+* 2024-01-12 22:00:09Z [Glad I found San Util and Rogue Panda (I hate Ortlieb)](../2480)
+* 2024-01-12 22:00:09Z [YAML and JSON deal with nil/null differently](../2500)
+>>>>>>> Stashed changes
 * 2024-01-12 22:00:09Z [Why did I ever use Wordpress?! 🤬](../2493)
 * 2024-01-12 22:00:09Z [Throwing bad memories against the wall](../2484)
 * 2024-01-12 22:00:09Z [Just discovered TEDN, "The Extreme Digital Nomad"](../2476)
@@ -101,8 +131,13 @@
 * 2024-01-12 22:00:09Z [One adventure per month, one month adventure per year](../2498)
 * 2024-01-12 22:00:09Z [Hypothermia scare (how to avoid and recover if needed)](../2486)
 * 2024-01-12 22:00:09Z [Need git switch to see remote branch](../2488)
+<<<<<<< Updated upstream
 * 2024-01-12 22:00:09Z [I'm back (to zet)](../2487)
 * 2024-01-12 22:00:09Z [Glad I found San Util and Rogue Panda (I hate Ortlieb)](../2480)
+=======
+* 2024-01-12 22:00:09Z [Why bikepacking?](../2491)
+* 2024-01-12 22:00:09Z [Minikube KVM-QEMU driver seems most stable](../523)
+>>>>>>> Stashed changes
 * 2024-01-12 22:00:09Z [Slow sudo from missing /etc/hosts hostname](../2506)
 * 2024-01-12 22:00:09Z [Using dd on Windows to burn Linux install USB sticks](../2469)
 * 2024-01-12 22:00:09Z [13 liter water proof compression handlebar bag protects hands, knees](../2479)
@@ -110,9 +145,13 @@
 * 2024-01-12 22:00:09Z [No more Jackery, using Baseus 65w chargers instead](../2481)
 * 2024-01-12 22:00:09Z [Assault on Mt. Mitchell with TransAmerica Trail bikepacking rig?](../2473)
 * 2024-01-12 22:00:09Z [Bike packing minimal layered clothing list](../2471)
+<<<<<<< Updated upstream
 * 2024-01-12 22:00:09Z [Why bikepacking?](../2491)
 * 2024-01-12 22:00:09Z [Minikube KVM-QEMU driver seems most stable](../523)
 * 2024-01-12 22:00:09Z [Full-frame bags are apparently horrible in high cross winds](../2482)
+=======
+* 2024-01-12 22:00:09Z [I'm back (to zet)](../2487)
+>>>>>>> Stashed changes
 * 2024-01-12 17:00:09Z [Bikepacking gear list](../2495)
 * 2023-11-16 02:44:44Z [Vlogging routine](../2468)
 * 2023-11-16 02:28:26Z [Can only post Instagram Reel from app](../2467)
@@ -169,7 +208,13 @@
 * 2023-10-25 23:33:03Z [No tubeless, no electronic shifting for me](../2421)
 * 2023-10-25 16:22:05Z [Why do you want to become a "digital nomad"?](../2420)
 * 2023-10-25 14:15:48Z [Hot shower and soft bed is bike-rider bliss](../2419)
+<<<<<<< Updated upstream
 * 2023-10-25 14:05:23Z [Netgear Nighthawk Home Router + NoIP.com + OpenVPN + Tunnelblick](../2380)
+=======
+* 2023-10-25 14:05:23Z [Is living out of car (Subaru Outback) sustainable?](../2390)
+* 2023-10-25 14:05:23Z [It's about the bike, stupid (rob to rob)](../2414)
+* 2023-10-25 14:05:23Z [Jump forward and back in vim with `CTRL-O` and `CTRL-I`](../2392)
+>>>>>>> Stashed changes
 * 2023-10-25 14:05:23Z [Git commit conventions: https://www.conventioncommits.org](../110)
 * 2023-10-25 14:05:23Z [Best nomadic mobile hotspot: Netgear M5/M6, weBoost, ATT & Verizon](../2411)
 * 2023-10-25 14:05:23Z [Twitch is cracking down on simulcasting](../2400)
@@ -178,12 +223,20 @@
 * 2023-10-25 14:05:23Z [Powering a professional digital nomadic life](../2384)
 * 2023-10-25 14:05:23Z [No doxing next home location and address](../2403)
 * 2023-10-25 14:05:23Z [History with hotspots and providers](../2410)
+<<<<<<< Updated upstream
 * 2023-10-25 14:05:23Z [2024 plans](../2379)
 * 2023-10-25 14:05:23Z [It's about the bike, stupid (rob to rob)](../2414)
 * 2023-10-25 14:05:23Z [Jump forward and back in vim with `CTRL-O` and `CTRL-I`](../2392)
 * 2023-10-25 14:05:23Z [What would remote tech streaming require?](../2377)
 * 2023-10-25 14:05:23Z [What is the daily routine of digital nomad commuter?](../2418)
 * 2023-10-25 14:05:23Z [Hack super-high apartment rental prices, get max rooms](../2393)
+=======
+* 2023-10-25 14:05:23Z [Starlink enables hassle-free wild camping](../2397)
+* 2023-10-25 14:05:23Z [Nomadic living in Europe instead of America?](../2415)
+* 2023-10-25 14:05:23Z [Beauty of GitHub CLI tool (gh) workflow](../2388)
+* 2023-10-25 14:05:23Z [Hack super-high apartment rental prices, get max rooms](../2393)
+* 2023-10-25 14:05:23Z [Latest podman default image size increased to 100 GB](../2381)
+>>>>>>> Stashed changes
 * 2023-10-25 14:05:23Z [Starlink provides more for less](../2396)
 * 2023-10-25 14:05:23Z [People steal ebikes from gated RV parks](../2406)
 * 2023-10-25 14:05:23Z [LOG20231020051714: Friday, October 20, 2023, 5:17:14AM EDT](../2389)
@@ -194,8 +247,13 @@
 * 2023-10-25 14:05:23Z [Validate a TLS certificate (`.crt`) was created with same `.key`](../2386)
 * 2023-10-25 14:05:23Z [Absolute musts for professional digital nomads with vehicle](../2385)
 * 2023-10-25 14:05:23Z [Better to stay near car when nomadic wild camping](../2398)
+<<<<<<< Updated upstream
 * 2023-10-25 14:05:23Z [Nomadic living in Europe instead of America?](../2415)
 * 2023-10-25 14:05:23Z [Beauty of GitHub CLI tool (gh) workflow](../2388)
+=======
+* 2023-10-25 14:05:23Z [Set "Sync Offset" to 140 ms for DJI Action 4](../2378)
+* 2023-10-25 14:05:23Z [Can you be a "digital nomad" living at home?](../2417)
+>>>>>>> Stashed changes
 * 2023-10-25 14:05:23Z [Linux terminal and coding can be streamed from anywhere](../2405)
 * 2023-10-25 14:05:23Z [Outdoor coworking](../2416)
 * 2023-10-25 14:05:23Z [Staying connected as digital nomad](../2409)
@@ -203,10 +261,16 @@
 * 2023-10-25 14:05:23Z [Hotel and tent KOA costs aren't really that bad for a digital nomad](../2391)
 * 2023-10-25 14:05:23Z [Starlink in its own cargo case is least annoying](../2413)
 * 2023-10-25 14:05:23Z [Prefer to make videos instead of live stream when nomadic](../2399)
+<<<<<<< Updated upstream
 * 2023-10-25 14:05:23Z [Starlink enables hassle-free wild camping](../2397)
 * 2023-10-25 14:05:23Z [Latest podman default image size increased to 100 GB](../2381)
 * 2023-10-25 14:05:23Z [Set "Sync Offset" to 140 ms for DJI Action 4](../2378)
 * 2023-10-25 14:05:23Z [Can you be a "digital nomad" living at home?](../2417)
+=======
+* 2023-10-25 14:05:23Z [2024 plans](../2379)
+* 2023-10-25 14:05:23Z [What would remote tech streaming require?](../2377)
+* 2023-10-15 12:06:52Z [Twitch API Documentation Bug: /tags/streams](../950)
+>>>>>>> Stashed changes
 * 2023-10-15 12:06:52Z [Figure: Sample Mr. Rob](../914)
 * 2023-10-15 12:06:52Z [Lurkers Turning My Words Into Their Profit](../934)
 * 2023-10-15 12:06:52Z [Why Does Partitioning Start at 2048s?](../933)
@@ -1865,8 +1929,13 @@
 * 2023-10-15 12:06:52Z [Cache or Conf, Where Should I Put My Bonzai Data?](../1254)
 * 2023-10-15 12:06:52Z [Go Gin is Great, Learn It](../945)
 * 2023-10-15 12:06:52Z [What's Your Opinion on TDD?](../1535)
+<<<<<<< Updated upstream
 * 2023-10-15 12:06:52Z [Helm Deployment from Hell, A Reality Check](../1518)
 * 2023-10-15 12:06:52Z [Considering Renaming "Info Commands" to "Nodes"](../1517)
+=======
+* 2023-10-15 12:06:52Z [Optionally, Start with a Linux Workspace Container](../1232)
+* 2023-10-15 12:06:52Z [Test Exec and Executables from Golang](../1231)
+>>>>>>> Stashed changes
 * 2023-10-15 12:06:52Z [Remove a Git Submodule](../1515)
 * 2023-10-15 12:06:52Z [Use `exportfs -v` to Validate NFS Exports](../1516)
 * 2023-10-15 12:06:52Z [Learn Web APIs Well, They are Everywhere](../1514)
@@ -2177,8 +2246,13 @@
 * 2023-10-15 12:06:52Z [Which Language Do You Recommend for Interviews?](../947)
 * 2023-10-15 12:06:52Z [One-Line Shortcut Commands Beat Aliases/Functions](../941)
 * 2023-10-15 12:06:52Z [Unimpressed with Elasticsearch Tech and Licensing](../97)
+<<<<<<< Updated upstream
 * 2023-10-15 12:06:52Z [Use example/ for Example/Lab Go Modules](../936)
 * 2023-10-15 12:06:52Z [Scale Kubernetes Resources](../95)
+=======
+* 2023-10-15 12:06:52Z [Scale Kubernetes Resources](../95)
+* 2023-10-15 12:06:52Z [More Evidence Go is a Favorite for Hackers](../1230)
+>>>>>>> Stashed changes
 * 2023-10-15 12:06:52Z [Zettelkasten Feeling of Freedom](../123)
 * 2023-10-15 12:06:52Z [Istio VirtualService `host` Actually Means Service](../1229)
 * 2023-10-15 12:06:52Z [Learn InfiniBand For High Performance Network Work](../1228)
@@ -2479,9 +2553,16 @@
 * 2023-10-15 12:06:52Z [Steel for the win, with two wheelsets](../2082)
 * 2023-10-15 12:06:52Z [Being clean and organized](../2108)
 * 2023-10-15 12:06:52Z [Site: https://kubesec.io](../1265)
+<<<<<<< Updated upstream
 * 2023-10-15 12:06:52Z [Being mindful](../2107)
 * 2023-10-15 12:06:52Z [Test Exec and Executables from Golang](../1231)
 * 2023-10-15 12:06:52Z [More Evidence Go is a Favorite for Hackers](../1230)
+=======
+* 2023-10-15 12:06:52Z [Snagged keg.pub, Cannot Wait to Build KEG](../1233)
+* 2023-10-15 12:06:52Z [Helm Deployment from Hell, A Reality Check](../1518)
+* 2023-10-15 12:06:52Z [Considering Renaming "Info Commands" to "Nodes"](../1517)
+* 2023-10-15 08:06:52Z [Create Good REST APIs](../778)
+>>>>>>> Stashed changes
 * 2023-10-15 08:06:52Z [ZettelMark: Terms](../1404)
 * 2023-10-15 08:06:52Z [Similarities to and Influence of Scouting Program](../451)
 * 2023-10-15 08:06:52Z [Lessons Learned from First IRL Stream](../1166)
@@ -2489,4 +2570,7 @@
 * 2023-10-15 08:06:52Z [My Top Priorities for Boost](../1032)
 * 2023-10-15 08:06:52Z [Become an Autodidact](../173)
 * 2023-10-15 08:06:52Z [Use `echo "$(<"$path")"` Instead of `cat` in Bash](../81)
+<<<<<<< Updated upstream
 * 2023-10-15 08:06:52Z [Create Good REST APIs](../778)
+=======
+>>>>>>> Stashed changes
