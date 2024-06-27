@@ -1,0 +1,3 @@
+# I think I'm dropping my coffee habit
+
+I *love* coffee, but lately I've been having completely unexplainable dizzy spells in the morning. I think it might be a combination of dehydration and coffee addiction (if not the caffeine itself). I've decided to stop drinking coffee for a while and see what happens. I'm drinking an herbal ginger, turmeric tea instead for a while. I drink my coffee black and my tea with nothing in it, which is not the same, for sure, but mostly I just love a hot beverage to wash down a light snack when I wake up to break the fast from sleeping all night (usually a handful of nuts).
