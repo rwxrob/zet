@@ -4,7 +4,9 @@ After several months of testing what works (for me) here's a summary of my curre
 
 ## Stay in bed but be productive
 
-Typically my day starts by waking up and staying in bed getting as many things done as I can. Often I will wake up before the sun has even come up. I can plug in Starlink (although I usually leave it plugged in overnight), start coworking livestream, make coffee, eat nuts, and do some focused work until inevitably I have to get out of bed to address nature's call. Morning sunset is one of my favorite times of the day and biggest motivators when living a nomadic life. Somehow it makes it all worth it.
+> During the night, the Earth's surface cools down by radiating its heat out into space. By morning, just before sunrise, the surface is at its coolest as it has been radiating its heat all night. When the sun rises, it starts to heat the surface again. However, it takes some time for the surface (and the air above it) to warm up, so the coldest part of the day is usually just after dawn.
+
+Typically my day starts by waking up and staying in bed getting as many things done as I can. Often I will wake up before the sun has even come up. I can plug in Starlink (although I usually leave it plugged in overnight), start coworking livestream, make a warm beverage, eat nuts, and do some focused work until inevitably I have to get out of bed to address nature's call. Morning sunrise is one of my favorite times of the day and biggest motivators when living a nomadic life. Somehow it makes it all worth it.
 
 This shapes my decision about what gear to bring depending on if I'm in the car or bikepacking. For example, boiling water with an electric kettle works from the car, but generally not when tent camping while bikepacking. For that a simple isopro stove and titanium pot work better (just be careful using the stove anywhere near the highly flammable tent and sleep gear).
 
