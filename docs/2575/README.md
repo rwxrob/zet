@@ -1,9 +1,7 @@
 # LOG20240628093416: Friday, June 28, 2024, 9:34:16AM EDT
 
 * 2024-06-28 10:24:33Z [RealVNC is better than Windows Remote Desktop](../2576)
-
-
-
+* 2024-06-28 10:29:34Z [Windows Remote Desktop breaks sound](../2580)
 
 ## Never coming back to this apartment
 
