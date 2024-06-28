@@ -1972,7 +1972,7 @@
 2021	2024-04-18 15:21:26Z	WebSocket server plugin included in OBS 28+!
 2022	2024-04-18 15:21:26Z	Hashicorp go-plugin has one show-stopping flaw
 2023	2024-04-18 15:21:26Z	Which protocol? net/rpc, gRPC, WebSockets, or REST?
-2024	2024-04-18 15:21:26Z	Proposed "telemetry" in Go will force a fork if approved
+2024	2024-04-18 11:21:26Z	Proposed "telemetry" in Go will force a fork if approved
 2025	2024-04-18 15:21:26Z	No more notifications to anything but Discord
 2026	2024-04-18 15:21:26Z	Make sure to set Sony AS300 HDMI resolution to 1080p (not auto)
 2027	2024-04-18 15:21:26Z	Automatic invitation to rwxrob-starting
@@ -2497,3 +2497,4 @@
 2576	2024-06-28 10:24:33Z	RealVNC is better than Windows Remote Desktop
 2580	2024-06-28 10:29:34Z	Windows Remote Desktop breaks sound
 2581	2024-06-28 10:30:50Z	Never coming back to this apartment
+2583	2024-06-28 16:02:16Z	How much power is required for digital nomadic life by bike?
