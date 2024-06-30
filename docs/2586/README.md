@@ -1,5 +1,10 @@
 # Annual cycle for DNB living
 
+* Home for Halloween
+* Take care of things
+    * Stay fit
+* Depart June
+
 Having an annual cycle is one requirement for packing correctly. Do I need three-season, all-season, or no tent, for example. How many layers do I need to carry around with me? What affect with the temperature have on my battery usage?
 
 Even though I've comfortably managed the Winter months in North Carolina, living outside in the Winter anywhere in the United States makes doing everything a lot more difficult. Something as simple as keeping my hands and computer warm enough to type and work get really hard. Plus, sitting on one place for a long time already makes blood circulation tough. Then there is the snow and ice issue. During the Winter months, everything has a layer of frost on it every morning, including all the tech gear. So far I haven't lost any gear from it, but this really adds to the risk that I just won't be able to work one morning. That's not a conversation I want to have with my manager.
