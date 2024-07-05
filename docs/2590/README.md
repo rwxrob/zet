@@ -1,13 +1,12 @@
 # Difference between "adventure by bike" and "digital nomad by bike"
 
-As I was packing I realized there is a significant distinction between most adventure cyclists and digital nomads living by bike. This makes sense because a DNB is just living as normal a life as possible indefinitely on the road while an adventure cyclist is pushing their boundaries seeking adventure for a specific number of days. Life itself is the adventure for a DNB. Every single day is a challenge to keep mind, body, bike, and balance in check not just for one specific trip or tour.
+As I was packing I realized there is a significant distinction between most adventure cyclists and digital nomads living by bike. Unlike an adventure cyclist who seeks adventure while getting away from it all, a DNB seeks a sustainable, regular work life while traveling to new destinations every day. Life itself is the adventure for a DNB. Every day is a challenge to keep mind, body, work, and bike in balance.
 
-* Less total weekly time on a bike (3 hours/day for most)
-* Much slower pace (13 mph / 21 kph maximum)
-* 2-days (at most) away from civilization and an AC power outlet
-* Long-haul mode (always towing 70 lbs)
-* Far more risk-averse
-* Body-mounted camera for livestreaming is better
+* Less total weekly time on a bike
+* Much slower pace
+* Only 2-days away from civilization and an AC power outlet
+* Heavily loaded with nomadic office gear
+* Less able to tolerate risk of any kind
 
 ## Less time on the bike
 
@@ -26,7 +25,3 @@ It is worth mentioning that the official limit on the Burley COHO XC fully loade
 ## DNBs are more risk-averse
 
 DNBs push their boundaries with much more caution because if something goes wrong they don't get paid---or worse---might be forced to stop DNB living.
-
-## Body-mounted camera is better
-
-A DNB is going to be doing a lot of things during the day that do not involve the bike. So wearing an IRL pack/rig is best. Since I'm only on the bike three hours (same as at home) the comfort of wearing a pack is fine. The pack will definitely start to smell, but I will already smell pretty bad so have to figure out how to deal with that.
