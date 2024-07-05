@@ -1,24 +1,35 @@
 # Difference between "adventure by bike" and "digital nomad by bike"
 
-As I was packing I realized there is a significant distinction between most adventure cyclists and digital nomads living by bike. Unlike an adventure cyclist who seeks adventure while getting away from it all, a DNB seeks a sustainable, regular work life while traveling to new destinations every day. Life itself is the adventure for a DNB. Every day is a challenge to keep mind, body, work, and bike in balance.
+There is a significant differences between adventure by bike and digital nomadic life by bike that directly affect important planning and decision making. Unlike an adventure cyclist who seeks adventure while getting away from it all, a DNB seeks a sustainable, regular work life while traveling to new destinations every day. Life itself is the adventure for a DNB. Every day is a challenge to keep mind, body, work, and bike in balance.
 
+* Bigger budget since still working
 * Less total weekly time on a bike
-* Much slower pace
+* Looser timeline requirements
+* Slower pace
+* Harder to transport bike and gear
 * Only 2-days away from civilization and an AC power outlet
 * Heavily loaded with nomadic office gear
 * Less able to tolerate risk of any kind
 
+## Bigger budget
+
+A DNB works every day and probably has a tech job that pays very well. Since living by bike requires far less an 40k per year (assuming there is no additional rent or mortgage to maintain "at home") and that most tech jobs make well over 100k per year there is plenty of money to be sure a DNB has the best gear for the job with as many redundancies for sustainable work requirements as possible.
+
 ## Less time on the bike
 
-I target three hours on the bike per day maximum. There just isn't more time than that if I want to work on honest 40-hour work week. This is the same amount of time I used to spend when biking from my home after a work day (or before) and that was very hard to fit into the day.
+A DNB works 6-8 hours per day. Plus a DNB must recharge their batteries two hours every two days or so. This only leaves 3-4 hours a day to do anything on the bike. For many avid bike-commuters this is roughly the same amount of time. But bike-commuters don't have to find a place to recharge, sleep, and eat every day.
 
-Most cyclists will agree that even fitting two hours into *every single day* is a rather high training volume. When thinking about it in terms of just cyclist physical training, that's a 21 hour week. If that training were focused it would be enough to train for elite amateur (cat 1) status. Even if every single ride is in zone 2 (which is rare pulling a 70 lbs trailer) the TSS on that kind of volume is *very* high. Plus I'm old.
+Plus most cyclists will agree that three hours of zone-2 exertion every day is a rather high weekly training volume. When travelling six days a week, that's 18 hours. At four hours a day that's 24 hours. That's the volume of an elite amateur (cat 1) cyclist with a very high TSS weekly score.
 
-Less time on the bike also means things like aero-bars to give an additional comfort position just aren't needed. If the daily ride is the same that I would do from home training for an ultra-distance event then I just don't need them (even though if I were training for such an event I would use them because such events don't involve towing a trailer).
+Less time on the bike also means things like aero-bars to give an additional comfort position just aren't needed. If the daily ride is the same that a DNB would do for an extended commute or daily training ride then such things just aren't needed (unless also training for Tour Divide or some such event).
 
-## DNBs bike much more slowly
+## Looser timelines
 
-It's virtually impossible to live as a DNB without a 70 lbs trailer with a Starlink and the battery to go with it (along with two hotspots as backup when/if the Starlink fails). This requires a much slower pace. For me 13 mph (21 kph) is my max. This depends on everyone's fitness as well.
+Most adventure cyclists and bikepackers take sabbaticals or use vacation time for their adventures. While this allows them to focus on the event and get the most out of it, it usually requires very strict timelines, milestones, and finish dates so they can return to work on time. Since a DNB is already working the only real limiter is annual weather patterns and even those can be easily worked around with the hefty annual budget a DNB can draw from to stay in proper lodging facilities when the weather gets really bad.
+
+## Slower pace
+
+It's virtually impossible to live as a DNB pulling a 70 lbs (32 kilo) trailer with a satellite link and the battery to go with it (along with two hotspots as backup when/if the satellite fails). hat's not counting the regular bike touring gear. This requires a much slower pace. Most DNBs will want to average around 13 mph (21 kph). Less than this and it becomes harder to travel the minimum 40 miles (64 km) per day to get to the next waypoint. This depends on everyone's fitness as well.
 
 It is worth mentioning that the official limit on the Burley COHO XC fully loaded is 20 mph and a Roam Starlink account is (technically) limited to 10 mph (but testing proves it works at 80 mph as well).
 
