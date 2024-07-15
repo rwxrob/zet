@@ -8,4 +8,22 @@ Here, in any one of the thousands of these restaurants that dot the land of Amer
 
 McDonald's and Taco Bell have wifi networks that allow the use of secure shell for things like GitHub checkouts with `git`. Even if you don't know what that means, just know that more work can be done without even being in range of my Starlink or hotspots while everything is recharging. Obviously, I could not have a conference call while here, but I'm not here that long. That's the point. 
 
-Like a very slow-moving, 90-minute pitstop I am back on my way. In that time I can fully recharge a 1.25 kWh power station grab a small bite, perhaps a coffee, refill my water bottles, work on meanial things that need to be done but don't require intense concentration, take a bathroom break, warm up from the cold or take shelter from a thunderstorm, even take a small nap with my head on my hands (if it feels safe). Then, just around the time the coffee turbo charges me, I'm ready to hit the road to wherever I will be spending the next 24 to 48 hours with the confidence that I can handle anything work or personal throws at during that time.
+Like a very slow-moving, 90-minute pitstop I am back on my way. In that time I can do a lot:
+
+* Fully recharge a 1.25 kWh power station
+* Grab a small bite, perhaps a coffee
+* Refill my water bottles
+* Work on meanial things that don't need intense concentration
+* Take a bathroom break
+* Brush my teeth
+* Wash up with wet-wipes 
+* Change my clothes
+* Warm up from the cold 
+* Take shelter from a thunderstorm
+* Take a small nap with my head on my hands
+
+Obviously, some of these depend on how safe the location feels.
+
+It's worth mentioning that drinking coffee or eating something at the beginning of the visit virtually ensures that my bowels and bladder wake up some time before I leave saving me the hassle of dealing with nature's call on the road.
+
+Then, just around the time the coffee turbo charges me, I'm ready to hit the road to wherever I will be spending the next 24 to 48 hours with the confidence that I can handle anything work or personal throws at during that time.

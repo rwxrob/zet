@@ -1,7 +1,7 @@
+* 2024-07-15 16:52:32Z [McDonald's and Taco Bell are the DNB truck-stop equivalents](../2603)
 * 2024-07-15 16:31:43Z [Tactical-ize your battery bricks and power station](../2607)
 * 2024-07-15 16:17:07Z [Scent-Away wet wipes best for DNB?](../2606)
 * 2024-07-15 16:07:18Z [Amazon is actually the easiest for a DNB](../2605)
-* 2024-07-15 16:04:10Z [McDonald's and Taco Bell are the DNB truck-stop equivalents](../2603)
 * 2024-07-15 15:38:20Z [Using a personal laptop for work communications](../2602)
 * 2024-07-15 15:28:03Z [Places for a DNB to eat, drink, dump, and recharge](../2597)
 * 2024-07-15 13:52:00Z [DNB battery conservation strategy](../2600)
