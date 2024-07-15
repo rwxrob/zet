@@ -1,6 +1,6 @@
 # DNB battery conservation strategy
 
-* Use phone for as many things as possible
+* Use phone for as many things as possible (Slack, Webex, Web w/ VPN)
 * Use best-in-class, small laptop for work (request if available)
 * Use RealVNC to remotely access high-power computing lab running at home
 * If required work laptop has bad battery life, bring own, only use when needed
