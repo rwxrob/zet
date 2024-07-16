@@ -11,7 +11,8 @@ McDonald's and Taco Bell have wifi networks that allow the use of secure shell f
 Like a very slow-moving, 90-minute pitstop I am back on my way. In that time I can do a lot:
 
 * Fully recharge a 1.25 kWh power station
-* Grab a small bite, perhaps a coffee
+* Curb a hunger crazing with a small bite to eat for almost nothing
+* Grab refillable coffee for less than a single cup of Alpine Start
 * Refill my water bottles
 * Work on meanial things that don't need intense concentration
 * Take a bathroom break
