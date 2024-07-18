@@ -1,5 +1,9 @@
 # A DNB needs personal and professional laptop and a phone for both
 
+Two phones, both configured to be in "work" or "personal" mode are also essential.
+
+Two laptops configured to do most work communications are essential for the redundancy required for risky DNB living.
+
 Setup the phone to use Android's "work" apps that are separated from other apps on the same phone. When work is over, disable the work button from the main settings to turn down all the pings and communications from work. Ensure one of the applications under "work" is the corporate VPN software so that the phone can access internal servers and resources.
 
 One great advantage of using a personal system also for cloud-enabled-and-secured communications is that when your wife sends you scans of documents that arrived in the mail or are needed from home they come to an email account to which I have access since it is my personal system. Then I can easily copy them over to whoever needs them at work (usually HR).
