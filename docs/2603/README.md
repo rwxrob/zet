@@ -1,6 +1,6 @@
 # McDonald's and Taco Bell are the DNB truck-stop equivalents
 
-Truckers have Casey's and Love's truck stops to regroup before they continue on.
+Truckers have Casey's and Love's truck stops to regroup before they continue on. DNB's have McDonald's and Taco Bell. A sausage and egg beakfast burrito and coffee at McDonald's costs $3.84. That's the cheapest possible air-conditioned coworking rent for a full-day of work possible, plus it includes a small meal.
 
 McDonald's and Taco Bell have put their overwhelming resources to transform any modern location to a remote office place. As I write this I am surrounded by fit people who appear very well educated using their Macbook Pros and dressed in expensive outdoor gear with serious looks on their faces apparently getting work done. I count myself among them.
 
