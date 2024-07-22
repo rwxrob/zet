@@ -1,4 +1,4 @@
-# McDonald's as fast freaking Internet
+# McDonald's has fast freaking Internet
 
 * 87 down
 * 17 up
