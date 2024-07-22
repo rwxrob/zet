@@ -28,3 +28,7 @@ Obviously, some of these depend on how safe the location feels.
 It's worth mentioning that drinking coffee or eating something at the beginning of the visit virtually ensures that my bowels and bladder wake up some time before I leave saving me the hassle of dealing with nature's call on the road.
 
 Then, just around the time the coffee turbo charges me, I'm ready to hit the road to wherever I will be spending the next 24 to 48 hours with the confidence that I can handle anything work or personal throws at during that time.
+
+## Cons
+
+Working at a fast food place has one *major* disadvantage: I simply cannot do conference calls at all. Killing the spontenaety of a good huddle could eliminate fast food places entirely. Sometimes working outside can alleviate the problem, but usually not. There is car and wind noise to contend with and no matter where you are at least one side of the conversation can be heard by just about anyone in the room.
