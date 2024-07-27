@@ -22,5 +22,5 @@ Live streamers have quite a bit more to lug around:
 * Orange Pi Plus
 * 2x DJI Pocket 3
 * 2x DJI Mic 2
-* Neatgear Nighthawk M6
-* 1x65w Baseus battery banks
+* 2x Neatgear Nighthawk M6 (no batteries, one backup)
+* 65w Baseus battery bank
