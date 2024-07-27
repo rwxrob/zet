@@ -6,12 +6,17 @@ The Great Divide Mountain Bike Route provides the greatest variety providing the
 * Desert heat weather conditions with occasional 100+ days
 * Regular 7+% grades
 * Fording river crossings
+* Sharing an office (and bathroom) with bears and critters
+* Filtering own water
+
+Extreme weather is the exception rather than the rule, but being prepared for it is a matter of survival for anyone attempting to live and work while perpetually bike touring (even with an SOS button).
 
 Preparing a gear list that will cover all of this *plus* allow 40 solid hours of professional work every week is the perfect target. Here's the extra work gear needed:
 
 * Starlink Mini
 * Quick mount
-* 2x Renology 72,000 battery banks
+* 6xBaseus 65w battery bricks
+* USB-C to barrel adapter
 * Fast-charging recharging brick (1.37 lbs, 4x100w charging)
 * 2x laptops w/long-life battery (work/personal) (1 if you can)
 

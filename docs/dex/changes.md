@@ -1,5 +1,5 @@
+* 2024-07-27 14:24:43Z [GDMBR is the DNB baseline](../2626)
 * 2024-07-27 14:17:41Z [Starlink mini is best bikepacking setup](../2623)
-* 2024-07-27 13:51:30Z [GDMBR is the DNB baseline](../2626)
 * 2024-07-27 13:04:48Z [What about driving or flying as a DNB?](../2625)
 * 2024-07-27 11:59:48Z [LOG20240727113746: Saturday, July 27, 2024, 11:37:46AM EDT](../2624)
 * 2024-07-27 11:32:47Z [LOG4Y0725101257: Thursday, July 25, 2024, 10:12:57AM EDT](../2622)
