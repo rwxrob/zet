@@ -1,3 +1,4 @@
+* 2024-07-28 07:31:41Z [Annual cycle for DNB living](../2586)
 * 2024-07-27 14:44:30Z [Forget about solar charging on bike tours as DNB](../2627)
 * 2024-07-27 14:24:43Z [GDMBR is the DNB baseline](../2626)
 * 2024-07-27 14:17:41Z [Starlink mini is best bikepacking setup](../2623)
@@ -33,7 +34,6 @@
 * 2024-07-05 07:21:03Z [Body-mounted camera is better](../2591)
 * 2024-07-04 08:06:08Z [Getting to the start (or back)](../2589)
 * 2024-07-04 07:23:35Z [Bikes](../2588)
-* 2024-06-30 12:39:39Z [Annual cycle for DNB living](../2586)
 * 2024-06-30 08:19:52Z [What's my address?](../2587)
 * 2024-06-29 07:29:57Z [Leave camera mounted to bike when touring](../2585)
 * 2024-06-28 16:08:59Z [LOG20240628093416: Friday, June 28, 2024, 9:34:16AM EDT](../2575)

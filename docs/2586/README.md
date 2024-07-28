@@ -1,5 +1,7 @@
 # Annual cycle for DNB living
 
+
+
 * Home for Halloween
 * Take care of things
     * Stay fit
