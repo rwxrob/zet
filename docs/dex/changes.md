@@ -1,6 +1,6 @@
+* 2024-07-28 08:39:03Z [Annual cycle for DNB living](../2586)
 * 2024-07-28 08:10:42Z [Down at dusk, up before dawn](../2629)
 * 2024-07-28 07:56:59Z [American portion sizes are out of control](../2628)
-* 2024-07-28 07:31:41Z [Annual cycle for DNB living](../2586)
 * 2024-07-27 14:44:30Z [Forget about solar charging on bike tours as DNB](../2627)
 * 2024-07-27 14:24:43Z [GDMBR is the DNB baseline](../2626)
 * 2024-07-27 14:17:41Z [Starlink mini is best bikepacking setup](../2623)
