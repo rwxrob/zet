@@ -1,3 +1,4 @@
+* 2024-07-28 10:54:56Z [DNB battery conservation strategy](../2600)
 * 2024-07-28 10:44:24Z [First Starlink Mini IRL streaming rig](../2630)
 * 2024-07-28 08:43:05Z [Bikepacking/DNB gear list](../2495)
 * 2024-07-28 08:39:03Z [Annual cycle for DNB living](../2586)
@@ -26,7 +27,6 @@
 * 2024-07-15 16:07:18Z [Amazon is actually the easiest for a DNB](../2605)
 * 2024-07-15 15:38:20Z [Using a personal laptop for work communications](../2602)
 * 2024-07-15 15:28:03Z [Places for a DNB to eat, drink, dump, and recharge](../2597)
-* 2024-07-15 13:52:00Z [DNB battery conservation strategy](../2600)
 * 2024-07-15 13:38:37Z [Best DNB computer: Macbook 14" M3 Pro laptop](../2599)
 * 2024-07-15 12:37:15Z [Too hot? Escape to the mountains](../2598)
 * 2024-07-09 07:00:29Z [LOG20240709061726: Tuesday, July 9, 2024, 6:17:26AM EDT](../2596)
