@@ -10,6 +10,10 @@ The biggest winners for video quality are the absolutely amazing DJI Pocket 3 wi
 
 When I'm completely honest with myself, I have to admit that the greatest joy comes from nailing this one aspect of the adventure. I'm a geek at heart and making this so seamless and beautiful really satisfies me. Now I just have to keep that happening. Even if I didn't say a single thing during these adventures and just captured the outdoors in an ASMR way it would be spectacular.
 
+## Trailer Starlink worked well, but is unsustainable for long trips with elevation
+
+60 lbs just for Starlink was always a stretch, but worth it if that meant nothing else was possible. If I could get my money back for the Starlink Gen 3 I would.
+
 ## Yes, I'm still going to do IRL and SKILSTAK, just differently
 
 I had a pretty good habit established before the trip of not talking about politics. I even had a no-swearing thing working and a no-bad-talking-Mormons thing while in Logan, Utah. Then I got sick and the covid-is-a-myth trolls started appearing. I lost my shit on them (as usual). I was unable to follow my own better judgement and just not give these people any mental head space at all, to ignore them and focus on people that actually matter, who use their brains, who are educated, who love this country for the principles upon which it was founded. Everyone knows I am very weak when it comes to this. All I could see was stupidity all around. It's *everywhere* in America. It started tanking my love for this country, everyone seemed to be filled with the same wetiko native Americans used to describe diseased "white men" who decimated the bison herds. Apparently, it used to take days to drive a wagon train around the mega-herds with 10s of thousands of head of bison. The fate of the bison is analogous to the fate of America and the cause is the same diseased mental illness that rots the brains of *most* Americans today, still. Realizing this has always triggered me. It's one of my worst triggers. In so many ways I fucking *hate* America, and in so many ways I love it. But I cannot talk about that on a live stream without triggering all the zombies, to my peril.
