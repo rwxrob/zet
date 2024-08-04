@@ -2,6 +2,8 @@
 
 A lot of people are getting the Renology power brick for the Mini and they are giving up a lot of advantages that the simpler Baseus 65w bricks provide.
 
+Baseus bricks can be taken on airlines, Renology cannot.
+
 Baseus bricks have more charging and output options that matter.
 
 Baseus bricks are way cheaper per watt.
