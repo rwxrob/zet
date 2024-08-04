@@ -2,7 +2,7 @@
 
 It goes without saying that most bikepacking trips fit within a weekend that starts a little early on Friday afternoon. It also seems like most gear is designed for this length of bikepacking trip as well. When a trip is longer it can be managed like several trips of this duration in sequence. Knowing this duration makes planning in advance much easier. 90 minutes is the magic length of endurance activity (for me). Anything longer than that and I have to do special nutritional supplementation while riding, and since most bikepacking is technical enough to make eating while on the bike difficult it is better to just plan a long break every 90 minutes instead. I'm not competing in Tour Divide. I want to feel fresh and have plenty of time to enjoy everything along the way.
 
-Day one
+Day one (8 hours)
 
 * 2-2:30pm (30 minutes) start slow and settle into pace
 * 2:30-4pm (90 minutes) 1/3 session
@@ -13,7 +13,7 @@ Day one
 * 8:30-9pm (30 minutes) make camp
 * 10-6:00  (8 hours)    sleep
 
-Day two
+Day two (16 hours)
 
 * 6:00 coffee and breakfast
 * 7:00 break camp
@@ -32,7 +32,7 @@ Day two
 * 8:30-9pm (30 minutes) make camp
 * 10-6:00  (8 hours)    sleep
 
-Day three
+Day three (8 hours)
 
 * 6:00 coffee and breakfast
 * 7:00 break camp
