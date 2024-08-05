@@ -24,8 +24,18 @@ Between eating form the super market and Taco Bell and McDonald's on resupply da
 
 Unlike a bikepacking trip, DNB living requires staying places that cost a lot of money---especially during tourist season. It is easy to blow a 1000 monthly lodging budget by visiting the wrong place at the wrong time.
 
+## Biking in traffic
+
+There is no escaping biking in bad traffic if you truly want to live and work while traveling only by bike. Pretty much every single power outlet is on or around pavement used to get to it. This is never fun. If you are lucky, you'll pay 20 dollars a night for the privilege of having a plug at your camp site.
+
 ## Emotional cost
 
 Living on the road as a digital nomad (by bike or car) takes a huge emotional toll on anyone with any friends or family. This is why most YouTubers eventually give up "van life" rather unceremoniously. These people report feeling "stagnant" and disconnected, even when caravanning around with a lot of others living the same way. Being nomadic means you are always invading someone (or something) else's turf, you are the foreigner. That's the point. You are wandering and exploring, but you don't have a party or tribe to do it with you.
 
 By nature, humans are not solo, nomadic creatures. We are pack animals, like dogs, highly communal. We cannot survive emotionally and physically without a tribe. The most famous nomadic peoples (Tibetans and Native Americans) always had their extended families with them. After two weeks all I wanted to do was reconnect with my children and family. The spectacular vistas and interesting lands lost all appeal compared to being with those I love. It's not "home sickness" it is just our nature. While soldiers and some professions require humans to be away from those they love, its always the promise of a return that makes it special. Willingly leaving those people for an extended amount of time very quickly loses all appeal, for anyone.
+
+## Running out of things to see
+
+I've seen everything interesting in the US that I really care to see. That's the simple truth. I really just want to see the Redwoods of California. Destination trips are much more appealing to me (and have been more appealing to most people). While I really want to do the White Rim trail again I would always prefer to do that with someone else. Even my desire to do the GDMBR has completely vanished unless I'm going to ride it with someone else.
+
+In fact, that only thing that truly motivates me is thinking about touring Europe by bike. That is something that could easily re-ignite the DNB desires since I have so much yet to see over there and lodging and camping are so much easier.
