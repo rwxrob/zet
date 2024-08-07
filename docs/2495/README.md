@@ -1,4 +1,74 @@
-# Bikepacking/DNB gear list
+# Bikepacking gear list
+
+Monday, August 5, 2024, 1:46:21PM EDT
+
+* Front-right fork:
+    * Anything-cage bag (shelter) + 1 x Voile strap
+        * Helium Bivy
+        * Ground footprint
+        * Rainfly from a 4-season tent as tarp
+    * Helinox chair one + Voile strap
+* Front-left fork:
+    * Anything-cage bag (water/cook) + 1 x Voile strap
+        * 3l gravity water filter
+        * MSR stove
+        * Titanium pot
+        * Isopro canister
+        * Lighter
+* Half-frame bag (medical/repair)
+* Seat-tube water-bottle cage
+    * 1 liter bottle with strap
+* Reverse down-tube water-bottle cage
+    * 700 ml bottle with cap protector
+* Rear-rack top:
+    * Canoli roll
+        * Cozy bag (sea-to-summit 3l dry, never wet)
+            * Military wicking underwear (bottoms)
+            * Patagonia wicking underwear (top)
+            * Synthetic fleece warm socks
+            * Sea-to-Summit synthetic sleeping bag liner
+            * Sea-to-Summit inflatable pillow
+        * Legs
+            * 2x wicking boxer briefs
+            * Adventure shorts
+            * Prana adventure pants
+            * Patagonia wicking long underwear
+            * Patagonia rain pants
+        * Torso
+            * Patagonia wicking long underwear
+            * Patagonia fly-fishing, wicking sun-shirt
+            * Houdini jacket
+            * REI long-sleeved hiking shirt
+            * Puffy Patagonia Nano-Air hoody
+            * Patagonia Gortex rain jacket
+            * Patagonia convertible mittens
+        * Head
+            * Foldable, vented, 5-panel cap
+            * Micro-towel bandana
+            * Thermal skull cap
+        * Feet
+            * Altra trail-running shoes
+            * 2x wicking socks
+            * Thermal toe covers
+            * Zero sandals
+
+## Optional office:
+
+The following can be strapped as a unit onto the crank-side pannier or worn in a messenger bag.
+
+* Starlink Mini
+* 3x Baseus 65w 30,000 mAh
+* Macbook Pro 16"/14" M3
+
+This is enough for a full day of work when it is possible to recharge at night.
+
+## Back is free for extra
+
+When more water or food is needed I can put on a hydration pack and/or an ultra-light backpack and transport more stuff temporarily.
+
+----
+
+(Previously)
 
 ## Criteria
 
