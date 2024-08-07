@@ -1,5 +1,11 @@
 # Is remote DNB life sustainable?
 
+Wednesday, August 7, 2024, 5:15:52PM EDT
+
+I had Covid last week and it clearly tainted by emotional judgement with regard to DNB sustainability. This week it doesn't seem to be nearly the problem it seemed to be then. It also seems like managing traffic is far more doable now that my bike is a very manageable weight, even with eight power banks, a Starlink Mini, and a 16" Macbook Pro.
+
+----
+
 Sunday, August 4, 2024, 7:36:48PM EDT
 
 I no longer think DNB living is sustainable. This is my second significant test and I didn't even really get many hours on the bike to test it. While I believe we have conquered the Internet connectivity challenge, the cost of lodging and emotional strain being away from home are just too high (for me). The appeal of DNB living remains getting outside, staying healthy, meeting new people, and seeing new things. All of this can be accomplished by simply riding the bike to one of a few different interesting locations and working there for the day, but coming home at night, or maybe camping over one night, or two. My DNB life has mostly transcended into a daily commute to wherever I feel like working that day. Then, sometimes I can drive to places within a couple of hours and work there for that week.
