@@ -1,4 +1,13 @@
-# Food
+# Food management for DNB living
+
+* 3200 calories per day
+* 25 dollars per day
+* McDonald's mornings
+* Carry 1-day back-stock
+
+----
+
+(previously)
 
 Whether on the bike or in the car managing food is second only to managing water consumption---especially when going truly remote. Food is also one of big advantage of digital nomadic life.
 

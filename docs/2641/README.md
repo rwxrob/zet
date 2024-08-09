@@ -1,5 +1,11 @@
 # Is remote DNB life sustainable?
 
+Friday, August 9, 2024, 9:56:39AM EDT
+
+Yesterday's tropical storm and multiple flash flood warnings really established a bunch of conditions for being able to answer this question with a "yes". As much as I tried to stay in the tent and stay dry, I had to go out and set the Starlink so that I could work from within the tent. Even a short time outside in such a deluge means that everything inside the tent is going to get a minimal shower once I make it back into the tent. And there is no towel to dry off with once inside.Ironically, I was able to get a lot done once I was setup with the laptop because there isn't anything else to really do, at all, except wait for the rain to pass, which took 24 hours at least. I could not attend any meetings, however, because it was simply impossible to communicate from within the tent with rain falling on it. The Starlink Mini really struggled in that rainstorm, but did well enough that I could continue to work and chat.
+
+The biggest lesson learned is that if there is a national weather advisory it is best to just find a building to work from for that day. This limits the remote range of a DNB on regular working days. In fact, I'm beginning to conclude that most DNBs will need to arrange to work from a solid location during the work week. This means arranging lodging in advance that will sustain the entire work day for the next 28-48 hours. This removes a lot of the spontaneity of DNB living, but makes for a reliable, less stressful means of employment and getting an honest days work done. There's always the option to take a day off in the extreme case (such as yesterday) but these should not be the norm.
+
 Wednesday, August 7, 2024, 5:15:52PM EDT
 
 I had Covid last week and it clearly tainted by emotional judgement with regard to DNB sustainability. This week it doesn't seem to be nearly the problem it seemed to be then. It also seems like managing traffic is far more doable now that my bike is a very manageable weight, even with eight power banks, a Starlink Mini, and a 16" Macbook Pro.
