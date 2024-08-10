@@ -1,8 +1,28 @@
-# Weekend Warrior DNB schedule: 4 work, 3 ride
+# Elite DNB schedule: 72 hour push, 96 work/recover
+
+Elite adventure athletes who prefer the pace and performance of ultra-endurance efforts like that required for Tour Divide (sometimes called "tour-racing") may prefer an elite DNB weekly schedule consisting of a three-day push followed by four days off to work and recover. This schedule can also serve as training during the year for multi-day ultra-endurance events later. The distance travelled during the 72 hour push depends entire on the route and goals of the adventure athlete. Some will opt for a triple-century during their push, others half that. It really depends on the total distance required to complete the overall route within whatever time period is required, usually governed by seasonal weather. 
+
+An average week would look something like the following:
+
+* Monday - ride 9-noon (3 hours), checkin around noon, 8-10 hours work, sleep at camp
+* Tuesday - rest, resupply, explore the area, 8-10 hours work, sleep at camp
+* Wednesday - rest, explore the area, 8-10 hours work, sleep at camp
+* Thursday - rest, explore the area, 8-10 hours work, sleep at camp
+* Friday - 4-6 hours work in morning, checkout, ride noon-9pm (9 hours), sleep anywhere
+* Saturday - ride 9am-9pm (12 hours), sleep anywhere
+* Sunday - ride 9am-9pm (12 hours), sleep anywhere
+
+That's 36 hours of riding including breaks to resupply and eat. At the relatively slow pace of 10 mph that that's 360 miles of distance. Faster riders could easily cover 400 miles in that time. Consider that covering 300 miles in 72 hours is the same as covering 43 miles a day. In terms of weekly mileage, this would be considered on the low end for most adventure bike touring, but still allows completion of longer routes like TransAmerica Trail and Tour Divide/GDMBR within a single season. 
+
+## Training
+
+Training for this type of elite DNB schedule is very compatible with any work schedule. Just follow the exact same schedule at home while preparing including attempts to restock from the road with what will likely be available on the planned trip.
+
+## Enable big trips without taking work off
 
 How do you manage to get through something as long as TAT or GDMBR and still work an honest week? First of all, what is an honest week (for you)? For me an honest work week requires at least the following:
 
-* 6-8 hours per day Monday through Thursday of highly focused concentration time
+* 6-10 hours per day Monday through Thursday of highly focused concentration time
 * Fridays dedicated to "personal learning" projects
 * Rock solid Internet (at least 50/10/30 which Starlink Mini provides when not moving)
 * Dedicated power supply to keep devices in full-power mode (Macs lie, always require plug)
@@ -23,7 +43,7 @@ To be on the safe side, 120 dollars per night is a good target, that's roughly 6
 
 ## Less power required
 
-Because I'm not working Friday through Sunday I don't have to allocate power consumption for those days (unless I'm livestreaming). This significantly reduces the amount of weight required for battery capacity.
+Outside of external requirements like livestreaming, the elite DNB schedule requires the least amount of weight to carry power supplies for laptop and Starlink Mini, etc. since everything can be fully recharged every night from work base camp when not pushing on the weekend. In fact, just a single 30,000 mAh battery brick is enough to power phone, GPS, lights, etc. In an emergency, it can be used to power the Starlink Mini temporarily. Even carrying two bricks is a very affordable weight cost. Livestreaming requires two additional bricks for a simple IRL rig for a total of four total. This weight is comparable to that brought by photographers and drone-operators.
 
 ## Not enough time to finish longer rides?
 
