@@ -1,5 +1,19 @@
 # Is remote DNB life sustainable?
 
+Saturday, August 10, 2024, 10:25:22AM EDT
+
+I now think that the elite DNB weekly schedule is the only one I am interested in. It allows a 200-400 mile distance between work-camp locations where I live and work luxuriously worry-free for 40 hours. When combined with a 600 dollar per week work-camp lodging budget, and a 30 dollar a day food budget the stress of the logistics becomes minimal, in fact, it becomes more of a work vacation than anything. I just have to have a general route in mind and plan work-camp locations intentionally. The fact that I'm working while living as a digital nomad only during four Spring/Summer/Fall months (Jun 1st - Oct 1st) means I have more money to spend. During the rest of the time I can build up my fitness and financial budget to handle the next glorious season.
+
+* 2400 lodging
+* 800 food
+* 200 maintenance
+* 300 entertainment
+* 300 travel
+
+4000/month * 4 months = 16,000
+
+At 10 mph average pace for 36 hours that's 360 miles per week or 4680 miles of total range, enough to cover any major route in North America including the GDMBR, TransAmerica Trail, and the TAT off-road tail.
+
 Friday, August 9, 2024, 9:56:39AM EDT
 
 Yesterday's tropical storm and multiple flash flood warnings really established a bunch of conditions for being able to answer this question with a "yes". As much as I tried to stay in the tent and stay dry, I had to go out and set the Starlink so that I could work from within the tent. Even a short time outside in such a deluge means that everything inside the tent is going to get a minimal shower once I make it back into the tent. And there is no towel to dry off with once inside.Ironically, I was able to get a lot done once I was setup with the laptop because there isn't anything else to really do, at all, except wait for the rain to pass, which took 24 hours at least. I could not attend any meetings, however, because it was simply impossible to communicate from within the tent with rain falling on it. The Starlink Mini really struggled in that rainstorm, but did well enough that I could continue to work and chat.
