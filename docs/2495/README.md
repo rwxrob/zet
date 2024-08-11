@@ -1,4 +1,11 @@
-# Bikepacking gear list
+# Elite DNB bikepacking gear list
+
+Sunday, August 11, 2024, 10:33:29AM EDT
+
+This gear list is designed for living on the road the Summer and a couple weeks of late Spring and early Fall following the [Elite DNB schedule](../2645).
+
+
+----
 
 Monday, August 5, 2024, 1:46:21PM EDT
 
