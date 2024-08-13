@@ -1,8 +1,110 @@
-# Elite DNB bikepacking gear list
+# UDNB bikepacking gear list
 
 Sunday, August 11, 2024, 10:33:29AM EDT
 
-This gear list is designed for living on the road the Summer and a couple weeks of late Spring and early Fall following the [Elite DNB schedule](../2645).
+This gear list is designed for living on the road (including occasional alpine passes) the last week of Spring, all of Summer, and the first two weeks of Fall following an [Ultra DNB weekly schedule](../2645). There are a number of assumptions that strongly affect the decision to bring something or not. Almost all of these are the same considerations that a Tour Divide or RAAM rider would make with one major addition: including a lightweight, fully remote home office.:
+
+* Hotel/motel lodging whenever available
+* Extremely minimal sleep system
+* Bare minimum clothing designed for endurance
+* Minimal food carrying capacity (most meals at stops)
+* 2.7 liters water for pushing (additional 3-6 capacity for exceptions)
+* Optional extra food and water capacity backpack for exceptions
+
+The bike:
+
+* 2017 Salsa Marrakesh
+* Front fork Anything Cages
+* Alternator rear rack
+* Three water bottle cages
+* Profile carbon aero bars
+
+The bags:
+
+* Front fork (left):
+    * Salsa Anything bag
+    * 3L gravity water filter
+    * Titanium pot
+    * Isopro canister
+    * Top peak stove
+    * Lighter
+    * AlpineStart instant coffee
+    * Chicken bouillion cubes
+* Front fork (right):
+    * Mountain Gear water-resistent compression bag
+    * REI Evrgrn crash sack (40 degree)
+    * Sea-to-Summit inflatable pillow
+* Aerobars:
+    * Salsa Anything bag (double-strapped parrallel)
+    * Ultra-light backpack
+    * Minimal med kit
+    * Travel-size deoderant
+    * Travel toothbrush
+    * Travel toothpaste
+    * Travel dental flossers
+    * Electric shaver
+    * Quad-lock waterproof sleeve
+    * REI foldable hat
+    * Absorbant bandana
+    * Patagonia Houdini
+    * No-prep food
+* Stem:
+    * Samsung 24 phone
+    * Quad-lock case
+    * Quad-lock recharging mount
+* Top tube (front):
+    * Revelate Magtank bag
+    * Small USB charging battery brick (attached to Quad-lock recharger)
+    * Waterproof wallet
+    * Ultra-light Leatherman tool
+    * Mace and car key
+    * Dental flossers
+    * Waterproof notepad and pen
+    * Waterbottle straps
+* Water bottle cages:
+    * 1000 ml bottle (optional strap)
+    * 1000 ml bottle (optional strap)
+    * 700 ml bottle (optional strap)
+* Rear rack (left):
+    * Ortlieb Classic Front-roller bag
+    * 1x32" Voile strap
+    * Altair Trail runner shoes on top under quick-release strap
+    * Patagonia Nano-Air hoody (black)
+    * Patagonia Nano-Air vest (grey)
+    * Prana adventure pants (khaki)
+    * Regular synthetic boxer-briefs (green)
+    * REI fly-fishing collared long-sleeved shirt (blue)
+    * Patagonia fly-fishing long-sleeved sun shirt (red)
+    * Volcom board shorts (red)
+    * ShowersPass gloves (grey)
+    * Alpaca wool socks (grey)
+    * Patagonia wicking long underwear (tops, black)
+    * Patagonia wicking long underwear (bottoms, green)
+* Rear rack (right):
+    * Ortlieb Classic Front-roller bag
+    * 2x32" Voile straps
+    * Protective laptop sleeve (big enough for Macbook + Mini)
+    * Macbook Pro 16" M3 (work issue)
+    * 2x 65w, 30,000 mAh Baseus battery bricks with velcro
+    * 140 GaN recharging brick
+    * 2x 240w USB-C 6' cables
+* Rear rack (top):
+    * Nemo foam sleeping pad
+    * Helium Bivy
+    * Starlink Mini + Baseus battery velcroed
+    * Patagonia MTB rain pants
+    * Patagonia Gortex rain jacket
+    * 1x32" Voile strap
+
+The body:
+
+    * Adventure shorts
+    * Padded cycling underwear
+    * High-vis synthetic short-sleeved shirt
+    * Xero sandles
+    * Helmet
+    * Glasses with reactive lense tinting
+    * IRL live streaming pack (see elsewhere)
 
 
 ----
