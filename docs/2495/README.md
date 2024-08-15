@@ -15,7 +15,7 @@ The bike:
 
 * 2017 Salsa Marrakesh
 * Front fork Anything Cages
-* Alternator rear rack
+* Salsa Alternator rear rack
 * Three water bottle cages
 * Profile carbon aero bars
 
@@ -30,11 +30,14 @@ The bags:
     * Lighter
     * AlpineStart instant coffee
     * Chicken bouillion cubes
+
 * Front fork (right):
     * Mountain Gear water-resistent compression bag
     * REI Evrgrn crash sack (40 degree)
     * Sea-to-Summit inflatable pillow
+
 * Aerobars:
+    * Patagonia Gortex rain jacket (rolled and strapped parrallel)
     * Salsa Anything bag (double-strapped parrallel)
     * Ultra-light backpack
     * Minimal med kit
@@ -45,13 +48,14 @@ The bags:
     * Electric shaver
     * Quad-lock waterproof sleeve
     * REI foldable hat
-    * Absorbant bandana
-    * Patagonia Houdini
+    * Absorbant bandana/sunshield
     * No-prep food
+
 * Stem:
     * Samsung 24 phone
     * Quad-lock case
     * Quad-lock recharging mount
+
 * Top tube (front):
     * Revelate Magtank bag
     * Small USB charging battery brick (attached to Quad-lock recharger)
@@ -61,14 +65,16 @@ The bags:
     * Dental flossers
     * Waterproof notepad and pen
     * Waterbottle straps
+
 * Water bottle cages:
     * 1000 ml bottle (optional strap)
     * 1000 ml bottle (optional strap)
     * 700 ml bottle (optional strap)
+
 * Rear rack (left):
     * Ortlieb Classic Front-roller bag
     * 1x32" Voile strap
-    * Altair Trail runner shoes on top under quick-release strap
+    * Altair Trail runner shoes strapped together and on top under quick-release strap
     * Patagonia Nano-Air hoody (black)
     * Patagonia Nano-Air vest (grey)
     * Prana adventure pants (khaki)
@@ -78,22 +84,23 @@ The bags:
     * Volcom board shorts (red)
     * ShowersPass gloves (grey)
     * Alpaca wool socks (grey)
+    * Patagonia MTB rain pants
     * Patagonia wicking long underwear (tops, black)
     * Patagonia wicking long underwear (bottoms, green)
+
 * Rear rack (right):
     * Ortlieb Classic Front-roller bag
     * 2x32" Voile straps
     * Protective laptop sleeve (big enough for Macbook + Mini)
     * Macbook Pro 16" M3 (work issue)
     * 2x 65w, 30,000 mAh Baseus battery bricks with velcro
-    * 140 GaN recharging brick
+    * 140 GaN recharging pluggable brick
     * 2x 240w USB-C 6' cables
+    
 * Rear rack (top):
     * Nemo foam sleeping pad
     * Helium Bivy
     * Starlink Mini + Baseus battery velcroed
-    * Patagonia MTB rain pants
-    * Patagonia Gortex rain jacket
     * 1x32" Voile strap
 
 The body:
