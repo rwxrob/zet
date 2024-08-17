@@ -2,7 +2,7 @@
 
 Sunday, August 11, 2024, 10:33:29AM EDT
 
-This gear list is designed for living on the road (including occasional alpine passes) the last week of Spring, all of Summer, and the first two weeks of Fall following an [Ultra DNB weekly schedule](../2645). There are a number of assumptions that strongly affect the decision to bring something or not. Almost all of these are the same considerations that a Tour Divide or RAAM rider would make with one major addition: including a lightweight, fully remote home office.:
+This gear list is designed for living on the road (including occasional alpine passes) the last week of Spring, all of Summer, and the first two weeks of Fall following an [Ultra DNB weekly schedule](../2645). There are a number of assumptions that strongly affect the decision to bring something or not. Almost all of these are the same considerations that a Tour Divide rider would make with one major addition: including a lightweight, fully remote home office:
 
 * Hotel/motel lodging whenever available
 * Extremely minimal sleep system
@@ -12,6 +12,8 @@ This gear list is designed for living on the road (including occasional alpine p
 * Optional extra food and water capacity backpack for exceptions
 
 The bike:
+
+The gravel+ (touring) bike is metal, heavy (32 lbs), and virtually indestructible (for a reason).
 
 * 2017 Salsa Marrakesh
 * Front fork Anything Cages
@@ -99,7 +101,7 @@ The bags:
     
 * Rear rack (top):
     * Nemo foam sleeping pad
-    * Helium Bivy
+    * MSR
     * Starlink Mini + Baseus battery velcroed
     * 1x32" Voile strap
 
