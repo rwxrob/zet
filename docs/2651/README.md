@@ -18,7 +18,7 @@ The only way that would be better is if there was a storage unit closer. Looks l
 
 ## Routine suburban bike riding makes me happy
 
-I've been through the cycle of preparation instead of riding twice now (and blimped out losing all my fitness in the process). Something about all the stress of preparation not only robs the ride of all the fun but also increases my cortizol to critical levels. 
+I've been through the cycle of preparation instead of riding twice now (and blimped out losing all my fitness in the process). Something about all the stress of preparation not only robs the ride of all the fun but also increases my cortisol to critical levels. 
 
 You'd think I would have learned all this by now. The best way for me to bike is to do it daily, usually on the same suburban route. It takes the least amount of thought and the familiarity and regularity of it is calming, like a toddler obsessed with repeating the same action because it is calming. I don't have to even worry about anything because I know exactly what to expect.
 
@@ -30,7 +30,7 @@ Leaving at or around 3:30pm every afternoon and not riding more than 30 miles en
 
 ## Tour Divide riding sucks without a Tour Divide bike
 
-After riding several hours on gravel roads these last few days (and going down hard because of gravel + bad tubeless) I realized something: I hate riding off-road with any weight on my bike at all. After a ton of testing, I've concluded that Tour Divide with a touring bike as heavy as mine carrying livestreaming gear (even with the Mini) would be distasterously horrible. I just liked the idea of it, not the reality. The *only* way for me to ever attempt something like Tour Divide (while live streaming it) would be to do the very slow GDMBR instead and *also* buy a new carbon bike that I can easily lift over my head. Perhaps someday, perhaps not.
+After riding several hours on gravel roads these last few days (and going down hard because of gravel + bad tubeless) I realized something: I hate riding off-road with any weight on my bike at all. After a ton of testing, I've concluded that Tour Divide with a touring bike as heavy as mine carrying livestreaming gear (even with the Mini) would be disastrously horrible. I just liked the idea of it, not the reality. The *only* way for me to ever attempt something like Tour Divide (while live streaming it) would be to do the very slow GDMBR instead and *also* buy a new carbon bike that I can easily lift over my head. Perhaps someday, perhaps not.
 
 Tour Divide riding allows for the fun of riding a trail bike but only if you drop the cash for a bike that weighs enough fully loaded to hold over your head. Anything other than that is just to heavy to allow the ride to be enjoyed. Instead, slow bike touring the GDMBR with a loaded touring bike in the way to go. The problem with the GDMBR is that is has several sections that are more than 50 miles between resupply making riding it as a DNB, even an UDNB just untenable.
 
