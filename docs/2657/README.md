@@ -17,21 +17,20 @@ The daily routine would look something like this:
 There's no work happening on these tours, and no camping. These are just pure fun. This means no need to lug around any of the following:
 
 * Remote office
-* Sleep system
 * Tent
 * Cook system
 * Chair
 
 This makes packing extremely easy:
 
-* Two light-weight panniers with minimal clothes and rain gear
+* One light-weight pannier with minimal clothes, rain gear
+* One light-weight pannier with crash sack, air pillow, and Helium Bivy for naps
 * One anything bag on the fork with repair/emergency stuff, mosquito net
-* One half-frame bag with wallet, keys, snacks, air-pillow, and battery for phone/music
+* One half-frame bag with wallet, keys, snacks, air-pillow, and battery+charger for phone/music
 * One insulated 1-liter tumbler on other fork with long straw
 * One 1-liter water bottle (usually empty)
 * Starlink Mini with two battery packs velcroed
 * Sleeping pad on rear rack to pad Starlink and for naps
-* Helium Bivy on rear rack for emergency shelter and naps
 
 ## Distance
 
