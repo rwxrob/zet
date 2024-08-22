@@ -2220,7 +2220,7 @@
 2284	2024-04-18 15:21:26Z	Monthly rwxrob summary video
 2285	2024-04-18 15:21:26Z	Type in all tmux panes at same time
 2286	2024-04-18 15:21:26Z	Configuring and debugging Calico BGP in Kubernetes
-2287	2024-06-14 03:07:02Z	Fix "cannot evict pod as it would violate pod disruption budget"
+2287	2024-04-18 11:21:26Z	Fix "cannot evict pod as it would violate pod disruption budget"
 2288	2024-04-18 15:21:26Z	Standard argument signature for new Go constructor
 2289	2024-04-18 15:21:26Z	Go Firebase API/SDK uses much simpler design
 2290	2024-04-18 15:21:26Z	
@@ -2564,3 +2564,4 @@
 2652	2024-08-20 11:41:34Z	LOG20240820112230: Tuesday, August 20, 2024, 11:22:30AM EDT
 2653	2024-08-21 07:17:35Z	How to separate work and personal stuff on work laptop
 2654	2024-08-21 20:25:26Z	DNB "credit-card touring" gear list
+2657	2024-08-22 06:20:28Z	Four-day bike tours
