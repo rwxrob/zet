@@ -14,7 +14,7 @@ The daily routine would look something like this:
 
 ## Gear
 
-There's no work happening on these tours, and no camping. These are just pure fun. This means no need to lug around any of the following:
+There's no work happening on these tours, and (mostly) no camping. These are just pure fun. This means no need to lug around any of the following:
 
 * Remote office
 * Tent
@@ -23,10 +23,10 @@ There's no work happening on these tours, and no camping. These are just pure fu
 
 This makes packing extremely easy:
 
-* One light-weight pannier with minimal clothes, rain gear
+* One light-weight pannier with minimal cycling clothes, rain gear (no "street" clothes)
 * One light-weight pannier with crash sack, air pillow, and Helium Bivy for naps
-* One anything bag on the fork with repair/emergency stuff, mosquito net
-* One half-frame bag with wallet, keys, snacks, air-pillow, and battery+charger for phone/music
+* One anything bag on the fork with repair/emergency stuff
+* One half-frame bag with wallet, keys, snacks, net, and battery+charger for phone/music
 * One insulated 1-liter tumbler on other fork with long straw
 * One 1-liter water bottle (usually empty)
 * Starlink Mini with two battery packs velcroed
