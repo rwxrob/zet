@@ -15,25 +15,7 @@ Regularity might seem boring but it's not. The benefits gained from a routine ca
 
 In many ways, this reminds me of the military. Whatever you think about war, the fact that so much is at stake has brought out some very important discoveries about life and how to live it to your maximum potential. Soldiers intensely train to gain their foundation of skills. Then they have to maintain them in the field. Most of their training involves mastering one-best-way to do something. Options kill. When they act they organize the chaos into "operations" with as much consistency as possible. Rules burned into their brains and muscles govern every action from something as simple as not stepping on something that could end up with their leg getting blown off, to how to de-escalate a violent situation with locals, to clearing a very complex urban warfare environment.
 
-So here is my new daily routine which includes 3-5 hours of low-impact activity:
-
-* Wake up and turn on the yoga room space heater
-* Drink coffee and do some writing or coding while room heats
-* Use the restroom
-* Do modified half-primary Ashtanga (40 minutes, strength/flexibility)
-* Drink a liter of water
-* Eat two eggs (soft or hard boiled)
-* Do any cleaning and light chores required for the day
-* Get to where I'm going to work for the day (with laptop)
-* Work until about 3:30pm taking 30 minute lunch and breaks regularly
-* Drink some coffee and take a 30 minute nap (not longer)
-* Ride my bike in zone 2 for 2-4 hours (water only)
-* Drink a green/fruit smoothie after ride (all micronutrients)
-* Eat a big, healthy dinner with family and talk about our day
-* Take a multi-vitamin after dinner
-* Watch something on the TV with my wife and dog and snuggle
-* Eat popcorn
-* Go to bed relatively early to allow making best use of next morning
+* [Weekday routine](../2661)
 
 My health and fitness goals are pretty much the same as always:
 
