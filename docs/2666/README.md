@@ -24,7 +24,7 @@ For example, next time you run into someone who claims to know how to script in 
 : "${K8SAPP_NAMESPACE:=harbor}"
 ```
 
-99% of professionals who have written code on Fortune 500 companies have no fucking clue what that code does or why it is so valuable. That's just one tiny example. Almost none of these "professionals" can even explain what a UNIX filter even is and how to invoke one from the command line while still in Vim.
+99% of professionals who have written code on Fortune 500 companies have no clue what that code does or why it is so valuable. That's just one tiny example. Almost none of these "professionals" can even explain what a UNIX filter even is and how to invoke one from the command line while still in Vim.
 
 In short, it took seeing this shit to want to do something about it. Someone has to. I can't just sit back and relax and watch the UNIX/Linux world crumble into idiocracy. It is actually something I can do something about. It lit a fire under me again to someone organize this stuff in a TikTok world where people might actually learn something along with their cat videos.
 
