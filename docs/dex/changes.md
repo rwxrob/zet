@@ -1,4 +1,4 @@
-* 2024-08-29 09:24:53Z [LOG20240829084837: Thursday, August 29, 2024, 8:48:37AM EDT](../2668)
+* 2024-08-29 10:05:42Z [LOG20240829084837: Thursday, August 29, 2024, 8:48:37AM EDT](../2668)
 * 2024-08-29 08:33:53Z [SKILSTAK book + YouTube shorts/TikTok?](../2666)
 * 2024-08-28 02:05:47Z [Freezing credit](../2667)
 * 2024-08-27 11:17:17Z [LOG20240827080300: Tuesday, August 27, 2024, 8:03:00AM EDT](../2665)
@@ -2572,6 +2572,6 @@
 * 2024-04-18 15:21:26Z [Kubernetes Has Forever Forked YAML Keeping v2](../1212)
 * 2024-04-18 15:21:26Z [Education is a Weapon (Stalin)](../1507)
 * 2024-04-18 15:21:26Z [Do you do code reviews?](../1211)
-* 2024-04-18 11:21:26Z [Proposed "telemetry" in Go will force a fork if approved](../2024)
 * 2024-04-18 11:21:26Z [Rediscovering Solarized Dark theme](../2497)
 * 2024-04-18 11:21:26Z [Fix "cannot evict pod as it would violate pod disruption budget"](../2287)
+* 2024-04-18 11:21:26Z [Proposed "telemetry" in Go will force a fork if approved](../2024)
