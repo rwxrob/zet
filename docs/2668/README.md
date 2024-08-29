@@ -5,7 +5,7 @@
 * People always want something for free without giving anything back
 * People are happy to say "thank you" for getting them huge-paying jobs (but nothing more)
 * Schools are happy to use my stuff for their curriculums without even acknowledging it
-* I have be plagiarized my entire fucking life (Teleport, Nike, etc.)
+* I have be plagiarised my entire fucking life (Teleport, Nike, etc.)
 * People are too fucking lazy and cheap to even watch YouTube and Twitch ads
 * Content creators don't get a fucking dime when ad-blockers stop the ads
 * Content creators wanting to be paid for their time and work are demonized
