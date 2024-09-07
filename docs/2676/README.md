@@ -7,7 +7,7 @@ if [[ "$OSTYPE" =~ ^(darwin|bsd) ]]; then
 	if [[ -z "$1" ]]; then
 		date "+%A, %B %e, %Y, %l:%M:%S%p %Z"
 	else
-		date -v"$*" "+%A, %B %e, %Y, %l:%M:%S%p %Z" 
+		date -v"$*" "+%A, %B %e, %Y, %l:%M:%S%p %Z"
 	fi
 	exit
 fi
