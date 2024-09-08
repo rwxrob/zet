@@ -37,4 +37,12 @@ before:
     - go mod download
 ```
 
-I mean, this project is fucking amazing Go. I need to remember to use it to showcase really amazing Go development practices. I'm learning all kinds of things myself. Apparently, `scoops` is the same thing for Windows. I swear, there is a different new Windows package manager out every month trying to catch up with that Mac has been doing for more than a decade with `brew`. First time I saw someone describe how to use brew on a Linux machine to install their project I laughed out loud. Not any more. I'm even considering using it to distribute my own applications from now on---especially since it can be easily combined with scoops using `goreleaser` as the Twitch CLI team is doing. Very cool stuff.
+I mean, this project is fucking amazing Go. I need to remember to use it to showcase really amazing Go development practices. I'm learning all kinds of things myself. Apparently, `scoops` is the same thing for Windows. I swear, there is a different new Windows package manager out every month trying to catch up with that Mac has been doing for more than a decade with `brew`. First time I saw someone describe how to use brew on a Linux machine to install their project I laughed out loud. Not any more. I'm even considering using it to distribute my own applications from now on---especially since it can be easily combined with scoops using `goreleaser` as the Twitch CLI team is doing. Very cool stuff. They use docker in order to have a consistent build environment as well.
+
+My wife, Doris, just was hanging a painting next to me and accidentally provided a great ass-shot in my minicam while coding on the live stream. It was hilarious.
+
+Loving streaming from the laptop since I can do it anywhere without doxing anything at all. And I suppose having a separate work computer is best even if it is a lot more to carry around with me.
+
+OMG, the `twitch-cli` project has a "mock API" for localized development without an Internet connection. I'm blown away. This is so ideal for livestreaming development of Twitch integrations and API clients.
+
+Ugh, `twitch` command uses Cobra but doesn't have completion, wt actual fuck? Added issue asking <https://github.com/twitchdev/twitch-cli/issues/336>.
