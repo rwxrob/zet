@@ -42,3 +42,4 @@ curl -sS -X GET 'http://localhost:8080/units/users' \
 | jq -r '.data.[].login'
 ```
 
+I just want to repeat how cool this is for doing live Twitch API development stuff because I never have to fear doxing any of my own stuff or even obsessively creating a bunch of pseudo accounts on Twitch to do the things I want. It's still in beta, but this is definitely a great direction for them to go, so long as they also use it themselves, which I'm thinking is the reason they created it in the first place.
