@@ -1,10 +1,12 @@
-# Main categories of livestreaming content
+# 2024 main categories of livestreaming content
 
 I've been working out what is the best livestreaming content for four years at this point and I've (once again) concluded that the following are mine main preferred formats for live content:
 
 ## Over-the-shoulder DJ
 
-* Music from playlists I curate on Spotify and rotate by weekday
+* No talking
+* Music from playlists I curate on Spotify and rotate by weekday (streamed to VOD channel 2)
+* Saved VODs
 * Full screen of whatever I am doing on my computer (usually laptop)
 * Monitor the chat on my phone occasionally
 * Stickers and Blerp on just to keep it fun
