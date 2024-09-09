@@ -1,23 +1,24 @@
-# Conclusions About Home Lab Server
+# Minimal home lab requirements for simulating enterprise HPC ML Ops
 
-I've been conflicted about how much hardware I need and how to deploy it
-in a way that will be the most flexible when testing radically different
-simulations of full IT deployments. For example, Icinga doesn't run well
-in Kubernetes but I need to test talking to it from within a Kubernetes
-application that keeps eyes on PVC and a StorageClass. That means at
-number of VMs just for the simulated Kubernetes cluster and a few for
-the things needed in the environment, "external DNS" (for load
-balancing), and the host systems for Icinga.
+Every technologist needs a home lab, period. Not having one is the difference between getting hired and losing a job opportunity to someone else. I have seen this over and over again in people who lose their jobs and cannot get rehired. It is so significant I have had CTOs tell me directly, "I would hire someone with a home lab over multiple certifications any day."
 
-I thought I could do this with just all the old hardware I have laying
-around, but the realization the "over-provisioning" allows virtual
-machines to share a single CPU has opened my eyes to the possibility of
-a single, multi-core, lots-of-RAM (which can't be over-provisioned)
-machine. Obviously, System76 machines came to mind and are a great
-example of what I need eventually, but the cost is prohibitive and
-possibly something that I could get them to sponsor.
+![home lab meme](home-lab-meme.png)
 
-In the meantime, I'll see how far I can push this 8-core MSI server
-(gaming) tower. Perhaps it will be enough (at least until I can convince
-System76 to sponsor me and at least cut the price of one of their rigs,
-give me one for free, or even pay me and give me one, I can only dream).
+So how do you build the right one for your target tech career?
+
+## HPC ML Ops / SRE / SysAdmin
+
+I think for people who haven't learned all the infrastructure stuff even once they might want to focus on building a hardware lab of collected old hardware. Dell Optiplex is like 150 bucks and very powerful. Building a hardware lab requires power and space, however, and a lot of people in school or living in apartments aren't gonna have that. I did this with a bunch of discarded computers in the garage after I had been married a while. I would keep my eyes peeled for people getting rid of "old" computers and breath new life into them at Linux servers. Keeping them up was part of the challenge.
+
+I've had a few dozen hardware nodes in the past and spent a lot of time futzing with peculiarities that have nothing to do with the hardware we are on at work. It was good to learn PXE boot and networking and switch management and VLAN setup but for my current role those skills are okay to archive and sit on the shelf. 
+## Backend Developer
+
+The main difference between a home lab for someone focused on deploying APIs and backend infrastructure for an enterprise deployment model is hardware. 
+
+
+Ansible deployed Kubernetes clusters:
+
+* prod
+* dev
+* inf
+
