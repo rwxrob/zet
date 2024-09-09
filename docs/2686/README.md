@@ -3,16 +3,16 @@
 I've been working out what is the best livestreaming content for four years at this point and I've (once again) concluded that the following are mine main preferred formats for live content (arranged by how often they happen):
 
 **Stalk my screen**
-No mic, no topic, themed musical playlists, silent VODs (since all audio discarded)
+No mic, no topic, music playlists, muted VODs, sometimes TTS
 
 **IRL POV outdoor adventure cycling** 
-DJI Action 4, Pocket 3 with mic and Belabox
+IRL POV DJI Action 4, Pocket 3 with mic and Belabox, TTS usually
 
 **Studio audience**
-Full studio mic and cam, recording for YouTube, usually tech videos
+Full studio mic and cam, recording for YouTube, usually tech videos, AMA, reactions
 
 **Yoga DJ**
-Old man doing yoga with yoga music on, DJ category means no VODs/clips allowed
+Old man doing yoga with yoga music on, TTS, muted VODs
 
 **Interviews**
 Two good mics, long-form, lots of questions
