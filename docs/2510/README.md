@@ -1,4 +1,21 @@
-# Digital Nomad by Gravel+ Bike
+# Digital Nomad by Gravel+ Bike (DNB)
+
+Fri Sep 13 07:31:19 EDT 2024
+
+I've been attempting to balance work and adventure cycling for over two years now and have concluded that my job is just not conducive to the interruptions. It makes me really sad to write that. If I were single and only had myself to worry about financially and relationship wise I could *totally* do it without a problem at all because I would have unlimited funds to spend on the best hotels and food along the way. I cannot believe what life would be like on my salary without any financial obligations. I have lived a life connected to many other people who need my support in a lot of ways and a DNB life just doesn't work.
+
+What *does* work is working remotely from home and around town at different places and planning the occasional work-free adventure with a beginning and an end. This is how most humans do this sort of thing anyway. There are other advantages to this approach:
+
+* Time with family, friends, and dog especially over the holidays
+* Can be done with others in an organized group
+* Better daily routine when not adventuring
+* Consistent good food options (food options on the road are inconsistent)
+* Cheaper per year, yet more money on adventure
+* Can focus on strength training and building base
+* Allows meticulous planning of the routes instead of "winging it"
+* Allows creation of educational video content and livestreaming
+
+----
 
 Monday, June 3, 2024, 12:52:50AM EDT
 
