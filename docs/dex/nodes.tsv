@@ -16,7 +16,7 @@
 16	2024-04-18 15:21:26Z	Use YAML References and Anchors
 17	2024-04-18 15:21:26Z	Belabox is the Future of IRL Live Streaming
 18	2024-04-18 15:21:26Z	Bonzai is Working, Just Missing Help
-19	2024-04-18 15:21:26Z	Planning IRL Streaming and Digital Nomad Life
+19	2024-06-14 03:07:02Z	Planning IRL Streaming and Digital Nomad Life
 20	2024-04-18 15:21:26Z	Reserving the Name `bon` for Bonzai Helper
 21	2024-04-18 15:21:26Z	Researching Requirements for Customer JupyterHub images
 22	2024-04-18 15:21:26Z	Use `watch` Instead of `-w` with Kubernetes
@@ -2143,7 +2143,6 @@
 2205	2024-04-18 15:21:26Z	Considering return to document-oriented content organization
 2206	2024-04-18 15:21:26Z	testing
 2207	2024-04-18 15:21:26Z	Read before making a kubectl plugin
-2208	2024-04-18 15:21:26Z	Using Cobra in Golang
 2209	2024-04-18 15:21:26Z	Goreleaser will add main.version to golang commands from tags
 2210	2024-04-18 15:21:26Z	Use colon operator in shell/bash to set defaults
 2211	2024-04-18 15:21:26Z	Extending Golang templates with FuncMap
