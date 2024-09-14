@@ -1,0 +1,3 @@
+# Keep your business logic OUT of Go commands
+
+Putting *anything* within the Cobra or other command structure prevents it from being tested simply with Go's internal unit testing infrastructure. In fact, there should be almost nothing in any Cobra command. It should call into the very high-level, testable function in the module package library. Yes, that includes passing arguments as strings or however they were read. Rob Pike specifically recommends using strings for everything until the point at which they are needed to be something else and then parsing them at that point so as to avoid the overhead.
