@@ -1266,7 +1266,7 @@
 1283	2024-04-18 15:21:26Z	Neo Looks Like `tmatrix` But is Better
 1284	2024-04-18 15:21:26Z	Disable Windows Go Executable Console Window
 1285	2024-04-18 15:21:26Z	SUSE Backs RHEL Support
-1286	2024-04-18 15:21:26Z	Installing Harbor Into VM
+1286	2024-06-14 03:07:01Z	Installing Harbor Into VM
 1287	2024-04-18 15:21:26Z	Twit.tv has Subscribers-Only Twitch Chat
 1288	2024-04-18 15:21:26Z	Always Coordinate etcd Upgrades with Kubernetes
 1289	2024-04-18 15:21:26Z	Don't Bother with Kubernetes Until Shell-Native
@@ -2598,3 +2598,4 @@
 2697	2024-09-14 09:44:28Z	Keep Golang commands in cmd, not repo root
 2698	2024-09-14 10:00:03Z	Keep your business logic OUT of Go commands
 2699	2024-09-16 10:05:46Z	Fighting long Covid
+2701	2024-09-16 13:12:38Z	Okay Apple is FULL OF SHIT with SIP!
