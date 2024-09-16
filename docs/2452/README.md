@@ -1,12 +1,12 @@
 # Recipe: green smoothie
 
-* 1 peeled navel orange
-* 2 peeled mandarin oranges
-* 1 apple with skin
+* 3 peeled mandarin oranges
+* 1 apple with skin (no core)
 * 1 cup frozen spinach
 * 1/2 cup frozen strawberries
 * 1/2 cup frozen blueberries
-* 1/2 regular size cucumber with skin
+* 1/4 regular size cucumber with skin (or 1 small cucumber)
+* 2 medium size celery stalks
 * 2 baby carrots (or equiv)
 * 1 lime with pulp (reamed)
 * ice (if wanted, frozen stuff usually enough)
@@ -24,7 +24,7 @@ I have a [40-oz Simply Modern Tumbler](https://amzn.to/3SBJ4Sg) made of stainles
 * Human exposure to Bisphenol A in Europe --- European Environment Agency  
   <https://www.eea.europa.eu/publications/peoples-exposure-to-bisphenol-a>
 
-Note that the frozen stuff will be bulky because of the frozen water around it. It's hard to measure so just estimate.
+Note that the frozen stuff will be bulky because of the frozen water around it. Run frozen stuff under water to remove the ice. Rather than use an actual measuring cup I just use a handful usually.
 
 Don't skip the cucumber. The anti-inflammatory benefits of cucumbers are ridiculously good, not to mention the polyphenols, vitamins, and other stuff.
 
@@ -32,6 +32,4 @@ Don't skip the cucumber. The anti-inflammatory benefits of cucumbers are ridicul
 
 * New Research Reveals Why You Shouldn't Add a Banana to Your Smoothies  
   <https://scitechdaily.com/new-research-reveals-why-you-shouldnt-add-a-banana-to-your-smoothies/>
-
-I may have added vodka (the "healthiest" of the alcohols) to this in the past (for a special occasion) and I have no idea what its effect on the polyphenols was, only its affect on me. 😁
 
