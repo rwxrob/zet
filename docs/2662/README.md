@@ -2,18 +2,16 @@
 
 This is the diet that has always brought me my best body composition. All my nutrients are covered every day. Inevitably, it's a hit-n-miss diet that throws off all my health goals---especially when traveling on the road.
 
-* One cup of coffee + six almonds/walnuts + water
-* Protein smoothie (chocolate protein powder + PB + 1/2 banana)
-* Two eggs (soft/hard) + waffle (light on syrup) + coffee + multivitamin
-* Guac + corn chips (1/2 full-sized avocado + 2 Roma tomatoes + cilantro + scallion)
-* Coffee
-* 1 litre water with electrolyte powder
-* Green smoothie (spinach + strawberries + lime + small apple + 2 mandarin oranges + small carrot + 1/2 cucumber + blueberries)
-* Dinner (whatever family is having, else scrambled eggs bowl: eggs + guac + corn chips)
+* One cup of coffee + handful of pecans + 2 dates
+* [Green smoothie](../2452)
+* Two eggs (soft/hard, not fried)
+* Guac + corn chips
+* Tumeric and ginger tea
+* Protein smoothie
+* 1 litre water with electrolyte powder (if sweating in afternoon)
+* Dinner (whatever family is having, else veggie 3-egg omelette)
 * Popcorn
-* Protein drink (before bed)
-
-I make two meals of guac per day and keep one in the fridge either for the next day or for dinner if family isn't eating together for whatever reason.
+* Protein drink
 
 There are some things that are banished from my lips. Even a little of them changes my body chemistry instantly (making me bloated, slow, and inflamed):
 
