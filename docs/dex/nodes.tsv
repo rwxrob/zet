@@ -2603,4 +2603,4 @@
 2703	2024-09-16 15:11:27Z	Avoid using KEG/Zet for documentation of projects
 2704	2024-09-16 18:12:45Z	Starting the kutil project
 2705	2024-09-16 21:28:33Z	Cobra AND Bonzai command trees?
-2706	2024-09-17 08:05:05Z	Separate high-level functions from commands
+2706	2024-09-17 08:18:40Z	Always separate business logic from tools that use it
