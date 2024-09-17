@@ -62,3 +62,4 @@ func main() {
 
 The beauty of this is that any developer doing that import immediately disambiguates `pkg/cmd` from `cmd` in the way that all Go developers have been trained to, command binaries in `cmd` and importable packages in `pkg`.
 
+Now to create a binary from any exported command under `pkg/cmd` all that is needed is to add a wrapper under `cmd` for that specific command, which can also be organized with the same structure as the command tree itself. Every single command could have it's own individual binary if you wanted, or the root command can be the only thing released but the docs on the `pkg/cmd` will show developers that they can create their own combinations of these exported commands.
