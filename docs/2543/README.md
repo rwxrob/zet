@@ -1,5 +1,9 @@
 # Not moving everything to AsciiDoc (unless publishing)
 
+Update: Tuesday, September 17, 2024,  5:38:12PM EDT
+
+Even more momentum to keep most all the things in basic Markdown, I have it hard-coded into documentation generators and my PEGN parser.
+
 Update: Monday, April 8, 2024, 10:07:28AM EDT
 
 As great as AsciiDoc is, most of the writing I do (and everyone else does) is not for publishing. Therefore, it seems to make more sense to continue to do everything in basic, GFM, or PFM and only convert to AsciiDoc when needed for publishing. I discovered this after many of hours researching the options to have a book and website be from the same content in both markdown and AsciiDoc. The single biggest distinguishing factor was lack of searchability with the AsciiDoc website generators. Lara.js is an option, but clunky and problematic compared to the built-in support for what has become the industry standard: MkDocs.
