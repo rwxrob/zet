@@ -2605,3 +2605,4 @@
 2706	2024-09-17 08:18:40Z	Always separate business logic from tools that use it
 2707	2024-09-17 08:28:31Z	Bonzai and Cobra in same repo?
 2708	2024-09-17 13:21:37Z	Option to install Cobra commands as command trees instead
+2709	2024-09-17 13:48:38Z	Use `pkg/cmd` not `cmd` for Cobra commands
