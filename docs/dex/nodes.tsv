@@ -2607,3 +2607,4 @@
 2708	2024-09-17 14:54:23Z	Install Cobra commands in `pkg/cmd` NOT `cmd`
 2709	2024-09-17 13:48:38Z	Use `pkg/cmd` not `cmd` for Cobra commands
 2710	2024-09-17 15:54:17Z	Even on own stuff use merge/squash for small commits
+2712	2024-09-17 19:56:28Z	Use bitnami Helm charts even if not main
