@@ -2604,5 +2604,5 @@
 2704	2024-09-16 18:12:45Z	Starting the kutil project
 2706	2024-09-17 08:18:40Z	Always separate business logic from tools that use it
 2707	2024-09-17 08:28:31Z	Bonzai and Cobra in same repo?
-2708	2024-09-17 14:50:40Z	Install Cobra commands in `pkg/cmd` NOT `cmd`
+2708	2024-09-17 14:54:23Z	Install Cobra commands in `pkg/cmd` NOT `cmd`
 2709	2024-09-17 13:48:38Z	Use `pkg/cmd` not `cmd` for Cobra commands
