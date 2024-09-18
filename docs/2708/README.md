@@ -20,7 +20,7 @@ Create a `pkg/cmd/kt` subdirectory to contain the `cobra.Cmd`. This follows the 
 mkdir -p pkg/cmd/kt
 ```
 
-Add the exported `kt.Cmd` code into `pkg/cmd/kt/kt.go`
+Add the exported `kt.Cmd` code into `pkg/cmd/kt/cmd.go`
 
 ```go
 package kt
@@ -38,7 +38,7 @@ var Cmd = &cobra.Command{
 
 This can be imported by other stuff as `go get github.com/rwxrob/kt/pkg/cmd/kt`. But we can make this even better. See that stuttering? Let's get rid of it.
 
-Since the `kt` is the top-level command under which all the other sub commands and sub command trees go, we can pull that specific `kt.Cmd` up one level into `pkg/kt/cmd/kt.go` to avoid stuttering in the import lines which become the very elegant `go get github.com/rwxrob/kt/pkg/cmd` and `import kt "github.com/rwxrob/kt/pkg/cmd"`. The rest can keep their own subdirectories into which even more subcommands can be added and everything just makes sense.
+Since the `kt` is the top-level command under which all the other sub commands and sub command trees go, we can pull that specific `kt.Cmd` up one level into `pkg/kt/cmd/cmd.go` to avoid stuttering in the import lines which become the very elegant `go get github.com/rwxrob/kt/pkg/cmd` and `import kt "github.com/rwxrob/kt/pkg/cmd"`. The rest can keep their own subdirectories into which even more subcommands can be added and everything just makes sense.
 
 You might also have to `go get github.com/spf13/cobra` to get it.
 
