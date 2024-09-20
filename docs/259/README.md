@@ -10,7 +10,3 @@ The name said everything I needed to know about that decision.
 Related:
 
 * <https://github.com/twitchdev/twitch-cli>
-
-Tags:
-
-    #golang #coding
