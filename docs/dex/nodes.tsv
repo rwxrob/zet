@@ -589,7 +589,7 @@
 597	2024-04-18 15:21:26Z	"Practical" is an Insult in Academic Circles
 598	2024-04-18 15:21:26Z	Guido Realizes Python Sucks for Most Things
 599	2024-04-18 15:21:26Z	Do Not Depend on `go get` To Install Binaries
-600	2024-04-18 15:21:26Z	A Hacker's Approach to IT Architecture and Homelab
+600	2024-06-14 03:07:02Z	A Hacker's Approach to IT Architecture and Homelab
 601	2024-04-18 15:21:26Z	Zettelkasten Search Approaches
 602	2024-04-18 15:21:26Z	🖼️  Rust crates.io FAIL
 603	2024-04-18 15:21:26Z	Read Interactive Input from User to `stderr`
@@ -2615,3 +2615,4 @@
 2717	2024-09-20 06:49:13Z	LOG20240920062551: Friday, September 20, 2024,  6:25:51AM EDT
 2718	2024-09-20 07:03:45Z	Twitch isn't really for, um, "active" people
 2719	2024-09-20 07:59:32Z	I prefer internal over private scope in Golang
+2720	2024-09-20 16:00:57Z	`homelab init`: researching options
