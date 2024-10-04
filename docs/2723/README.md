@@ -12,9 +12,9 @@
 * `install-containerd`
     * `containerd`
     * `runc`
-    * plugins 
+    * plugins
 * `jq` (already installed)
-* `yq`
+* `yq` (from `apt`)
 
 ## Stuff to learn
 
