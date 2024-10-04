@@ -10,5 +10,15 @@
 * `install-kubeadm`
 * `install-kubelet`
 * `install-containerd`
+    * `containerd`
+    * `runc`
+    * plugins 
 * `jq` (already installed)
 * `yq`
+
+## Stuff to learn
+
+* `podman` (more)
+* `runc`
+* `crictl`
+* `ctr`
