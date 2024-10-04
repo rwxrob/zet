@@ -1,4 +1,4 @@
-* 2024-10-03 20:11:24Z [Notes on installing Kubernetes into home lab](../2723)
+* 2024-10-03 20:58:06Z [Notes on installing Kubernetes into home lab](../2723)
 * 2024-10-02 20:52:18Z [Proxmox post-install stuff](../2722)
 * 2024-10-02 14:52:23Z [Booting into BIOS on any system](../2721)
 * 2024-09-23 18:55:53Z [Restream.io, nice but unnecessary](../1240)
@@ -2616,6 +2616,6 @@
 * 2024-04-18 15:21:26Z [CGO Cross Compilation with `xgo`](../1472)
 * 2024-04-18 15:21:26Z [Joke: i won](../1173)
 * 2024-04-18 15:21:26Z [Change Terminal to 95 x 26 (Font Size 30)](../1470)
-* 2024-04-18 11:21:26Z [Fix "cannot evict pod as it would violate pod disruption budget"](../2287)
 * 2024-04-18 11:21:26Z [Proposed "telemetry" in Go will force a fork if approved](../2024)
 * 2024-04-18 11:21:26Z [Rediscovering Solarized Dark theme](../2497)
+* 2024-04-18 11:21:26Z [Fix "cannot evict pod as it would violate pod disruption budget"](../2287)

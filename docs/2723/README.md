@@ -9,6 +9,7 @@
 * `install-kubectl`
 * `install-kubeadm`
 * `install-kubelet`
+* `install-containerd`
 
 ```
 sudo systemctl enable --now kubelet
