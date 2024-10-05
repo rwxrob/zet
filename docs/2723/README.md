@@ -11,14 +11,30 @@
 * `install-kubelet`
 * `install-containerd`
     * `containerd`
+    * `containerd.service`
     * `runc`
-    * plugins
+    * `/etc/containerd/config.toml`
+    * `/opt/cli/bin` (plugins)
 * `jq` (already installed)
 * `yq` (from `apt`)
+* Duplicate the `k8s-node` for first control plane (`k8s-control-1`)
+
+## Required steps when cloning from `k8s-node` image
+
+* Remove duplicate host keys: `sudo rm /etc/ssh/ssh_host*`
+* Recreate host keys: `sudo ssh-keygen -A`
+* `sudo systemctl restart ssh`
+* Change the host name
 
 ## Stuff to learn
 
+* `cloud-init` (again, and for multiple different OSes)
 * `podman` (more)
 * `runc`
 * `crictl`
 * `ctr`
+* ssh changing to socket in Ubuntu
+
+## Related:
+
+* <https://discourse.ubuntu.com/t/sshd-now-uses-socket-based-activation-ubuntu-22-10-and-later/30189>
