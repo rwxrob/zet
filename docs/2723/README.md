@@ -20,17 +20,18 @@
 
 (forgot to do these before templating)
 
-* Disable swap
-    * `sudo swapoff -a`
-    * `sudo perl -p -i -e  's,^/swap,#/swap,' /etc/fstab`
-    * reboot
-    * `sudo swapon --show`
-* `sudo apt install socat`
+* Rerun `install-kubeadm` (for swap, `socat`, and `ip_forward`)
 
 ## Control planes only
 
 * Duplicate the `k8s-node` control planes (`k8s-control-{1,2,3}`)
 * `install-kubevip`
+
+```
+sudo kubeadm join 192.168.1.200:6443 --token oduj4q.6siu25l52735qp4j \
+        --discovery-token-ca-cert-hash sha256:fa121b53ec5fc9e21ec3abee18e6375399ca93bfbaf91f3f5464840cc8f962e6 \
+        --control-plane
+```
 
 Related:
 
@@ -42,6 +43,11 @@ Related:
 * Recreate host keys: `sudo ssh-keygen -A`
 * `sudo systemctl restart ssh`
 * Change the host name
+
+## Troubleshooting
+
+* "you should never need a `kubeadm reset`
+* If you do remember to regenerate the `kube-vip.yaml`
 
 ## Stuff to learn
 
