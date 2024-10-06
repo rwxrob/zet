@@ -56,3 +56,4 @@ Related:
 ## Related:
 
 * <https://discourse.ubuntu.com/t/sshd-now-uses-socket-based-activation-ubuntu-22-10-and-later/30189>
+* <https://computingforgeeks.com/install-kubernetes-cluster-ubuntu-jammy/?expand_article=1>
