@@ -17,7 +17,24 @@
     * `/opt/cli/bin` (plugins)
 * `jq` (already installed)
 * `yq` (from `apt`)
-* Duplicate the `k8s-node` for first control plane (`k8s-control-1`)
+
+(forgot to do these before templating)
+
+* Disable swap
+    * `sudo swapoff -a`
+    * `sudo perl -p -i -e  's,^/swap,#/swap,' /etc/fstab`
+    * reboot
+    * `sudo swapon --show`
+* `sudo apt install socat`
+
+## Control planes only
+
+* Duplicate the `k8s-node` control planes (`k8s-control-{1,2,3}`)
+* `install-kubevip`
+
+Related:
+
+* Install KubeVIP: <https://kube-vip.io/docs/installation/static/>
 
 ## Required steps when cloning from `k8s-node` image
 
