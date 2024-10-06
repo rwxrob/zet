@@ -51,6 +51,7 @@ Related:
 * `crictl`
 * `ctr`
 * ssh changing to socket in Ubuntu
+* read and understand `kubeadm` phases
 
 ## Related:
 
