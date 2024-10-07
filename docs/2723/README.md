@@ -48,6 +48,8 @@ Related:
 
 * "you should never need a `kubeadm reset`
 * If you do remember to regenerate the `kube-vip.yaml`
+* <https://github.com/kube-vip/kube-vip/issues/684>
+* Because of 1.29 k8s changes, `super-admin.yaml` is needed only on first control plane `kubeadm` call, after that leave as `admin.yaml` in `kube-vip.yaml`
 
 ## Stuff to learn
 
