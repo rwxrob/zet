@@ -28,10 +28,31 @@
 * `install-kubevip`
 
 ```
-sudo kubeadm join 192.168.1.200:6443 --token oduj4q.6siu25l52735qp4j \
-        --discovery-token-ca-cert-hash sha256:fa121b53ec5fc9e21ec3abee18e6375399ca93bfbaf91f3f5464840cc8f962e6 \
+sudo kubeadm init \
+  --control-plane-endpoint 192.168.1.200 \
+  --pod-network-cidr 10.98.0.0/12 \
+  --upload-certs
+```
+
+Copy the join command in the output to save time.
+
+```
+sudo kubeadm join 192.168.1.200:6443 --token lnsp3y.roc52nu49xwswvqq \
+        --discovery-token-ca-cert-hash \
+        sha256:b462f7e4b85217fc8da0b4b7de831912ec0ff440cc69edf8e50886057c1e34c6 \
+        --certificate-key \ 5034f880c08e58644ec9c31302d7213b789a56d0a2b19700b88981a454b13fc3 \
         --control-plane
 ```
+
+(Don't need both, second doesn't have `--control-plane` and `--certificate-key`, otherwise identical.)
+
+Note that CoreDNS will be broken until the CNI is setup
+
+```
+kubectl apply -f https://raw.githubusercontent.com/projectcalico/calico/v3.25.0/manifests/calico.yaml
+```
+
+Or `install-calico` instead.
 
 Related:
 
@@ -50,6 +71,7 @@ Related:
 * If you do remember to regenerate the `kube-vip.yaml`
 * <https://github.com/kube-vip/kube-vip/issues/684>
 * Because of 1.29 k8s changes, `super-admin.yaml` is needed only on first control plane `kubeadm` call, after that leave as `admin.yaml` in `kube-vip.yaml`
+* Secondary control planes for 1.29 need `/etc/kubernetes/pki` copied over
 
 ## Stuff to learn
 

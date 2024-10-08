@@ -1,4 +1,4 @@
-* 2024-10-06 20:31:49Z [Notes on installing Kubernetes into home lab](../2723)
+* 2024-10-07 13:48:24Z [Notes on installing Kubernetes into home lab](../2723)
 * 2024-10-04 19:21:20Z [Only way to safely change TOML value in-line is python](../2724)
 * 2024-10-02 20:52:18Z [Proxmox post-install stuff](../2722)
 * 2024-10-02 14:52:23Z [Booting into BIOS on any system](../2721)
@@ -2617,6 +2617,6 @@
 * 2024-04-18 15:21:26Z [Joke: i won](../1173)
 * 2024-04-18 15:21:26Z [DO NOT USE `sync.Map` in Go!](../1172)
 * 2024-04-18 15:21:26Z [Refresh Gnome Desktop without Reboot](../147)
-* 2024-04-18 11:21:26Z [Proposed "telemetry" in Go will force a fork if approved](../2024)
 * 2024-04-18 11:21:26Z [Rediscovering Solarized Dark theme](../2497)
 * 2024-04-18 11:21:26Z [Fix "cannot evict pod as it would violate pod disruption budget"](../2287)
+* 2024-04-18 11:21:26Z [Proposed "telemetry" in Go will force a fork if approved](../2024)
