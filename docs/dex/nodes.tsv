@@ -22,7 +22,7 @@
 22	2024-04-18 15:21:26Z	Use `watch` Instead of `-w` with Kubernetes
 23	2024-06-14 03:07:02Z	"I didn't know what you guys wanted me to do?"
 24	2024-04-18 15:21:26Z	Global Shell Variables are Good for Learning
-25	2024-04-18 15:21:26Z	Today I Learned About `crictl` and OMG
+25	2024-06-14 03:07:02Z	Today I Learned About `crictl` and OMG
 26	2024-04-18 15:21:26Z	MUDL Pedagogy + 3D Graphics
 27	2024-04-18 15:21:26Z	Pure Go SQLite3 Module
 29	2024-04-18 15:21:26Z	Add sadservers.com to List of Practice Sites
@@ -2620,3 +2620,4 @@
 2722	2024-10-02 20:52:18Z	Proxmox post-install stuff
 2723	2024-10-07 13:48:24Z	Notes on installing Kubernetes into home lab
 2724	2024-10-04 19:21:20Z	Only way to safely change TOML value in-line is python
+2725	2024-10-08 14:13:35Z	Setting up NFS export for k8s storage class
