@@ -22,3 +22,9 @@ Restart NFS
 sudo exportfs -rav
 sudo systemctl restart nfs-kernel-server
 ```
+
+Check on it.
+
+```
+showmount -e nfs-k8s.local
+```
