@@ -1,13 +1,13 @@
 # Setting up NFS export for k8s storage class
 
 ```
-sudo  apt-install -y nfs-kernel-server
+sudo  apt-get install -y nfs-kernel-server
 ```
 
 All the clients will need `nfs-common`.
 
 ```
-sudo  apt-install -y nfs-common
+sudo  apt-get install -y nfs-common
 ```
 
 Create a new raw disk on machine.

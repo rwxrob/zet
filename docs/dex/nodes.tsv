@@ -2620,4 +2620,4 @@
 2722	2024-10-02 20:52:18Z	Proxmox post-install stuff
 2723	2024-10-07 13:48:24Z	Notes on installing Kubernetes into home lab
 2724	2024-10-04 19:21:20Z	Only way to safely change TOML value in-line is python
-2725	2024-10-08 14:41:13Z	Setting up NFS export for k8s storage class
+2725	2024-10-10 11:17:43Z	Setting up NFS export for k8s storage class
