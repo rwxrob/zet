@@ -2622,3 +2622,4 @@
 2724	2024-10-04 19:21:20Z	Only way to safely change TOML value in-line is python
 2725	2024-10-10 11:17:43Z	Setting up NFS export for k8s storage class
 2726	2024-10-11 21:16:33Z	Hashicorp vault uses complete -C
+2727	2024-10-12 13:17:35Z	Use CTRL-d to page through options (instead of tab)
