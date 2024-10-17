@@ -6,3 +6,4 @@
 - Progressive enhancement with `if (nvim)`
 - The `:Inspect` command
 - `:help` syntax highlighting way better, plus spell check disabled
+* Best in class code completion
