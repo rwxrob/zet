@@ -25,6 +25,7 @@ themselves are far greater risk than the muscle-bound people because
 they can permanently damage their joints, you know, like NeoVim
 neophytes.
 
+
 In Yoga and in Vim you want to build stability through strength. People
 who are very flexible think they are amazing because they can hit every
 Yoga pose, but they really are some of the worst Yogis because they have
