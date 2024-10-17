@@ -1,5 +1,6 @@
 # Positive things about NeoVim
 
+* Floating screenkey window (`NStefan002/screenkey.nvim`)
 - Bar/block cursor indicating insert/command mode
 - Lua instead of VimScript (especially for beginners)
 - Ability to leave `~/.vimrc` where it is
