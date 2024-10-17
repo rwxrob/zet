@@ -5,4 +5,4 @@
 - Ability to leave `~/.vimrc` where it is
 - Progressive enhancement with `if (nvim)`
 - The `:Inspect` command
-
+- Reading documentation with `K` looks a lot cleaner (spacing correct)
