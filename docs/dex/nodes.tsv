@@ -121,7 +121,7 @@
 125	2024-04-18 15:21:26Z	Back to Kind for Everything Kubernetes
 126	2024-04-18 15:21:26Z	Please Initial Cap Kubernetes Object Names
 127	2024-04-18 15:21:26Z	Windows Docker Desktop is Torture, Gimme Linux
-128	2024-04-18 15:21:26Z	Bubye Docker, I Prefer Containerd
+128	2024-06-14 03:07:01Z	Bubye Docker, I Prefer Containerd
 129	2024-04-18 15:21:26Z	Trying Not to Live in Linux Network "Past"
 130	2024-04-18 15:21:26Z	Fill Disk as Fast as Possible
 131	2024-04-18 15:21:26Z	Golang: Accept Interfaces, Return Structs
@@ -724,7 +724,7 @@
 734	2024-04-18 15:21:26Z	Kubernetes Demands Skills of a Full IT Department
 735	2024-04-18 15:21:26Z	🖼️  Kernels: Mono, Micro, Hybred
 736	2024-04-18 15:21:26Z	Why not Windows 11?
-737	2024-04-18 15:21:26Z	Usage, Synopsis, Help, or What?
+737	2024-06-14 03:07:02Z	Usage, Synopsis, Help, or What?
 738	2024-04-18 15:21:26Z	The Pareto Rule
 739	2024-04-18 15:21:26Z	Keep SSH from Timing Out and Disconnecting
 740	2024-04-18 15:21:26Z	🖼️  Problems with Your Mouse? Use TMUX and Lynx
@@ -2627,3 +2627,4 @@
 2729	2024-10-19 13:52:00Z	Positive things about NeoVim
 2730	2024-10-19 11:31:55Z	Distributed code book approach to projects and learning
 2731	2024-10-19 14:16:44Z	Open multiple source files at same time for completion
+2732	2024-10-22 12:02:04Z	One reason to use home kit instead of scripts collection
