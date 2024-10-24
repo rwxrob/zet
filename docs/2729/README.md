@@ -1,4 +1,4 @@
-# Positive things about NeoVim
+# Positive things about Neovim
 
 * It's what most people use so easy to collaborate
 * Floating screenkey window (`NStefan002/screenkey.nvim`)
